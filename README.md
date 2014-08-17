@@ -6,6 +6,9 @@
 
 The Issuer Identification Number (IIN), previously known as Bank Identification Number (BIN) is the first six numbers of a credit card. These identify the institution that issued the card to the card holder and provide useful information about the card that can help make your payments flow smarter.
 
+The database is located in lib/data and the gem does not use any third-party API.
+
+
 ## Installation
 
 Add this line to your application's Gemfile:
