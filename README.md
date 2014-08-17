@@ -1,6 +1,10 @@
-# CreditCardBins, a simple Credit Card IIN/BIN lookup Ruby gem.
+# CreditCardBins - A Credit Card IIN/BIN lookup Ruby gem.
 
-TODO: Write a gem description
+[![Build Status](https://secure.travis-ci.org/hugolantaume/credit_card_bins.png?branch=master)](http://travis-ci.org/hugolantaume/credit_card_bins)
+
+The first 6 digits of a credit card number are known as the Issuer Identification Number (IIN), previously known as Bank Identification Number (BIN). These identify the institution that issued the card to the card holder.
+
+The Issuer Identification Number (IIN), previously known as Bank Identification Number (BIN) is the first six numbers of a credit card. These identify the institution that issued the card to the card holder and provide useful information about the card that can help make your payments flow smarter.
 
 ## Installation
 
@@ -16,13 +20,44 @@ Or install it yourself as:
 
     $ gem install credit_card_bins
 
-## Usage
+## How to use CreditCardBins
 
-TODO: Write usage instructions here
+CreditCardBins is designed to make it easy to access a credit card's brand, issuer, type and more.
+
+Examples using string monkey patch
+
+    require 'credit_card_bins'
+
+    '497040'.credit_card_bin_brand #"VISA"
+    '497040'.credit_card_bin_type #"CREDIT"
+    '497040'.credit_card_bin_category #"CLASSIC"
+    '497040'.credit_card_bin_issuer #"LA BANQUE POSTALE"
+    '497040'.credit_card_bin_country #{"alpha_2"=>"FR", "alpha_3"=>"FRA", "name"=>"France"}
+
+Example using the CreditCardBin Class
+
+    require 'credit_card_bins'
+    number = "378282246310005"
+    bin = CreditCardBin.new(number)
+    bin.bin #"378282"
+    bin.brand #"AMERICAN EXPRESS"
+    bin.type #"CREDIT"
+    bin.category #"SMALL CORPORATE"
+    bin.issuer #"AMERICAN EXPRESS COMPANY"
+    bin.country #{"alpha_2"=>"US", "alpha_3"=>"USA", "name"=>"United States"}
+    ---
+    bin.visa? #false
+    bin.amex? #true
+    bin.mastercard? #false
+    ---
+    bin.debit? #false
+    bin.credit? #true
+    bin.prepaid? #false
+
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/credit_card_bins/fork )
+1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
