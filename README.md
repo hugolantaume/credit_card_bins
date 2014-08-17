@@ -24,17 +24,17 @@ CreditCardBins is designed to make it easy to access a credit card's brand, issu
 
 Examples using string monkey patch
 
-    require 'credit_card_bins'
+    require "credit_card_bins"
 
-    '497040'.credit_card_bin_brand #"VISA"
-    '497040'.credit_card_bin_type #"CREDIT"
-    '497040'.credit_card_bin_category #"CLASSIC"
-    '497040'.credit_card_bin_issuer #"LA BANQUE POSTALE"
-    '497040'.credit_card_bin_country #{"alpha_2"=>"FR", "alpha_3"=>"FRA", "name"=>"France"}
+    "497040".credit_card_bin_brand #"VISA"
+    "497040".credit_card_bin_type #"CREDIT"
+    "497040".credit_card_bin_category #"CLASSIC"
+    "497040".credit_card_bin_issuer #"LA BANQUE POSTALE"
+    "497040".credit_card_bin_country #{"alpha_2"=>"FR", "alpha_3"=>"FRA", "name"=>"France"}
 
 Example using the CreditCardBin Class
 
-    require 'credit_card_bins'
+    require "credit_card_bins"
 
     number = "378282246310005"
     bin = CreditCardBin.new(number)
