@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = CreditCardBins::VERSION
   spec.authors       = ["Hugo Lantaume"]
   spec.email         = ["hugolantaume@gmail.com"]
-  spec.summary       = %q{IIN/BIN lookup Ruby gem}
+  spec.summary       = %q{Credit Card IIN/BIN lookup Ruby gem}
   spec.description   = %q{Find out how your customers are paying}
   spec.homepage      = "http://github.com/hugolantaume/credit_card_bins"
   spec.license       = "MIT"
