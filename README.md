@@ -1,4 +1,4 @@
-# CreditCardBins
+# CreditCardBins, a simple Credit Card IIN/BIN lookup Ruby gem.
 
 TODO: Write a gem description
 
