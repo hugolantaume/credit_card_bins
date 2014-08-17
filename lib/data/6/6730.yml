@@ -1,0 +1,41 @@
+---
+'673000':
+  bin: '673000'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'673041':
+  bin: '673041'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'673042':
+  bin: '673042'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'673043':
+  bin: '673043'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

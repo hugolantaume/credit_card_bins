@@ -1,0 +1,31 @@
+---
+'371600':
+  bin: '371600'
+  brand: AMERICAN EXPRESS
+  type: CREDIT
+  category: ''
+  issuer: AMERICAN EXPRESS US
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'371671':
+  bin: '371671'
+  brand: AMERICAN EXPRESS
+  type: CREDIT
+  category: CENTURION
+  issuer: AMERICAN EXPRESS COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'371693':
+  bin: '371693'
+  brand: AMERICAN EXPRESS
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

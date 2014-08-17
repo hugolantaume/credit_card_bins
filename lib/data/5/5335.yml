@@ -1,0 +1,1001 @@
+---
+'533500':
+  bin: '533500'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: MINATO CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533501':
+  bin: '533501'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: OMNI CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533502':
+  bin: '533502'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: MINATO CREDIT CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533503':
+  bin: '533503'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: OMNI CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533504':
+  bin: '533504'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: MINATO CREDIT CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533505':
+  bin: '533505'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: CITI CARDS JAPAN, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533506':
+  bin: '533506'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: CITI CARDS JAPAN, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533507':
+  bin: '533507'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: OMNI CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533508':
+  bin: '533508'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BANK OF SAGA, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533509':
+  bin: '533509'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: CITI CARDS JAPAN, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533510':
+  bin: '533510'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533511':
+  bin: '533511'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533512':
+  bin: '533512'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533513':
+  bin: '533513'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533514':
+  bin: '533514'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533515':
+  bin: '533515'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'533516':
+  bin: '533516'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'533517':
+  bin: '533517'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533518':
+  bin: '533518'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533519':
+  bin: '533519'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533520':
+  bin: '533520'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533521':
+  bin: '533521'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533522':
+  bin: '533522'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'533523':
+  bin: '533523'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'533524':
+  bin: '533524'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533525':
+  bin: '533525'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'533526':
+  bin: '533526'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533527':
+  bin: '533527'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533528':
+  bin: '533528'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533529':
+  bin: '533529'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533530':
+  bin: '533530'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: DOGIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533531':
+  bin: '533531'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: BRE BANK SPOLKA AKCYJNA BRE BANK, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'533532':
+  bin: '533532'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533533':
+  bin: '533533'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: KEY CLIENT CARDS AND SOLUTIONS S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'533534':
+  bin: '533534'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533535':
+  bin: '533535'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: BRE BANK SPOLKA AKCYJNA BRE BANK, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'533536':
+  bin: '533536'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BANCA INTESA
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'533537':
+  bin: '533537'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'533538':
+  bin: '533538'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533539':
+  bin: '533539'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: SHARJAH ISLAMIC BANK PJSC
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'533540':
+  bin: '533540'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: SHINKIN BANK CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533541':
+  bin: '533541'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SHINKIN BANK CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533542':
+  bin: '533542'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SHINKIN BANK CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533543':
+  bin: '533543'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SHINKIN BANK CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533544':
+  bin: '533544'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SHINKIN BANK CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533545':
+  bin: '533545'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SHINKIN BANK CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533546':
+  bin: '533546'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SHINKIN BANK CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533547':
+  bin: '533547'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SHINKIN BANK CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533548':
+  bin: '533548'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SHINKIN BANK CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533549':
+  bin: '533549'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SHINKIN BANK CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533550':
+  bin: '533550'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: SURUGA CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533551':
+  bin: '533551'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SURUGA CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533552':
+  bin: '533552'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SURUGA CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533553':
+  bin: '533553'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SURUGA CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533554':
+  bin: '533554'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SURUGA CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533555':
+  bin: '533555'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SURUGA CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533556':
+  bin: '533556'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SURUGA CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533557':
+  bin: '533557'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SURUGA CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533558':
+  bin: '533558'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SURUGA CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533559':
+  bin: '533559'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SURUGA CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533560':
+  bin: '533560'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: KINKI SHINKIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533561':
+  bin: '533561'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: KINKI SHINKIN CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533562':
+  bin: '533562'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: KINKI SHINKIN CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533563':
+  bin: '533563'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: KINKI SHINKIN CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533564':
+  bin: '533564'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: KINKI SHINKIN CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533565':
+  bin: '533565'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: KINKI SHINKIN CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533566':
+  bin: '533566'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: KINKI SHINKIN CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533567':
+  bin: '533567'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: KINKI SHINKIN CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533568':
+  bin: '533568'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: KINKI SHINKIN CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533569':
+  bin: '533569'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: KINKI SHINKIN CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533570':
+  bin: '533570'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: HOKKOKU CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533571':
+  bin: '533571'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'533572':
+  bin: '533572'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533573':
+  bin: '533573'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533574':
+  bin: '533574'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533575':
+  bin: '533575'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533576':
+  bin: '533576'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533577':
+  bin: '533577'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533578':
+  bin: '533578'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533579':
+  bin: '533579'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'533580':
+  bin: '533580'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533581':
+  bin: '533581'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'533582':
+  bin: '533582'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533583':
+  bin: '533583'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533584':
+  bin: '533584'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533585':
+  bin: '533585'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533586':
+  bin: '533586'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CW
+    alpha_3: CUW
+    name: Curaçao
+'533587':
+  bin: '533587'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'533588':
+  bin: '533588'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533589':
+  bin: '533589'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533590':
+  bin: '533590'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: GUNGIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533591':
+  bin: '533591'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: GUNGIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'533592':
+  bin: '533592'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533593':
+  bin: '533593'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533594':
+  bin: '533594'
+  brand: MASTERCARD
+  type: CREDIT
+  category: NEW WORLD
+  issuer: ZAO RAIFFEISENBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'533595':
+  bin: '533595'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: LLC ICB SOVCOMBANK INVESTMENT COMMERCIAL BANK SO
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'533596':
+  bin: '533596'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533597':
+  bin: '533597'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: VSEOBECNA UVEROVA BANKA, A.S.
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'533598':
+  bin: '533598'
+  brand: MASTERCARD
+  type: CREDIT
+  category: NEW WORLD
+  issuer: EFG EUROBANK ERGASIAS, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'533599':
+  bin: '533599'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BANK RESPUBLIKA OJSC
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan

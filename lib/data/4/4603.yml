@@ -1,0 +1,1001 @@
+---
+'460300':
+  bin: '460300'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460301':
+  bin: '460301'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: CITIBANK ESPANA, S.A.
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'460302':
+  bin: '460302'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: CITICORP
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'460303':
+  bin: '460303'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460304':
+  bin: '460304'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: CITICORP
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'460305':
+  bin: '460305'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460306':
+  bin: '460306'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460307':
+  bin: '460307'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460308':
+  bin: '460308'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK MILLENNIUM SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'460309':
+  bin: '460309'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK MILLENNIUM SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'460310':
+  bin: '460310'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460311':
+  bin: '460311'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460312':
+  bin: '460312'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: OLDENBURGISCHE LANDESBANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'460313':
+  bin: '460313'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ADVANCE BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'460314':
+  bin: '460314'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ADVANCE BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'460315':
+  bin: '460315'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMERZBANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'460316':
+  bin: '460316'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NON-BANKING CREDIT ORGANISATION UNITED SETTLEMENT SYSTEM
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'460317':
+  bin: '460317'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: UNICREDIT BANK CZECH REPUBLIC, A.S.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'460318':
+  bin: '460318'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460319':
+  bin: '460319'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GEAUGA SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460320':
+  bin: '460320'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA INSULAR DE AHORROS DE CANARIAS (LA CAJA DE CANARIAS)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'460321':
+  bin: '460321'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CAJA INSULAR DE AHORROS DE CANARIAS (LA CAJA DE CANARIAS)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'460322':
+  bin: '460322'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CAJA INSULAR DE AHORROS DE CANARIAS (LA CAJA DE CANARIAS)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'460323':
+  bin: '460323'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460324':
+  bin: '460324'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460325':
+  bin: '460325'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460326':
+  bin: '460326'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ISTITUTO PER LE OPERE DI RELIGIONE
+  country:
+    alpha_2: VA
+    alpha_3: VAT
+    name: Holy See (Vatican City State)
+'460327':
+  bin: '460327'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ISTITUTO PER LE OPERE DI RELIGIONE
+  country:
+    alpha_2: VA
+    alpha_3: VAT
+    name: Holy See (Vatican City State)
+'460328':
+  bin: '460328'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460329':
+  bin: '460329'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UNICREDIT BANK SLOVAKIA, A.S.
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'460330':
+  bin: '460330'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANKA KOPER D.D.
+  country:
+    alpha_2: SI
+    alpha_3: SVN
+    name: Slovenia
+'460331':
+  bin: '460331'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: PRIVREDNA BANKA ZAGREB D.D.
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'460332':
+  bin: '460332'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'460333':
+  bin: '460333'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: AUDI SARADAR PRIVATE BANK S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'460334':
+  bin: '460334'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: FINCONSUMO S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'460335':
+  bin: '460335'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SOCIETE GENERALE - SPLITSKA BANKA D.D.
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'460336':
+  bin: '460336'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ERSTE AND STEIERMARKISCHE BANK D.D.
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'460337':
+  bin: '460337'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'460338':
+  bin: '460338'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'460339':
+  bin: '460339'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460340':
+  bin: '460340'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO ESPIRITO SANTO, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'460341':
+  bin: '460341'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ESPIRITO SANTO, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'460342':
+  bin: '460342'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO ESPIRITO SANTO, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'460343':
+  bin: '460343'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460344':
+  bin: '460344'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460345':
+  bin: '460345'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DENIZBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'460346':
+  bin: '460346'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: DENIZBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'460347':
+  bin: '460347'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: DENIZBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'460348':
+  bin: '460348'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO HALIFAX HISPANIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'460349':
+  bin: '460349'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'460350':
+  bin: '460350'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460351':
+  bin: '460351'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460352':
+  bin: '460352'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460353':
+  bin: '460353'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460354':
+  bin: '460354'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460355':
+  bin: '460355'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460356':
+  bin: '460356'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CENTRAL VALLEY COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460357':
+  bin: '460357'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460358':
+  bin: '460358'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: MIDFLORIDA C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460359':
+  bin: '460359'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460360':
+  bin: '460360'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460361':
+  bin: '460361'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460362':
+  bin: '460362'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460363':
+  bin: '460363'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460364':
+  bin: '460364'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460365':
+  bin: '460365'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460366':
+  bin: '460366'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460367':
+  bin: '460367'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460368':
+  bin: '460368'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460369':
+  bin: '460369'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460370':
+  bin: '460370'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460371':
+  bin: '460371'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460372':
+  bin: '460372'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460373':
+  bin: '460373'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460374':
+  bin: '460374'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460375':
+  bin: '460375'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460376':
+  bin: '460376'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460377':
+  bin: '460377'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460378':
+  bin: '460378'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460379':
+  bin: '460379'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460380':
+  bin: '460380'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460381':
+  bin: '460381'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: KERN SCHOOLS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460382':
+  bin: '460382'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460383':
+  bin: '460383'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460384':
+  bin: '460384'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460385':
+  bin: '460385'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460386':
+  bin: '460386'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460387':
+  bin: '460387'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460388':
+  bin: '460388'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460389':
+  bin: '460389'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460390':
+  bin: '460390'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CITIZENS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460391':
+  bin: '460391'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460392':
+  bin: '460392'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460393':
+  bin: '460393'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460394':
+  bin: '460394'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460395':
+  bin: '460395'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460396':
+  bin: '460396'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460397':
+  bin: '460397'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460398':
+  bin: '460398'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460399':
+  bin: '460399'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

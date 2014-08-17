@@ -1,0 +1,1001 @@
+---
+'476000':
+  bin: '476000'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476001':
+  bin: '476001'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DEUTSCHE POSTBANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'476002':
+  bin: '476002'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: HSBC BANK ARGENTINA, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'476003':
+  bin: '476003'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ABN AMRO BANK (COLOMBIA), S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'476004':
+  bin: '476004'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476005':
+  bin: '476005'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476006':
+  bin: '476006'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ABN AMRO BANK (COLOMBIA), S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'476007':
+  bin: '476007'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORDEA BANK POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'476008':
+  bin: '476008'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476009':
+  bin: '476009'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: PJSC UKRSOTSBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'476010':
+  bin: '476010'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'476011':
+  bin: '476011'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAJA RURAL DE ALMERIA Y MALAGA (CAJAMAR)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'476012':
+  bin: '476012'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAJA RURAL DE ALMERIA Y MALAGA (CAJAMAR)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'476013':
+  bin: '476013'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: IMAGE BANK - JSCB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'476014':
+  bin: '476014'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: IMAGE BANK - JSCB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'476015':
+  bin: '476015'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANKMED S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'476016':
+  bin: '476016'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476017':
+  bin: '476017'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO MULTIPLE REPUBLIC BANK (DR), S.A.
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'476018':
+  bin: '476018'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BELIZE BANK, LTD.
+  country:
+    alpha_2: BZ
+    alpha_3: BLZ
+    name: Belize
+'476019':
+  bin: '476019'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: INTERNATIONAL BANK OF AZERBAIJAN
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'476020':
+  bin: '476020'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: SAMSUNG CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'476021':
+  bin: '476021'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SAMSUNG CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'476022':
+  bin: '476022'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476023':
+  bin: '476023'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: OMAN ARAB BANK SAO
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'476024':
+  bin: '476024'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: POSTBANK, N.V.
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'476025':
+  bin: '476025'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE CHILE
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'476026':
+  bin: '476026'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA, CHILE
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'476027':
+  bin: '476027'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476028':
+  bin: '476028'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: FRANSABANK S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'476029':
+  bin: '476029'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: FRANSABANK S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'476030':
+  bin: '476030'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FRANSABANK S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'476031':
+  bin: '476031'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HSBC BANK MIDDLE EAST
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'476032':
+  bin: '476032'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HSBC BANK MIDDLE EAST
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'476033':
+  bin: '476033'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476034':
+  bin: '476034'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ALLIANCE AND LEICESTER PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476035':
+  bin: '476035'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JORDAN ISLAMIC BANK FOR FINANCE AND INVESTMENT
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'476036':
+  bin: '476036'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: OOO RAIFFEISENBANK AUSTRIA
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'476037':
+  bin: '476037'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476038':
+  bin: '476038'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO DE COSTA RICA
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'476039':
+  bin: '476039'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SISTEMA 4B, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'476040':
+  bin: '476040'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'476041':
+  bin: '476041'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SISTEMA 4B, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'476042':
+  bin: '476042'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO ZARAGOZANO S.A. (BANZANO)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'476043':
+  bin: '476043'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476044':
+  bin: '476044'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476045':
+  bin: '476045'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476046':
+  bin: '476046'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476047':
+  bin: '476047'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476048':
+  bin: '476048'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'476049':
+  bin: '476049'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476050':
+  bin: '476050'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476051':
+  bin: '476051'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.
+  country:
+    alpha_2: CK
+    alpha_3: COK
+    name: Cook Islands
+'476052':
+  bin: '476052'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476053':
+  bin: '476053'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'476054':
+  bin: '476054'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'476055':
+  bin: '476055'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'476056':
+  bin: '476056'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'476057':
+  bin: '476057'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'476058':
+  bin: '476058'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'476059':
+  bin: '476059'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'476060':
+  bin: '476060'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: NATIONAL 1ST C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476061':
+  bin: '476061'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476062':
+  bin: '476062'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: BANCO SUDAMERIS PARAGUAY S.A.E.C.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'476063':
+  bin: '476063'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: SHINHAN CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'476064':
+  bin: '476064'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: BANCO DE VENEZUELA, S.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'476065':
+  bin: '476065'
+  brand: VISA
+  type: DEBIT
+  category: PROPRIETARY
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'476066':
+  bin: '476066'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'476067':
+  bin: '476067'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'476068':
+  bin: '476068'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'476069':
+  bin: '476069'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'476070':
+  bin: '476070'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'476071':
+  bin: '476071'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'476072':
+  bin: '476072'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: H AND R BLOCK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476073':
+  bin: '476073'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: DBS BANK (HONG KONG), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'476074':
+  bin: '476074'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476075':
+  bin: '476075'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476076':
+  bin: '476076'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ZAMBIA NATIONAL COMMERCIAL BANK, LTD.
+  country:
+    alpha_2: ZM
+    alpha_3: ZMB
+    name: Zambia
+'476077':
+  bin: '476077'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476078':
+  bin: '476078'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476079':
+  bin: '476079'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'476080':
+  bin: '476080'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476081':
+  bin: '476081'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476082':
+  bin: '476082'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: DEUTSCHE BANK TRUST COMPANY AMERICAS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476083':
+  bin: '476083'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AIG BANK POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'476084':
+  bin: '476084'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476085':
+  bin: '476085'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PT. BANK CIMB NIAGA TBK.
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476086':
+  bin: '476086'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU GAB
+  country:
+    alpha_2: GA
+    alpha_3: GAB
+    name: Gabon
+'476087':
+  bin: '476087'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: UNICREDIT BANK D.D.
+  country:
+    alpha_2: BA
+    alpha_3: BIH
+    name: Bosnia and Herzegovina
+'476088':
+  bin: '476088'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476089':
+  bin: '476089'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476090':
+  bin: '476090'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF CHINA
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'476091':
+  bin: '476091'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANK OF CHINA
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'476092':
+  bin: '476092'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: P.T. BANK NIAGA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'476093':
+  bin: '476093'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CREDIT IMMOBILIER ET HOTELIER
+  country:
+    alpha_2: MA
+    alpha_3: MAR
+    name: Morocco
+'476094':
+  bin: '476094'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANQUE NATIONALE POUR LE DEVELOPPEMENT ECONOMIQUE BNDE
+  country:
+    alpha_2: MA
+    alpha_3: MAR
+    name: Morocco
+'476095':
+  bin: '476095'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO CONTINENTAL DE DESARROLLO, S.A.
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'476096':
+  bin: '476096'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO CONTINENTAL DE DESARROLLO, S.A.
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'476097':
+  bin: '476097'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: DEUTSCHE BANK S.A.E.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'476098':
+  bin: '476098'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'476099':
+  bin: '476099'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: COMMERCIAL BANK OF KUWAIT, S.A.K.
+  country:
+    alpha_2: KW
+    alpha_3: KWT
+    name: Kuwait

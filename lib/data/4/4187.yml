@@ -1,0 +1,1001 @@
+---
+'418700':
+  bin: '418700'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST NATIONAL BANK OF PENNSYLVANIA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418701':
+  bin: '418701'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST NATIONAL BANK OF TENNESSEE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418702':
+  bin: '418702'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: M AND I (MARSHALL AND ILSLEY) BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418703':
+  bin: '418703'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BAR HARBOR BANKING AND TRUST CO.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418704':
+  bin: '418704'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CNB BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418705':
+  bin: '418705'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418706':
+  bin: '418706'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: VOLKSWAGEN BANK USA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418707':
+  bin: '418707'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NEW YORK COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418708':
+  bin: '418708'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418709':
+  bin: '418709'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: UNITED-KINGFIELD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418710':
+  bin: '418710'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: OJSC GUTA BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'418711':
+  bin: '418711'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: OJSC GUTA BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'418712':
+  bin: '418712'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: OJSC GUTA BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'418713':
+  bin: '418713'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JSC IZHCOMBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'418714':
+  bin: '418714'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: JSC IZHCOMBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'418715':
+  bin: '418715'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418716':
+  bin: '418716'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'418717':
+  bin: '418717'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: JSCB METALLURGICAL INVESTMENT BANK OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'418718':
+  bin: '418718'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: JSCB METALLURGICAL INVESTMENT BANK OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'418719':
+  bin: '418719'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: JSCB METALLURGICAL INVESTMENT BANK OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'418720':
+  bin: '418720'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JSCB RUSSIAN LAND BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'418721':
+  bin: '418721'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: JSCB RUSSIAN LAND BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'418722':
+  bin: '418722'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: JSCB RUSSIAN LAND BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'418723':
+  bin: '418723'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CB MEZHREGIONBANK LLC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'418724':
+  bin: '418724'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: CB MEZHREGIONBANK LLC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'418725':
+  bin: '418725'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418726':
+  bin: '418726'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CB MEZHREGIONBANK LLC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'418727':
+  bin: '418727'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PJSC IMEXBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'418728':
+  bin: '418728'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PJSC IMEXBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'418729':
+  bin: '418729'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: PJSC IMEXBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'418730':
+  bin: '418730'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: PJSC IMEXBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'418731':
+  bin: '418731'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418732':
+  bin: '418732'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: CONVERSE BANK CORPORATION
+  country:
+    alpha_2: AM
+    alpha_3: ARM
+    name: Armenia
+'418733':
+  bin: '418733'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AM
+    alpha_3: ARM
+    name: Armenia
+'418734':
+  bin: '418734'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418735':
+  bin: '418735'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418736':
+  bin: '418736'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BIDVEST BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'418737':
+  bin: '418737'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BIDVEST BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'418738':
+  bin: '418738'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: BIDVEST BANK
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'418739':
+  bin: '418739'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: BIDVEST BANK
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'418740':
+  bin: '418740'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SY
+    alpha_3: SYR
+    name: Syrian Arab Republic
+'418741':
+  bin: '418741'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SY
+    alpha_3: SYR
+    name: Syrian Arab Republic
+'418742':
+  bin: '418742'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ACCESS BANK PLC
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'418743':
+  bin: '418743'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ACCESS BANK PLC
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'418744':
+  bin: '418744'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'418745':
+  bin: '418745'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'418746':
+  bin: '418746'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO PANAMENO DE LA VIVIENDA, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'418747':
+  bin: '418747'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418748':
+  bin: '418748'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418749':
+  bin: '418749'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'418750':
+  bin: '418750'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'418751':
+  bin: '418751'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418752':
+  bin: '418752'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418753':
+  bin: '418753'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: CJSC FORA OPPORTUNITY RUSSIAN BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'418754':
+  bin: '418754'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CJSC FORA OPPORTUNITY RUSSIAN BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'418755':
+  bin: '418755'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418756':
+  bin: '418756'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418757':
+  bin: '418757'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'418758':
+  bin: '418758'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'418759':
+  bin: '418759'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'418760':
+  bin: '418760'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CITIBANK INTERNATIONAL PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'418761':
+  bin: '418761'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: UG
+    alpha_3: UGA
+    name: Uganda
+'418762':
+  bin: '418762'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: CM
+    alpha_3: CMR
+    name: Cameroon
+'418763':
+  bin: '418763'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: NATIONAL BANK OF KUWAIT, S.A.K.
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'418764':
+  bin: '418764'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418765':
+  bin: '418765'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418766':
+  bin: '418766'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: NATIONAL BANK OF KUWAIT, S.A.K.
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'418767':
+  bin: '418767'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIONAL BANK OF KUWAIT, S.A.K.
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'418768':
+  bin: '418768'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NATIONAL BANK OF KUWAIT, S.A.K.
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'418769':
+  bin: '418769'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418770':
+  bin: '418770'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418771':
+  bin: '418771'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: LC
+    alpha_3: LCA
+    name: Saint Lucia
+'418772':
+  bin: '418772'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: LC
+    alpha_3: LCA
+    name: Saint Lucia
+'418773':
+  bin: '418773'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418774':
+  bin: '418774'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: STATE TRUST INTERNATIONAL BANK AND TRUST, LTD.
+  country:
+    alpha_2: LC
+    alpha_3: LCA
+    name: Saint Lucia
+'418775':
+  bin: '418775'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418776':
+  bin: '418776'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418777':
+  bin: '418777'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418778':
+  bin: '418778'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418779':
+  bin: '418779'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418780':
+  bin: '418780'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: OPEN-END JSC AGROBANK
+  country:
+    alpha_2: UZ
+    alpha_3: UZB
+    name: Uzbekistan
+'418781':
+  bin: '418781'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: OPEN-END JSC AGROBANK
+  country:
+    alpha_2: UZ
+    alpha_3: UZB
+    name: Uzbekistan
+'418782':
+  bin: '418782'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: OPEN-END JSC AGROBANK
+  country:
+    alpha_2: UZ
+    alpha_3: UZB
+    name: Uzbekistan
+'418783':
+  bin: '418783'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418784':
+  bin: '418784'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418785':
+  bin: '418785'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANQUE REGIONALE DE SOLIDARITE DU SENEGAL (BRS-SENEGAL)
+  country:
+    alpha_2: SN
+    alpha_3: SEN
+    name: Senegal
+'418786':
+  bin: '418786'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418787':
+  bin: '418787'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418788':
+  bin: '418788'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'418789':
+  bin: '418789'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418790':
+  bin: '418790'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418791':
+  bin: '418791'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'418792':
+  bin: '418792'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PK
+    alpha_3: PAK
+    name: Pakistan
+'418793':
+  bin: '418793'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418794':
+  bin: '418794'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418795':
+  bin: '418795'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'418796':
+  bin: '418796'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'418797':
+  bin: '418797'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418798':
+  bin: '418798'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'418799':
+  bin: '418799'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AM
+    alpha_3: ARM
+    name: Armenia

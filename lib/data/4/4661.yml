@@ -1,0 +1,1001 @@
+---
+'466100':
+  bin: '466100'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466101':
+  bin: '466101'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SCOTT C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466102':
+  bin: '466102'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST USA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466103':
+  bin: '466103'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466104':
+  bin: '466104'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: OLD KENT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466105':
+  bin: '466105'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: QUAD CITY BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466106':
+  bin: '466106'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMUNITY STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466107':
+  bin: '466107'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNITED COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466108':
+  bin: '466108'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: COMMUNITY STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466109':
+  bin: '466109'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466110':
+  bin: '466110'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST NATIONAL BANK OF JOLIET
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466111':
+  bin: '466111'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466112':
+  bin: '466112'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466113':
+  bin: '466113'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466114':
+  bin: '466114'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FORUM C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466115':
+  bin: '466115'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466116':
+  bin: '466116'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TEXAS CHAMPION BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466117':
+  bin: '466117'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: KANKAKEE FEDERAL SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466118':
+  bin: '466118'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST NATIONAL BANK OF OMAHA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466119':
+  bin: '466119'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466120':
+  bin: '466120'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: METROBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466121':
+  bin: '466121'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466122':
+  bin: '466122'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466123':
+  bin: '466123'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466124':
+  bin: '466124'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466125':
+  bin: '466125'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FARMERS NATIONAL BANK OF CANFIELD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466126':
+  bin: '466126'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FARMERS BANK AND SAVINGS COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466127':
+  bin: '466127'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466128':
+  bin: '466128'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466129':
+  bin: '466129'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466130':
+  bin: '466130'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: RANDOLPH BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466131':
+  bin: '466131'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466132':
+  bin: '466132'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466133':
+  bin: '466133'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466134':
+  bin: '466134'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466135':
+  bin: '466135'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: IOWA CORPORATE CENTRAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466136':
+  bin: '466136'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CDC F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466137':
+  bin: '466137'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466138':
+  bin: '466138'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466139':
+  bin: '466139'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SECURITY NATIONAL BANK AND TRUST COMPANY OF NORM
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466140':
+  bin: '466140'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466141':
+  bin: '466141'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PNC BANK, NATIONAL ASSOCIATION - CONSUMER CREDIT
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466142':
+  bin: '466142'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: PARDA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466143':
+  bin: '466143'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STAR FINANCIAL CARD SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466144':
+  bin: '466144'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: PROVIDENT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466145':
+  bin: '466145'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ACCESS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466146':
+  bin: '466146'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466147':
+  bin: '466147'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UMB BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466148':
+  bin: '466148'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466149':
+  bin: '466149'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF THE CASCADES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466150':
+  bin: '466150'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GE CAPITAL CONSUMER CARD CO.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466151':
+  bin: '466151'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GE CAPITAL CONSUMER CARD CO.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466152':
+  bin: '466152'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GE CAPITAL CONSUMER CARD CO.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466153':
+  bin: '466153'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GE CAPITAL CONSUMER CARD CO.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466154':
+  bin: '466154'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GE CAPITAL CONSUMER CARD CO.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466155':
+  bin: '466155'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466156':
+  bin: '466156'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466157':
+  bin: '466157'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TLC F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466158':
+  bin: '466158'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466159':
+  bin: '466159'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF THE CASCADES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466160':
+  bin: '466160'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466161':
+  bin: '466161'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466162':
+  bin: '466162'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BA MERCHANT SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466163':
+  bin: '466163'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: TELESIS COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466164':
+  bin: '466164'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PACIFIC NORTHWEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466165':
+  bin: '466165'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: CITIZENS NATIONAL BANK OF WISNER
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466166':
+  bin: '466166'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: GREAT BASIN BANK OF NEVADA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466167':
+  bin: '466167'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NEVADA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466168':
+  bin: '466168'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANC ONE POS SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466169':
+  bin: '466169'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: TOWN NORTH BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466170':
+  bin: '466170'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466171':
+  bin: '466171'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466172':
+  bin: '466172'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466173':
+  bin: '466173'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK OF OMAHA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466174':
+  bin: '466174'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: FIRST NATIONAL BANK OF OMAHA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466175':
+  bin: '466175'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PEOPLES ADVANTAGE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466176':
+  bin: '466176'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANKERS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466177':
+  bin: '466177'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMPASS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466178':
+  bin: '466178'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: UNION PLANTERS BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466179':
+  bin: '466179'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466180':
+  bin: '466180'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAROLINA FIRST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466181':
+  bin: '466181'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COASTAL COMMUNITY AND TEACHERS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466182':
+  bin: '466182'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466183':
+  bin: '466183'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466184':
+  bin: '466184'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIRST-CITIZENS BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466185':
+  bin: '466185'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST INTERSTATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466186':
+  bin: '466186'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SEACOAST NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466187':
+  bin: '466187'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ALLEGACY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466188':
+  bin: '466188'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466189':
+  bin: '466189'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466190':
+  bin: '466190'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: YOLO F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466191':
+  bin: '466191'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIA CARD SERVICES, NATIONAL ASSOCIATION (2)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466192':
+  bin: '466192'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF RICHMOND, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466193':
+  bin: '466193'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WESTSTAR C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466194':
+  bin: '466194'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466195':
+  bin: '466195'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466196':
+  bin: '466196'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466197':
+  bin: '466197'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NATIONAL BANK OF SOUTHERN CALIFORNIA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466198':
+  bin: '466198'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: PACIFIC ACH., INC. (DBA ATM AMERICA)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'466199':
+  bin: '466199'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

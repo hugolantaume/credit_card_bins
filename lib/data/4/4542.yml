@@ -1,0 +1,1001 @@
+---
+'454200':
+  bin: '454200'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DE BOGOTA
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'454201':
+  bin: '454201'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454202':
+  bin: '454202'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454203':
+  bin: '454203'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454204':
+  bin: '454204'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454205':
+  bin: '454205'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: RESONA BANK, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454206':
+  bin: '454206'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454207':
+  bin: '454207'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454208':
+  bin: '454208'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454209':
+  bin: '454209'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454210':
+  bin: '454210'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454211':
+  bin: '454211'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454212':
+  bin: '454212'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454213':
+  bin: '454213'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454214':
+  bin: '454214'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454215':
+  bin: '454215'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454216':
+  bin: '454216'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454217':
+  bin: '454217'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454218':
+  bin: '454218'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454219':
+  bin: '454219'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454220':
+  bin: '454220'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454221':
+  bin: '454221'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454222':
+  bin: '454222'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454223':
+  bin: '454223'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454224':
+  bin: '454224'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454225':
+  bin: '454225'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454226':
+  bin: '454226'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454227':
+  bin: '454227'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454228':
+  bin: '454228'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454229':
+  bin: '454229'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454230':
+  bin: '454230'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454231':
+  bin: '454231'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454232':
+  bin: '454232'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454233':
+  bin: '454233'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454234':
+  bin: '454234'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454235':
+  bin: '454235'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454236':
+  bin: '454236'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454237':
+  bin: '454237'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454238':
+  bin: '454238'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454239':
+  bin: '454239'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454240':
+  bin: '454240'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454241':
+  bin: '454241'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454242':
+  bin: '454242'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454243':
+  bin: '454243'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454244':
+  bin: '454244'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454245':
+  bin: '454245'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454246':
+  bin: '454246'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454247':
+  bin: '454247'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454248':
+  bin: '454248'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454249':
+  bin: '454249'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454250':
+  bin: '454250'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454251':
+  bin: '454251'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454252':
+  bin: '454252'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454253':
+  bin: '454253'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454254':
+  bin: '454254'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454255':
+  bin: '454255'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454256':
+  bin: '454256'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454257':
+  bin: '454257'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454258':
+  bin: '454258'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454259':
+  bin: '454259'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454260':
+  bin: '454260'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454261':
+  bin: '454261'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454262':
+  bin: '454262'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454263':
+  bin: '454263'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454264':
+  bin: '454264'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454265':
+  bin: '454265'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454266':
+  bin: '454266'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454267':
+  bin: '454267'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454268':
+  bin: '454268'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454269':
+  bin: '454269'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454270':
+  bin: '454270'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454271':
+  bin: '454271'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454272':
+  bin: '454272'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454273':
+  bin: '454273'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454274':
+  bin: '454274'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454275':
+  bin: '454275'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454276':
+  bin: '454276'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454277':
+  bin: '454277'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454278':
+  bin: '454278'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454279':
+  bin: '454279'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454280':
+  bin: '454280'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454281':
+  bin: '454281'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454282':
+  bin: '454282'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454283':
+  bin: '454283'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454284':
+  bin: '454284'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454285':
+  bin: '454285'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454286':
+  bin: '454286'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454287':
+  bin: '454287'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454288':
+  bin: '454288'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454289':
+  bin: '454289'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454290':
+  bin: '454290'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454291':
+  bin: '454291'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454292':
+  bin: '454292'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454293':
+  bin: '454293'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454294':
+  bin: '454294'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454295':
+  bin: '454295'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454296':
+  bin: '454296'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454297':
+  bin: '454297'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454298':
+  bin: '454298'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454299':
+  bin: '454299'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan

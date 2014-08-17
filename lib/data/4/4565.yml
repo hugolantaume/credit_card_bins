@@ -1,0 +1,1001 @@
+---
+'456500':
+  bin: '456500'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCA CATALANA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'456501':
+  bin: '456501'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UNO-E BANK, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'456502':
+  bin: '456502'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'456503':
+  bin: '456503'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'456504':
+  bin: '456504'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ABN AMRO BANK (CHILE)
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'456505':
+  bin: '456505'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ABN AMRO BANK (CHILE)
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'456506':
+  bin: '456506'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ABN AMRO BANK (CHILE)
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'456507':
+  bin: '456507'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: TURKIYE GARANTI BANKASI A. S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'456508':
+  bin: '456508'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'456509':
+  bin: '456509'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DEL PICHINCHA, C.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'456510':
+  bin: '456510'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO DEL PICHINCHA, C.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'456511':
+  bin: '456511'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO LA PREVISORA
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'456512':
+  bin: '456512'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DEL PICHINCHA, C.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'456513':
+  bin: '456513'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE SANTA CRUZ, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'456514':
+  bin: '456514'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DE LA PROVINCIA DE SANTA CRUZ, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'456515':
+  bin: '456515'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NATIONAL BANK TRUST OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'456516':
+  bin: '456516'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NATIONAL BANK TRUST OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'456517':
+  bin: '456517'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456518':
+  bin: '456518'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AKRON FIREFIGHTERS' CREDIT UNION, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456519':
+  bin: '456519'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'456520':
+  bin: '456520'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'456521':
+  bin: '456521'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF CLEVELAND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456522':
+  bin: '456522'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO MERCANTIL DE COLOMBIA
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'456523':
+  bin: '456523'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NATIONAL BANK OF ABU DHABI
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'456524':
+  bin: '456524'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NATIONAL BANK OF ABU DHABI
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'456525':
+  bin: '456525'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: QATAR ISLAMIC BANK (S.A.Q.)
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'456526':
+  bin: '456526'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: QATAR ISLAMIC BANK (S.A.Q.)
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'456527':
+  bin: '456527'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456528':
+  bin: '456528'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456529':
+  bin: '456529'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO STANDARD CHARTERED
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456530':
+  bin: '456530'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ROSPROMBANK CB ROSSIYSKY PROMYISHLENNY BANK ROSPROMBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'456531':
+  bin: '456531'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANCO SANTANDER USA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456532':
+  bin: '456532'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456533':
+  bin: '456533'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: NATIONAL BANK OF ABU DHABI
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456534':
+  bin: '456534'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: NATIONAL BANK OF ABU DHABI
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456535':
+  bin: '456535'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AHORROS PARAGUAYOS, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'456536':
+  bin: '456536'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'456537':
+  bin: '456537'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456538':
+  bin: '456538'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'456539':
+  bin: '456539'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SANTANDER CONSUMER BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'456540':
+  bin: '456540'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VENTAS INTERNACIONALES, S.A. DE C.V.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'456541':
+  bin: '456541'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VENTAS INTERNACIONALES, S.A. DE C.V.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'456542':
+  bin: '456542'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ICCREA BANCA S.P.A. - ISTITUTO CENTRALE DEL CREDITO COOPERAT
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'456543':
+  bin: '456543'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BENDIGO AND ADELAIDE BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'456544':
+  bin: '456544'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ROSPROMBANK CB ROSSIYSKY PROMYISHLENNY BANK ROSPROMBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'456545':
+  bin: '456545'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: RBC ROYAL BANK (JAMAICA), LTD.
+  country:
+    alpha_2: JM
+    alpha_3: JAM
+    name: Jamaica
+'456546':
+  bin: '456546'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'456547':
+  bin: '456547'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO CITIBANK (PANAMA), S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'456548':
+  bin: '456548'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO CITIBANK (PANAMA), S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'456549':
+  bin: '456549'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HELLENIC BANK, LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'456550':
+  bin: '456550'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: PROMOCION Y OPERACION, S.A. DE C.V.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'456551':
+  bin: '456551'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO ESPANOL DE CREDITO S.A. (BANESTO)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'456552':
+  bin: '456552'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: C M T F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456553':
+  bin: '456553'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRSTRAND BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'456554':
+  bin: '456554'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456555':
+  bin: '456555'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'456556':
+  bin: '456556'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456557':
+  bin: '456557'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456558':
+  bin: '456558'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'456559':
+  bin: '456559'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'456560':
+  bin: '456560'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'456561':
+  bin: '456561'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CORP BANCA USA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456562':
+  bin: '456562'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CORP BANCA USA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456563':
+  bin: '456563'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CORP BANCA USA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456564':
+  bin: '456564'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO INDUSTRIAL, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'456565':
+  bin: '456565'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NUEVO BANCO INDUSTRIAL DE AZUL, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'456566':
+  bin: '456566'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO INDUSTRIAL, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'456567':
+  bin: '456567'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456568':
+  bin: '456568'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456569':
+  bin: '456569'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: MERRICK BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456570':
+  bin: '456570'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: APPLE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456571':
+  bin: '456571'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456572':
+  bin: '456572'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456573':
+  bin: '456573'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456574':
+  bin: '456574'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456575':
+  bin: '456575'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST FINANCIAL BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456576':
+  bin: '456576'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456577':
+  bin: '456577'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456578':
+  bin: '456578'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456579':
+  bin: '456579'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO EMPRESARIO DE TUCUMAN COOPERATIVO LIMITADO
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'456580':
+  bin: '456580'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO EMPRESARIO DE TUCUMAN COOPERATIVO LIMITADO
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'456581':
+  bin: '456581'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO EMPRESARIO DE TUCUMAN COOPERATIVO LIMITADO
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'456582':
+  bin: '456582'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BERSA (BANCO DE ENTRE RIOS S.A.)
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'456583':
+  bin: '456583'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BERSA (BANCO DE ENTRE RIOS S.A.)
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'456584':
+  bin: '456584'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BERSA (BANCO DE ENTRE RIOS S.A.)
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'456585':
+  bin: '456585'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MR
+    alpha_3: MRT
+    name: Mauritania
+'456586':
+  bin: '456586'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MR
+    alpha_3: MRT
+    name: Mauritania
+'456587':
+  bin: '456587'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'456588':
+  bin: '456588'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'456589':
+  bin: '456589'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO COMERCIAL DE TRES ARROYOS
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'456590':
+  bin: '456590'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'456591':
+  bin: '456591'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO COMERCIAL ISRAELITA, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'456592':
+  bin: '456592'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO COMERCIAL ISRAELITA, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'456593':
+  bin: '456593'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'456594':
+  bin: '456594'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'456595':
+  bin: '456595'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'456596':
+  bin: '456596'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UG
+    alpha_3: UGA
+    name: Uganda
+'456597':
+  bin: '456597'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'456598':
+  bin: '456598'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: UNITED OVERSEAS BANK, LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'456599':
+  bin: '456599'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: UNITED OVERSEAS BANK, LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore

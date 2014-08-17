@@ -1,0 +1,901 @@
+---
+'639000':
+  bin: '639000'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: NATIONWIDE BUILDING SOCIETY
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'639001':
+  bin: '639001'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: TURKIYE HALK BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'639002':
+  bin: '639002'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: SBERBANK OF RUSSIA
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'639004':
+  bin: '639004'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'639005':
+  bin: '639005'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'639009':
+  bin: '639009'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'639010':
+  bin: '639010'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'639012':
+  bin: '639012'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'639013':
+  bin: '639013'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'639014':
+  bin: '639014'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639015':
+  bin: '639015'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639016':
+  bin: '639016'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639017':
+  bin: '639017'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639018':
+  bin: '639018'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639019':
+  bin: '639019'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639020':
+  bin: '639020'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639021':
+  bin: '639021'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639022':
+  bin: '639022'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639023':
+  bin: '639023'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639024':
+  bin: '639024'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639026':
+  bin: '639026'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639027':
+  bin: '639027'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'639028':
+  bin: '639028'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639029':
+  bin: '639029'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639030':
+  bin: '639030'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639031':
+  bin: '639031'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639032':
+  bin: '639032'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'639033':
+  bin: '639033'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639034':
+  bin: '639034'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639035':
+  bin: '639035'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'639036':
+  bin: '639036'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639037':
+  bin: '639037'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639038':
+  bin: '639038'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639039':
+  bin: '639039'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639040':
+  bin: '639040'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639041':
+  bin: '639041'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639042':
+  bin: '639042'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639043':
+  bin: '639043'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639044':
+  bin: '639044'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639045':
+  bin: '639045'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639046':
+  bin: '639046'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639047':
+  bin: '639047'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639048':
+  bin: '639048'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639049':
+  bin: '639049'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639050':
+  bin: '639050'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639051':
+  bin: '639051'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639052':
+  bin: '639052'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639053':
+  bin: '639053'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639054':
+  bin: '639054'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639055':
+  bin: '639055'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639056':
+  bin: '639056'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639057':
+  bin: '639057'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639058':
+  bin: '639058'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639059':
+  bin: '639059'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639060':
+  bin: '639060'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639061':
+  bin: '639061'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639062':
+  bin: '639062'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639063':
+  bin: '639063'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639064':
+  bin: '639064'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639065':
+  bin: '639065'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639066':
+  bin: '639066'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639067':
+  bin: '639067'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639068':
+  bin: '639068'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639070':
+  bin: '639070'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639071':
+  bin: '639071'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639072':
+  bin: '639072'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639073':
+  bin: '639073'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639074':
+  bin: '639074'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639075':
+  bin: '639075'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639076':
+  bin: '639076'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639077':
+  bin: '639077'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639078':
+  bin: '639078'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639079':
+  bin: '639079'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639080':
+  bin: '639080'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639081':
+  bin: '639081'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639082':
+  bin: '639082'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639083':
+  bin: '639083'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639084':
+  bin: '639084'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639085':
+  bin: '639085'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639086':
+  bin: '639086'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639087':
+  bin: '639087'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639088':
+  bin: '639088'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639089':
+  bin: '639089'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639090':
+  bin: '639090'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639092':
+  bin: '639092'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639095':
+  bin: '639095'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'639096':
+  bin: '639096'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'639097':
+  bin: '639097'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'639098':
+  bin: '639098'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'639099':
+  bin: '639099'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece

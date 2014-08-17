@@ -1,0 +1,1001 @@
+---
+'433000':
+  bin: '433000'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CAIXA ECONOMICA FEDERAL
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'433001':
+  bin: '433001'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: STANDARD BANK OF SOUTH AFRICA, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'433002':
+  bin: '433002'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: STANDARD BANK OF SOUTH AFRICA, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'433003':
+  bin: '433003'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ZB BANK, LTD.
+  country:
+    alpha_2: ZW
+    alpha_3: ZWE
+    name: Zimbabwe
+'433004':
+  bin: '433004'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ZB BANK, LTD.
+  country:
+    alpha_2: ZW
+    alpha_3: ZWE
+    name: Zimbabwe
+'433005':
+  bin: '433005'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433006':
+  bin: '433006'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ASSOCIATED C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433007':
+  bin: '433007'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CREDIT LIBANAIS S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'433008':
+  bin: '433008'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDIT LIBANAIS S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'433009':
+  bin: '433009'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: CREDIT LIBANAIS S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'433010':
+  bin: '433010'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT LIBANAIS S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'433011':
+  bin: '433011'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'433012':
+  bin: '433012'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433013':
+  bin: '433013'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PRAIRIE STATE BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433014':
+  bin: '433014'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CENTRA BANK, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433015':
+  bin: '433015'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433016':
+  bin: '433016'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MERRILL MERCHANTS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433017':
+  bin: '433017'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CJSC CITIBANK KAZAKHSTAN
+  country:
+    alpha_2: KZ
+    alpha_3: KAZ
+    name: Kazakhstan
+'433018':
+  bin: '433018'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433019':
+  bin: '433019'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CJSC CITIBANK KAZAKHSTAN
+  country:
+    alpha_2: KZ
+    alpha_3: KAZ
+    name: Kazakhstan
+'433020':
+  bin: '433020'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433021':
+  bin: '433021'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CJSC CITIBANK KAZAKHSTAN
+  country:
+    alpha_2: KZ
+    alpha_3: KAZ
+    name: Kazakhstan
+'433022':
+  bin: '433022'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SOCIETE GENERALE DE BANQUES AU CAMEROUN
+  country:
+    alpha_2: CM
+    alpha_3: CMR
+    name: Cameroon
+'433023':
+  bin: '433023'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAIXA ECONOMICA FEDERAL
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'433024':
+  bin: '433024'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAIXA ECONOMICA FEDERAL
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'433025':
+  bin: '433025'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ABU DHABI COMMERCIAL BANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'433026':
+  bin: '433026'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ABU DHABI COMMERCIAL BANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'433027':
+  bin: '433027'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433028':
+  bin: '433028'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: HYUNDAICARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'433029':
+  bin: '433029'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANKPOZITIV KAZAKHSTAN JSC
+  country:
+    alpha_2: KZ
+    alpha_3: KAZ
+    name: Kazakhstan
+'433030':
+  bin: '433030'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANKPOZITIV KAZAKHSTAN JSC
+  country:
+    alpha_2: KZ
+    alpha_3: KAZ
+    name: Kazakhstan
+'433031':
+  bin: '433031'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANKPOZITIV KAZAKHSTAN JSC
+  country:
+    alpha_2: KZ
+    alpha_3: KAZ
+    name: Kazakhstan
+'433032':
+  bin: '433032'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433033':
+  bin: '433033'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: AHLI BANK Q.S.C.
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'433034':
+  bin: '433034'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AHLI BANK Q.S.C.
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'433035':
+  bin: '433035'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PRAIRIE STATE BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433036':
+  bin: '433036'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MAIN STREET BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433037':
+  bin: '433037'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433038':
+  bin: '433038'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: METROPOLITAN NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433039':
+  bin: '433039'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CREDIT UNION 1
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433040':
+  bin: '433040'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BUCKS COUNTY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433041':
+  bin: '433041'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GLENS FALLS NATIONAL BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433042':
+  bin: '433042'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ABBYBANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433043':
+  bin: '433043'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CENTRA BANK, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433044':
+  bin: '433044'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MID AMERICA BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433045':
+  bin: '433045'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: FLORIDA CAPITAL BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433046':
+  bin: '433046'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433047':
+  bin: '433047'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COVANTAGE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433048':
+  bin: '433048'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433049':
+  bin: '433049'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: TRI CITY NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433050':
+  bin: '433050'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: MERRIMACK VALLEY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433051':
+  bin: '433051'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WILDFIRE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433052':
+  bin: '433052'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433053':
+  bin: '433053'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: STILLMAN BANCCORP, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433054':
+  bin: '433054'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: OLD PLANK TRAIL COMMUNITY BANK, NATIONALASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433055':
+  bin: '433055'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CNB BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433056':
+  bin: '433056'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CNB BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433057':
+  bin: '433057'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: CNB BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433058':
+  bin: '433058'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: COMMUNITY BANK-WHEATON/ GLEN ELLYN
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433059':
+  bin: '433059'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: CLEVELAND STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433060':
+  bin: '433060'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433061':
+  bin: '433061'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: PURDUE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433062':
+  bin: '433062'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PURDUE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433063':
+  bin: '433063'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: UTAH COMMUNITY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433064':
+  bin: '433064'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MAINSOURCE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433065':
+  bin: '433065'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COLUMBUS BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433066':
+  bin: '433066'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MERRICK BANK CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433067':
+  bin: '433067'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CITIZENS BANK OF RHODE ISLAND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433068':
+  bin: '433068'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAIXA ECONOMICA FEDERAL
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'433069':
+  bin: '433069'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: TECHNOLOGY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433070':
+  bin: '433070'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433071':
+  bin: '433071'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CHARTWAY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433072':
+  bin: '433072'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433073':
+  bin: '433073'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HERGET BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433074':
+  bin: '433074'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: HERGET BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433075':
+  bin: '433075'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: KEARNEY TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433076':
+  bin: '433076'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: KEARNEY TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433077':
+  bin: '433077'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433078':
+  bin: '433078'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433079':
+  bin: '433079'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: CENTRAL NATIONAL BANK AND TRUST CO., OF ENID
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433080':
+  bin: '433080'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAPITAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433081':
+  bin: '433081'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FARMERS AND MERCHANTS BANK OF LONG BEACH
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433082':
+  bin: '433082'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433083':
+  bin: '433083'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: UNIVERSAL CITY STUDIOS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433084':
+  bin: '433084'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433085':
+  bin: '433085'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: TD BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433086':
+  bin: '433086'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CAIXA ECONOMICA FEDERAL
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'433087':
+  bin: '433087'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433088':
+  bin: '433088'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MISSISSIPPI NATIONAL GUARD F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433089':
+  bin: '433089'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MANVILLE AREA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433090':
+  bin: '433090'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: VALLEY BANK OF COMMERCE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433091':
+  bin: '433091'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: LONG BEACH FIREMEN'S C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433092':
+  bin: '433092'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433093':
+  bin: '433093'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST COMMONWEALTH F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433094':
+  bin: '433094'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: IDAHO INDEPENDENT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433095':
+  bin: '433095'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SOUTHWEST MISSOURI C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433096':
+  bin: '433096'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SHARONVIEW F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433097':
+  bin: '433097'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST CALIFORNIA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433098':
+  bin: '433098'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MEMBERS ALLIANCE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'433099':
+  bin: '433099'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: INDEPENDENT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

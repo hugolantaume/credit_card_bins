@@ -1,0 +1,81 @@
+---
+'633300':
+  bin: '633300'
+  brand: SWITCH/MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: HSBC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'633301':
+  bin: '633301'
+  brand: SWITCH/MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: YORKSHIRE BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'633302':
+  bin: '633302'
+  brand: MAESTRO
+  type: ''
+  category: DEBIT
+  issuer: HALIFAX BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'633303':
+  bin: '633303'
+  brand: SWITCH/MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: HALIFAX
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'633304':
+  bin: '633304'
+  brand: SWITCH/MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'633305':
+  bin: '633305'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: HALIFAX PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'633311':
+  bin: '633311'
+  brand: MAESTRO
+  type: ''
+  category: DEBIT
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'633312':
+  bin: '633312'
+  brand: SWITCH/MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: HALIFAX
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom

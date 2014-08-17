@@ -1,0 +1,1001 @@
+---
+'454100':
+  bin: '454100'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'454101':
+  bin: '454101'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: LOMBARD NATWEST BANK, LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'454102':
+  bin: '454102'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ENTREPRISE DES POSTES ET TELECOMMUNICATIONS
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'454103':
+  bin: '454103'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF SCOTLAND PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'454104':
+  bin: '454104'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO INTERNACIONAL INTERBANK, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'454105':
+  bin: '454105'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NORISBANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'454106':
+  bin: '454106'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HELM BANK, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'454107':
+  bin: '454107'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: STANDARD CHARTERED BANK INDIA
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'454108':
+  bin: '454108'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SKANDINAVISKA ENSKILDA BANKEN AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'454109':
+  bin: '454109'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SKANDINAVISKA ENSKILDA BANKEN AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'454110':
+  bin: '454110'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454111':
+  bin: '454111'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454112':
+  bin: '454112'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454113':
+  bin: '454113'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454114':
+  bin: '454114'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454115':
+  bin: '454115'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454116':
+  bin: '454116'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454117':
+  bin: '454117'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454118':
+  bin: '454118'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454119':
+  bin: '454119'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454120':
+  bin: '454120'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454121':
+  bin: '454121'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454122':
+  bin: '454122'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454123':
+  bin: '454123'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454124':
+  bin: '454124'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454125':
+  bin: '454125'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454126':
+  bin: '454126'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454127':
+  bin: '454127'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454128':
+  bin: '454128'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454129':
+  bin: '454129'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454130':
+  bin: '454130'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454131':
+  bin: '454131'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454132':
+  bin: '454132'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454133':
+  bin: '454133'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454134':
+  bin: '454134'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE VENEZUELA, S.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'454135':
+  bin: '454135'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE VENEZUELA, S.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'454136':
+  bin: '454136'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO DE VENEZUELA, S.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'454137':
+  bin: '454137'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DEL CARIBE C.A., BANCO UNIVERS.A.L.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'454138':
+  bin: '454138'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DEL CARIBE S.A.C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'454139':
+  bin: '454139'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO DEL CARIBE C.A., BANCO UNIVERS.A.L.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'454140':
+  bin: '454140'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454141':
+  bin: '454141'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454142':
+  bin: '454142'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454143':
+  bin: '454143'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454144':
+  bin: '454144'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANQUE INTERNATIONALE ARABE DE TUNISIE
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'454145':
+  bin: '454145'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO LINIERS SUDAMERICANO, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'454146':
+  bin: '454146'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO LINIERS SUDAMERICANO, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'454147':
+  bin: '454147'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO LINIERS SUDAMERICANO, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'454148':
+  bin: '454148'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO CREDICOOP COOPERATIVO LTDO.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'454149':
+  bin: '454149'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO CREDICOOP COOPERATIVO LTDO.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'454150':
+  bin: '454150'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454151':
+  bin: '454151'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454152':
+  bin: '454152'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454153':
+  bin: '454153'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454154':
+  bin: '454154'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454155':
+  bin: '454155'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454156':
+  bin: '454156'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454157':
+  bin: '454157'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454158':
+  bin: '454158'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: RESONA BANK, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454159':
+  bin: '454159'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454160':
+  bin: '454160'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454161':
+  bin: '454161'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454162':
+  bin: '454162'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454163':
+  bin: '454163'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454164':
+  bin: '454164'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454165':
+  bin: '454165'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454166':
+  bin: '454166'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454167':
+  bin: '454167'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454168':
+  bin: '454168'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454169':
+  bin: '454169'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454170':
+  bin: '454170'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454171':
+  bin: '454171'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454172':
+  bin: '454172'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454173':
+  bin: '454173'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454174':
+  bin: '454174'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454175':
+  bin: '454175'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454176':
+  bin: '454176'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454177':
+  bin: '454177'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROIG COMMERCIAL BANK
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'454178':
+  bin: '454178'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CITIBANK
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'454179':
+  bin: '454179'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'454180':
+  bin: '454180'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: STANDARD CHARTERED BANK INDIA
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'454181':
+  bin: '454181'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: STANDARD CHARTERED BANK INDIA
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'454182':
+  bin: '454182'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UNITED OVERSEAS BANK, LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'454183':
+  bin: '454183'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNITED OVERSEAS BANK, LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'454184':
+  bin: '454184'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HUA NAN COMMERCIAL BANK, LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'454185':
+  bin: '454185'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST COMMERCIAL BANK
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'454186':
+  bin: '454186'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF AYUDHYA PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'454187':
+  bin: '454187'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'454188':
+  bin: '454188'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CONSORCIO CREDICARD, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'454189':
+  bin: '454189'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO SANTANDER PUERTO RICO
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'454190':
+  bin: '454190'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454191':
+  bin: '454191'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454192':
+  bin: '454192'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454193':
+  bin: '454193'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454194':
+  bin: '454194'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454195':
+  bin: '454195'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454196':
+  bin: '454196'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: RESONA BANK, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'454197':
+  bin: '454197'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: B + S CARD SERVICE SUD GMBH
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'454198':
+  bin: '454198'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'454199':
+  bin: '454199'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SANTANDER CONSUMER BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany

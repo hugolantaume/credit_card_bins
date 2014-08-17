@@ -1,0 +1,1001 @@
+---
+'499800':
+  bin: '499800'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499801':
+  bin: '499801'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: INTERDIN S.A. EMISORA Y ADMINISTRADORA DE TARJETAS DE CREDIT
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'499802':
+  bin: '499802'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE
+  issuer: INTERDIN S.A. EMISORA Y ADMINISTRADORA DE TARJETAS DE CREDITO
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'499803':
+  bin: '499803'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCA SELLA HOLDING S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'499804':
+  bin: '499804'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499805':
+  bin: '499805'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499806':
+  bin: '499806'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: R RAPHAEL AND SONS PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'499807':
+  bin: '499807'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANCA DI SASSARI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'499808':
+  bin: '499808'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'499809':
+  bin: '499809'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'499810':
+  bin: '499810'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499811':
+  bin: '499811'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499812':
+  bin: '499812'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE BOGOTA
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'499813':
+  bin: '499813'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'499814':
+  bin: '499814'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: LC
+    alpha_3: LCA
+    name: Saint Lucia
+'499815':
+  bin: '499815'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499816':
+  bin: '499816'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499817':
+  bin: '499817'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499818':
+  bin: '499818'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499819':
+  bin: '499819'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO LAFISE, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'499820':
+  bin: '499820'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499821':
+  bin: '499821'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'499822':
+  bin: '499822'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ATH COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'499823':
+  bin: '499823'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'499824':
+  bin: '499824'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'499825':
+  bin: '499825'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'499826':
+  bin: '499826'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'499827':
+  bin: '499827'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'499828':
+  bin: '499828'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'499829':
+  bin: '499829'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'499830':
+  bin: '499830'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'499831':
+  bin: '499831'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'499832':
+  bin: '499832'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499833':
+  bin: '499833'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'499834':
+  bin: '499834'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499835':
+  bin: '499835'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BELVNESHECONOMBANK FOREIGN ECONOMIC AFFAIRS BELARUS JSCB
+  country:
+    alpha_2: BY
+    alpha_3: BLR
+    name: Belarus
+'499836':
+  bin: '499836'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499837':
+  bin: '499837'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANK OF N.T. BUTTERFIELD AND SON, LTD.
+  country:
+    alpha_2: BM
+    alpha_3: BMU
+    name: Bermuda
+'499838':
+  bin: '499838'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'499839':
+  bin: '499839'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: VALES INTERCONTINENTALES, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'499840':
+  bin: '499840'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: VALES INTERCONTINENTALES, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'499841':
+  bin: '499841'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: BS
+    alpha_3: BHS
+    name: Bahamas
+'499842':
+  bin: '499842'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499843':
+  bin: '499843'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499844':
+  bin: '499844'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: R RAPHAEL AND SONS PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'499845':
+  bin: '499845'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'499846':
+  bin: '499846'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'499847':
+  bin: '499847'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'499848':
+  bin: '499848'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'499849':
+  bin: '499849'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499850':
+  bin: '499850'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FINANSBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'499851':
+  bin: '499851'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FINANSBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'499852':
+  bin: '499852'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FINANSBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'499853':
+  bin: '499853'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FINANSBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'499854':
+  bin: '499854'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499855':
+  bin: '499855'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'499856':
+  bin: '499856'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499857':
+  bin: '499857'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'499858':
+  bin: '499858'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499859':
+  bin: '499859'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'499860':
+  bin: '499860'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'499861':
+  bin: '499861'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'499862':
+  bin: '499862'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'499863':
+  bin: '499863'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'499864':
+  bin: '499864'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'499865':
+  bin: '499865'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'499866':
+  bin: '499866'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'499867':
+  bin: '499867'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'499868':
+  bin: '499868'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'499869':
+  bin: '499869'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'499870':
+  bin: '499870'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: PIRAEUS BANK (CYPRUS), LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'499871':
+  bin: '499871'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BO
+    alpha_3: BOL
+    name: Bolivia, Plurinational State of
+'499872':
+  bin: '499872'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499873':
+  bin: '499873'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499874':
+  bin: '499874'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499875':
+  bin: '499875'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499876':
+  bin: '499876'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499877':
+  bin: '499877'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499878':
+  bin: '499878'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499879':
+  bin: '499879'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'499880':
+  bin: '499880'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499881':
+  bin: '499881'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499882':
+  bin: '499882'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'499883':
+  bin: '499883'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO PROMERICA, S.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'499884':
+  bin: '499884'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO DE VALENCIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'499885':
+  bin: '499885'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO GUIPUZCOANO, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'499886':
+  bin: '499886'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499887':
+  bin: '499887'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: POHJOLA BANK PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'499888':
+  bin: '499888'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: BANCO BOLIVARIANO (PANAMA), S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'499889':
+  bin: '499889'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: 100% BANCO, BANCO COMERCIAL, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'499890':
+  bin: '499890'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'499891':
+  bin: '499891'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'499892':
+  bin: '499892'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO INDUSTRIAL E COMERCIAL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'499893':
+  bin: '499893'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499894':
+  bin: '499894'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BZ
+    alpha_3: BLZ
+    name: Belize
+'499895':
+  bin: '499895'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: BZ
+    alpha_3: BLZ
+    name: Belize
+'499896':
+  bin: '499896'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'499897':
+  bin: '499897'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BAYERISCHE LANDESBANK
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'499898':
+  bin: '499898'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BAYERISCHE LANDESBANK
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'499899':
+  bin: '499899'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FINANSBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey

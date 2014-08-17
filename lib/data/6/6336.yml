@@ -1,0 +1,41 @@
+---
+'633641':
+  bin: '633641'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: POST OFFICE
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'633675':
+  bin: '633675'
+  brand: MAESTRO
+  type: DEBIT
+  category: PAYMENT CARD
+  issuer: G-T-P GROUP, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'633676':
+  bin: '633676'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'633698':
+  bin: '633698'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: G-T-P GROUP, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom

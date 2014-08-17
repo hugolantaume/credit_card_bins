@@ -1,0 +1,1001 @@
+---
+'477500':
+  bin: '477500'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477501':
+  bin: '477501'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA
+  country:
+    alpha_2: GN
+    alpha_3: GIN
+    name: Guinea
+'477502':
+  bin: '477502'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477503':
+  bin: '477503'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477504':
+  bin: '477504'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477505':
+  bin: '477505'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477506':
+  bin: '477506'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477507':
+  bin: '477507'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SB1 F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477508':
+  bin: '477508'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: CREDIT LIBANAIS S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'477509':
+  bin: '477509'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CREDIT LIBANAIS S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'477510':
+  bin: '477510'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477511':
+  bin: '477511'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477512':
+  bin: '477512'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477513':
+  bin: '477513'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477514':
+  bin: '477514'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477515':
+  bin: '477515'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477516':
+  bin: '477516'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477517':
+  bin: '477517'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477518':
+  bin: '477518'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477519':
+  bin: '477519'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477520':
+  bin: '477520'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477521':
+  bin: '477521'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477522':
+  bin: '477522'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477523':
+  bin: '477523'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477524':
+  bin: '477524'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: UMB BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477525':
+  bin: '477525'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID - CLASSIC
+  issuer: CENTERSTATE BANK OF FLORIDA NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477526':
+  bin: '477526'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477527':
+  bin: '477527'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477528':
+  bin: '477528'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477529':
+  bin: '477529'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: CENTERSTATE BANK OF FLORIDA NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477530':
+  bin: '477530'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477531':
+  bin: '477531'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST ARKANSAS BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477532':
+  bin: '477532'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477533':
+  bin: '477533'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477534':
+  bin: '477534'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477535':
+  bin: '477535'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477536':
+  bin: '477536'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477537':
+  bin: '477537'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477538':
+  bin: '477538'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477539':
+  bin: '477539'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477540':
+  bin: '477540'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ING BANK SLASKI, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'477541':
+  bin: '477541'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANCA COMERCIALA HVB TIRIAC, S.A.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'477542':
+  bin: '477542'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477543':
+  bin: '477543'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HUDSON VALLEY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477544':
+  bin: '477544'
+  brand: VISA
+  type: CREDIT
+  category: GOLD
+  issuer: ARAB FINANCIAL SERVICES COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477545':
+  bin: '477545'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ARAB FINANCIAL SERVICES COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477546':
+  bin: '477546'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ING-DIBA AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'477547':
+  bin: '477547'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CITIBANK ESPANA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'477548':
+  bin: '477548'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: AS SEB PANK
+  country:
+    alpha_2: EE
+    alpha_3: EST
+    name: Estonia
+'477549':
+  bin: '477549'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NATIONAL BANK OF NEW ZEALAND, LTD.
+  country:
+    alpha_2: NZ
+    alpha_3: NZL
+    name: New Zealand
+'477550':
+  bin: '477550'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NEPAL GRINDLAYS BANK, LTD.
+  country:
+    alpha_2: NP
+    alpha_3: NPL
+    name: Nepal
+'477551':
+  bin: '477551'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: STERLING FEDERAL BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477552':
+  bin: '477552'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST NATIONAL BANK OF MITCHELL
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477553':
+  bin: '477553'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BARTLETT FARMERS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477554':
+  bin: '477554'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MAINSOURCE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477555':
+  bin: '477555'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: 1ST ADVANTAGE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477556':
+  bin: '477556'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA DEBIT PROCESSING SERVICE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477557':
+  bin: '477557'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477558':
+  bin: '477558'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PROSPERAN BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477559':
+  bin: '477559'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WASHINGTON COUNTY BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477560':
+  bin: '477560'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: PAREX BANK
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'477561':
+  bin: '477561'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477562':
+  bin: '477562'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477563':
+  bin: '477563'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477564':
+  bin: '477564'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDIT ANDORRA
+  country:
+    alpha_2: AD
+    alpha_3: AND
+    name: Andorra
+'477565':
+  bin: '477565'
+  brand: VISA
+  type: CREDIT
+  category: GOLD
+  issuer: CAIXABANK S.A.
+  country:
+    alpha_2: AD
+    alpha_3: AND
+    name: Andorra
+'477566':
+  bin: '477566'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCA PRIVADA D'ANDORRA, S.A.
+  country:
+    alpha_2: AD
+    alpha_3: AND
+    name: Andorra
+'477567':
+  bin: '477567'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477568':
+  bin: '477568'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477569':
+  bin: '477569'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DZ BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'477570':
+  bin: '477570'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HSBC BANK MIDDLE EAST
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'477571':
+  bin: '477571'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCA SELLA HOLDING S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'477572':
+  bin: '477572'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCA SELLA HOLDING S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'477573':
+  bin: '477573'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AS DNB NORD BANKA
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'477574':
+  bin: '477574'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LANDESBANK SAAR
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'477575':
+  bin: '477575'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'477576':
+  bin: '477576'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'477577':
+  bin: '477577'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'477578':
+  bin: '477578'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'477579':
+  bin: '477579'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'477580':
+  bin: '477580'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'477581':
+  bin: '477581'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'477582':
+  bin: '477582'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'477583':
+  bin: '477583'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'477584':
+  bin: '477584'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'477585':
+  bin: '477585'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'477586':
+  bin: '477586'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'477587':
+  bin: '477587'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'477588':
+  bin: '477588'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'477589':
+  bin: '477589'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MKB BANK ZRT.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'477590':
+  bin: '477590'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477591':
+  bin: '477591'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NATIONAL WESTMINSTER BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'477592':
+  bin: '477592'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'477593':
+  bin: '477593'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ABN AMRO BANK, N.V.
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'477594':
+  bin: '477594'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477595':
+  bin: '477595'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HFC BANK, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'477596':
+  bin: '477596'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAPITAL ONE (EUROPE) PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'477597':
+  bin: '477597'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CAPITAL ONE (EUROPE) PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'477598':
+  bin: '477598'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO SANTANDER TOTTA, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'477599':
+  bin: '477599'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA (DUPLICATED BID SEE 10021435)
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal

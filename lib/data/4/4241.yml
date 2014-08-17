@@ -1,0 +1,1001 @@
+---
+'424100':
+  bin: '424100'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424101':
+  bin: '424101'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SCOTIABANK DE COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'424102':
+  bin: '424102'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SCOTIABANK DE COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'424103':
+  bin: '424103'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PT. BANK ARTHA GRAHA INTERNASIONAL, TBK
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'424104':
+  bin: '424104'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO BRADESCO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'424105':
+  bin: '424105'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'424106':
+  bin: '424106'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: ''
+  country:
+    alpha_2: AM
+    alpha_3: ARM
+    name: Armenia
+'424107':
+  bin: '424107'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'424108':
+  bin: '424108'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: ''
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'424109':
+  bin: '424109'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: ''
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'424110':
+  bin: '424110'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: ''
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'424111':
+  bin: '424111'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424112':
+  bin: '424112'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: ''
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'424113':
+  bin: '424113'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'424114':
+  bin: '424114'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO POPULAR
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'424115':
+  bin: '424115'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NATIONAL COMMERCIAL BANK JAMAICA, LTD.
+  country:
+    alpha_2: JM
+    alpha_3: JAM
+    name: Jamaica
+'424116':
+  bin: '424116'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424117':
+  bin: '424117'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: RIVER VALLEY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424118':
+  bin: '424118'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO SANTANDER TOTTA, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'424119':
+  bin: '424119'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO DE GALICIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'424120':
+  bin: '424120'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: COLUMBIAN NATIONAL BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424121':
+  bin: '424121'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424122':
+  bin: '424122'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DEUTSCHE POSTBANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'424123':
+  bin: '424123'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424124':
+  bin: '424124'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: OJSC CB PIVDENCOMBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'424125':
+  bin: '424125'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: OJSC CB PIVDENCOMBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'424126':
+  bin: '424126'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: OJSC CB PIVDENCOMBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'424127':
+  bin: '424127'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424128':
+  bin: '424128'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO AFRICANO INVESTIMENTOS SARL
+  country:
+    alpha_2: AO
+    alpha_3: AGO
+    name: Angola
+'424129':
+  bin: '424129'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO AFRICANO INVESTIMENTOS SARL
+  country:
+    alpha_2: AO
+    alpha_3: AGO
+    name: Angola
+'424130':
+  bin: '424130'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424131':
+  bin: '424131'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424132':
+  bin: '424132'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BANCORP BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424133':
+  bin: '424133'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424134':
+  bin: '424134'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: M AND I (MARSHALL AND ILSLEY) BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424135':
+  bin: '424135'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: TD BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424136':
+  bin: '424136'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: UNIVERSITY NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424137':
+  bin: '424137'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SCOTIABANK PERU S.A.A.
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'424138':
+  bin: '424138'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: SCOTIABANK PERU S.A.A.
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'424139':
+  bin: '424139'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424140':
+  bin: '424140'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424141':
+  bin: '424141'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424142':
+  bin: '424142'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424143':
+  bin: '424143'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424144':
+  bin: '424144'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424145':
+  bin: '424145'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424146':
+  bin: '424146'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424147':
+  bin: '424147'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424148':
+  bin: '424148'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424149':
+  bin: '424149'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424150':
+  bin: '424150'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK NATIONAL ASSOCIATION (USBNS)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424151':
+  bin: '424151'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424152':
+  bin: '424152'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424153':
+  bin: '424153'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: METAMORA STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424154':
+  bin: '424154'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK NATIONAL ASSOCIATION (USBNS)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424155':
+  bin: '424155'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK NATIONAL ASSOCIATION (USBNS)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424156':
+  bin: '424156'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK NATIONAL ASSOCIATION (USBNS)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424157':
+  bin: '424157'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424158':
+  bin: '424158'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK NATIONAL ASSOCIATION (USBNS)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424159':
+  bin: '424159'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424160':
+  bin: '424160'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: NATIONAL BANK OF ABU DHABI
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'424161':
+  bin: '424161'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PENN LIBERTY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424162':
+  bin: '424162'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: PENN LIBERTY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424163':
+  bin: '424163'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCORP BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424164':
+  bin: '424164'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANCORP BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424165':
+  bin: '424165'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424166':
+  bin: '424166'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424167':
+  bin: '424167'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424168':
+  bin: '424168'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424169':
+  bin: '424169'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424170':
+  bin: '424170'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424171':
+  bin: '424171'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: JSC INDUSTRIAL AND INVESTMENT BANK (CSC)
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'424172':
+  bin: '424172'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JSC KREDOBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'424173':
+  bin: '424173'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JOINT STOCK INDUSTRIAL-FINANCIAL BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'424174':
+  bin: '424174'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: JOINT STOCK INDUSTRIAL-FINANCIAL BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'424175':
+  bin: '424175'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: JOINT STOCK INDUSTRIAL-FINANCIAL BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'424176':
+  bin: '424176'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: JOINT STOCK INDUSTRIAL-FINANCIAL BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'424177':
+  bin: '424177'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JOINT STOCK INDUSTRIAL-FINANCIAL BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'424178':
+  bin: '424178'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NATIONAL BANK OF GREECE S.A. BELGRADE
+  country:
+    alpha_2: RS
+    alpha_3: SRB
+    name: Serbia
+'424179':
+  bin: '424179'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: TRADE BANK OF IRAQ
+  country:
+    alpha_2: IQ
+    alpha_3: IRQ
+    name: Iraq
+'424180':
+  bin: '424180'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424181':
+  bin: '424181'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424182':
+  bin: '424182'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424183':
+  bin: '424183'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: RAIFFEISEN BANK DD BOSNA I HERCEGOVINA
+  country:
+    alpha_2: BA
+    alpha_3: BIH
+    name: Bosnia and Herzegovina
+'424184':
+  bin: '424184'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO SANTANDER TOTTA, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'424185':
+  bin: '424185'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424186':
+  bin: '424186'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424187':
+  bin: '424187'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424188':
+  bin: '424188'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424189':
+  bin: '424189'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: SILVERTON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424190':
+  bin: '424190'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424191':
+  bin: '424191'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'424192':
+  bin: '424192'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'424193':
+  bin: '424193'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'424194':
+  bin: '424194'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'424195':
+  bin: '424195'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'424196':
+  bin: '424196'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'424197':
+  bin: '424197'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'424198':
+  bin: '424198'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'424199':
+  bin: '424199'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

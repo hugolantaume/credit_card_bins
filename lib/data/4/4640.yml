@@ -1,0 +1,1001 @@
+---
+'464000':
+  bin: '464000'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CHASE BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464001':
+  bin: '464001'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CHUNG-SHING BANK
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'464002':
+  bin: '464002'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CHUNG-SHING BANK
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'464003':
+  bin: '464003'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: AMBANK (M) BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'464004':
+  bin: '464004'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HSBC BANK (TAIWAN), LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'464005':
+  bin: '464005'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PT. BANK PERMATA TBK
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'464006':
+  bin: '464006'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PUBLIC BANK (HONG KONG), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'464007':
+  bin: '464007'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PUBLIC BANK (HONG KONG), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'464008':
+  bin: '464008'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: UNITED OVERSEAS BANK PHILIPPINES
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'464009':
+  bin: '464009'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UNITED OVERSEAS BANK(THAI)PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'464010':
+  bin: '464010'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST USA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464011':
+  bin: '464011'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST USA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464012':
+  bin: '464012'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST USA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464013':
+  bin: '464013'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST USA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464014':
+  bin: '464014'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST USA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464015':
+  bin: '464015'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST USA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464016':
+  bin: '464016'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: CHASE BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464017':
+  bin: '464017'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST USA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464018':
+  bin: '464018'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CHASE BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464019':
+  bin: '464019'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TRUPOINT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464020':
+  bin: '464020'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNITED OVERSEAS BANK PHILIPPINES
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'464021':
+  bin: '464021'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNITED OVERSEAS BANK(THAI)PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'464022':
+  bin: '464022'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NATIONAL AGRICULTURAL COOPERATIVE FEDERATION
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'464023':
+  bin: '464023'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'464024':
+  bin: '464024'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST USA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464025':
+  bin: '464025'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: UNITED OVERSEAS BANK (MALAYSIA) BHD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'464026':
+  bin: '464026'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST USA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464027':
+  bin: '464027'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST USA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464028':
+  bin: '464028'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK OF ALVIN
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464029':
+  bin: '464029'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST USA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464030':
+  bin: '464030'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST USA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464031':
+  bin: '464031'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PEARLAND STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464032':
+  bin: '464032'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464033':
+  bin: '464033'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: O BEE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464034':
+  bin: '464034'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'464035':
+  bin: '464035'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'464036':
+  bin: '464036'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464037':
+  bin: '464037'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WESTPAC BANKING CORPORATION
+  country:
+    alpha_2: PG
+    alpha_3: PNG
+    name: Papua New Guinea
+'464038':
+  bin: '464038'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WESTPAC BANKING CORPORATION
+  country:
+    alpha_2: FJ
+    alpha_3: FJI
+    name: Fiji
+'464039':
+  bin: '464039'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VALLEY INDEPENDENT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464040':
+  bin: '464040'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST USA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464041':
+  bin: '464041'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST USA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464042':
+  bin: '464042'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST USA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464043':
+  bin: '464043'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST USA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464044':
+  bin: '464044'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST USA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464045':
+  bin: '464045'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST USA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464046':
+  bin: '464046'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: TOWN SQUARE BANK, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464047':
+  bin: '464047'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464048':
+  bin: '464048'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: MIDWESTONE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464049':
+  bin: '464049'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464050':
+  bin: '464050'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464051':
+  bin: '464051'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464052':
+  bin: '464052'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464053':
+  bin: '464053'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464054':
+  bin: '464054'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464055':
+  bin: '464055'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464056':
+  bin: '464056'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464057':
+  bin: '464057'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464058':
+  bin: '464058'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464059':
+  bin: '464059'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464060':
+  bin: '464060'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464061':
+  bin: '464061'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464062':
+  bin: '464062'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464063':
+  bin: '464063'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464064':
+  bin: '464064'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464065':
+  bin: '464065'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464066':
+  bin: '464066'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464067':
+  bin: '464067'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464068':
+  bin: '464068'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464069':
+  bin: '464069'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464070':
+  bin: '464070'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464071':
+  bin: '464071'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464072':
+  bin: '464072'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464073':
+  bin: '464073'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464074':
+  bin: '464074'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464075':
+  bin: '464075'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464076':
+  bin: '464076'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464077':
+  bin: '464077'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464078':
+  bin: '464078'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464079':
+  bin: '464079'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464080':
+  bin: '464080'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WESTPAC BANKING CORPORATION
+  country:
+    alpha_2: SB
+    alpha_3: SLB
+    name: Solomon Islands
+'464081':
+  bin: '464081'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WESTPAC BANKING CORPORATION
+  country:
+    alpha_2: VU
+    alpha_3: VUT
+    name: Vanuatu
+'464082':
+  bin: '464082'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WESTPAC BANKING CORPORATION
+  country:
+    alpha_2: CK
+    alpha_3: COK
+    name: Cook Islands
+'464083':
+  bin: '464083'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WESTPAC BANKING CORPORATION
+  country:
+    alpha_2: NU
+    alpha_3: NIU
+    name: Niue
+'464084':
+  bin: '464084'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST USA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464085':
+  bin: '464085'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VALLEY INDEPENDENT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464086':
+  bin: '464086'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: GREATER BAY BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464087':
+  bin: '464087'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VALLEY INDEPENDENT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464088':
+  bin: '464088'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: INTERBANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464089':
+  bin: '464089'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CENTRAL VALLEY COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464090':
+  bin: '464090'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GARDEN CITY STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464091':
+  bin: '464091'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BAKER-BOYER NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464092':
+  bin: '464092'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: KOREA EXCHANGE BANK
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'464093':
+  bin: '464093'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: EVERGREEN DIRECT C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464094':
+  bin: '464094'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ASIA EUROPE AMERICAS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464095':
+  bin: '464095'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464096':
+  bin: '464096'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464097':
+  bin: '464097'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464098':
+  bin: '464098'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: PLUS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'464099':
+  bin: '464099'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST USA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

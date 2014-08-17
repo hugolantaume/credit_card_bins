@@ -1,0 +1,1001 @@
+---
+'407300':
+  bin: '407300'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO SECURITY
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'407301':
+  bin: '407301'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO SECURITY
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'407302':
+  bin: '407302'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ABN AMRO REAL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'407303':
+  bin: '407303'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO REAL
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'407304':
+  bin: '407304'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BBVA BANCOMER, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'407305':
+  bin: '407305'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407306':
+  bin: '407306'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407307':
+  bin: '407307'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MUTUAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407308':
+  bin: '407308'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: MUTUAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407309':
+  bin: '407309'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MB FINANCIAL BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407310':
+  bin: '407310'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MB FINANCIAL BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407311':
+  bin: '407311'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MB FINANCIAL BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407312':
+  bin: '407312'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407313':
+  bin: '407313'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407314':
+  bin: '407314'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BB BANKCARD CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407315':
+  bin: '407315'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407316':
+  bin: '407316'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407317':
+  bin: '407317'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CONTECNICA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'407318':
+  bin: '407318'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO HSBC HONDURAS S.A. (BANCO HSBC S.A.)
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'407319':
+  bin: '407319'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO AGRICOLA, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'407320':
+  bin: '407320'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF NOVA SCOTIA
+  country:
+    alpha_2: VI
+    alpha_3: VIR
+    name: Virgin Islands, U.S.
+'407321':
+  bin: '407321'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407322':
+  bin: '407322'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF NOVA SCOTIA
+  country:
+    alpha_2: BZ
+    alpha_3: BLZ
+    name: Belize
+'407323':
+  bin: '407323'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF NOVA SCOTIA
+  country:
+    alpha_2: VG
+    alpha_3: VGB
+    name: Virgin Islands, British
+'407324':
+  bin: '407324'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SCOTIABANK (CAYMAN ISLAND), LTD.
+  country:
+    alpha_2: KY
+    alpha_3: CYM
+    name: Cayman Islands
+'407325':
+  bin: '407325'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF NOVA SCOTIA
+  country:
+    alpha_2: GY
+    alpha_3: GUY
+    name: Guyana
+'407326':
+  bin: '407326'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF NOVA SCOTIA
+  country:
+    alpha_2: CW
+    alpha_3: CUW
+    name: Curaçao
+'407327':
+  bin: '407327'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF NOVA SCOTIA
+  country:
+    alpha_2: TC
+    alpha_3: TCA
+    name: Turks and Caicos Islands
+'407328':
+  bin: '407328'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF NOVA SCOTIA
+  country:
+    alpha_2: HT
+    alpha_3: HTI
+    name: Haiti
+'407329':
+  bin: '407329'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ILLINOIS STATE POLICE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407330':
+  bin: '407330'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407331':
+  bin: '407331'
+  brand: VISA
+  type: DEBIT
+  category: TRAVEL MONEY
+  issuer: INTERPAYMENT SERVICES, LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'407332':
+  bin: '407332'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GENBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'407333':
+  bin: '407333'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: GENBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'407334':
+  bin: '407334'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: GENBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'407335':
+  bin: '407335'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407336':
+  bin: '407336'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407337':
+  bin: '407337'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407338':
+  bin: '407338'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407339':
+  bin: '407339'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407340':
+  bin: '407340'
+  brand: VISA
+  type: DEBIT
+  category: PROPRIETARY
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407341':
+  bin: '407341'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCA DE ECONOMI
+  country:
+    alpha_2: MD
+    alpha_3: MDA
+    name: Moldova, Republic of
+'407342':
+  bin: '407342'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: BANCA DE ECONOMI
+  country:
+    alpha_2: MD
+    alpha_3: MDA
+    name: Moldova, Republic of
+'407343':
+  bin: '407343'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCA DE ECONOMI
+  country:
+    alpha_2: MD
+    alpha_3: MDA
+    name: Moldova, Republic of
+'407344':
+  bin: '407344'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: FIRST GLOBAL BANK, LTD.
+  country:
+    alpha_2: JM
+    alpha_3: JAM
+    name: Jamaica
+'407345':
+  bin: '407345'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO GENERAL RUMINAHUI, S.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'407346':
+  bin: '407346'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO GENERAL RUMINAHUI, S.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'407347':
+  bin: '407347'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO GENERAL RUMINAHUI, S.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'407348':
+  bin: '407348'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'407349':
+  bin: '407349'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO DE CREDITO BALEAR, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'407350':
+  bin: '407350'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO DE CASTILLA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'407351':
+  bin: '407351'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SISTEMA 4B, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'407352':
+  bin: '407352'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'407353':
+  bin: '407353'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'407354':
+  bin: '407354'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'407355':
+  bin: '407355'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'407356':
+  bin: '407356'
+  brand: VISA
+  type: DEBIT
+  category: TRAVEL MONEY
+  issuer: INTERPAYMENT SERVICES, LTD.
+  country:
+    alpha_2: GH
+    alpha_3: GHA
+    name: Ghana
+'407357':
+  bin: '407357'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: GOLOMT BANK OF MONGOLIA
+  country:
+    alpha_2: MN
+    alpha_3: MNG
+    name: Mongolia
+'407358':
+  bin: '407358'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407359':
+  bin: '407359'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407360':
+  bin: '407360'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PJSC UKRSIBBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'407361':
+  bin: '407361'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PJSC UKRSIBBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'407362':
+  bin: '407362'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: PJSC UKRSIBBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'407363':
+  bin: '407363'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: PJSC UKRSIBBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'407364':
+  bin: '407364'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PJSC UKRSIBBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'407365':
+  bin: '407365'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: PJSC UKRSIBBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'407366':
+  bin: '407366'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: PJSC UKRSIBBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'407367':
+  bin: '407367'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: JS INNOVATION BANK UKRSIBBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'407368':
+  bin: '407368'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JS INNOVATION BANK UKRSIBBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'407369':
+  bin: '407369'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DEUTSCHE POSTBANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'407370':
+  bin: '407370'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DEUTSCHE POSTBANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'407371':
+  bin: '407371'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DEUTSCHE POSTBANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'407372':
+  bin: '407372'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: INTERKOOPBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'407373':
+  bin: '407373'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: INTERKOOPBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'407374':
+  bin: '407374'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: INTERKOOPBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'407375':
+  bin: '407375'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HEBROSBANK A.D.
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'407376':
+  bin: '407376'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: HEBROSBANK A.D.
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'407377':
+  bin: '407377'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: HEBROSBANK A.D.
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'407378':
+  bin: '407378'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BRE BANK SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'407379':
+  bin: '407379'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BRE BANK SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'407380':
+  bin: '407380'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'407381':
+  bin: '407381'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ASYA KATILIM BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'407382':
+  bin: '407382'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO CONTINENTAL, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'407383':
+  bin: '407383'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO DAVIVIENDA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'407384':
+  bin: '407384'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407385':
+  bin: '407385'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'407386':
+  bin: '407386'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: KOOKMIN BANK SOUTH
+  country:
+    alpha_2: KP
+    alpha_3: PRK
+    name: Korea, Democratic People's Republic of
+'407387':
+  bin: '407387'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF MALDIVES PLC
+  country:
+    alpha_2: MV
+    alpha_3: MDV
+    name: Maldives
+'407388':
+  bin: '407388'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK OF MALDIVES PLC
+  country:
+    alpha_2: MV
+    alpha_3: MDV
+    name: Maldives
+'407389':
+  bin: '407389'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407390':
+  bin: '407390'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'407391':
+  bin: '407391'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407392':
+  bin: '407392'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ABN AMRO REAL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'407393':
+  bin: '407393'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: NI
+    alpha_3: NIC
+    name: Nicaragua
+'407394':
+  bin: '407394'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407395':
+  bin: '407395'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407396':
+  bin: '407396'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407397':
+  bin: '407397'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'407398':
+  bin: '407398'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'407399':
+  bin: '407399'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

@@ -1,0 +1,1001 @@
+---
+'450300':
+  bin: '450300'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450301':
+  bin: '450301'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNITED OVERSEAS BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'450302':
+  bin: '450302'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNITED OVERSEAS BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'450303':
+  bin: '450303'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: UNITED OVERSEAS BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'450304':
+  bin: '450304'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450305':
+  bin: '450305'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450306':
+  bin: '450306'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: UNITED OVERSEAS BANK, LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'450307':
+  bin: '450307'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: HSBC BANK (TAIWAN), LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'450308':
+  bin: '450308'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: LA FEDERATION DES CAISSES DESJARDINS DU QUEBEC
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450309':
+  bin: '450309'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO DO BRASIL USA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450310':
+  bin: '450310'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450311':
+  bin: '450311'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: RBTT BANK, N.V.
+  country:
+    alpha_2: CW
+    alpha_3: CUW
+    name: Curaçao
+'450312':
+  bin: '450312'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: RBTT BANK, N.V.
+  country:
+    alpha_2: CW
+    alpha_3: CUW
+    name: Curaçao
+'450313':
+  bin: '450313'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: RBTT BANK, N.V.
+  country:
+    alpha_2: CW
+    alpha_3: CUW
+    name: Curaçao
+'450314':
+  bin: '450314'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: UNITED OVERSEAS BANK (MALAYSIA) BHD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'450315':
+  bin: '450315'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HUDALDAA HUGJLIIN BANK
+  country:
+    alpha_2: MN
+    alpha_3: MNG
+    name: Mongolia
+'450316':
+  bin: '450316'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: HUDALDAA HUGJLIIN BANK
+  country:
+    alpha_2: MN
+    alpha_3: MNG
+    name: Mongolia
+'450317':
+  bin: '450317'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: TRADE AND DEVELOPMENT BANK OF MONGOLIA
+  country:
+    alpha_2: MN
+    alpha_3: MNG
+    name: Mongolia
+'450318':
+  bin: '450318'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TRADE AND DEVELOPMENT BANK OF MONGOLIA
+  country:
+    alpha_2: MN
+    alpha_3: MNG
+    name: Mongolia
+'450319':
+  bin: '450319'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: TRADE AND DEVELOPMENT BANK OF MONGOLIA
+  country:
+    alpha_2: MN
+    alpha_3: MNG
+    name: Mongolia
+'450320':
+  bin: '450320'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: TRADE AND DEVELOPMENT BANK OF MONGOLIA
+  country:
+    alpha_2: MN
+    alpha_3: MNG
+    name: Mongolia
+'450321':
+  bin: '450321'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO FININVEST, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'450322':
+  bin: '450322'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450323':
+  bin: '450323'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO FININVEST, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'450324':
+  bin: '450324'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450325':
+  bin: '450325'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO COMERCIAL URUGUAI, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'450326':
+  bin: '450326'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450327':
+  bin: '450327'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: UNIBANK, S.A.
+  country:
+    alpha_2: HT
+    alpha_3: HTI
+    name: Haiti
+'450328':
+  bin: '450328'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: UNIBANK, S.A.
+  country:
+    alpha_2: HT
+    alpha_3: HTI
+    name: Haiti
+'450329':
+  bin: '450329'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'450330':
+  bin: '450330'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450331':
+  bin: '450331'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450332':
+  bin: '450332'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450333':
+  bin: '450333'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450334':
+  bin: '450334'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450335':
+  bin: '450335'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450336':
+  bin: '450336'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450337':
+  bin: '450337'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450338':
+  bin: '450338'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450339':
+  bin: '450339'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450340':
+  bin: '450340'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: MERCANTILE BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'450341':
+  bin: '450341'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450342':
+  bin: '450342'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450343':
+  bin: '450343'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450344':
+  bin: '450344'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450345':
+  bin: '450345'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450346':
+  bin: '450346'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450347':
+  bin: '450347'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450348':
+  bin: '450348'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450349':
+  bin: '450349'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450350':
+  bin: '450350'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450351':
+  bin: '450351'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450352':
+  bin: '450352'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450353':
+  bin: '450353'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450354':
+  bin: '450354'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450355':
+  bin: '450355'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450356':
+  bin: '450356'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450357':
+  bin: '450357'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450358':
+  bin: '450358'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450359':
+  bin: '450359'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450360':
+  bin: '450360'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450361':
+  bin: '450361'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450362':
+  bin: '450362'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450363':
+  bin: '450363'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450364':
+  bin: '450364'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450365':
+  bin: '450365'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450366':
+  bin: '450366'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450367':
+  bin: '450367'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450368':
+  bin: '450368'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450369':
+  bin: '450369'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450370':
+  bin: '450370'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450371':
+  bin: '450371'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450372':
+  bin: '450372'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450373':
+  bin: '450373'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450374':
+  bin: '450374'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450375':
+  bin: '450375'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450376':
+  bin: '450376'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450377':
+  bin: '450377'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450378':
+  bin: '450378'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450379':
+  bin: '450379'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450380':
+  bin: '450380'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450381':
+  bin: '450381'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450382':
+  bin: '450382'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450383':
+  bin: '450383'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450384':
+  bin: '450384'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450385':
+  bin: '450385'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450386':
+  bin: '450386'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450387':
+  bin: '450387'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450388':
+  bin: '450388'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450389':
+  bin: '450389'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450390':
+  bin: '450390'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450391':
+  bin: '450391'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: RBTT BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'450392':
+  bin: '450392'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: RBTT BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'450393':
+  bin: '450393'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: RBTT BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'450394':
+  bin: '450394'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450395':
+  bin: '450395'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450396':
+  bin: '450396'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450397':
+  bin: '450397'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450398':
+  bin: '450398'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450399':
+  bin: '450399'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

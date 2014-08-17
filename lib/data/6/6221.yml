@@ -1,0 +1,791 @@
+---
+'622110':
+  bin: '622110'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'622113':
+  bin: '622113'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'622117':
+  bin: '622117'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'622122':
+  bin: '622122'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'622125':
+  bin: '622125'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'622126':
+  bin: '622126'
+  brand: CHINA UNION PAY
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622127':
+  bin: '622127'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622128':
+  bin: '622128'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: CONSUMER CARD
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622129':
+  bin: '622129'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622130':
+  bin: '622130'
+  brand: CHINA UNION PAY
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622131':
+  bin: '622131'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622132':
+  bin: '622132'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: CONSUMER CARD
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622133':
+  bin: '622133'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622134':
+  bin: '622134'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: CONSUMER CARD
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622135':
+  bin: '622135'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622136':
+  bin: '622136'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622137':
+  bin: '622137'
+  brand: CHINA UNION PAY
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622138':
+  bin: '622138'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622139':
+  bin: '622139'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: CONSUMER CARD
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622140':
+  bin: '622140'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622141':
+  bin: '622141'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622142':
+  bin: '622142'
+  brand: CHINA UNION PAY
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622143':
+  bin: '622143'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622144':
+  bin: '622144'
+  brand: CHINA UNION PAY
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622145':
+  bin: '622145'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622146':
+  bin: '622146'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: CONSUMER CARD
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622147':
+  bin: '622147'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622148':
+  bin: '622148'
+  brand: CHINA UNION PAY
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622149':
+  bin: '622149'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622150':
+  bin: '622150'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622151':
+  bin: '622151'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622152':
+  bin: '622152'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622153':
+  bin: '622153'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622154':
+  bin: '622154'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622155':
+  bin: '622155'
+  brand: CHINA UNION PAY
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622156':
+  bin: '622156'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622157':
+  bin: '622157'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622158':
+  bin: '622158'
+  brand: CHINA UNION PAY
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622159':
+  bin: '622159'
+  brand: CHINA UNION PAY
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622160':
+  bin: '622160'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622161':
+  bin: '622161'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622162':
+  bin: '622162'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622163':
+  bin: '622163'
+  brand: CHINA UNION PAY
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622164':
+  bin: '622164'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622165':
+  bin: '622165'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: CONSUMER CARD
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622166':
+  bin: '622166'
+  brand: CHINA UNION PAY
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622167':
+  bin: '622167'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622168':
+  bin: '622168'
+  brand: CHINA UNION PAY
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622169':
+  bin: '622169'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622170':
+  bin: '622170'
+  brand: CHINA UNION PAY
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622171':
+  bin: '622171'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622172':
+  bin: '622172'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622173':
+  bin: '622173'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622174':
+  bin: '622174'
+  brand: CHINA UNION PAY
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622175':
+  bin: '622175'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622176':
+  bin: '622176'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622177':
+  bin: '622177'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622178':
+  bin: '622178'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622179':
+  bin: '622179'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622180':
+  bin: '622180'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622181':
+  bin: '622181'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622182':
+  bin: '622182'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622183':
+  bin: '622183'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622184':
+  bin: '622184'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622185':
+  bin: '622185'
+  brand: CHINA UNION PAY
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622186':
+  bin: '622186'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622187':
+  bin: '622187'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622188':
+  bin: '622188'
+  brand: CHINA UNION PAY
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622189':
+  bin: '622189'
+  brand: CHINA UNION PAY
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622190':
+  bin: '622190'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622191':
+  bin: '622191'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622192':
+  bin: '622192'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622193':
+  bin: '622193'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622194':
+  bin: '622194'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622195':
+  bin: '622195'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622196':
+  bin: '622196'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622197':
+  bin: '622197'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622198':
+  bin: '622198'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'622199':
+  bin: '622199'
+  brand: CHINA UNION PAY
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China

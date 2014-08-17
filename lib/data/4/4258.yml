@@ -1,0 +1,1001 @@
+---
+'425800':
+  bin: '425800'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: M AND T BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425801':
+  bin: '425801'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANKCHAMPAIGN, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425802':
+  bin: '425802'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MANUFACTURERS AND TRADERS TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425803':
+  bin: '425803'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: M AND T BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425804':
+  bin: '425804'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: WILMINGTON TRUST, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425805':
+  bin: '425805'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CORPORATION BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'425806':
+  bin: '425806'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CORPORATION BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'425807':
+  bin: '425807'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: M AND T BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425808':
+  bin: '425808'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WILMINGTON TRUST, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425809':
+  bin: '425809'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WILMINGTON TRUST, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425810':
+  bin: '425810'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: M AND T BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425811':
+  bin: '425811'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425812':
+  bin: '425812'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425813':
+  bin: '425813'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425814':
+  bin: '425814'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425815':
+  bin: '425815'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425816':
+  bin: '425816'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: WILMINGTON TRUST, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425817':
+  bin: '425817'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO DAVIVIENDA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'425818':
+  bin: '425818'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: M AND T BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425819':
+  bin: '425819'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: M AND T BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425820':
+  bin: '425820'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: M AND T BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425821':
+  bin: '425821'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: HSBC BANK ARGENTINA, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'425822':
+  bin: '425822'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'425823':
+  bin: '425823'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: M AND T BANK
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'425824':
+  bin: '425824'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'425825':
+  bin: '425825'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'425826':
+  bin: '425826'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: WILMINGTON TRUST, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425827':
+  bin: '425827'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: M AND T BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425828':
+  bin: '425828'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WILMINGTON TRUST, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425829':
+  bin: '425829'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WILMINGTON TRUST, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425830':
+  bin: '425830'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FARMERS STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425831':
+  bin: '425831'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: M AND T BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425832':
+  bin: '425832'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: M AND T BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425833':
+  bin: '425833'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: M AND T BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425834':
+  bin: '425834'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: M AND T BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425835':
+  bin: '425835'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: M AND T BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425836':
+  bin: '425836'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: WILMINGTON TRUST, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425837':
+  bin: '425837'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SOLVAY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425838':
+  bin: '425838'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WILMINGTON TRUST, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425839':
+  bin: '425839'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WILMINGTON TRUST, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425840':
+  bin: '425840'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425841':
+  bin: '425841'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425842':
+  bin: '425842'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425843':
+  bin: '425843'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425844':
+  bin: '425844'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425845':
+  bin: '425845'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425846':
+  bin: '425846'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ANADOLUBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'425847':
+  bin: '425847'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ANADOLUBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'425848':
+  bin: '425848'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ANADOLUBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'425849':
+  bin: '425849'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ANADOLUBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'425850':
+  bin: '425850'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'425851':
+  bin: '425851'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'425852':
+  bin: '425852'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425853':
+  bin: '425853'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425854':
+  bin: '425854'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425855':
+  bin: '425855'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425856':
+  bin: '425856'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425857':
+  bin: '425857'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: PT BANK DANAMON INDONESIA TBK
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'425858':
+  bin: '425858'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425859':
+  bin: '425859'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: NATIONAL BANK OF UMM AL-QAIWAIN PSC.
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'425860':
+  bin: '425860'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: RHB BANK BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'425861':
+  bin: '425861'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425862':
+  bin: '425862'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: CHINA EVERBRIGHT BANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'425863':
+  bin: '425863'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: KOOKMIN BANK
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'425864':
+  bin: '425864'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: ''
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'425865':
+  bin: '425865'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425866':
+  bin: '425866'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425867':
+  bin: '425867'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425868':
+  bin: '425868'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425869':
+  bin: '425869'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'425870':
+  bin: '425870'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: TAIWAN COOPERATIVE BANK
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'425871':
+  bin: '425871'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: BANQUE SAUDI FRANSI
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'425872':
+  bin: '425872'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425873':
+  bin: '425873'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: COMMERCIAL BANK OF KUWAIT, S.A.K.
+  country:
+    alpha_2: KW
+    alpha_3: KWT
+    name: Kuwait
+'425874':
+  bin: '425874'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: MDM BANK OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425875':
+  bin: '425875'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'425876':
+  bin: '425876'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: CORP BANCA
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'425877':
+  bin: '425877'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425878':
+  bin: '425878'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: COMMERCIAL BANK OF DUBAI, LTD.
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'425879':
+  bin: '425879'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425880':
+  bin: '425880'
+  brand: VISA
+  type: DEBIT
+  category: INFINITE
+  issuer: ABU DHABI COMMERCIAL BANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'425881':
+  bin: '425881'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: ''
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'425882':
+  bin: '425882'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425883':
+  bin: '425883'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: STANDARD CHARTERED BANK (TAIWAN), LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'425884':
+  bin: '425884'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: ZAO RAIFFEISENBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425885':
+  bin: '425885'
+  brand: VISA
+  type: DEBIT
+  category: INFINITE
+  issuer: ZAO RAIFFEISENBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425886':
+  bin: '425886'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: INTERNATIONAL BANK OF QATAR (Q.S.C.)
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'425887':
+  bin: '425887'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: GETIN BANK, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'425888':
+  bin: '425888'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: DEL SUR BANCO UNIVERSAL, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'425889':
+  bin: '425889'
+  brand: VISA
+  type: DEBIT
+  category: INFINITE
+  issuer: NURBANK JSC
+  country:
+    alpha_2: KZ
+    alpha_3: KAZ
+    name: Kazakhstan
+'425890':
+  bin: '425890'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: BV FINANCEIRA S.A. CREDITO FINANCIAMENTO E INVESTIMENTO
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'425891':
+  bin: '425891'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425892':
+  bin: '425892'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425893':
+  bin: '425893'
+  brand: VISA
+  type: DEBIT
+  category: INFINITE
+  issuer: ''
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'425894':
+  bin: '425894'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425895':
+  bin: '425895'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: DBS BANK, LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'425896':
+  bin: '425896'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425897':
+  bin: '425897'
+  brand: VISA
+  type: DEBIT
+  category: INFINITE
+  issuer: CASABLANCA FINANCE MARKETS, S.A.
+  country:
+    alpha_2: MA
+    alpha_3: MAR
+    name: Morocco
+'425898':
+  bin: '425898'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: HUA NAN COMMERCIAL BANK, LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'425899':
+  bin: '425899'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan

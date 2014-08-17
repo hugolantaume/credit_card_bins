@@ -1,0 +1,1001 @@
+---
+'458100':
+  bin: '458100'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NATIONAL BANK OF RAS AL-KHAIMAH
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'458101':
+  bin: '458101'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NATIONAL BANK OF RAS AL-KHAIMAH
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'458102':
+  bin: '458102'
+  brand: VISA
+  type: DEBIT
+  category: PROPRIETARY
+  issuer: CITIBANK
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'458103':
+  bin: '458103'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: TARJETAS BCT, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'458104':
+  bin: '458104'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: IDBI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'458105':
+  bin: '458105'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TARJETAS BCT, S.A.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'458106':
+  bin: '458106'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TARJETAS BCT, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'458107':
+  bin: '458107'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: TARJETAS BCT, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'458108':
+  bin: '458108'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: TARJETAS BCT, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'458109':
+  bin: '458109'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SWEDBANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'458110':
+  bin: '458110'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: IDBI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'458111':
+  bin: '458111'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CLYDESDALE BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'458112':
+  bin: '458112'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: IDBI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'458113':
+  bin: '458113'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NATIONAL IRISH BANK, LTD.
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'458114':
+  bin: '458114'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CLYDESDALE BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'458115':
+  bin: '458115'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORTHERN BANK, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'458116':
+  bin: '458116'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SEN
+  country:
+    alpha_2: SN
+    alpha_3: SEN
+    name: Senegal
+'458117':
+  bin: '458117'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: SWEDBANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'458118':
+  bin: '458118'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: IDBI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'458119':
+  bin: '458119'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SEN
+  country:
+    alpha_2: SN
+    alpha_3: SEN
+    name: Senegal
+'458120':
+  bin: '458120'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK PRIVATBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'458121':
+  bin: '458121'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CB PRIVATBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'458122':
+  bin: '458122'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMERCIAL BANK PRIVATBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'458123':
+  bin: '458123'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF COMMUNICATIONS
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'458124':
+  bin: '458124'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK OF COMMUNICATIONS
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'458125':
+  bin: '458125'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SWEDBANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'458126':
+  bin: '458126'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF COMMUNICATIONS
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'458127':
+  bin: '458127'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK OF COMMUNICATIONS
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'458128':
+  bin: '458128'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'458129':
+  bin: '458129'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO PROVIVIENDA C.A. BANCO UNIVERSAL (BANPRO)
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'458130':
+  bin: '458130'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO PROVIVIENDA C.A. BANCO UNIVERSAL (BANPRO)
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'458131':
+  bin: '458131'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'458132':
+  bin: '458132'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'458133':
+  bin: '458133'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SWEDBANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'458134':
+  bin: '458134'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: IDBI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'458135':
+  bin: '458135'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: IDBI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'458136':
+  bin: '458136'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: IDBI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'458137':
+  bin: '458137'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO UNO, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'458138':
+  bin: '458138'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'458139':
+  bin: '458139'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: IDBI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'458140':
+  bin: '458140'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: IDBI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'458141':
+  bin: '458141'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SWEDBANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'458142':
+  bin: '458142'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: UNIVERSITY OF UTAH F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'458143':
+  bin: '458143'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF CLEVELAND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'458144':
+  bin: '458144'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NEW WINDSOR STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'458145':
+  bin: '458145'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'458146':
+  bin: '458146'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: SOVEREIGN BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'458147':
+  bin: '458147'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF PALATINE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'458148':
+  bin: '458148'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOWDOINHAM F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'458149':
+  bin: '458149'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BOWDOINHAM F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'458150':
+  bin: '458150'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: HARFORD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'458151':
+  bin: '458151'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TOLEDO URBAN F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'458152':
+  bin: '458152'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: FIRST NATIONAL BANK OF OMAHA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'458153':
+  bin: '458153'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIRST U.S. COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'458154':
+  bin: '458154'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIRST U.S. COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'458155':
+  bin: '458155'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIRST U.S. COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'458156':
+  bin: '458156'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NAVIGANT C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'458157':
+  bin: '458157'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ALTURA C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'458158':
+  bin: '458158'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SPARBANKEN FINANS
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'458159':
+  bin: '458159'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: IDBI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'458160':
+  bin: '458160'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'458161':
+  bin: '458161'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'458162':
+  bin: '458162'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'458163':
+  bin: '458163'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNION BANK, LTD.
+  country:
+    alpha_2: PK
+    alpha_3: PAK
+    name: Pakistan
+'458164':
+  bin: '458164'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: STANDARD CHARTERED BANK (PAKISTAN), LTD.
+  country:
+    alpha_2: PK
+    alpha_3: PAK
+    name: Pakistan
+'458165':
+  bin: '458165'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF ANTIGUA, LTD.
+  country:
+    alpha_2: AG
+    alpha_3: ATG
+    name: Antigua and Barbuda
+'458166':
+  bin: '458166'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SWEDBANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'458167':
+  bin: '458167'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NATIONAL CREDIT AND COMMERCE BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'458168':
+  bin: '458168'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'458169':
+  bin: '458169'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'458170':
+  bin: '458170'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NATIONAL CREDIT AND COMMERCE BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'458171':
+  bin: '458171'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'458172':
+  bin: '458172'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HIMALAYAN BANK, LTD.
+  country:
+    alpha_2: NP
+    alpha_3: NPL
+    name: Nepal
+'458173':
+  bin: '458173'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO DAVIVIENDA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'458174':
+  bin: '458174'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SPARBANKEN FINANS
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'458175':
+  bin: '458175'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO UNO, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'458176':
+  bin: '458176'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO UNO, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'458177':
+  bin: '458177'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO UNO, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'458178':
+  bin: '458178'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO UNO, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'458179':
+  bin: '458179'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'458180':
+  bin: '458180'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'458181':
+  bin: '458181'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: PROCESOS DE MEDIOS DE PAGO, S.A.
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'458182':
+  bin: '458182'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SPARBANKEN FINANS
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'458183':
+  bin: '458183'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: INVERUNION, BANCO COMERCIAL, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'458184':
+  bin: '458184'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: INVERUNION, BANCO COMERCIAL, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'458185':
+  bin: '458185'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BELIZE BANK, LTD.
+  country:
+    alpha_2: BZ
+    alpha_3: BLZ
+    name: Belize
+'458186':
+  bin: '458186'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BELIZE BANK, LTD.
+  country:
+    alpha_2: BZ
+    alpha_3: BLZ
+    name: Belize
+'458187':
+  bin: '458187'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'458188':
+  bin: '458188'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'458189':
+  bin: '458189'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO ITAU PARAGUAY, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'458190':
+  bin: '458190'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ENTERCARD SVERIGE AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'458191':
+  bin: '458191'
+  brand: VISA
+  type: CREDIT
+  category: PROPRIETARY
+  issuer: SWEDBANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'458192':
+  bin: '458192'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SWEDBANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'458193':
+  bin: '458193'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SWEDBANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'458194':
+  bin: '458194'
+  brand: VISA
+  type: CREDIT
+  category: PROPRIETARY
+  issuer: SWEDBANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'458195':
+  bin: '458195'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SWEDBANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'458196':
+  bin: '458196'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ENTERCARD SVERIGE AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'458197':
+  bin: '458197'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SWEDBANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'458198':
+  bin: '458198'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SWEDBANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'458199':
+  bin: '458199'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ENTERCARD SVERIGE AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden

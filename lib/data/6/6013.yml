@@ -1,0 +1,201 @@
+---
+'601300':
+  bin: '601300'
+  brand: DISCOVER
+  type: CREDIT
+  category: ''
+  issuer: MBNA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'601301':
+  bin: '601301'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'601305':
+  bin: '601305'
+  brand: MAESTRO
+  type: DEBIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'601309':
+  bin: '601309'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'601317':
+  bin: '601317'
+  brand: MAESTRO
+  type: DEBIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'601324':
+  bin: '601324'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'601326':
+  bin: '601326'
+  brand: MAESTRO
+  type: DEBIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'601335':
+  bin: '601335'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'601340':
+  bin: '601340'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'601344':
+  bin: '601344'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'601345':
+  bin: '601345'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AM
+    alpha_3: ARM
+    name: Armenia
+'601346':
+  bin: '601346'
+  brand: MAESTRO
+  type: DEBIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'601354':
+  bin: '601354'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: T.C. ZIRAAT BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'601356':
+  bin: '601356'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'601357':
+  bin: '601357'
+  brand: MAESTRO
+  type: DEBIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'601367':
+  bin: '601367'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'601368':
+  bin: '601368'
+  brand: MAESTRO
+  type: DEBIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'601374':
+  bin: '601374'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'601377':
+  bin: '601377'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'601382':
+  bin: '601382'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

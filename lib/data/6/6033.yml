@@ -1,0 +1,101 @@
+---
+'603301':
+  bin: '603301'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'603325':
+  bin: '603325'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'603326':
+  bin: '603326'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'603341':
+  bin: '603341'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'603343':
+  bin: '603343'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'603344':
+  bin: '603344'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'603349':
+  bin: '603349'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'603351':
+  bin: '603351'
+  brand: MAESTRO
+  type: DEBIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'603367':
+  bin: '603367'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'603395':
+  bin: '603395'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama

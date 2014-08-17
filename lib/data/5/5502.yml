@@ -1,0 +1,1001 @@
+---
+'550200':
+  bin: '550200'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: CITIGROUP PTY, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'550201':
+  bin: '550201'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: CITIGROUP PTY, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'550202':
+  bin: '550202'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550203':
+  bin: '550203'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550204':
+  bin: '550204'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550205':
+  bin: '550205'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550206':
+  bin: '550206'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550207':
+  bin: '550207'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550208':
+  bin: '550208'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'550209':
+  bin: '550209'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'550210':
+  bin: '550210'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'550211':
+  bin: '550211'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AM
+    alpha_3: ARM
+    name: Armenia
+'550212':
+  bin: '550212'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'550213':
+  bin: '550213'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'550214':
+  bin: '550214'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550215':
+  bin: '550215'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'550216':
+  bin: '550216'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550217':
+  bin: '550217'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'550218':
+  bin: '550218'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'550219':
+  bin: '550219'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'550220':
+  bin: '550220'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'550221':
+  bin: '550221'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'550222':
+  bin: '550222'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'550223':
+  bin: '550223'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'550224':
+  bin: '550224'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'550225':
+  bin: '550225'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'550226':
+  bin: '550226'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'550227':
+  bin: '550227'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'550228':
+  bin: '550228'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'550229':
+  bin: '550229'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'550230':
+  bin: '550230'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'550231':
+  bin: '550231'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'550232':
+  bin: '550232'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'550233':
+  bin: '550233'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'550234':
+  bin: '550234'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550235':
+  bin: '550235'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'550236':
+  bin: '550236'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'550237':
+  bin: '550237'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'550238':
+  bin: '550238'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'550239':
+  bin: '550239'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550240':
+  bin: '550240'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550241':
+  bin: '550241'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550242':
+  bin: '550242'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550243':
+  bin: '550243'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550244':
+  bin: '550244'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550245':
+  bin: '550245'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550246':
+  bin: '550246'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550247':
+  bin: '550247'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FIRST SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550248':
+  bin: '550248'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550249':
+  bin: '550249'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550250':
+  bin: '550250'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'550251':
+  bin: '550251'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550252':
+  bin: '550252'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: UNITED OVERSEAS BANK, LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'550253':
+  bin: '550253'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550254':
+  bin: '550254'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: RBC BANK (USA)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550255':
+  bin: '550255'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: CARROLLTON BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550256':
+  bin: '550256'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: COMMONWEALTH BANK OF AUSTRALIA
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'550257':
+  bin: '550257'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550258':
+  bin: '550258'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550259':
+  bin: '550259'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550260':
+  bin: '550260'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550261':
+  bin: '550261'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550262':
+  bin: '550262'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550263':
+  bin: '550263'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'550264':
+  bin: '550264'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: CAROLINA FIRST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550265':
+  bin: '550265'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NATIONAL STATE BANK OF METROPOLIS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550266':
+  bin: '550266'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: TEXAS CAPITAL BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550267':
+  bin: '550267'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550268':
+  bin: '550268'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550269':
+  bin: '550269'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550270':
+  bin: '550270'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550271':
+  bin: '550271'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550272':
+  bin: '550272'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550273':
+  bin: '550273'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550274':
+  bin: '550274'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550275':
+  bin: '550275'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550276':
+  bin: '550276'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: BANCORP BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550277':
+  bin: '550277'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: INTERPAY EUROCARD NEDERLAND D.V.
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'550278':
+  bin: '550278'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: MANUFACTURERS AND TRADERS TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550279':
+  bin: '550279'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: INNOVATIVE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550280':
+  bin: '550280'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550281':
+  bin: '550281'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: UNION PLANTERS NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550282':
+  bin: '550282'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: COMMONWEALTH BANK OF AUSTRALIA
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'550283':
+  bin: '550283'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: EMPORIKI BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'550284':
+  bin: '550284'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550285':
+  bin: '550285'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550286':
+  bin: '550286'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550287':
+  bin: '550287'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550288':
+  bin: '550288'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550289':
+  bin: '550289'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550290':
+  bin: '550290'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550291':
+  bin: '550291'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: TURKIYE VAKIFLAR BANKASI T.A.O.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'550292':
+  bin: '550292'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550293':
+  bin: '550293'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550294':
+  bin: '550294'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550295':
+  bin: '550295'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550296':
+  bin: '550296'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NATIONAL BANK OF COMMERCE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550297':
+  bin: '550297'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: U.S. BANK N.A. ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550298':
+  bin: '550298'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'550299':
+  bin: '550299'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

@@ -1,0 +1,1001 @@
+---
+'436400':
+  bin: '436400'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436401':
+  bin: '436401'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANREGIO
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'436402':
+  bin: '436402'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'436403':
+  bin: '436403'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'436404':
+  bin: '436404'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: NZ
+    alpha_3: NZL
+    name: New Zealand
+'436405':
+  bin: '436405'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO POPULAR DOMINICANO, C. POR A., BANCO MULTIPLE
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'436406':
+  bin: '436406'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PT. BANK ICBC INDONESIA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'436407':
+  bin: '436407'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PT. BANK ICBC INDONESIA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'436408':
+  bin: '436408'
+  brand: VISA
+  type: DEBIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'436409':
+  bin: '436409'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'436410':
+  bin: '436410'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'436411':
+  bin: '436411'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436412':
+  bin: '436412'
+  brand: VISA
+  type: DEBIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'436413':
+  bin: '436413'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'436414':
+  bin: '436414'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436415':
+  bin: '436415'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'436416':
+  bin: '436416'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436417':
+  bin: '436417'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE BUSINESS
+  issuer: LOTTE CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'436418':
+  bin: '436418'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436419':
+  bin: '436419'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436420':
+  bin: '436420'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'436421':
+  bin: '436421'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436422':
+  bin: '436422'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'436423':
+  bin: '436423'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436424':
+  bin: '436424'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436425':
+  bin: '436425'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436426':
+  bin: '436426'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'436427':
+  bin: '436427'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'436428':
+  bin: '436428'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'436429':
+  bin: '436429'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436430':
+  bin: '436430'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'436431':
+  bin: '436431'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'436432':
+  bin: '436432'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436433':
+  bin: '436433'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436434':
+  bin: '436434'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436435':
+  bin: '436435'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436436':
+  bin: '436436'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436437':
+  bin: '436437'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'436438':
+  bin: '436438'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SAIGON THUONG TIN COMMERCIAL JSB
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'436439':
+  bin: '436439'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NEPAL INVESTMENT BANK, LTD.
+  country:
+    alpha_2: NP
+    alpha_3: NPL
+    name: Nepal
+'436440':
+  bin: '436440'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: NP
+    alpha_3: NPL
+    name: Nepal
+'436441':
+  bin: '436441'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NEPAL INVESTMENT BANK, LTD.
+  country:
+    alpha_2: NP
+    alpha_3: NPL
+    name: Nepal
+'436442':
+  bin: '436442'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: NP
+    alpha_3: NPL
+    name: Nepal
+'436443':
+  bin: '436443'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NEPAL INVESTMENT BANK, LTD.
+  country:
+    alpha_2: NP
+    alpha_3: NPL
+    name: Nepal
+'436444':
+  bin: '436444'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: NP
+    alpha_3: NPL
+    name: Nepal
+'436445':
+  bin: '436445'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SAIGON THUONG TIN COMMERCIAL JSB
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'436446':
+  bin: '436446'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'436447':
+  bin: '436447'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436448':
+  bin: '436448'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: AMBANK (M) BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'436449':
+  bin: '436449'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PREMIER BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'436450':
+  bin: '436450'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436451':
+  bin: '436451'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436452':
+  bin: '436452'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436453':
+  bin: '436453'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436454':
+  bin: '436454'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436455':
+  bin: '436455'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436456':
+  bin: '436456'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436457':
+  bin: '436457'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436458':
+  bin: '436458'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436459':
+  bin: '436459'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436460':
+  bin: '436460'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436461':
+  bin: '436461'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436462':
+  bin: '436462'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'436463':
+  bin: '436463'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436464':
+  bin: '436464'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436465':
+  bin: '436465'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436466':
+  bin: '436466'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436467':
+  bin: '436467'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'436468':
+  bin: '436468'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'436469':
+  bin: '436469'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: VIETNAM TECHNOLOGICAL AND COMMERCIAL JSB
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'436470':
+  bin: '436470'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: VIETNAM TECHNOLOGICAL AND COMMERCIAL JSB
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'436471':
+  bin: '436471'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436472':
+  bin: '436472'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436473':
+  bin: '436473'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NATIONAL CREDIT AND COMMERCE BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'436474':
+  bin: '436474'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NATIONAL CREDIT AND COMMERCE BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'436475':
+  bin: '436475'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'436476':
+  bin: '436476'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436477':
+  bin: '436477'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: LOTTE CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'436478':
+  bin: '436478'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436479':
+  bin: '436479'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: NZ
+    alpha_3: NZL
+    name: New Zealand
+'436480':
+  bin: '436480'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: HSBC BANK MALAYSIA BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'436481':
+  bin: '436481'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'436482':
+  bin: '436482'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436483':
+  bin: '436483'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436484':
+  bin: '436484'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436485':
+  bin: '436485'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436486':
+  bin: '436486'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436487':
+  bin: '436487'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436488':
+  bin: '436488'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436489':
+  bin: '436489'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436490':
+  bin: '436490'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436491':
+  bin: '436491'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436492':
+  bin: '436492'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'436493':
+  bin: '436493'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'436494':
+  bin: '436494'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'436495':
+  bin: '436495'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FOREIGN TRADE BANK OF CAMBODIA
+  country:
+    alpha_2: KH
+    alpha_3: KHM
+    name: Cambodia
+'436496':
+  bin: '436496'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: FOREIGN TRADE BANK OF CAMBODIA
+  country:
+    alpha_2: KH
+    alpha_3: KHM
+    name: Cambodia
+'436497':
+  bin: '436497'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: NP
+    alpha_3: NPL
+    name: Nepal
+'436498':
+  bin: '436498'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: NP
+    alpha_3: NPL
+    name: Nepal
+'436499':
+  bin: '436499'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: HSBC
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand

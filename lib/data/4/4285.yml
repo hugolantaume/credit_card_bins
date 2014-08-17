@@ -1,0 +1,1001 @@
+---
+'428500':
+  bin: '428500'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'428501':
+  bin: '428501'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'428502':
+  bin: '428502'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'428503':
+  bin: '428503'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'428504':
+  bin: '428504'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'428505':
+  bin: '428505'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'428506':
+  bin: '428506'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428507':
+  bin: '428507'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AB UKIO BANKAS
+  country:
+    alpha_2: LT
+    alpha_3: LTU
+    name: Lithuania
+'428508':
+  bin: '428508'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: AB UKIO BANKAS
+  country:
+    alpha_2: LT
+    alpha_3: LTU
+    name: Lithuania
+'428509':
+  bin: '428509'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: AB UKIO BANKAS
+  country:
+    alpha_2: LT
+    alpha_3: LTU
+    name: Lithuania
+'428510':
+  bin: '428510'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: AB UKIO BANKAS
+  country:
+    alpha_2: LT
+    alpha_3: LTU
+    name: Lithuania
+'428511':
+  bin: '428511'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PJSC BANK PERSHYI
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'428512':
+  bin: '428512'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PJSC BANK PERSHYI
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'428513':
+  bin: '428513'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: PJSC BANK PERSHYI
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'428514':
+  bin: '428514'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428515':
+  bin: '428515'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428516':
+  bin: '428516'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428517':
+  bin: '428517'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428518':
+  bin: '428518'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428519':
+  bin: '428519'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428520':
+  bin: '428520'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428521':
+  bin: '428521'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'428522':
+  bin: '428522'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'428523':
+  bin: '428523'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'428524':
+  bin: '428524'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428525':
+  bin: '428525'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428526':
+  bin: '428526'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428527':
+  bin: '428527'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BONSUCESSO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'428528':
+  bin: '428528'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO BONSUCESSO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'428529':
+  bin: '428529'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'428530':
+  bin: '428530'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428531':
+  bin: '428531'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428532':
+  bin: '428532'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: YE
+    alpha_3: YEM
+    name: Yemen
+'428533':
+  bin: '428533'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: YE
+    alpha_3: YEM
+    name: Yemen
+'428534':
+  bin: '428534'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'428535':
+  bin: '428535'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'428536':
+  bin: '428536'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: AM
+    alpha_3: ARM
+    name: Armenia
+'428537':
+  bin: '428537'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: AM
+    alpha_3: ARM
+    name: Armenia
+'428538':
+  bin: '428538'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428539':
+  bin: '428539'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'428540':
+  bin: '428540'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'428541':
+  bin: '428541'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'428542':
+  bin: '428542'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428543':
+  bin: '428543'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428544':
+  bin: '428544'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428545':
+  bin: '428545'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428546':
+  bin: '428546'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DSK BANK PLC
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'428547':
+  bin: '428547'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'428548':
+  bin: '428548'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'428549':
+  bin: '428549'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'428550':
+  bin: '428550'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'428551':
+  bin: '428551'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'428552':
+  bin: '428552'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: EXIM BANK TANZANIA, LTD.
+  country:
+    alpha_2: TZ
+    alpha_3: TZA
+    name: Tanzania, United Republic of
+'428553':
+  bin: '428553'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: EXIM BANK TANZANIA, LTD.
+  country:
+    alpha_2: TZ
+    alpha_3: TZA
+    name: Tanzania, United Republic of
+'428554':
+  bin: '428554'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: EXIM BANK TANZANIA, LTD.
+  country:
+    alpha_2: TZ
+    alpha_3: TZA
+    name: Tanzania, United Republic of
+'428555':
+  bin: '428555'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: EXIM BANK TANZANIA, LTD.
+  country:
+    alpha_2: TZ
+    alpha_3: TZA
+    name: Tanzania, United Republic of
+'428556':
+  bin: '428556'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428557':
+  bin: '428557'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: LT
+    alpha_3: LTU
+    name: Lithuania
+'428558':
+  bin: '428558'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: LT
+    alpha_3: LTU
+    name: Lithuania
+'428559':
+  bin: '428559'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428560':
+  bin: '428560'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428561':
+  bin: '428561'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428562':
+  bin: '428562'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428563':
+  bin: '428563'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428564':
+  bin: '428564'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428565':
+  bin: '428565'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IL
+    alpha_3: ISR
+    name: Israel
+'428566':
+  bin: '428566'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IL
+    alpha_3: ISR
+    name: Israel
+'428567':
+  bin: '428567'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IL
+    alpha_3: ISR
+    name: Israel
+'428568':
+  bin: '428568'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IL
+    alpha_3: ISR
+    name: Israel
+'428569':
+  bin: '428569'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428570':
+  bin: '428570'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AJMAN BANK (P.J.S.C.)
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'428571':
+  bin: '428571'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428572':
+  bin: '428572'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: AJMAN BANK (P.J.S.C.)
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'428573':
+  bin: '428573'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: AJMAN BANK (P.J.S.C.)
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'428574':
+  bin: '428574'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'428575':
+  bin: '428575'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'428576':
+  bin: '428576'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'428577':
+  bin: '428577'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'428578':
+  bin: '428578'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'428579':
+  bin: '428579'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'428580':
+  bin: '428580'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'428581':
+  bin: '428581'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CITIBANK DEL PERU, S.A.
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'428582':
+  bin: '428582'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: CITIBANK DEL PERU, S.A.
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'428583':
+  bin: '428583'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'428584':
+  bin: '428584'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'428585':
+  bin: '428585'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'428586':
+  bin: '428586'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'428587':
+  bin: '428587'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428588':
+  bin: '428588'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428589':
+  bin: '428589'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428590':
+  bin: '428590'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: PJSC BANK PERSHYI
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'428591':
+  bin: '428591'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428592':
+  bin: '428592'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428593':
+  bin: '428593'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428594':
+  bin: '428594'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'428595':
+  bin: '428595'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'428596':
+  bin: '428596'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428597':
+  bin: '428597'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'428598':
+  bin: '428598'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'428599':
+  bin: '428599'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

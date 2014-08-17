@@ -1,0 +1,21 @@
+---
+'604772':
+  bin: '604772'
+  brand: MAESTRO
+  type: DEBIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'604779':
+  bin: '604779'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

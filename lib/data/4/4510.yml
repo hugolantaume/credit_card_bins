@@ -1,0 +1,1001 @@
+---
+'451000':
+  bin: '451000'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451001':
+  bin: '451001'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST FINANCIAL BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451002':
+  bin: '451002'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SHELBY SAVINGS BANK, S.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451003':
+  bin: '451003'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF CHARLES TOWN
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451004':
+  bin: '451004'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451005':
+  bin: '451005'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451006':
+  bin: '451006'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451007':
+  bin: '451007'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GSA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451008':
+  bin: '451008'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451009':
+  bin: '451009'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451010':
+  bin: '451010'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451011':
+  bin: '451011'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451012':
+  bin: '451012'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451013':
+  bin: '451013'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451014':
+  bin: '451014'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451015':
+  bin: '451015'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451016':
+  bin: '451016'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451017':
+  bin: '451017'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451018':
+  bin: '451018'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451019':
+  bin: '451019'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451020':
+  bin: '451020'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451021':
+  bin: '451021'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451022':
+  bin: '451022'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451023':
+  bin: '451023'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451024':
+  bin: '451024'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451025':
+  bin: '451025'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451026':
+  bin: '451026'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451027':
+  bin: '451027'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451028':
+  bin: '451028'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451029':
+  bin: '451029'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451030':
+  bin: '451030'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451031':
+  bin: '451031'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451032':
+  bin: '451032'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451033':
+  bin: '451033'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451034':
+  bin: '451034'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451035':
+  bin: '451035'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST INTERSTATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451036':
+  bin: '451036'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451037':
+  bin: '451037'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST INTERSTATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451038':
+  bin: '451038'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451039':
+  bin: '451039'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST INTERSTATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451040':
+  bin: '451040'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451041':
+  bin: '451041'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451042':
+  bin: '451042'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451043':
+  bin: '451043'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451044':
+  bin: '451044'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451045':
+  bin: '451045'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451046':
+  bin: '451046'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451047':
+  bin: '451047'
+  brand: VISA
+  type: DEBIT
+  category: PRIVATE LABEL
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451048':
+  bin: '451048'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451049':
+  bin: '451049'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451050':
+  bin: '451050'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451051':
+  bin: '451051'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451052':
+  bin: '451052'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451053':
+  bin: '451053'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451054':
+  bin: '451054'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451055':
+  bin: '451055'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451056':
+  bin: '451056'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451057':
+  bin: '451057'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451058':
+  bin: '451058'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451059':
+  bin: '451059'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451060':
+  bin: '451060'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451061':
+  bin: '451061'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451062':
+  bin: '451062'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BANCORP BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451063':
+  bin: '451063'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451064':
+  bin: '451064'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451065':
+  bin: '451065'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451066':
+  bin: '451066'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451067':
+  bin: '451067'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451068':
+  bin: '451068'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451069':
+  bin: '451069'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451070':
+  bin: '451070'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451071':
+  bin: '451071'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451072':
+  bin: '451072'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451073':
+  bin: '451073'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451074':
+  bin: '451074'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451075':
+  bin: '451075'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451076':
+  bin: '451076'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451077':
+  bin: '451077'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451078':
+  bin: '451078'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451079':
+  bin: '451079'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451080':
+  bin: '451080'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451081':
+  bin: '451081'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451082':
+  bin: '451082'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451083':
+  bin: '451083'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451084':
+  bin: '451084'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451085':
+  bin: '451085'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451086':
+  bin: '451086'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451087':
+  bin: '451087'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451088':
+  bin: '451088'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: MADISON BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451089':
+  bin: '451089'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451090':
+  bin: '451090'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451091':
+  bin: '451091'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451092':
+  bin: '451092'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HOMESTEAD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451093':
+  bin: '451093'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451094':
+  bin: '451094'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451095':
+  bin: '451095'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451096':
+  bin: '451096'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451097':
+  bin: '451097'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451098':
+  bin: '451098'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451099':
+  bin: '451099'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of

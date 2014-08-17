@@ -1,0 +1,1001 @@
+---
+'530100':
+  bin: '530100'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'530101':
+  bin: '530101'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'530102':
+  bin: '530102'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'530103':
+  bin: '530103'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'530104':
+  bin: '530104'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'530105':
+  bin: '530105'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'530106':
+  bin: '530106'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'530107':
+  bin: '530107'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530108':
+  bin: '530108'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: EURO KARTENSYSTEME GMBH
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'530109':
+  bin: '530109'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'530110':
+  bin: '530110'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: BARID AL MAGHRIB
+  country:
+    alpha_2: MA
+    alpha_3: MAR
+    name: Morocco
+'530111':
+  bin: '530111'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: CITIBANK CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'530112':
+  bin: '530112'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'530113':
+  bin: '530113'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: BANCO WAL*MART DE MEXICO ADELANTE, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'530114':
+  bin: '530114'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'530115':
+  bin: '530115'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: BUY WAY PERSONAL FINANCE, S.A.
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'530116':
+  bin: '530116'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'530117':
+  bin: '530117'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: JPMORGAN CHASE BANK CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'530118':
+  bin: '530118'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530119':
+  bin: '530119'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NEWCASTLE BUILDING SOCIETY
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'530120':
+  bin: '530120'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'530121':
+  bin: '530121'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'530122':
+  bin: '530122'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'530123':
+  bin: '530123'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'530124':
+  bin: '530124'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'530125':
+  bin: '530125'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'530126':
+  bin: '530126'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'530127':
+  bin: '530127'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'530128':
+  bin: '530128'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'530129':
+  bin: '530129'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'530130':
+  bin: '530130'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'530131':
+  bin: '530131'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530132':
+  bin: '530132'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: FIRST CALIFORNIA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530133':
+  bin: '530133'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530134':
+  bin: '530134'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: KINECTA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530135':
+  bin: '530135'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530136':
+  bin: '530136'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530137':
+  bin: '530137'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: FIRST CALIFORNIA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530138':
+  bin: '530138'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: METABANK/PAYONEER
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530139':
+  bin: '530139'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: FIRST PREMIER BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530140':
+  bin: '530140'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530141':
+  bin: '530141'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530142':
+  bin: '530142'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'530143':
+  bin: '530143'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'530144':
+  bin: '530144'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: PIRAEUS BANK A.D. BEOGRAD
+  country:
+    alpha_2: RS
+    alpha_3: SRB
+    name: Serbia
+'530145':
+  bin: '530145'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'530146':
+  bin: '530146'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530147':
+  bin: '530147'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: CONSORCIO CREDICARD, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'530148':
+  bin: '530148'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: ITAU UNIBANCO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'530149':
+  bin: '530149'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: CIM FINANCE, LTD.
+  country:
+    alpha_2: MU
+    alpha_3: MUS
+    name: Mauritius
+'530150':
+  bin: '530150'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: PROCESOS MC PERU SOCIEDAD ANONIMA
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'530151':
+  bin: '530151'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANK OF PUNJAB, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'530152':
+  bin: '530152'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530153':
+  bin: '530153'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530154':
+  bin: '530154'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NATIONSBANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530155':
+  bin: '530155'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530156':
+  bin: '530156'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANC AGRICOL I COMMERCIAL D'ANDORRA, S.A.
+  country:
+    alpha_2: AD
+    alpha_3: AND
+    name: Andorra
+'530157':
+  bin: '530157'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530158':
+  bin: '530158'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530159':
+  bin: '530159'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530160':
+  bin: '530160'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'530161':
+  bin: '530161'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'530162':
+  bin: '530162'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'530163':
+  bin: '530163'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'530164':
+  bin: '530164'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'530165':
+  bin: '530165'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'530166':
+  bin: '530166'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'530167':
+  bin: '530167'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'530168':
+  bin: '530168'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'530169':
+  bin: '530169'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'530170':
+  bin: '530170'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'530171':
+  bin: '530171'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530172':
+  bin: '530172'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'530173':
+  bin: '530173'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530174':
+  bin: '530174'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530175':
+  bin: '530175'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'530176':
+  bin: '530176'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'530177':
+  bin: '530177'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530178':
+  bin: '530178'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'530179':
+  bin: '530179'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530180':
+  bin: '530180'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: ''
+  country:
+    alpha_2: KZ
+    alpha_3: KAZ
+    name: Kazakhstan
+'530181':
+  bin: '530181'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530182':
+  bin: '530182'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'530183':
+  bin: '530183'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'530184':
+  bin: '530184'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530185':
+  bin: '530185'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530186':
+  bin: '530186'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'530187':
+  bin: '530187'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530188':
+  bin: '530188'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530189':
+  bin: '530189'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530190':
+  bin: '530190'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530191':
+  bin: '530191'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530192':
+  bin: '530192'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530193':
+  bin: '530193'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530194':
+  bin: '530194'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530195':
+  bin: '530195'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530196':
+  bin: '530196'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530197':
+  bin: '530197'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'530198':
+  bin: '530198'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: 77 CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'530199':
+  bin: '530199'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: KYUSHU CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan

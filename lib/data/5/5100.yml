@@ -1,0 +1,1001 @@
+---
+'510000':
+  bin: '510000'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: RBS BANK (ROMANIA), S.A.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'510001':
+  bin: '510001'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: AGRICULTURAL BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'510002':
+  bin: '510002'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: EESTI KREDIIDIPANK
+  country:
+    alpha_2: EE
+    alpha_3: EST
+    name: Estonia
+'510003':
+  bin: '510003'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: SAMSUNG CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'510004':
+  bin: '510004'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'510005':
+  bin: '510005'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: HSBC BANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'510006':
+  bin: '510006'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'510007':
+  bin: '510007'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ABN AMRO BANK (ROMANIA), S.A.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'510008':
+  bin: '510008'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: INTERNATIONAL CARD SERVICES BV
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'510009':
+  bin: '510009'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: EUROPAY (SWITZERLAND), S.A.
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'510010':
+  bin: '510010'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BANK PRZEMYSLOWO-HANDLOWY PBK, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'510011':
+  bin: '510011'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: EUROPAY (SWITZERLAND), S.A.
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'510012':
+  bin: '510012'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)
+  country:
+    alpha_2: PK
+    alpha_3: PAK
+    name: Pakistan
+'510013':
+  bin: '510013'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SOCIEDAD ESPANOLA DE MEDIOS DE PAGOS (SEMP)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'510014':
+  bin: '510014'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: HYPO ALPE-ADRIA-BANK A.D. PODGORICA
+  country:
+    alpha_2: ME
+    alpha_3: MNE
+    name: Montenegro
+'510015':
+  bin: '510015'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: AGRICULTURAL BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'510016':
+  bin: '510016'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: AGRICULTURAL BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'510017':
+  bin: '510017'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BANCO CETELEM, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'510018':
+  bin: '510018'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: PKO SAVINGS BANK
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'510019':
+  bin: '510019'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BUDAPEST BANK, LTD.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'510020':
+  bin: '510020'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: FINECOBANK S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'510021':
+  bin: '510021'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CREDIT SUISSE
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'510022':
+  bin: '510022'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: CREDIT SUISSE
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'510023':
+  bin: '510023'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: EUROPAY (SWITZERLAND), S.A.
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'510024':
+  bin: '510024'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BANCO COOPERATIVO ESPANOL
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'510025':
+  bin: '510025'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'510026':
+  bin: '510026'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'510027':
+  bin: '510027'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'510028':
+  bin: '510028'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: AGRICULTURAL BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'510029':
+  bin: '510029'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: INTERNATIONAL CARD SERVICES BV
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'510030':
+  bin: '510030'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: SEB KORT AB (HELSINKI BRANCH)
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'510031':
+  bin: '510031'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: AGRICULTURAL BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'510032':
+  bin: '510032'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: EUROPAY
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'510033':
+  bin: '510033'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BANCO CETELEM, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'510034':
+  bin: '510034'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: BANCO CETELEM, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'510035':
+  bin: '510035'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: JOINT STOCK SAVINGS BANK BELARUSBANK
+  country:
+    alpha_2: BY
+    alpha_3: BLR
+    name: Belarus
+'510036':
+  bin: '510036'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANC SABADELL D'ANDORRA, S.A.
+  country:
+    alpha_2: AD
+    alpha_3: AND
+    name: Andorra
+'510037':
+  bin: '510037'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: GENERAL BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'510038':
+  bin: '510038'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: OJSC COMMERCIAL BANK PETROCOMMERCE
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'510039':
+  bin: '510039'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: OJSC COMMERCIAL BANK PETROCOMMERCE
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'510040':
+  bin: '510040'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: 5STAR BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'510041':
+  bin: '510041'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: UMB BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'510042':
+  bin: '510042'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: EUROPAY
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'510043':
+  bin: '510043'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: FINANCE AND TRADE BANK - FINCOMBANK
+  country:
+    alpha_2: MD
+    alpha_3: MDA
+    name: Moldova, Republic of
+'510044':
+  bin: '510044'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: EUROPAY
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'510045':
+  bin: '510045'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: INVEST-BANK, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'510046':
+  bin: '510046'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: ISRAEL CREDIT CARDS, LTD.
+  country:
+    alpha_2: IL
+    alpha_3: ISR
+    name: Israel
+'510047':
+  bin: '510047'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: JSC RUSSIAN STANDARD BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'510048':
+  bin: '510048'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: LG PETRO BANK, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'510049':
+  bin: '510049'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: LEUMICARD, LTD.
+  country:
+    alpha_2: IL
+    alpha_3: ISR
+    name: Israel
+'510050':
+  bin: '510050'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: MUNICIPAL BANK PLC
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'510051':
+  bin: '510051'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: MASTERCAJAS, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'510052':
+  bin: '510052'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: MASTERCAJAS, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'510053':
+  bin: '510053'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: PIRAEUS BANK, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'510054':
+  bin: '510054'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: YAPI VE KREDI BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'510055':
+  bin: '510055'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANK OF TRADE UNIONS SOLIDARITY AND SOCIAL INVESTMENT (SOLIDARNOST)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'510056':
+  bin: '510056'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: TURKIYE HALK BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'510057':
+  bin: '510057'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'510058':
+  bin: '510058'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CREDIT SUISSE
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'510059':
+  bin: '510059'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANK OF TRADE UNIONS SOLIDARITY AND SOCIAL INVESTMENT (SOLIDARNOST)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'510060':
+  bin: '510060'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SOCIEDAD ESPANOLA DE MEDIOS DE PAGOS (SEMP)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'510061':
+  bin: '510061'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'510062':
+  bin: '510062'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA
+  country:
+    alpha_2: ME
+    alpha_3: MNE
+    name: Montenegro
+'510063':
+  bin: '510063'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: DENIZBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'510064':
+  bin: '510064'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: INVEST-BANK, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'510065':
+  bin: '510065'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: COLUMBUS BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'510066':
+  bin: '510066'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FIRST PREMIER BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'510067':
+  bin: '510067'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'510068':
+  bin: '510068'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: NORDEA BANK POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'510069':
+  bin: '510069'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: ZAO RAIFFEISENBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'510070':
+  bin: '510070'
+  brand: MASTERCARD
+  type: CREDIT
+  category: NEW WORLD
+  issuer: ZAO RAIFFEISENBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'510071':
+  bin: '510071'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'510072':
+  bin: '510072'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BANCO ESPANOL DE CREDITO (BANESTO)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'510073':
+  bin: '510073'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BANCO AZTECA DE GUATEMALA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'510074':
+  bin: '510074'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'510075':
+  bin: '510075'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANK OF TRADE UNIONS SOLIDARITY AND SOCIAL INVESTMENT (SOLIDARNOST)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'510076':
+  bin: '510076'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: AS SMP BANK
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'510077':
+  bin: '510077'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: UNICREDIT BULBANK A.D.
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'510078':
+  bin: '510078'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: UNICREDIT BULBANK A.D.
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'510079':
+  bin: '510079'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: SANTANDER CONSUMER BANK S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'510080':
+  bin: '510080'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: GE CAPITAL BANK, A.S.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'510081':
+  bin: '510081'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: FIRST GULF BANK PJSC
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'510082':
+  bin: '510082'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: COMMERCIAL BANK MASTER-BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'510083':
+  bin: '510083'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: IKTISAT BANKASI TURK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'510084':
+  bin: '510084'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: TATRA BANKA, A.S.
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'510085':
+  bin: '510085'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BBAC S.A.L
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'510086':
+  bin: '510086'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: FIRSTMERIT BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'510087':
+  bin: '510087'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BANCO SANTANDER, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'510088':
+  bin: '510088'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCO SANTANDER CENTRAL HISPANO, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'510089':
+  bin: '510089'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: ITAU UNIBANCO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'510090':
+  bin: '510090'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'510091':
+  bin: '510091'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: JSC REGIONALA INVESTICIJU BANKA
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'510092':
+  bin: '510092'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: JSC RUSSIAN STANDARD BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'510093':
+  bin: '510093'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: OTP BANK JSC
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'510094':
+  bin: '510094'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: OTP BANK JSC
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'510095':
+  bin: '510095'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BANCA MONTE DEI PASCHI DI SIENA
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'510096':
+  bin: '510096'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: SC CITADELE BANKA
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'510097':
+  bin: '510097'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'510098':
+  bin: '510098'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: JSCB ROSBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'510099':
+  bin: '510099'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: ALPHA BANK
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece

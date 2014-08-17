@@ -1,0 +1,1001 @@
+---
+'491800':
+  bin: '491800'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GE MONEY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491801':
+  bin: '491801'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491802':
+  bin: '491802'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ARVEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491803':
+  bin: '491803'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANKIA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491804':
+  bin: '491804'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAJA DE AHORROS DE MADRID (CAJA MADRID)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491805':
+  bin: '491805'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO CAIXA GERAL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491806':
+  bin: '491806'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO CAIXA GERAL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491807':
+  bin: '491807'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: MASHREQBANK
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'491808':
+  bin: '491808'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DG BANK DEUTSCHE GENOSSENSCHAFTSBANK
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'491809':
+  bin: '491809'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: COMMERCIAL BANK OF QATAR (Q.S.C.)
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'491810':
+  bin: '491810'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: COMMERCIAL BANK OF QATAR (Q.S.C.)
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'491811':
+  bin: '491811'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: KEYBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491812':
+  bin: '491812'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BARCLAYS BANK, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491813':
+  bin: '491813'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BARCLAYS BANK S.A.E.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491814':
+  bin: '491814'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAJA DE AHORROS DE MADRID (CAJA MADRID)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491815':
+  bin: '491815'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'491816':
+  bin: '491816'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DAIEI OMC, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'491817':
+  bin: '491817'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CANARA BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'491818':
+  bin: '491818'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORWEGIAN TELECOM
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'491819':
+  bin: '491819'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NORDEA BANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'491820':
+  bin: '491820'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DZ BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'491821':
+  bin: '491821'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DZ BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'491822':
+  bin: '491822'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: UNITED OVERSEAS BANK (MALAYSIA) BHD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'491823':
+  bin: '491823'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAJA DE AHORROS DE MADRID (CAJA MADRID)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491824':
+  bin: '491824'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491825':
+  bin: '491825'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CESKOSLOVENSKA OBCHODNI BANKA, A.S.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'491826':
+  bin: '491826'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'491827':
+  bin: '491827'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'491828':
+  bin: '491828'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: RIVER REGION C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491829':
+  bin: '491829'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAJA DE AHORROS DE MADRID (CAJA MADRID)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491830':
+  bin: '491830'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST PRIVATE BANK, LTD.
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'491831':
+  bin: '491831'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAJA DE AHORROS DE MADRID (CAJA MADRID)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491832':
+  bin: '491832'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CITIBANK
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'491833':
+  bin: '491833'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CITIBANK
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'491834':
+  bin: '491834'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ROYAL BANK OF SCOTLAND PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'491835':
+  bin: '491835'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DIRECTO, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491836':
+  bin: '491836'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAJA DE AHORROS DE MADRID (CAJA MADRID)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491837':
+  bin: '491837'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CAIXA DESTALVIS DE MANRESA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491838':
+  bin: '491838'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CAJA AHORROS GERONA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491839':
+  bin: '491839'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CAIXA PENEDES (CAJA DE AHORROS DEL PENEDES)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491840':
+  bin: '491840'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCAJA (CAJA DE AHORROS DE VALENCIA, CASTELLON Y ALICANTE)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491841':
+  bin: '491841'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAJA DE AHORROS DE MADRID (CAJA MADRID)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491842':
+  bin: '491842'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CAJA AHORROS DE TARRAGONA (CAIXA TARRAGONA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491843':
+  bin: '491843'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CAJA DE AHORROS Y MONTE DE PIEDAD DE GIPUZKOA Y SAN SEBASTIA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491844':
+  bin: '491844'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CAIXA D'ESTALVIS UNIO DE CAIXES DE MANLLEU, SABADELL Y TERRA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491845':
+  bin: '491845'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAJA DE AHORROS DE MADRID (CAJA MADRID)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491846':
+  bin: '491846'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: IBERCAJA (CAJA DE AHORROS Y MONTE DE PIEDAD DE ZARAGOZA ARAG
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491847':
+  bin: '491847'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CAJA ESPANA DE INVERSIONES C.A. Y M.P. (CAJA ESPANA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491848':
+  bin: '491848'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CAIXA DESTALVIS DE CATALUNYA (CAJA DE AHORROS DE CATALUNA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491849':
+  bin: '491849'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA (DUPLICATED BID SEE 10021435)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491850':
+  bin: '491850'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491851':
+  bin: '491851'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491852':
+  bin: '491852'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE ALICANTE, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491853':
+  bin: '491853'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CAIXA D'ESTALVIS I PENSIONS/DE AHORROS Y PENSIONES DE BARCELONA (LA CAIXA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491854':
+  bin: '491854'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAJA DE AHORROS DE MADRID (CAJA MADRID)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491855':
+  bin: '491855'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAJA DE AHORROS DE MADRID (CAJA MADRID)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491856':
+  bin: '491856'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CREDIT SAISON CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'491857':
+  bin: '491857'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DAH SING BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'491858':
+  bin: '491858'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: DAH SING BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'491859':
+  bin: '491859'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: DANSKE BANK A/S SVERIGE FILAL
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'491860':
+  bin: '491860'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CAJA RURAL PROVINCIAL DE SORIA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491861':
+  bin: '491861'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAJA POSTAL DE AHORROS
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491862':
+  bin: '491862'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAJA POSTAL DE AHORROS
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491863':
+  bin: '491863'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SECURITY NATIONAL BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491864':
+  bin: '491864'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CAJA RURAL PROVINCIAL DE CORDOBA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491865':
+  bin: '491865'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491866':
+  bin: '491866'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DAIEI OMC, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'491867':
+  bin: '491867'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491868':
+  bin: '491868'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FORENINGSSPARBANKEN AB (PUBL).
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'491869':
+  bin: '491869'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAJA DE AHORROS DE MADRID (CAJA MADRID)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491870':
+  bin: '491870'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: COMPASS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491871':
+  bin: '491871'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SCOTIABANK INVERLAT, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'491872':
+  bin: '491872'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SCOTIABANK INVERLAT, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'491873':
+  bin: '491873'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: SCOTIABANK INVERLAT, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'491874':
+  bin: '491874'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: MONTE DE PIEDAD Y CAJA DE AHORROS DE HUELVA Y SEVILLA (EL MONTE)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491875':
+  bin: '491875'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491876':
+  bin: '491876'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: IRISH NATIONWIDE BUILDING SOCIETY
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'491877':
+  bin: '491877'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491878':
+  bin: '491878'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: EBS BUILDING SOCIETY
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'491879':
+  bin: '491879'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491880':
+  bin: '491880'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANK OF CYPRUS (LONDON), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'491881':
+  bin: '491881'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HANG SENG BANK, LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491882':
+  bin: '491882'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO SANTANDER, S.A.
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'491883':
+  bin: '491883'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO SANTANDER, S.A.
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'491884':
+  bin: '491884'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491885':
+  bin: '491885'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAJA DE AHORROS DE MADRID (CAJA MADRID)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491886':
+  bin: '491886'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'491887':
+  bin: '491887'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'491888':
+  bin: '491888'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491889':
+  bin: '491889'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SKANDIABANKEN
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'491890':
+  bin: '491890'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ALPINE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491891':
+  bin: '491891'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIC BANK INTERNATIONAL, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'491892':
+  bin: '491892'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CITIC BANK INTERNATIONAL, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'491893':
+  bin: '491893'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: AIB BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491894':
+  bin: '491894'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VIKING BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491895':
+  bin: '491895'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: VIKING BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491896':
+  bin: '491896'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VIKING BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491897':
+  bin: '491897'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FEDCHOICE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491898':
+  bin: '491898'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MOTOROLA EMPLOYEES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491899':
+  bin: '491899'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAJA DE AHORROS DE MADRID (CAJA MADRID)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain

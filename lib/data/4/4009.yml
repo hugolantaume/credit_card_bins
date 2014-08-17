@@ -1,0 +1,1001 @@
+---
+'400900':
+  bin: '400900'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WASHINGTONFIRST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400901':
+  bin: '400901'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400902':
+  bin: '400902'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: OVERSEA-CHINESE BANKING CORP., LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'400903':
+  bin: '400903'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: OVERSEA-CHINESE BANKING CORP., LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'400904':
+  bin: '400904'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: SHINHAN CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'400905':
+  bin: '400905'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SHINHAN CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'400906':
+  bin: '400906'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SHINHAN CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'400907':
+  bin: '400907'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: SAMSUNG CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'400908':
+  bin: '400908'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400909':
+  bin: '400909'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400910':
+  bin: '400910'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400911':
+  bin: '400911'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SAMSUNG CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'400912':
+  bin: '400912'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SAMSUNG CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'400913':
+  bin: '400913'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SAMSUNG CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'400914':
+  bin: '400914'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AUTOMOTIVE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400915':
+  bin: '400915'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: DSK BANK PLC
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'400916':
+  bin: '400916'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO CITIBANK (PANAMA), S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'400917':
+  bin: '400917'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: CITIBANK DEL PERU, S.A.
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'400918':
+  bin: '400918'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DIABLO VALLEY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400919':
+  bin: '400919'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400920':
+  bin: '400920'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BUCKS COUNTY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400921':
+  bin: '400921'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: EURO 6000, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'400922':
+  bin: '400922'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: TEXAS CAPITAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400923':
+  bin: '400923'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'400924':
+  bin: '400924'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SINGING RIVER F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400925':
+  bin: '400925'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: BANCO PICHINCHA, C.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'400926':
+  bin: '400926'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CITIBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400927':
+  bin: '400927'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400928':
+  bin: '400928'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ASSOCIATED BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400929':
+  bin: '400929'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ASSOCIATED BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400930':
+  bin: '400930'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ASSOCIATED BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400931':
+  bin: '400931'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ASSOCIATED BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400932':
+  bin: '400932'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ASSOCIATED BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400933':
+  bin: '400933'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SHINHAN CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'400934':
+  bin: '400934'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'400935':
+  bin: '400935'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CHANG HWA COMMERCIAL BANK, LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'400936':
+  bin: '400936'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST STATE BANK OF ST. CHARLES, MISSOURI
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400937':
+  bin: '400937'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'400938':
+  bin: '400938'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'400939':
+  bin: '400939'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'400940':
+  bin: '400940'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'400941':
+  bin: '400941'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'400942':
+  bin: '400942'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'400943':
+  bin: '400943'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AVAL CARD (COSTA RICA), S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'400944':
+  bin: '400944'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CITIBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400945':
+  bin: '400945'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MEMBERS ADVANTAGE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400946':
+  bin: '400946'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF CHINA
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'400947':
+  bin: '400947'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO UNO, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'400948':
+  bin: '400948'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF EAST ASIA, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'400949':
+  bin: '400949'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: M AND I BANK OF SOUTHERN WISCONSIN
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400950':
+  bin: '400950'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'400951':
+  bin: '400951'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'400952':
+  bin: '400952'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'400953':
+  bin: '400953'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'400954':
+  bin: '400954'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'400955':
+  bin: '400955'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF CHINA
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'400956':
+  bin: '400956'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: AVAL GOLD, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'400957':
+  bin: '400957'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAIXA ECONOMICA FEDERAL
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'400958':
+  bin: '400958'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAIXA ECONOMICA FEDERAL
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'400959':
+  bin: '400959'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CAIXA ECONOMICA FEDERAL
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'400960':
+  bin: '400960'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAIXA ECONOMICA FEDERAL
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'400961':
+  bin: '400961'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF CHINA
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'400962':
+  bin: '400962'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF CHINA
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'400963':
+  bin: '400963'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: U.S. BANK N.A. ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400964':
+  bin: '400964'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BAIDURI BANK BHD
+  country:
+    alpha_2: BN
+    alpha_3: BRN
+    name: Brunei Darussalam
+'400965':
+  bin: '400965'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BAIDURI BANK BHD
+  country:
+    alpha_2: BN
+    alpha_3: BRN
+    name: Brunei Darussalam
+'400966':
+  bin: '400966'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ATTIJARIWAFA BANK SENEGAL
+  country:
+    alpha_2: SN
+    alpha_3: SEN
+    name: Senegal
+'400967':
+  bin: '400967'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: ATTIJARIWAFA BANK SENEGAL
+  country:
+    alpha_2: SN
+    alpha_3: SEN
+    name: Senegal
+'400968':
+  bin: '400968'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ATTIJARIWAFA BANK SENEGAL
+  country:
+    alpha_2: SN
+    alpha_3: SEN
+    name: Senegal
+'400969':
+  bin: '400969'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ATTIJARIWAFA BANK SENEGAL
+  country:
+    alpha_2: SN
+    alpha_3: SEN
+    name: Senegal
+'400970':
+  bin: '400970'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAIXA ECONOMICA FEDERAL
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'400971':
+  bin: '400971'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF CHINA
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'400972':
+  bin: '400972'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF CHINA
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'400973':
+  bin: '400973'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF CHINA
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'400974':
+  bin: '400974'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: FIRSTRAND BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'400975':
+  bin: '400975'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CITIBANK (HONG KONG), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'400976':
+  bin: '400976'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO PROMERICA, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'400977':
+  bin: '400977'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF CHINA
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'400978':
+  bin: '400978'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF CHINA
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'400979':
+  bin: '400979'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: FIRST SERVICE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400980':
+  bin: '400980'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: KELLOGG COMMUNITY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400981':
+  bin: '400981'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NOTRE DAME F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400982':
+  bin: '400982'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FORT BRAGG F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400983':
+  bin: '400983'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CHAMPAIGN NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400984':
+  bin: '400984'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIVE STAR BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400985':
+  bin: '400985'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: COMMONWEALTH BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400986':
+  bin: '400986'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: VENTURA COUNTY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400987':
+  bin: '400987'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: VIRGINIA BEACH SCHOOLS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400988':
+  bin: '400988'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: INWOOD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400989':
+  bin: '400989'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIRST FINANCIAL BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400990':
+  bin: '400990'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SHINHAN CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'400991':
+  bin: '400991'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GRUNDY NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400992':
+  bin: '400992'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: EAST WEST BANKING CORPORATION
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'400993':
+  bin: '400993'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: EAST WEST BANKING CORPORATION
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'400994':
+  bin: '400994'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: PHILAM SAVINGS BANK
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'400995':
+  bin: '400995'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MBANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400996':
+  bin: '400996'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'400997':
+  bin: '400997'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ELBERFELD STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400998':
+  bin: '400998'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FINANCIAL HEALTH F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'400999':
+  bin: '400999'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

@@ -1,0 +1,1001 @@
+---
+'462200':
+  bin: '462200'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'462201':
+  bin: '462201'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462202':
+  bin: '462202'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BB AND T FINANCIAL, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'462203':
+  bin: '462203'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'462204':
+  bin: '462204'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462205':
+  bin: '462205'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462206':
+  bin: '462206'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GE
+    alpha_3: GEO
+    name: Georgia
+'462207':
+  bin: '462207'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462208':
+  bin: '462208'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462209':
+  bin: '462209'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'462210':
+  bin: '462210'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'462211':
+  bin: '462211'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'462212':
+  bin: '462212'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'462213':
+  bin: '462213'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462214':
+  bin: '462214'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'462215':
+  bin: '462215'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'462216':
+  bin: '462216'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462217':
+  bin: '462217'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462218':
+  bin: '462218'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462219':
+  bin: '462219'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462220':
+  bin: '462220'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'462221':
+  bin: '462221'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462222':
+  bin: '462222'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462223':
+  bin: '462223'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462224':
+  bin: '462224'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'462225':
+  bin: '462225'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'462226':
+  bin: '462226'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'462227':
+  bin: '462227'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462228':
+  bin: '462228'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462229':
+  bin: '462229'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'462230':
+  bin: '462230'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462231':
+  bin: '462231'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462232':
+  bin: '462232'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462233':
+  bin: '462233'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462234':
+  bin: '462234'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: LA
+    alpha_3: LAO
+    name: Lao People's Democratic Republic
+'462235':
+  bin: '462235'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANK VTB24 (CJSC)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'462236':
+  bin: '462236'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'462237':
+  bin: '462237'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'462238':
+  bin: '462238'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'462239':
+  bin: '462239'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462240':
+  bin: '462240'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462241':
+  bin: '462241'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'462242':
+  bin: '462242'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CENTRAL BANK OF INDIA
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'462243':
+  bin: '462243'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CENTRAL BANK OF INDIA
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'462244':
+  bin: '462244'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CENTRAL BANK OF INDIA
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'462245':
+  bin: '462245'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'462246':
+  bin: '462246'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'462247':
+  bin: '462247'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'462248':
+  bin: '462248'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462249':
+  bin: '462249'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462250':
+  bin: '462250'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462251':
+  bin: '462251'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462252':
+  bin: '462252'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: LY
+    alpha_3: LBY
+    name: Libya
+'462253':
+  bin: '462253'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462254':
+  bin: '462254'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462255':
+  bin: '462255'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CRANE BANK, LTD.
+  country:
+    alpha_2: UG
+    alpha_3: UGA
+    name: Uganda
+'462256':
+  bin: '462256'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CRANE BANK, LTD.
+  country:
+    alpha_2: UG
+    alpha_3: UGA
+    name: Uganda
+'462257':
+  bin: '462257'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CRANE BANK, LTD.
+  country:
+    alpha_2: UG
+    alpha_3: UGA
+    name: Uganda
+'462258':
+  bin: '462258'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462259':
+  bin: '462259'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: INDUE, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462260':
+  bin: '462260'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462261':
+  bin: '462261'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF KATHMANDU, LTD.
+  country:
+    alpha_2: NP
+    alpha_3: NPL
+    name: Nepal
+'462262':
+  bin: '462262'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF KATHMANDU, LTD.
+  country:
+    alpha_2: NP
+    alpha_3: NPL
+    name: Nepal
+'462263':
+  bin: '462263'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ING BANK (AUSTRALIA), LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462264':
+  bin: '462264'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CANARA BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'462265':
+  bin: '462265'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF NEW ZEALAND
+  country:
+    alpha_2: NZ
+    alpha_3: NZL
+    name: New Zealand
+'462266':
+  bin: '462266'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462267':
+  bin: '462267'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: UNION BANK OF THE PHILIPPINES
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'462268':
+  bin: '462268'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'462269':
+  bin: '462269'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'462270':
+  bin: '462270'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'462271':
+  bin: '462271'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'462272':
+  bin: '462272'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'462273':
+  bin: '462273'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'462274':
+  bin: '462274'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: TURKIYE GARANTI BANKASI A. S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'462275':
+  bin: '462275'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'462276':
+  bin: '462276'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DENIZBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'462277':
+  bin: '462277'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'462278':
+  bin: '462278'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'462279':
+  bin: '462279'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'462280':
+  bin: '462280'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: PRIVREDNA BANKA ZAGREB D.D.
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'462281':
+  bin: '462281'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462282':
+  bin: '462282'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462283':
+  bin: '462283'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462284':
+  bin: '462284'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462285':
+  bin: '462285'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462286':
+  bin: '462286'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HSBC BANK MALAYSIA BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'462287':
+  bin: '462287'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'462288':
+  bin: '462288'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANGKOK BANK PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'462289':
+  bin: '462289'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462290':
+  bin: '462290'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462291':
+  bin: '462291'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462292':
+  bin: '462292'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462293':
+  bin: '462293'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462294':
+  bin: '462294'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462295':
+  bin: '462295'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462296':
+  bin: '462296'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462297':
+  bin: '462297'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462298':
+  bin: '462298'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'462299':
+  bin: '462299'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ANZ BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia

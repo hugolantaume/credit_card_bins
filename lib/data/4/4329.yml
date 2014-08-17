@@ -1,0 +1,1001 @@
+---
+'432900':
+  bin: '432900'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TIB - THE INDEPENDENT BANKERSBANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432901':
+  bin: '432901'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BRE BANK (MULTIBANK)
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'432902':
+  bin: '432902'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432903':
+  bin: '432903'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ARAB BANKING CORPORATION TUNISIE
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'432904':
+  bin: '432904'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ARAB BANKING CORPORATION TUNISIE
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'432905':
+  bin: '432905'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ARAB BANKING CORPORATION TUNISIE
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'432906':
+  bin: '432906'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ARAB BANKING CORPORATION TUNISIE
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'432907':
+  bin: '432907'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ARAB BANKING CORPORATION TUNISIE
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'432908':
+  bin: '432908'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ARAB BANKING CORPORATION TUNISIE
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'432909':
+  bin: '432909'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ARAB BANKING CORPORATION TUNISIE
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'432910':
+  bin: '432910'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432911':
+  bin: '432911'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432912':
+  bin: '432912'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SOUTHTRUST BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432913':
+  bin: '432913'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: CW
+    alpha_3: CUW
+    name: Curaçao
+'432914':
+  bin: '432914'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: GOSPODARCZY BANK WIELKOPOLSKI SA W POZNANIU
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'432915':
+  bin: '432915'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MAZOWIECKI BANK REGIONALNY SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'432916':
+  bin: '432916'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: CW
+    alpha_3: CUW
+    name: Curaçao
+'432917':
+  bin: '432917'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CARTASI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'432918':
+  bin: '432918'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CARTASI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'432919':
+  bin: '432919'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CARTASI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'432920':
+  bin: '432920'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CARTASI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'432921':
+  bin: '432921'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SOUTHTRUST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432922':
+  bin: '432922'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SOUTHTRUST BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432923':
+  bin: '432923'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HABERSHAM BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432924':
+  bin: '432924'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432925':
+  bin: '432925'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432926':
+  bin: '432926'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: RBC CENTURA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432927':
+  bin: '432927'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: JS FINANCE AND TRADE BANK
+  country:
+    alpha_2: MD
+    alpha_3: MDA
+    name: Moldova, Republic of
+'432928':
+  bin: '432928'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: POWERCO F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432929':
+  bin: '432929'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432930':
+  bin: '432930'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CARTASI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'432931':
+  bin: '432931'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CARTASI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'432932':
+  bin: '432932'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CARTASI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'432933':
+  bin: '432933'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CARTASI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'432934':
+  bin: '432934'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: EMPORIKI BANK - CYPRUS, LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'432935':
+  bin: '432935'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: EMPORIKI BANK - CYPRUS, LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'432936':
+  bin: '432936'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: EMPORIKI BANK - CYPRUS, LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'432937':
+  bin: '432937'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BRE BANK SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'432938':
+  bin: '432938'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BRE BANK SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'432939':
+  bin: '432939'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO UNION, S.A.
+  country:
+    alpha_2: BO
+    alpha_3: BOL
+    name: Bolivia, Plurinational State of
+'432940':
+  bin: '432940'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO SYGMA HISPANIA, SUCURSAL EN ESPANA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'432941':
+  bin: '432941'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: AMERICAN FOUNDERS BANK, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432942':
+  bin: '432942'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNICARD BANCO MULTIPLO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'432943':
+  bin: '432943'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO FININVEST, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'432944':
+  bin: '432944'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: UNICARD BANCO MULTIPLO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'432945':
+  bin: '432945'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BRE BANK SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'432946':
+  bin: '432946'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432947':
+  bin: '432947'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: OJSC OTP BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'432948':
+  bin: '432948'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: OJSC OTP BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'432949':
+  bin: '432949'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: OJSC OTP BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'432950':
+  bin: '432950'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO CITIBANK DE NICARAGUA, S.A
+  country:
+    alpha_2: NI
+    alpha_3: NIC
+    name: Nicaragua
+'432951':
+  bin: '432951'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432952':
+  bin: '432952'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432953':
+  bin: '432953'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432954':
+  bin: '432954'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SMOLENSKIY BANK LTD. LIABILITY COMPANY
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'432955':
+  bin: '432955'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: SMOLENSKIY BANK LTD. LIABILITY COMPANY
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'432956':
+  bin: '432956'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: SMOLENSKIY BANK LTD. LIABILITY COMPANY
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'432957':
+  bin: '432957'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COOP BANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'432958':
+  bin: '432958'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: COOP BANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'432959':
+  bin: '432959'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO MACRO, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'432960':
+  bin: '432960'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'432961':
+  bin: '432961'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GEORGIA FIRST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432962':
+  bin: '432962'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: AMERICAN NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432963':
+  bin: '432963'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432964':
+  bin: '432964'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432965':
+  bin: '432965'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CORPORACION DE CREDITOS Y SERVICIOS S.A.DE C.V. (SERVICREDIT S.A. DE C.V.)
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'432966':
+  bin: '432966'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: TCF NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432967':
+  bin: '432967'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432968':
+  bin: '432968'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432969':
+  bin: '432969'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432970':
+  bin: '432970'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432971':
+  bin: '432971'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432972':
+  bin: '432972'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432973':
+  bin: '432973'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TIB - THE INDEPENDENT BANKERSBANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432974':
+  bin: '432974'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: JSCB SOYUZ
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'432975':
+  bin: '432975'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432976':
+  bin: '432976'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AUBURNBANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432977':
+  bin: '432977'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ATLANTA POSTAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432978':
+  bin: '432978'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNITED BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432979':
+  bin: '432979'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CDC F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432980':
+  bin: '432980'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: CW
+    alpha_3: CUW
+    name: Curaçao
+'432981':
+  bin: '432981'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: CW
+    alpha_3: CUW
+    name: Curaçao
+'432982':
+  bin: '432982'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: CW
+    alpha_3: CUW
+    name: Curaçao
+'432983':
+  bin: '432983'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BIPITALIA DUCATO S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'432984':
+  bin: '432984'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BIPITALIA DUCATO S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'432985':
+  bin: '432985'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432986':
+  bin: '432986'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CAJA ESPANA DE INVERSIONES C.A. Y M.P. (CAJA ESPANA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'432987':
+  bin: '432987'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TENNESSEE STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432988':
+  bin: '432988'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK ESPANA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'432989':
+  bin: '432989'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAIXA ECONOMICA FEDERAL
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'432990':
+  bin: '432990'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432991':
+  bin: '432991'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: SILVER STATE SCHOOLS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432992':
+  bin: '432992'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SILVER STATE SCHOOLS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432993':
+  bin: '432993'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ROBINS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432994':
+  bin: '432994'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ROBINS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432995':
+  bin: '432995'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: TCF NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432996':
+  bin: '432996'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TCF NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432997':
+  bin: '432997'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BETHPAGE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432998':
+  bin: '432998'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: TCF NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432999':
+  bin: '432999'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TCF NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

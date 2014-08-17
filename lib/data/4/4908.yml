@@ -1,0 +1,1001 @@
+---
+'490800':
+  bin: '490800'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490801':
+  bin: '490801'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN
+  country:
+    alpha_2: TM
+    alpha_3: TKM
+    name: Turkmenistan
+'490802':
+  bin: '490802'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CRANE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490803':
+  bin: '490803'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK FOR FOREIGN TRADE (VNESHTORGBANK)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'490804':
+  bin: '490804'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VERBAND DER SPARDA BANKEN E.V.
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'490805':
+  bin: '490805'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ING BANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'490806':
+  bin: '490806'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ING BANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'490807':
+  bin: '490807'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ING BANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'490808':
+  bin: '490808'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ING BANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'490809':
+  bin: '490809'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: VTB BANK OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'490810':
+  bin: '490810'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BIG BANK GDANSKI, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'490811':
+  bin: '490811'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'490812':
+  bin: '490812'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: APS BANK, LTD.
+  country:
+    alpha_2: MT
+    alpha_3: MLT
+    name: Malta
+'490813':
+  bin: '490813'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MID MINNESOTA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490814':
+  bin: '490814'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MID MINNESOTA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490815':
+  bin: '490815'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF AUTOMOBILE INDUSTRY DEVELOPMENT (AVTOBANK)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'490816':
+  bin: '490816'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMERCIAL IMPORT-EXPORT BANK IMPEXBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'490817':
+  bin: '490817'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490818':
+  bin: '490818'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CJSC UNICREDIT BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'490819':
+  bin: '490819'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: UMPQUA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490820':
+  bin: '490820'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'490821':
+  bin: '490821'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANK BPH, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'490822':
+  bin: '490822'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: UNICREDIT S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'490823':
+  bin: '490823'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ING BANK SLASKI, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'490824':
+  bin: '490824'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: INTESA SANPAOLO S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'490825':
+  bin: '490825'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: INTESA SANPAOLO S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'490826':
+  bin: '490826'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: MAGYAR KULKERESKEDELMI BANK RT. (HUNGARIAN FOREIGN TRADE BANK)
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'490827':
+  bin: '490827'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABN AMRO (MAGYAR) BANK RT.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'490828':
+  bin: '490828'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABN AMRO (MAGYAR) BANK RT.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'490829':
+  bin: '490829'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CITIBANK PRIVATKUNDEN AG AND CO KGAA
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'490830':
+  bin: '490830'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO COMERCIAL PORTUGUES, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'490831':
+  bin: '490831'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO COMERCIAL PORTUGUES, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'490832':
+  bin: '490832'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO COMERCIAL PORTUGUES, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'490833':
+  bin: '490833'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490834':
+  bin: '490834'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490835':
+  bin: '490835'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490836':
+  bin: '490836'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: OTP BANK NYRT.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'490837':
+  bin: '490837'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ANZ BANKING GROUP
+  country:
+    alpha_2: NZ
+    alpha_3: NZL
+    name: New Zealand
+'490838':
+  bin: '490838'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ANZ BANKING GROUP
+  country:
+    alpha_2: NZ
+    alpha_3: NZL
+    name: New Zealand
+'490839':
+  bin: '490839'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NATIONAL BANK OF FIJI
+  country:
+    alpha_2: FJ
+    alpha_3: FJI
+    name: Fiji
+'490840':
+  bin: '490840'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NATIONAL BANK OF FIJI
+  country:
+    alpha_2: FJ
+    alpha_3: FJI
+    name: Fiji
+'490841':
+  bin: '490841'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO ESPIRITO SANTO, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'490842':
+  bin: '490842'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490843':
+  bin: '490843'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: STADTSPARKASSE MUENCHEN
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'490844':
+  bin: '490844'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: PIRAEUS BANK, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'490845':
+  bin: '490845'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PIRAEUS BANK, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'490846':
+  bin: '490846'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PIRAEUS BANK, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'490847':
+  bin: '490847'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PAREX BANK
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'490848':
+  bin: '490848'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: PAREX BANK
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'490849':
+  bin: '490849'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: LATVIA SAVINGS BANK (LATVIA KRAJBANKA)
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'490850':
+  bin: '490850'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: INTERNATIONAL BANK OF ST-PETERSBURG PLC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'490851':
+  bin: '490851'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CREDIT UNION OF GEORGIA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490852':
+  bin: '490852'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'490853':
+  bin: '490853'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST STATE BANK AND TRUST COMPANY, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490854':
+  bin: '490854'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: MOSSTROIBANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490855':
+  bin: '490855'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CJSC UNICREDIT BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'490856':
+  bin: '490856'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490857':
+  bin: '490857'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF CHINA, LTD.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'490858':
+  bin: '490858'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK OF CHINA, LTD.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'490859':
+  bin: '490859'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'490860':
+  bin: '490860'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'490861':
+  bin: '490861'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: LEXINGTON STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490862':
+  bin: '490862'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK FOR FOREIGN TRADE (VNESHTORGBANK)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'490863':
+  bin: '490863'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'490864':
+  bin: '490864'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'490865':
+  bin: '490865'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490866':
+  bin: '490866'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'490867':
+  bin: '490867'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'490868':
+  bin: '490868'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490869':
+  bin: '490869'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BUFFALO POSTAL COMMUNITY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490870':
+  bin: '490870'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BIG BANK GDANSKI, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'490871':
+  bin: '490871'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ARVEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490872':
+  bin: '490872'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ARVEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490873':
+  bin: '490873'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ARVEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490874':
+  bin: '490874'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ARVEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490875':
+  bin: '490875'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ARVEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490876':
+  bin: '490876'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ARVEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490877':
+  bin: '490877'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ARVEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490878':
+  bin: '490878'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ARVEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490879':
+  bin: '490879'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ARVEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490880':
+  bin: '490880'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ARVEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490881':
+  bin: '490881'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ARVEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490882':
+  bin: '490882'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ARVEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490883':
+  bin: '490883'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ARVEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490884':
+  bin: '490884'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ARVEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490885':
+  bin: '490885'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ARVEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490886':
+  bin: '490886'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490887':
+  bin: '490887'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490888':
+  bin: '490888'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ARVEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490889':
+  bin: '490889'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490890':
+  bin: '490890'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490891':
+  bin: '490891'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: INTERNATIONAL BANK OF ST-PETERSBURG PLC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'490892':
+  bin: '490892'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490893':
+  bin: '490893'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490894':
+  bin: '490894'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490895':
+  bin: '490895'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490896':
+  bin: '490896'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WESTERN NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490897':
+  bin: '490897'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490898':
+  bin: '490898'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490899':
+  bin: '490899'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK OF CLARKSDALE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

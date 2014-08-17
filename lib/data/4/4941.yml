@@ -1,0 +1,1001 @@
+---
+'494100':
+  bin: '494100'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TOPRAKBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'494101':
+  bin: '494101'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: TOPRAKBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'494102':
+  bin: '494102'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: TOPRAKBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'494103':
+  bin: '494103'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494104':
+  bin: '494104'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NATIONAL BANK OF NEW ZEALAND, LTD.
+  country:
+    alpha_2: NZ
+    alpha_3: NZL
+    name: New Zealand
+'494105':
+  bin: '494105'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: MU
+    alpha_3: MUS
+    name: Mauritius
+'494106':
+  bin: '494106'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK WINDHOEK, LTD.
+  country:
+    alpha_2: NA
+    alpha_3: NAM
+    name: Namibia
+'494107':
+  bin: '494107'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: BANK WINDHOEK, LTD.
+  country:
+    alpha_2: NA
+    alpha_3: NAM
+    name: Namibia
+'494108':
+  bin: '494108'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494109':
+  bin: '494109'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: THAI MILITARY BANK PUBLIC COMPANY, LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'494110':
+  bin: '494110'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: MASHREQBANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'494111':
+  bin: '494111'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: MASHREQBANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'494112':
+  bin: '494112'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494113':
+  bin: '494113'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494114':
+  bin: '494114'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIONAL BANK OF ABU DHABI
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'494115':
+  bin: '494115'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIONAL BANK OF ABU DHABI
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'494116':
+  bin: '494116'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: DEUTSCHE POSTBANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'494117':
+  bin: '494117'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ETCHEVERRIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'494118':
+  bin: '494118'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UBS AG
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'494119':
+  bin: '494119'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCA PUEYO
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'494120':
+  bin: '494120'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HSBC BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'494121':
+  bin: '494121'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'494122':
+  bin: '494122'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK
+  country:
+    alpha_2: PK
+    alpha_3: PAK
+    name: Pakistan
+'494123':
+  bin: '494123'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CITIBANK
+  country:
+    alpha_2: PK
+    alpha_3: PAK
+    name: Pakistan
+'494124':
+  bin: '494124'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: GRAND COMMERCIAL BANK
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'494125':
+  bin: '494125'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: GRAND COMMERCIAL BANK
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'494126':
+  bin: '494126'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK OF KAOHSIUNG
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'494127':
+  bin: '494127'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF KAOHSIUNG
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'494128':
+  bin: '494128'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: KING'S TOWN BANK
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'494129':
+  bin: '494129'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TAINAN BUSINESS BANK
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'494130':
+  bin: '494130'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: LLOYDS TSB BANK PLC, SUCURSAL EN ESPANA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'494131':
+  bin: '494131'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: MONTE DE PIEDAD Y CAJA DE AHORROS DE GUADALAJARA, HUELVA, JE
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'494132':
+  bin: '494132'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494133':
+  bin: '494133'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO SANTANDER S.A. INST. DE BANCA MULTIPLE GRUPO FINANCIERO SANTANDER
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'494134':
+  bin: '494134'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO SANTANDER S.A. INST. DE BANCA MULTIPLE GRUPO FINANCIERO SANTANDER
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'494135':
+  bin: '494135'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494136':
+  bin: '494136'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494137':
+  bin: '494137'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: EVOLVE BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494138':
+  bin: '494138'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494139':
+  bin: '494139'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JEANNE D'ARC C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494140':
+  bin: '494140'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: JEANNE D'ARC C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494141':
+  bin: '494141'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JEANNE D'ARC C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494142':
+  bin: '494142'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DZ BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'494143':
+  bin: '494143'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST A NATIONAL BANKING ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494144':
+  bin: '494144'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST A NATIONAL BANKING ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494145':
+  bin: '494145'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST A NATIONAL BANKING ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494146':
+  bin: '494146'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO BHD, S.A.
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'494147':
+  bin: '494147'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: TZ
+    alpha_3: TZA
+    name: Tanzania, United Republic of
+'494148':
+  bin: '494148'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: GLOBAL BANK CORPORATION
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'494149':
+  bin: '494149'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494150':
+  bin: '494150'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO AMAMBAY, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'494151':
+  bin: '494151'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO GENERAL, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'494152':
+  bin: '494152'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO GENERAL, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'494153':
+  bin: '494153'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO COMERCIAL PORTUGUES, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'494154':
+  bin: '494154'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CHASE BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494155':
+  bin: '494155'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'494156':
+  bin: '494156'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: FIRST A NATIONAL BANKING ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494157':
+  bin: '494157'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: FIRST A NATIONAL BANKING ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494158':
+  bin: '494158'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: FIRST A NATIONAL BANKING ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494159':
+  bin: '494159'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: FIRST A NATIONAL BANKING ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494160':
+  bin: '494160'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: FIRST A NATIONAL BANKING ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494161':
+  bin: '494161'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: AMARILLO NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494162':
+  bin: '494162'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO GENERAL, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'494163':
+  bin: '494163'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO DE COMERCIO
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'494164':
+  bin: '494164'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO SANTANDER CENTRAL HISPANO - PERU
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'494165':
+  bin: '494165'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494166':
+  bin: '494166'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: NBK BANK
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'494167':
+  bin: '494167'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494168':
+  bin: '494168'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO REPUBLICA
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'494169':
+  bin: '494169'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO WIESE SUDAMERIS S.A.A. - BWS
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'494170':
+  bin: '494170'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'494171':
+  bin: '494171'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: GLOBAL BANK CORPORATION
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'494172':
+  bin: '494172'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO SAENZ, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'494173':
+  bin: '494173'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO SAENZ, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'494174':
+  bin: '494174'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO CONTINENTAL, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'494175':
+  bin: '494175'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO CONTINENTAL, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'494176':
+  bin: '494176'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST A NATIONAL BANKING ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494177':
+  bin: '494177'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CITIZENS GUARANTY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494178':
+  bin: '494178'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CHARTWAY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494179':
+  bin: '494179'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: COMMONWEALTH BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494180':
+  bin: '494180'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MUTUAL BANK OF THE CARIBBEAN, INC.
+  country:
+    alpha_2: BB
+    alpha_3: BRB
+    name: Barbados
+'494181':
+  bin: '494181'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494182':
+  bin: '494182'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494183':
+  bin: '494183'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494184':
+  bin: '494184'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: GRUPO INTERNACIONAL DE FINANZAS S.A.E.C.A. (GRUPO INTERFISA)
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'494185':
+  bin: '494185'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: GRUPO INTERNACIONAL DE FINANZAS S.A.E.C.A. (GRUPO INTERFISA)
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'494186':
+  bin: '494186'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494187':
+  bin: '494187'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494188':
+  bin: '494188'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494189':
+  bin: '494189'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494190':
+  bin: '494190'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: VENTAS INTERNACIONALES, S.A. DE C.V.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'494191':
+  bin: '494191'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494192':
+  bin: '494192'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FINANCIERA PARAPITI, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'494193':
+  bin: '494193'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494194':
+  bin: '494194'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494195':
+  bin: '494195'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO SANTANDER CENTRAL HISPANO - PERU
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'494196':
+  bin: '494196'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494197':
+  bin: '494197'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO DE MONTEVIDEO, S.A.
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'494198':
+  bin: '494198'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'494199':
+  bin: '494199'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

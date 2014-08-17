@@ -1,0 +1,1001 @@
+---
+'492200':
+  bin: '492200'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: CITIBANK
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'492201':
+  bin: '492201'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO INTERCONTINENTAL, S.A.
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'492202':
+  bin: '492202'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO INTERCONTINENTAL, S.A.
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'492203':
+  bin: '492203'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO SUDECOR LITORAL COOPERATIVO LTDO.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'492204':
+  bin: '492204'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO SUDECOR LITORAL COOPERATIVO LTDO.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'492205':
+  bin: '492205'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO SUDECOR LITORAL COOPERATIVO LTDO.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'492206':
+  bin: '492206'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO CAIXA GERAL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'492207':
+  bin: '492207'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HFC BANK, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'492208':
+  bin: '492208'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'492209':
+  bin: '492209'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO INTERCONTINENTAL, S.A.
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'492210':
+  bin: '492210'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE CHILE
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'492211':
+  bin: '492211'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NEPAL GRINDLAYS BANK, LTD.
+  country:
+    alpha_2: NP
+    alpha_3: NPL
+    name: Nepal
+'492212':
+  bin: '492212'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SECURITY EXCHANGE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'492213':
+  bin: '492213'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NEDBANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'492214':
+  bin: '492214'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TOHO CREDIT SERVICE, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492215':
+  bin: '492215'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: TOHO CREDIT SERVICE, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492216':
+  bin: '492216'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AKITA INTERNATIONAL CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492217':
+  bin: '492217'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: AKITA INTERNATIONAL CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492218':
+  bin: '492218'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: KIYO CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492219':
+  bin: '492219'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: KIYO CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492220':
+  bin: '492220'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VUI I CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492221':
+  bin: '492221'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: VUI I CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492222':
+  bin: '492222'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AOGIN CREDIT CARD COMPANY
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492223':
+  bin: '492223'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: AOGIN CREDIT CARD COMPANY
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492224':
+  bin: '492224'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NANTO CARD SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492225':
+  bin: '492225'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NANTO CARD SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492226':
+  bin: '492226'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: YACHIYO BANK CREDIT SERVICE CO.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492227':
+  bin: '492227'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: YACHIYO BANK CREDIT SERVICE CO.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492228':
+  bin: '492228'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: YAMAGIN CREDIT CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492229':
+  bin: '492229'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: YAMAGIN CREDIT CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492230':
+  bin: '492230'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CITI CARDS JAPAN, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492231':
+  bin: '492231'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VJA
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492232':
+  bin: '492232'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: 77 CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492233':
+  bin: '492233'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: 77 CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492234':
+  bin: '492234'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SURUGA BANK, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492235':
+  bin: '492235'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SURUGA BANK, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492236':
+  bin: '492236'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VJA
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492237':
+  bin: '492237'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: VJA
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492238':
+  bin: '492238'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: KOCHI CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492239':
+  bin: '492239'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: KOCHI CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492240':
+  bin: '492240'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CHUGIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492241':
+  bin: '492241'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CHUGIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492242':
+  bin: '492242'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: KEIYOGIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492243':
+  bin: '492243'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HOKURIKU CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492244':
+  bin: '492244'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: 77 CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492245':
+  bin: '492245'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SUMISHIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492246':
+  bin: '492246'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: TOKYO CREDIT SERVICES, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492247':
+  bin: '492247'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: TOKYO CREDIT SERVICES, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492248':
+  bin: '492248'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VJA
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492249':
+  bin: '492249'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA JAPAN ASSOCIATION
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492250':
+  bin: '492250'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: KINKI SHINKIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492251':
+  bin: '492251'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: KINKI SHINKIN CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492252':
+  bin: '492252'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: KINKI SHINKIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492253':
+  bin: '492253'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HOKKOKU CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492254':
+  bin: '492254'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TOKYO CREDIT SERVICES, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492255':
+  bin: '492255'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: TOKYO CREDIT SERVICES, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492256':
+  bin: '492256'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HOKKOKU CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492257':
+  bin: '492257'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: GUNGIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492258':
+  bin: '492258'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: GUNGIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492259':
+  bin: '492259'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MIEGIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492260':
+  bin: '492260'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: MIEGIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492261':
+  bin: '492261'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CHUGOKU SHINKIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492262':
+  bin: '492262'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CHUGOKU SHINKIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492263':
+  bin: '492263'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SHIKOKU SHINKIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492264':
+  bin: '492264'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SHIKOKU SHINKIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492265':
+  bin: '492265'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: KANSAI CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492266':
+  bin: '492266'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: KANSAI CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492267':
+  bin: '492267'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SUMISHIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492268':
+  bin: '492268'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SUMISHIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492269':
+  bin: '492269'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: RESONA CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492270':
+  bin: '492270'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: RESONA CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492271':
+  bin: '492271'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: RESONA CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492272':
+  bin: '492272'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TOHOKU SHINKIN BANK CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492273':
+  bin: '492273'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: TOHOKU SHINKIN BANK CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492274':
+  bin: '492274'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: GOGIN CREDIT CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492275':
+  bin: '492275'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: GOGIN CREDIT CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492276':
+  bin: '492276'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: KYUSHU SHINKIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492277':
+  bin: '492277'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: KYUSHU SHINKIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492278':
+  bin: '492278'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CHUBU SHINKIN BANK CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492279':
+  bin: '492279'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CITI CARDS JAPAN, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492280':
+  bin: '492280'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CHUBU SHINKIN BANK CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492281':
+  bin: '492281'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITICORP CARD SERVICE, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492282':
+  bin: '492282'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: CITI CARDS JAPAN, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492283':
+  bin: '492283'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SUMISEI CARD SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492284':
+  bin: '492284'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SUMISEI CARD SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492285':
+  bin: '492285'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DOGIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492286':
+  bin: '492286'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: DOGIN CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492287':
+  bin: '492287'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VJA
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492288':
+  bin: '492288'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: VJA
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492289':
+  bin: '492289'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: KYUSHU CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492290':
+  bin: '492290'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SOFCU COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'492291':
+  bin: '492291'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CITIBANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'492292':
+  bin: '492292'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'492293':
+  bin: '492293'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'492294':
+  bin: '492294'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: BN
+    alpha_3: BRN
+    name: Brunei Darussalam
+'492295':
+  bin: '492295'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CARTASI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'492296':
+  bin: '492296'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CARTASI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'492297':
+  bin: '492297'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: SERVIZI INTERBANCARI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'492298':
+  bin: '492298'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: SERVIZI INTERBANCARI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'492299':
+  bin: '492299'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom

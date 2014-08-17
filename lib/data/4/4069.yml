@@ -1,0 +1,1001 @@
+---
+'406900':
+  bin: '406900'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406901':
+  bin: '406901'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: STANBIC BANK BOTSWANA, LTD.
+  country:
+    alpha_2: BW
+    alpha_3: BWA
+    name: Botswana
+'406902':
+  bin: '406902'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: STANBIC BANK BOTSWANA, LTD.
+  country:
+    alpha_2: BW
+    alpha_3: BWA
+    name: Botswana
+'406903':
+  bin: '406903'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STANBIC BANK BOTSWANA, LTD.
+  country:
+    alpha_2: BW
+    alpha_3: BWA
+    name: Botswana
+'406904':
+  bin: '406904'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: CFC STANBIC BANK, LTD.
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'406905':
+  bin: '406905'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: STANBIC BANK KENYA, LTD.
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'406906':
+  bin: '406906'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406907':
+  bin: '406907'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'406908':
+  bin: '406908'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STANBIC BANK KENYA, LTD.
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'406909':
+  bin: '406909'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: STANBIC BANK ZIMBABWE, LTD.
+  country:
+    alpha_2: ZW
+    alpha_3: ZWE
+    name: Zimbabwe
+'406910':
+  bin: '406910'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: STANBIC BANK GHANA, LTD.
+  country:
+    alpha_2: GH
+    alpha_3: GHA
+    name: Ghana
+'406911':
+  bin: '406911'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406912':
+  bin: '406912'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406913':
+  bin: '406913'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STANBIC BANK ZIMBABWE, LTD.
+  country:
+    alpha_2: ZW
+    alpha_3: ZWE
+    name: Zimbabwe
+'406914':
+  bin: '406914'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STANDARD BANK SWAZILAND, LTD.
+  country:
+    alpha_2: SZ
+    alpha_3: SWZ
+    name: Swaziland
+'406915':
+  bin: '406915'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BW
+    alpha_3: BWA
+    name: Botswana
+'406916':
+  bin: '406916'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: STANDARD BANK LIMITED MALAWI
+  country:
+    alpha_2: MW
+    alpha_3: MWI
+    name: Malawi
+'406917':
+  bin: '406917'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STANDARD BANK LESOTHO, LTD.
+  country:
+    alpha_2: LS
+    alpha_3: LSO
+    name: Lesotho
+'406918':
+  bin: '406918'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: STANBIC BANK UGANDA, LTD.
+  country:
+    alpha_2: UG
+    alpha_3: UGA
+    name: Uganda
+'406919':
+  bin: '406919'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: STANBIC BANK UGANDA, LTD.
+  country:
+    alpha_2: UG
+    alpha_3: UGA
+    name: Uganda
+'406920':
+  bin: '406920'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STANBIC BANK UGANDA, LTD.
+  country:
+    alpha_2: UG
+    alpha_3: UGA
+    name: Uganda
+'406921':
+  bin: '406921'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UG
+    alpha_3: UGA
+    name: Uganda
+'406922':
+  bin: '406922'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UG
+    alpha_3: UGA
+    name: Uganda
+'406923':
+  bin: '406923'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: STANDARD BANK LIMITED MALAWI
+  country:
+    alpha_2: MW
+    alpha_3: MWI
+    name: Malawi
+'406924':
+  bin: '406924'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: STANDARD BANK LIMITED MALAWI
+  country:
+    alpha_2: MW
+    alpha_3: MWI
+    name: Malawi
+'406925':
+  bin: '406925'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STANBIC BANK MALAWI
+  country:
+    alpha_2: MW
+    alpha_3: MWI
+    name: Malawi
+'406926':
+  bin: '406926'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MW
+    alpha_3: MWI
+    name: Malawi
+'406927':
+  bin: '406927'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MW
+    alpha_3: MWI
+    name: Malawi
+'406928':
+  bin: '406928'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: STANBIC BANK BOTSWANA, LTD.
+  country:
+    alpha_2: BW
+    alpha_3: BWA
+    name: Botswana
+'406929':
+  bin: '406929'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: STANBIC BANK GHANA, LTD.
+  country:
+    alpha_2: GH
+    alpha_3: GHA
+    name: Ghana
+'406930':
+  bin: '406930'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: STANBIC BANK ZIMBABWE, LTD.
+  country:
+    alpha_2: ZW
+    alpha_3: ZWE
+    name: Zimbabwe
+'406931':
+  bin: '406931'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STANBIC BANK GHANA, LTD.
+  country:
+    alpha_2: GH
+    alpha_3: GHA
+    name: Ghana
+'406932':
+  bin: '406932'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GH
+    alpha_3: GHA
+    name: Ghana
+'406933':
+  bin: '406933'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GH
+    alpha_3: GHA
+    name: Ghana
+'406934':
+  bin: '406934'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: STANBIC BANK ZAMBIA, LTD.
+  country:
+    alpha_2: ZM
+    alpha_3: ZMB
+    name: Zambia
+'406935':
+  bin: '406935'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: STANBIC BANK ZAMBIA, LTD.
+  country:
+    alpha_2: ZM
+    alpha_3: ZMB
+    name: Zambia
+'406936':
+  bin: '406936'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STANBIC BANK ZAMBIA, LTD.
+  country:
+    alpha_2: ZM
+    alpha_3: ZMB
+    name: Zambia
+'406937':
+  bin: '406937'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ZM
+    alpha_3: ZMB
+    name: Zambia
+'406938':
+  bin: '406938'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ZM
+    alpha_3: ZMB
+    name: Zambia
+'406939':
+  bin: '406939'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: STANDARD BANK SARL
+  country:
+    alpha_2: MZ
+    alpha_3: MOZ
+    name: Mozambique
+'406940':
+  bin: '406940'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: STANDARD BANK SARL
+  country:
+    alpha_2: MZ
+    alpha_3: MOZ
+    name: Mozambique
+'406941':
+  bin: '406941'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STANDARD BANK SARL
+  country:
+    alpha_2: MZ
+    alpha_3: MOZ
+    name: Mozambique
+'406942':
+  bin: '406942'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: GH
+    alpha_3: GHA
+    name: Ghana
+'406943':
+  bin: '406943'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: MZ
+    alpha_3: MOZ
+    name: Mozambique
+'406944':
+  bin: '406944'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: STANBIC BANK BOTSWANA, LTD.
+  country:
+    alpha_2: BW
+    alpha_3: BWA
+    name: Botswana
+'406945':
+  bin: '406945'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: UG
+    alpha_3: UGA
+    name: Uganda
+'406946':
+  bin: '406946'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: UG
+    alpha_3: UGA
+    name: Uganda
+'406947':
+  bin: '406947'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: STANDARD BANK OF SOUTH AFRICA, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'406948':
+  bin: '406948'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: STANDARD BANK OF SOUTH AFRICA, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'406949':
+  bin: '406949'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406950':
+  bin: '406950'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406951':
+  bin: '406951'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'406952':
+  bin: '406952'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'406953':
+  bin: '406953'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406954':
+  bin: '406954'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'406955':
+  bin: '406955'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'406956':
+  bin: '406956'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'406957':
+  bin: '406957'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406958':
+  bin: '406958'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406959':
+  bin: '406959'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'406960':
+  bin: '406960'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'406961':
+  bin: '406961'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RW
+    alpha_3: RWA
+    name: Rwanda
+'406962':
+  bin: '406962'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RW
+    alpha_3: RWA
+    name: Rwanda
+'406963':
+  bin: '406963'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RW
+    alpha_3: RWA
+    name: Rwanda
+'406964':
+  bin: '406964'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'406965':
+  bin: '406965'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406966':
+  bin: '406966'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KW
+    alpha_3: KWT
+    name: Kuwait
+'406967':
+  bin: '406967'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406968':
+  bin: '406968'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406969':
+  bin: '406969'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BY
+    alpha_3: BLR
+    name: Belarus
+'406970':
+  bin: '406970'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BA
+    alpha_3: BIH
+    name: Bosnia and Herzegovina
+'406971':
+  bin: '406971'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BA
+    alpha_3: BIH
+    name: Bosnia and Herzegovina
+'406972':
+  bin: '406972'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406973':
+  bin: '406973'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406974':
+  bin: '406974'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CD
+    alpha_3: COD
+    name: Congo, The Democratic Republic of the
+'406975':
+  bin: '406975'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CD
+    alpha_3: COD
+    name: Congo, The Democratic Republic of the
+'406976':
+  bin: '406976'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406977':
+  bin: '406977'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406978':
+  bin: '406978'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406979':
+  bin: '406979'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406980':
+  bin: '406980'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'406981':
+  bin: '406981'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406982':
+  bin: '406982'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406983':
+  bin: '406983'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406984':
+  bin: '406984'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'406985':
+  bin: '406985'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406986':
+  bin: '406986'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406987':
+  bin: '406987'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406988':
+  bin: '406988'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406989':
+  bin: '406989'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'406990':
+  bin: '406990'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406991':
+  bin: '406991'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406992':
+  bin: '406992'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406993':
+  bin: '406993'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406994':
+  bin: '406994'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406995':
+  bin: '406995'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'406996':
+  bin: '406996'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406997':
+  bin: '406997'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'406998':
+  bin: '406998'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'406999':
+  bin: '406999'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina

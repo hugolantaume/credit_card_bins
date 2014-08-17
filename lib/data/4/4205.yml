@@ -1,0 +1,861 @@
+---
+'420500':
+  bin: '420500'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420501':
+  bin: '420501'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420502':
+  bin: '420502'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NUMERICA C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420503':
+  bin: '420503'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420504':
+  bin: '420504'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420510':
+  bin: '420510'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420511':
+  bin: '420511'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420512':
+  bin: '420512'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420513':
+  bin: '420513'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420514':
+  bin: '420514'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420515':
+  bin: '420515'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420516':
+  bin: '420516'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420517':
+  bin: '420517'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420518':
+  bin: '420518'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420519':
+  bin: '420519'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420520':
+  bin: '420520'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420521':
+  bin: '420521'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420522':
+  bin: '420522'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420523':
+  bin: '420523'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420524':
+  bin: '420524'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420525':
+  bin: '420525'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420526':
+  bin: '420526'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420527':
+  bin: '420527'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420528':
+  bin: '420528'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420529':
+  bin: '420529'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420530':
+  bin: '420530'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420531':
+  bin: '420531'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420532':
+  bin: '420532'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420533':
+  bin: '420533'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420534':
+  bin: '420534'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420535':
+  bin: '420535'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420536':
+  bin: '420536'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420537':
+  bin: '420537'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420538':
+  bin: '420538'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420539':
+  bin: '420539'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420540':
+  bin: '420540'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420541':
+  bin: '420541'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420542':
+  bin: '420542'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420545':
+  bin: '420545'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORDEA BANK POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'420546':
+  bin: '420546'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: KREDYT BANK, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'420547':
+  bin: '420547'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: KREDYT BANK, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'420548':
+  bin: '420548'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CHONG HING BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'420549':
+  bin: '420549'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF NEW ZEALAND
+  country:
+    alpha_2: NZ
+    alpha_3: NZL
+    name: New Zealand
+'420550':
+  bin: '420550'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO CITIBANK DE COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'420551':
+  bin: '420551'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO CITIBANK DE COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'420552':
+  bin: '420552'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BRE BANK SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'420553':
+  bin: '420553'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANK OF AZERBAIJAN OJSC
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'420554':
+  bin: '420554'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BIDVEST BANK
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'420555':
+  bin: '420555'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: CV
+    alpha_3: CPV
+    name: Cape Verde
+'420556':
+  bin: '420556'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'420557':
+  bin: '420557'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'420559':
+  bin: '420559'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO POPULAR
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'420562':
+  bin: '420562'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNITED OVERSEAS BANK(THAI)PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'420563':
+  bin: '420563'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420564':
+  bin: '420564'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BARCLAYS BANK TANZANIA, LTD.
+  country:
+    alpha_2: TZ
+    alpha_3: TZA
+    name: Tanzania, United Republic of
+'420565':
+  bin: '420565'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CMP, S.A.
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'420566':
+  bin: '420566'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO COMERCIAL PORTUGUES, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'420567':
+  bin: '420567'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: VOLKSWAGEN BANK GMBH
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'420568':
+  bin: '420568'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ASOCIACION BARAHONA DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'420569':
+  bin: '420569'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: IMAGE BANK - JSCB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'420570':
+  bin: '420570'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'420571':
+  bin: '420571'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NORDEA BANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'420572':
+  bin: '420572'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: TZ
+    alpha_3: TZA
+    name: Tanzania, United Republic of
+'420573':
+  bin: '420573'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SWEDBANK, A.S.
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'420574':
+  bin: '420574'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: OJSC BANK PETROCOMMERCE
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'420575':
+  bin: '420575'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BUTTERFIELD BANK (CAYMAN), LTD.
+  country:
+    alpha_2: KY
+    alpha_3: CYM
+    name: Cayman Islands
+'420579':
+  bin: '420579'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: K AND H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOE
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'420580':
+  bin: '420580'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ICICI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'420582':
+  bin: '420582'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITICORP
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'420583':
+  bin: '420583'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: UNION NATIONAL BANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'420584':
+  bin: '420584'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: BO
+    alpha_3: BOL
+    name: Bolivia, Plurinational State of
+'420585':
+  bin: '420585'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANQUE MISR
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'420586':
+  bin: '420586'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420587':
+  bin: '420587'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'420588':
+  bin: '420588'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'420589':
+  bin: '420589'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIGROUP
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'420590':
+  bin: '420590'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO MERCANTIL FINASA S.A. - SAO PAULO
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'420591':
+  bin: '420591'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO CITIBANK DE HONDURAS, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'420592':
+  bin: '420592'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BANCORP BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420593':
+  bin: '420593'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BANCORP BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420594':
+  bin: '420594'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO INTERNACIONAL, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'420595':
+  bin: '420595'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: OMAN INTERNATIONAL BANK S.A.O.
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'420596':
+  bin: '420596'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: OMAN INTERNATIONAL BANK S.A.O.
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'420597':
+  bin: '420597'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: B AND N BANK (JSC)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'420598':
+  bin: '420598'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANQUE MISR
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'420599':
+  bin: '420599'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CAJA DE CREDITO DEL COLEGIO DE INGENIEROS DE CATALUNA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain

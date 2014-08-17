@@ -1,0 +1,621 @@
+---
+'676200':
+  bin: '676200'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KZ
+    alpha_3: KAZ
+    name: Kazakhstan
+'676203':
+  bin: '676203'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BY
+    alpha_3: BLR
+    name: Belarus
+'676204':
+  bin: '676204'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KZ
+    alpha_3: KAZ
+    name: Kazakhstan
+'676205':
+  bin: '676205'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KZ
+    alpha_3: KAZ
+    name: Kazakhstan
+'676206':
+  bin: '676206'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'676208':
+  bin: '676208'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'676209':
+  bin: '676209'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'676210':
+  bin: '676210'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'676211':
+  bin: '676211'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'676214':
+  bin: '676214'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SI
+    alpha_3: SVN
+    name: Slovenia
+'676215':
+  bin: '676215'
+  brand: MAESTRO
+  type: ''
+  category: DEBIT
+  issuer: NATWEST
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'676216':
+  bin: '676216'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'676217':
+  bin: '676217'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: OJSC RAIFFEISEN BANK AVAL
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'676219':
+  bin: '676219'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'676221':
+  bin: '676221'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'676224':
+  bin: '676224'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: CESKOSLOVENSKA OBCHODNI BANKA, A.S.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'676226':
+  bin: '676226'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SI
+    alpha_3: SVN
+    name: Slovenia
+'676227':
+  bin: '676227'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'676229':
+  bin: '676229'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'676230':
+  bin: '676230'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'676231':
+  bin: '676231'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'676233':
+  bin: '676233'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: CESKOSLOVENSKA OBCHODNI BANKA, A.S.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'676234':
+  bin: '676234'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'676236':
+  bin: '676236'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'676237':
+  bin: '676237'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'676241':
+  bin: '676241'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'676245':
+  bin: '676245'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'676246':
+  bin: '676246'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'676248':
+  bin: '676248'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: OAO AKB BALTIKA
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'676250':
+  bin: '676250'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'676251':
+  bin: '676251'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'676252':
+  bin: '676252'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'676253':
+  bin: '676253'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'676254':
+  bin: '676254'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'676255':
+  bin: '676255'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'676258':
+  bin: '676258'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'676259':
+  bin: '676259'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: EE
+    alpha_3: EST
+    name: Estonia
+'676261':
+  bin: '676261'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'676262':
+  bin: '676262'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'676263':
+  bin: '676263'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'676264':
+  bin: '676264'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'676265':
+  bin: '676265'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'676266':
+  bin: '676266'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'676267':
+  bin: '676267'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'676268':
+  bin: '676268'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SI
+    alpha_3: SVN
+    name: Slovenia
+'676270':
+  bin: '676270'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SI
+    alpha_3: SVN
+    name: Slovenia
+'676271':
+  bin: '676271'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'676272':
+  bin: '676272'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'676273':
+  bin: '676273'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'676274':
+  bin: '676274'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'676276':
+  bin: '676276'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: KERESKEDELMI ES HITELBANK RT. - K AND H RT.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'676279':
+  bin: '676279'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'676280':
+  bin: '676280'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: SBERBANK OF RUSSIA
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'676282':
+  bin: '676282'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MK
+    alpha_3: MKD
+    name: Macedonia, Republic of
+'676283':
+  bin: '676283'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'676289':
+  bin: '676289'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'676292':
+  bin: '676292'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'676293':
+  bin: '676293'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'676295':
+  bin: '676295'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'676296':
+  bin: '676296'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'676297':
+  bin: '676297'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: SISTEMA 4B, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'676299':
+  bin: '676299'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain

@@ -1,0 +1,21 @@
+---
+'370000':
+  bin: '370000'
+  brand: AMERICAN EXPRESS
+  type: CREDIT
+  category: ''
+  issuer: ACME
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'370001':
+  bin: '370001'
+  brand: AMERICAN EXPRESS
+  type: CREDIT
+  category: ''
+  issuer: AMERICAN EXPRESS COMPANY
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India

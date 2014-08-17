@@ -1,0 +1,1001 @@
+---
+'425000':
+  bin: '425000'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425001':
+  bin: '425001'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425002':
+  bin: '425002'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425003':
+  bin: '425003'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425004':
+  bin: '425004'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425005':
+  bin: '425005'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425006':
+  bin: '425006'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425007':
+  bin: '425007'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425008':
+  bin: '425008'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425009':
+  bin: '425009'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425010':
+  bin: '425010'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425011':
+  bin: '425011'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425012':
+  bin: '425012'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425013':
+  bin: '425013'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425014':
+  bin: '425014'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425015':
+  bin: '425015'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425016':
+  bin: '425016'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425017':
+  bin: '425017'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425018':
+  bin: '425018'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425019':
+  bin: '425019'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425020':
+  bin: '425020'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425021':
+  bin: '425021'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425022':
+  bin: '425022'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425023':
+  bin: '425023'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425024':
+  bin: '425024'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425025':
+  bin: '425025'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425026':
+  bin: '425026'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425027':
+  bin: '425027'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425028':
+  bin: '425028'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425029':
+  bin: '425029'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF TENNESSEE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425030':
+  bin: '425030'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425031':
+  bin: '425031'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425032':
+  bin: '425032'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425033':
+  bin: '425033'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425034':
+  bin: '425034'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425035':
+  bin: '425035'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425036':
+  bin: '425036'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425037':
+  bin: '425037'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CLEARPATH F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425038':
+  bin: '425038'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425039':
+  bin: '425039'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425040':
+  bin: '425040'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425041':
+  bin: '425041'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425042':
+  bin: '425042'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425043':
+  bin: '425043'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425044':
+  bin: '425044'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425045':
+  bin: '425045'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425046':
+  bin: '425046'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425047':
+  bin: '425047'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425048':
+  bin: '425048'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425049':
+  bin: '425049'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425050':
+  bin: '425050'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425051':
+  bin: '425051'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425052':
+  bin: '425052'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425053':
+  bin: '425053'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425054':
+  bin: '425054'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425055':
+  bin: '425055'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425056':
+  bin: '425056'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FORT WORTH CITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425057':
+  bin: '425057'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425058':
+  bin: '425058'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425059':
+  bin: '425059'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425060':
+  bin: '425060'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425061':
+  bin: '425061'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425062':
+  bin: '425062'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425063':
+  bin: '425063'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425064':
+  bin: '425064'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425065':
+  bin: '425065'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425066':
+  bin: '425066'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425067':
+  bin: '425067'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425068':
+  bin: '425068'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425069':
+  bin: '425069'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: COASTAL COMMUNITY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425070':
+  bin: '425070'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425071':
+  bin: '425071'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425072':
+  bin: '425072'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425073':
+  bin: '425073'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425074':
+  bin: '425074'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425075':
+  bin: '425075'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425076':
+  bin: '425076'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425077':
+  bin: '425077'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425078':
+  bin: '425078'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425079':
+  bin: '425079'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425080':
+  bin: '425080'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425081':
+  bin: '425081'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425082':
+  bin: '425082'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425083':
+  bin: '425083'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425084':
+  bin: '425084'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425085':
+  bin: '425085'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425086':
+  bin: '425086'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425087':
+  bin: '425087'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425088':
+  bin: '425088'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425089':
+  bin: '425089'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425090':
+  bin: '425090'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425091':
+  bin: '425091'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425092':
+  bin: '425092'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425093':
+  bin: '425093'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425094':
+  bin: '425094'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425095':
+  bin: '425095'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425096':
+  bin: '425096'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425097':
+  bin: '425097'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425098':
+  bin: '425098'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425099':
+  bin: '425099'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CAPITAL COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

@@ -1,0 +1,41 @@
+---
+'580901':
+  bin: '580901'
+  brand: MAESTRO
+  type: DEBIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'580902':
+  bin: '580902'
+  brand: MAESTRO
+  type: DEBIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'580905':
+  bin: '580905'
+  brand: MAESTRO
+  type: DEBIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'580919':
+  bin: '580919'
+  brand: MAESTRO
+  type: DEBIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

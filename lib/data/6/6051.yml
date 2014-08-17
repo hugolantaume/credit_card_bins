@@ -1,0 +1,31 @@
+---
+'605119':
+  bin: '605119'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'605141':
+  bin: '605141'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: STARBUCKS CARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'605159':
+  bin: '605159'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

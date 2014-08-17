@@ -1,0 +1,991 @@
+---
+'517000':
+  bin: '517000'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: CITIBANK EUROPE PLC., ORG. SL.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'517001':
+  bin: '517001'
+  brand: MASTERCARD
+  type: DEBIT
+  category: GOLD
+  issuer: CITIBANK EUROPE PLC., ORG. SL.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'517002':
+  bin: '517002'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: CITIBANK EUROPE PLC., ORG. SL.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'517003':
+  bin: '517003'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: CITIBANK EUROPE PLC., ORG. SL.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'517004':
+  bin: '517004'
+  brand: MASTERCARD
+  type: DEBIT
+  category: GOLD
+  issuer: CITIBANK EUROPE PLC., ORG. SL.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'517005':
+  bin: '517005'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: CITIBANK EUROPE PLC., ORG. SL.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'517006':
+  bin: '517006'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517007':
+  bin: '517007'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517008':
+  bin: '517008'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517009':
+  bin: '517009'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517010':
+  bin: '517010'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517011':
+  bin: '517011'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517012':
+  bin: '517012'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517013':
+  bin: '517013'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517014':
+  bin: '517014'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517015':
+  bin: '517015'
+  brand: MASTERCARD
+  type: DEBIT
+  category: GOLD
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517016':
+  bin: '517016'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517017':
+  bin: '517017'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517018':
+  bin: '517018'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517019':
+  bin: '517019'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517020':
+  bin: '517020'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517021':
+  bin: '517021'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517022':
+  bin: '517022'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517023':
+  bin: '517023'
+  brand: MASTERCARD
+  type: DEBIT
+  category: GOLD
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517024':
+  bin: '517024'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517025':
+  bin: '517025'
+  brand: MASTERCARD
+  type: DEBIT
+  category: GOLD
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517026':
+  bin: '517026'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517027':
+  bin: '517027'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517028':
+  bin: '517028'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517029':
+  bin: '517029'
+  brand: MASTERCARD
+  type: DEBIT
+  category: GOLD
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517030':
+  bin: '517030'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517031':
+  bin: '517031'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517032':
+  bin: '517032'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517033':
+  bin: '517033'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517034':
+  bin: '517034'
+  brand: MASTERCARD
+  type: DEBIT
+  category: GOLD
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517035':
+  bin: '517035'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517036':
+  bin: '517036'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517037':
+  bin: '517037'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517038':
+  bin: '517038'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517039':
+  bin: '517039'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517040':
+  bin: '517040'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: TURKIYE GARANTI BANKASI A. S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'517041':
+  bin: '517041'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: GARANTI
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'517042':
+  bin: '517042'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: GARANTI
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'517043':
+  bin: '517043'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'517044':
+  bin: '517044'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: EBS BUILDING SOCIETY
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'517045':
+  bin: '517045'
+  brand: MASTERCARD
+  type: DEBIT
+  category: GOLD
+  issuer: ROMANIAN COMMERCIAL BANK, S.A. - BANCA COMERCIALA ROMANA, S.A.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'517047':
+  bin: '517047'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: DENIZBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'517048':
+  bin: '517048'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: TURKIYE GARANTI BANKASI A. S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'517049':
+  bin: '517049'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'517050':
+  bin: '517050'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517051':
+  bin: '517051'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517052':
+  bin: '517052'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517053':
+  bin: '517053'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517054':
+  bin: '517054'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FIRST DATA CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517055':
+  bin: '517055'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517056':
+  bin: '517056'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517057':
+  bin: '517057'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517058':
+  bin: '517058'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FIRST DATA CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517059':
+  bin: '517059'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517060':
+  bin: '517060'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FIRST DATA CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517061':
+  bin: '517061'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517062':
+  bin: '517062'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517063':
+  bin: '517063'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517064':
+  bin: '517064'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FIRST DATA CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517065':
+  bin: '517065'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517066':
+  bin: '517066'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517067':
+  bin: '517067'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517068':
+  bin: '517068'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517069':
+  bin: '517069'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517070':
+  bin: '517070'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517071':
+  bin: '517071'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517072':
+  bin: '517072'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517073':
+  bin: '517073'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517074':
+  bin: '517074'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FIRST DATA CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517075':
+  bin: '517075'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FIRST DATA CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517076':
+  bin: '517076'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517077':
+  bin: '517077'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517078':
+  bin: '517078'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FIRST DATA CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517079':
+  bin: '517079'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FIRST DATA CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517080':
+  bin: '517080'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517081':
+  bin: '517081'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517082':
+  bin: '517082'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FIRST DATA CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517083':
+  bin: '517083'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517084':
+  bin: '517084'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517085':
+  bin: '517085'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517086':
+  bin: '517086'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FIRST DATA CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517087':
+  bin: '517087'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517088':
+  bin: '517088'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FIRST DATA CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517089':
+  bin: '517089'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517090':
+  bin: '517090'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517091':
+  bin: '517091'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517092':
+  bin: '517092'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517093':
+  bin: '517093'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FIRST DATA CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517094':
+  bin: '517094'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517095':
+  bin: '517095'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517096':
+  bin: '517096'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FIRST DATA CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517097':
+  bin: '517097'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517098':
+  bin: '517098'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FIRST DATA CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517099':
+  bin: '517099'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

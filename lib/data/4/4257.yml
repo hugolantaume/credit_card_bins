@@ -1,0 +1,1001 @@
+---
+'425700':
+  bin: '425700'
+  brand: VISA
+  type: DEBIT
+  category: CORPORATE T&E
+  issuer: NOUVOBANQ - SEYCHELLES INTERNATIONAL MERCANTILE BANKING CORP.
+  country:
+    alpha_2: SC
+    alpha_3: SYC
+    name: Seychelles
+'425701':
+  bin: '425701'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: NEDBANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'425702':
+  bin: '425702'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANQUE LAURENTIENNE DU CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'425703':
+  bin: '425703'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'425704':
+  bin: '425704'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425705':
+  bin: '425705'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: BANCO SANTANDER, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425706':
+  bin: '425706'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: BANCO SANTANDER, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425707':
+  bin: '425707'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425708':
+  bin: '425708'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: GE CAPITAL BANK, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'425709':
+  bin: '425709'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: DRESDNER BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'425710':
+  bin: '425710'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425711':
+  bin: '425711'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCA NAZIONALE DEL LAVORO S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'425712':
+  bin: '425712'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425713':
+  bin: '425713'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425714':
+  bin: '425714'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'425715':
+  bin: '425715'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: FIRSTRAND BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'425716':
+  bin: '425716'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: BMW BANK GMBH
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'425717':
+  bin: '425717'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'425718':
+  bin: '425718'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BAYERISCHE LANDESBANK
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'425719':
+  bin: '425719'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: NATIONAL WESTMINSTER BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'425720':
+  bin: '425720'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425721':
+  bin: '425721'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425722':
+  bin: '425722'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'425723':
+  bin: '425723'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: BAYERISCHE LANDESBANK GIROZENTRALE
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'425724':
+  bin: '425724'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CAIXA DESTALVIS DE CATALUNYA (CAJA DE AHORROS DE CATALUNA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425725':
+  bin: '425725'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CAIXA DESTALVIS DE CATALUNYA (CAJA DE AHORROS DE CATALUNA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425726':
+  bin: '425726'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CITIBANK RT.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'425727':
+  bin: '425727'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: CITIBANK INTERNATIONAL PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'425728':
+  bin: '425728'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: VISA BELGIUM
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'425729':
+  bin: '425729'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: SOLBANK SBD, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425730':
+  bin: '425730'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: SOLBANK SBD, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425731':
+  bin: '425731'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: BANCO DE ASTURIAS, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425732':
+  bin: '425732'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: BANCO DE ASTURIAS, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425733':
+  bin: '425733'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCA SELLA HOLDING S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'425734':
+  bin: '425734'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425735':
+  bin: '425735'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425736':
+  bin: '425736'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425737':
+  bin: '425737'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425738':
+  bin: '425738'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425739':
+  bin: '425739'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425740':
+  bin: '425740'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425741':
+  bin: '425741'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425742':
+  bin: '425742'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: BANCO DE ANDALUCIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425743':
+  bin: '425743'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO DE ANDALUCIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425744':
+  bin: '425744'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: BANCO DE CREDITO BALEAR, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425745':
+  bin: '425745'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425746':
+  bin: '425746'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425747':
+  bin: '425747'
+  brand: VISA
+  type: ''
+  category: BUSINESS
+  issuer: CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'425748':
+  bin: '425748'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: CITIBANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'425749':
+  bin: '425749'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ROYAL BANK OF SCOTLAND PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'425750':
+  bin: '425750'
+  brand: VISA
+  type: DEBIT
+  category: CORPORATE T&E
+  issuer: ERSTE AND STEIERMARKISCHE BANK D.D.
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'425751':
+  bin: '425751'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425752':
+  bin: '425752'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANK AUSTRIA CREDITANSTALT D.D. LJUBLJANA
+  country:
+    alpha_2: SI
+    alpha_3: SVN
+    name: Slovenia
+'425753':
+  bin: '425753'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425754':
+  bin: '425754'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425755':
+  bin: '425755'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425756':
+  bin: '425756'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425757':
+  bin: '425757'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'425758':
+  bin: '425758'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425759':
+  bin: '425759'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425760':
+  bin: '425760'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425761':
+  bin: '425761'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425762':
+  bin: '425762'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425763':
+  bin: '425763'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425764':
+  bin: '425764'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425765':
+  bin: '425765'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425766':
+  bin: '425766'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'425767':
+  bin: '425767'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425768':
+  bin: '425768'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425769':
+  bin: '425769'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425770':
+  bin: '425770'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425771':
+  bin: '425771'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425772':
+  bin: '425772'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425773':
+  bin: '425773'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425774':
+  bin: '425774'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425775':
+  bin: '425775'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425776':
+  bin: '425776'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425777':
+  bin: '425777'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425778':
+  bin: '425778'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425779':
+  bin: '425779'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425780':
+  bin: '425780'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425781':
+  bin: '425781'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425782':
+  bin: '425782'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425783':
+  bin: '425783'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425784':
+  bin: '425784'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425785':
+  bin: '425785'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425786':
+  bin: '425786'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425787':
+  bin: '425787'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425788':
+  bin: '425788'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425789':
+  bin: '425789'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425790':
+  bin: '425790'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425791':
+  bin: '425791'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425792':
+  bin: '425792'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425793':
+  bin: '425793'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425794':
+  bin: '425794'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425795':
+  bin: '425795'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425796':
+  bin: '425796'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425797':
+  bin: '425797'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425798':
+  bin: '425798'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425799':
+  bin: '425799'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

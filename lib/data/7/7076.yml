@@ -1,0 +1,31 @@
+---
+'707630':
+  bin: '707630'
+  brand: CHJONES FUEL CARD
+  type: ''
+  category: ''
+  issuer: KEY FUELS BUNKER+
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'707665':
+  bin: '707665'
+  brand: RED FUEL CARD
+  type: ''
+  category: ''
+  issuer: LIQUIDCARD
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'707666':
+  bin: '707666'
+  brand: UK FUEL CARD
+  type: ''
+  category: ''
+  issuer: TEXACO FUEL CARD
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom

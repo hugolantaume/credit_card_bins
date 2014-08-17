@@ -1,0 +1,1001 @@
+---
+'468900':
+  bin: '468900'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: PREMIER BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'468901':
+  bin: '468901'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468902':
+  bin: '468902'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468903':
+  bin: '468903'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468904':
+  bin: '468904'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SAINT KITTS AND NEVIS-ANGUILLA NATIONAL BANK, LTD.
+  country:
+    alpha_2: KN
+    alpha_3: KNA
+    name: Saint Kitts and Nevis
+'468905':
+  bin: '468905'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ST. KITTS-NEVIS-ANGUILLA NATIONAL BANK, LTD.
+  country:
+    alpha_2: KN
+    alpha_3: KNA
+    name: Saint Kitts and Nevis
+'468906':
+  bin: '468906'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: SAINT KITTS AND NEVIS-ANGUILLA NATIONAL BANK, LTD.
+  country:
+    alpha_2: KN
+    alpha_3: KNA
+    name: Saint Kitts and Nevis
+'468907':
+  bin: '468907'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: SAINT KITTS AND NEVIS-ANGUILLA NATIONAL BANK, LTD.
+  country:
+    alpha_2: KN
+    alpha_3: KNA
+    name: Saint Kitts and Nevis
+'468908':
+  bin: '468908'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: SAMSUNG CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'468909':
+  bin: '468909'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SAMSUNG CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'468910':
+  bin: '468910'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'468911':
+  bin: '468911'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SAMSUNG CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'468912':
+  bin: '468912'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: SHINHAN CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'468913':
+  bin: '468913'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SHINHAN CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'468914':
+  bin: '468914'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SHINHAN CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'468915':
+  bin: '468915'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BNP PARIBAS BANK POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'468916':
+  bin: '468916'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BNP PARIBAS BANK POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'468917':
+  bin: '468917'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: MAURITIUS COMMERCIAL BANK (MOCAMBIQUE), S.A.
+  country:
+    alpha_2: MZ
+    alpha_3: MOZ
+    name: Mozambique
+'468918':
+  bin: '468918'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCA COMERCIALA ROMANA, S.A.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'468919':
+  bin: '468919'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'468920':
+  bin: '468920'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'468921':
+  bin: '468921'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BRE BANK SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'468922':
+  bin: '468922'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BRE BANK SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'468923':
+  bin: '468923'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: BRE BANK SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'468924':
+  bin: '468924'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BRE BANK SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'468925':
+  bin: '468925'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BRE BANK SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'468926':
+  bin: '468926'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468927':
+  bin: '468927'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NORDEA BANK POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'468928':
+  bin: '468928'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NORDEA BANK POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'468929':
+  bin: '468929'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'468930':
+  bin: '468930'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468931':
+  bin: '468931'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468932':
+  bin: '468932'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468933':
+  bin: '468933'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468934':
+  bin: '468934'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468935':
+  bin: '468935'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468936':
+  bin: '468936'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468937':
+  bin: '468937'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'468938':
+  bin: '468938'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'468939':
+  bin: '468939'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'468940':
+  bin: '468940'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468941':
+  bin: '468941'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468942':
+  bin: '468942'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468943':
+  bin: '468943'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'468944':
+  bin: '468944'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468945':
+  bin: '468945'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468946':
+  bin: '468946'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468947':
+  bin: '468947'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468948':
+  bin: '468948'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468949':
+  bin: '468949'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468950':
+  bin: '468950'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468951':
+  bin: '468951'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468952':
+  bin: '468952'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468953':
+  bin: '468953'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468954':
+  bin: '468954'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468955':
+  bin: '468955'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468956':
+  bin: '468956'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468957':
+  bin: '468957'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468958':
+  bin: '468958'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468959':
+  bin: '468959'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468960':
+  bin: '468960'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468961':
+  bin: '468961'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468962':
+  bin: '468962'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468963':
+  bin: '468963'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468964':
+  bin: '468964'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468965':
+  bin: '468965'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468966':
+  bin: '468966'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468967':
+  bin: '468967'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468968':
+  bin: '468968'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468969':
+  bin: '468969'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468970':
+  bin: '468970'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468971':
+  bin: '468971'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468972':
+  bin: '468972'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468973':
+  bin: '468973'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468974':
+  bin: '468974'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468975':
+  bin: '468975'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468976':
+  bin: '468976'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468977':
+  bin: '468977'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468978':
+  bin: '468978'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468979':
+  bin: '468979'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468980':
+  bin: '468980'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468981':
+  bin: '468981'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468982':
+  bin: '468982'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468983':
+  bin: '468983'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468984':
+  bin: '468984'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468985':
+  bin: '468985'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468986':
+  bin: '468986'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468987':
+  bin: '468987'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468988':
+  bin: '468988'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468989':
+  bin: '468989'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468990':
+  bin: '468990'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468991':
+  bin: '468991'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468992':
+  bin: '468992'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468993':
+  bin: '468993'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468994':
+  bin: '468994'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468995':
+  bin: '468995'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468996':
+  bin: '468996'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468997':
+  bin: '468997'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468998':
+  bin: '468998'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'468999':
+  bin: '468999'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic

@@ -1,0 +1,1001 @@
+---
+'445100':
+  bin: '445100'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445101':
+  bin: '445101'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445102':
+  bin: '445102'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445103':
+  bin: '445103'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445104':
+  bin: '445104'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445105':
+  bin: '445105'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445106':
+  bin: '445106'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445107':
+  bin: '445107'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445108':
+  bin: '445108'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445109':
+  bin: '445109'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: MD
+    alpha_3: MDA
+    name: Moldova, Republic of
+'445110':
+  bin: '445110'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MD
+    alpha_3: MDA
+    name: Moldova, Republic of
+'445111':
+  bin: '445111'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: MD
+    alpha_3: MDA
+    name: Moldova, Republic of
+'445112':
+  bin: '445112'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: MD
+    alpha_3: MDA
+    name: Moldova, Republic of
+'445113':
+  bin: '445113'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: MD
+    alpha_3: MDA
+    name: Moldova, Republic of
+'445114':
+  bin: '445114'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445115':
+  bin: '445115'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445116':
+  bin: '445116'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445117':
+  bin: '445117'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445118':
+  bin: '445118'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445119':
+  bin: '445119'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445120':
+  bin: '445120'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'445121':
+  bin: '445121'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'445122':
+  bin: '445122'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'445123':
+  bin: '445123'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: INTERNATIONAL COMMERCIAL BANK (PJSC)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'445124':
+  bin: '445124'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: INTERNATIONAL COMMERCIAL BANK (PJSC)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'445125':
+  bin: '445125'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: INTERNATIONAL COMMERCIAL BANK (PJSC)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'445126':
+  bin: '445126'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'445127':
+  bin: '445127'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: ''
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'445128':
+  bin: '445128'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: PJSC BANK KYIVSKA RUS
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'445129':
+  bin: '445129'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PJSC BANK KYIVSKA RUS
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'445130':
+  bin: '445130'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PJSC BANK KYIVSKA RUS
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'445131':
+  bin: '445131'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: PJSC BANK KYIVSKA RUS
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'445132':
+  bin: '445132'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: PJSC BANK KYIVSKA RUS
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'445133':
+  bin: '445133'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: COMMERCIAL BANK OF DUBAI, LTD.
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'445134':
+  bin: '445134'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'445135':
+  bin: '445135'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: COMMERCIAL BANK OF DUBAI, LTD.
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'445136':
+  bin: '445136'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: COMMERCIAL BANK OF DUBAI, LTD.
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'445137':
+  bin: '445137'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: COMMERCIAL BANK OF DUBAI, LTD.
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'445138':
+  bin: '445138'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: COMMERCIAL BANK OF DUBAI, LTD.
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'445139':
+  bin: '445139'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445140':
+  bin: '445140'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445141':
+  bin: '445141'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANK OF AFRICA (KENYA), LTD.
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'445142':
+  bin: '445142'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445143':
+  bin: '445143'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'445144':
+  bin: '445144'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'445145':
+  bin: '445145'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'445146':
+  bin: '445146'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'445147':
+  bin: '445147'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'445148':
+  bin: '445148'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445149':
+  bin: '445149'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445150':
+  bin: '445150'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'445151':
+  bin: '445151'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445152':
+  bin: '445152'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445153':
+  bin: '445153'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445154':
+  bin: '445154'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: OPTION 1 C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445155':
+  bin: '445155'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445156':
+  bin: '445156'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SERVICE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445157':
+  bin: '445157'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF STANLY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445158':
+  bin: '445158'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ROYAL PALM BANK OF FLORIDA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445159':
+  bin: '445159'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST CHATHAM BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445160':
+  bin: '445160'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445161':
+  bin: '445161'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445162':
+  bin: '445162'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PINNACLE NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445163':
+  bin: '445163'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NEW REPUBLIC SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445164':
+  bin: '445164'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: SUNTRUST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445165':
+  bin: '445165'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: SUNTRUST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445166':
+  bin: '445166'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST MARKET BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445167':
+  bin: '445167'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CITIBANK (SOUTH DAKOTA), N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445168':
+  bin: '445168'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: TJ
+    alpha_3: TJK
+    name: Tajikistan
+'445169':
+  bin: '445169'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445170':
+  bin: '445170'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445171':
+  bin: '445171'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445172':
+  bin: '445172'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445173':
+  bin: '445173'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445174':
+  bin: '445174'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445175':
+  bin: '445175'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445176':
+  bin: '445176'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445177':
+  bin: '445177'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445178':
+  bin: '445178'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445179':
+  bin: '445179'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445180':
+  bin: '445180'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445181':
+  bin: '445181'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF COMMERCE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445182':
+  bin: '445182'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445183':
+  bin: '445183'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445184':
+  bin: '445184'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445185':
+  bin: '445185'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445186':
+  bin: '445186'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445187':
+  bin: '445187'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445188':
+  bin: '445188'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445189':
+  bin: '445189'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445190':
+  bin: '445190'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'445191':
+  bin: '445191'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'445192':
+  bin: '445192'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'445193':
+  bin: '445193'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: METALLURGICAL COMMERCIAL BANK JSC METCOMBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'445194':
+  bin: '445194'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: METALLURGICAL COMMERCIAL BANK JSC METCOMBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'445195':
+  bin: '445195'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: METALLURGICAL COMMERCIAL BANK JSC METCOMBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'445196':
+  bin: '445196'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: METALLURGICAL COMMERCIAL BANK JSC METCOMBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'445197':
+  bin: '445197'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: LANDESBANK BERLIN AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'445198':
+  bin: '445198'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'445199':
+  bin: '445199'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: LANDESBANK BERLIN AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany

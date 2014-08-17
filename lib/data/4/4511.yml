@@ -1,0 +1,1001 @@
+---
+'451100':
+  bin: '451100'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'451101':
+  bin: '451101'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'451102':
+  bin: '451102'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'451103':
+  bin: '451103'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451104':
+  bin: '451104'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'451105':
+  bin: '451105'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HARRODS BANK, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'451106':
+  bin: '451106'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451107':
+  bin: '451107'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451108':
+  bin: '451108'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451109':
+  bin: '451109'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451110':
+  bin: '451110'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: DANSKE BANK A/S SVERIGE FILAL
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'451111':
+  bin: '451111'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ARAB NATIONAL BANK
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'451112':
+  bin: '451112'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CLYDESDALE BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'451113':
+  bin: '451113'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FRIZZELL BANK
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'451114':
+  bin: '451114'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO INTERCONTINENTAL, S.A.
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'451115':
+  bin: '451115'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AVAL CARD (COSTA RICA), S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'451116':
+  bin: '451116'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: AVAL CARD (COSTA RICA), S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'451117':
+  bin: '451117'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: AVAL CARD (COSTA RICA), S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'451118':
+  bin: '451118'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451119':
+  bin: '451119'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: AVAL CARD (COSTA RICA), S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'451120':
+  bin: '451120'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451121':
+  bin: '451121'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451122':
+  bin: '451122'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451123':
+  bin: '451123'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451124':
+  bin: '451124'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: INVERSIONES ITSMICAS BANCRECEN, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'451125':
+  bin: '451125'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO BANEX, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'451126':
+  bin: '451126'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SISTEMA 4B, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'451127':
+  bin: '451127'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: OPEN BANK S.A
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'451128':
+  bin: '451128'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: K AND H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOEDOE RESZVENYTARSASAG
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'451129':
+  bin: '451129'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451130':
+  bin: '451130'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451131':
+  bin: '451131'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451132':
+  bin: '451132'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NABIL BANK, LTD.
+  country:
+    alpha_2: NP
+    alpha_3: NPL
+    name: Nepal
+'451133':
+  bin: '451133'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ASSOCIATES CAPITAL CORP.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'451134':
+  bin: '451134'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: SCOTIABANK CHILE
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'451135':
+  bin: '451135'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO CIDADE
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451136':
+  bin: '451136'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451137':
+  bin: '451137'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451138':
+  bin: '451138'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO RURAL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451139':
+  bin: '451139'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO RURAL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451140':
+  bin: '451140'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO RURAL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451141':
+  bin: '451141'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO RURAL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451142':
+  bin: '451142'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO BMD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451143':
+  bin: '451143'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO BMD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451144':
+  bin: '451144'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO BMD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451145':
+  bin: '451145'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451146':
+  bin: '451146'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO BMD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451147':
+  bin: '451147'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451148':
+  bin: '451148'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SLOVENSKA SPORITELNA, A.S.
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'451149':
+  bin: '451149'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451150':
+  bin: '451150'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ANDHRA BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'451151':
+  bin: '451151'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451152':
+  bin: '451152'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451153':
+  bin: '451153'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HFC BANK, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'451154':
+  bin: '451154'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'451155':
+  bin: '451155'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'451156':
+  bin: '451156'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO DE ALICANTE, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'451157':
+  bin: '451157'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: BANCO DE ALICANTE, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'451158':
+  bin: '451158'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'451159':
+  bin: '451159'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CZECH SAVINGS BANK,CO
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'451160':
+  bin: '451160'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'451161':
+  bin: '451161'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'451162':
+  bin: '451162'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451163':
+  bin: '451163'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA DE AHORROS DE GALICIA, VIGO, ORENSE Y PONTEVEDRA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'451164':
+  bin: '451164'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'451165':
+  bin: '451165'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451166':
+  bin: '451166'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'451167':
+  bin: '451167'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451168':
+  bin: '451168'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: K AND H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOE
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'451169':
+  bin: '451169'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451170':
+  bin: '451170'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451171':
+  bin: '451171'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF CHINA (UK), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'451172':
+  bin: '451172'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK OF CHINA (UK), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'451173':
+  bin: '451173'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANK OF CYPRUS, LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'451174':
+  bin: '451174'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANK OF CYPRUS PUBLIC CO., LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'451175':
+  bin: '451175'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SOUTHERN BANK BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'451176':
+  bin: '451176'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CIMB BANK BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'451177':
+  bin: '451177'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WESTPAC BANKING CORPORATION
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'451178':
+  bin: '451178'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF CHINA, LTD.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'451179':
+  bin: '451179'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK OF CHINA, LTD.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'451180':
+  bin: '451180'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ERSTE BANK HUNGARY RT.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'451181':
+  bin: '451181'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451182':
+  bin: '451182'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451183':
+  bin: '451183'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451184':
+  bin: '451184'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SETEFI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'451185':
+  bin: '451185'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HSBC BANK (TAIWAN), LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'451186':
+  bin: '451186'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HSBC BANK (TAIWAN), LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'451187':
+  bin: '451187'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO NACIONAL ULTRAMARINO, S.A.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'451188':
+  bin: '451188'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO NACIONAL ULTRAMARINO, S.A.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'451189':
+  bin: '451189'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PIRAEUS BANK, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'451190':
+  bin: '451190'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451191':
+  bin: '451191'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451192':
+  bin: '451192'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451193':
+  bin: '451193'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451194':
+  bin: '451194'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: EQUITABLE PCI BANK
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'451195':
+  bin: '451195'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: SEYLAN BANK, LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'451196':
+  bin: '451196'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'451197':
+  bin: '451197'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'451198':
+  bin: '451198'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO ESPIRITO SANTO, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'451199':
+  bin: '451199'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: SOCIETE GENERALE, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland

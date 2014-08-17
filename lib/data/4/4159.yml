@@ -1,0 +1,1001 @@
+---
+'415900':
+  bin: '415900'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF LANCASTER
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415901':
+  bin: '415901'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK OF LANCASTER
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415902':
+  bin: '415902'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: VECTRA BANK COLORADO, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415903':
+  bin: '415903'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CAROLINA BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415904':
+  bin: '415904'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: KOHLER C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415905':
+  bin: '415905'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MAINSOURCE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415906':
+  bin: '415906'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: MAINSOURCE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415907':
+  bin: '415907'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIDELITY NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415908':
+  bin: '415908'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: MBNA AMERICA (DELAWARE), N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415909':
+  bin: '415909'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAROLINA BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415910':
+  bin: '415910'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: JUSTICE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415911':
+  bin: '415911'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: NEW MEXICO EDUCATORS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415912':
+  bin: '415912'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CAPITAL ONE, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415913':
+  bin: '415913'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HEALTH EMPLOYEES F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415914':
+  bin: '415914'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ALPHA BANK CYPRUS, LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'415915':
+  bin: '415915'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ALPHA BANK CYPRUS, LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'415916':
+  bin: '415916'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ALPHA BANK CYPRUS, LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'415917':
+  bin: '415917'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ALPHA BANK CYPRUS, LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'415918':
+  bin: '415918'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: MBNA AMERICA (DELAWARE), N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415919':
+  bin: '415919'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: FREEDOM C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415920':
+  bin: '415920'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'415921':
+  bin: '415921'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANQUE REGIONALE DE SOLIDARITE BENIN (BRS-BENIN)
+  country:
+    alpha_2: BJ
+    alpha_3: BEN
+    name: Benin
+'415922':
+  bin: '415922'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415923':
+  bin: '415923'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415924':
+  bin: '415924'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415925':
+  bin: '415925'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415926':
+  bin: '415926'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GRAFTON SUBURBAN C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415927':
+  bin: '415927'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ALPHA BANK, LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'415928':
+  bin: '415928'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415929':
+  bin: '415929'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SANTANDER UK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'415930':
+  bin: '415930'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ABBEY NATIONAL PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'415931':
+  bin: '415931'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABBEY NATIONAL PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'415932':
+  bin: '415932'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CORTAL CONSORS
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'415933':
+  bin: '415933'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CENTRAL ONE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415934':
+  bin: '415934'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CAJA DE CREDITO DEL COLEGIO DE INGENIEROS DE CATALUNA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415935':
+  bin: '415935'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA RURAL DEL MEDITERRANEO RURALCAJA S COOPERATIVO DE CREDITO
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415936':
+  bin: '415936'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415937':
+  bin: '415937'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BRANCH BANKING AND TRUST COMPANY OF VIRGINIA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415938':
+  bin: '415938'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CAPITAL ONE, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415939':
+  bin: '415939'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MALAYAN BANKING BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'415940':
+  bin: '415940'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MBNA AMERICA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415941':
+  bin: '415941'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415942':
+  bin: '415942'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415943':
+  bin: '415943'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE ANDALUCIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415944':
+  bin: '415944'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE ANDALUCIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415945':
+  bin: '415945'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE CASTILLA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415946':
+  bin: '415946'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE CASTILLA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415947':
+  bin: '415947'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415948':
+  bin: '415948'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE CREDITO BALEAR, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415949':
+  bin: '415949'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415950':
+  bin: '415950'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE GALICIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415951':
+  bin: '415951'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415952':
+  bin: '415952'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE VASCONIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415953':
+  bin: '415953'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AGRICULTURAL BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'415954':
+  bin: '415954'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: AGRICULTURAL BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'415955':
+  bin: '415955'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: AGRICULTURAL BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'415956':
+  bin: '415956'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: FINANSBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'415957':
+  bin: '415957'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NCPD F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415958':
+  bin: '415958'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK MILLENNIUM, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'415959':
+  bin: '415959'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK MILLENNIUM, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'415960':
+  bin: '415960'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANK MILLENNIUM, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'415961':
+  bin: '415961'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: FINIBANCO, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'415962':
+  bin: '415962'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITICORP PAYMENT SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415963':
+  bin: '415963'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ALPHA BANK
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'415964':
+  bin: '415964'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CITIZENS NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415965':
+  bin: '415965'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: MIDFIRST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415966':
+  bin: '415966'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415967':
+  bin: '415967'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CITIZENS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415968':
+  bin: '415968'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GRANT COUNTY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415969':
+  bin: '415969'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CHARTWAY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415970':
+  bin: '415970'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HELLENIC BANK PUBLIC CO., LTD.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'415971':
+  bin: '415971'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415972':
+  bin: '415972'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415973':
+  bin: '415973'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: QUEENSTOWN BANK OF MARYLAND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415974':
+  bin: '415974'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: DEUTSCHE APOTHEKER- UND AERZTEBANK EG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'415975':
+  bin: '415975'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415976':
+  bin: '415976'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415977':
+  bin: '415977'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415978':
+  bin: '415978'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415979':
+  bin: '415979'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'415980':
+  bin: '415980'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CENTRAL ONE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415981':
+  bin: '415981'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SOVEREIGN BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415982':
+  bin: '415982'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MUNICIPAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415983':
+  bin: '415983'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415984':
+  bin: '415984'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMUNITY BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415985':
+  bin: '415985'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ANDORRA BANC AGRICOL REIG, S.A.
+  country:
+    alpha_2: AD
+    alpha_3: AND
+    name: Andorra
+'415986':
+  bin: '415986'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415987':
+  bin: '415987'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415988':
+  bin: '415988'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST TECHNOLOGY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415989':
+  bin: '415989'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA RURAL DE TORRENT
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415990':
+  bin: '415990'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CAJA RURAL DE TORRENT
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415991':
+  bin: '415991'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'415992':
+  bin: '415992'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MONEY ONE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415993':
+  bin: '415993'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FAIRMONT F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415994':
+  bin: '415994'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNITED MEDICAL BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415995':
+  bin: '415995'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: UNITED MEDICAL BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415996':
+  bin: '415996'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: UNITED MEDICAL BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415997':
+  bin: '415997'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: UNITED MEDICAL BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415998':
+  bin: '415998'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: UNITED MEDICAL BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'415999':
+  bin: '415999'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

@@ -1,0 +1,1001 @@
+---
+'442800':
+  bin: '442800'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442801':
+  bin: '442801'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ABA CARD SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442802':
+  bin: '442802'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CHASE BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442803':
+  bin: '442803'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST UNION DIRECT BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442804':
+  bin: '442804'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BAC FLORIDA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442805':
+  bin: '442805'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442806':
+  bin: '442806'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: BOEING EMPLOYEES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442807':
+  bin: '442807'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CHASE BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442808':
+  bin: '442808'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: WELLS FARGO BANK NEVADA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442809':
+  bin: '442809'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CAYUGA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442810':
+  bin: '442810'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAYUGA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442811':
+  bin: '442811'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: KEYBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442812':
+  bin: '442812'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442813':
+  bin: '442813'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442814':
+  bin: '442814'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442815':
+  bin: '442815'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442816':
+  bin: '442816'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442817':
+  bin: '442817'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NORTHWEST GEORGIA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442818':
+  bin: '442818'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NATIONSBANK OF DELAWARE, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442819':
+  bin: '442819'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442820':
+  bin: '442820'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442821':
+  bin: '442821'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442822':
+  bin: '442822'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: BOEING EMPLOYEES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442823':
+  bin: '442823'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442824':
+  bin: '442824'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: STATE BANK OF SOUTHERN UTAH
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442825':
+  bin: '442825'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: UNIVERSITY OF VIRGINIA COMMUNITY CREDIT UNION, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442826':
+  bin: '442826'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442827':
+  bin: '442827'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442828':
+  bin: '442828'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK N.A. ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442829':
+  bin: '442829'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442830':
+  bin: '442830'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIRST COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442831':
+  bin: '442831'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442832':
+  bin: '442832'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIRST COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442833':
+  bin: '442833'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442834':
+  bin: '442834'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CHICAGO PATROLMEN'S F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442835':
+  bin: '442835'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MERCANTILE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442836':
+  bin: '442836'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MERCANTILE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442837':
+  bin: '442837'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST USA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442838':
+  bin: '442838'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: PNC BANK, KENTUCKY, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442839':
+  bin: '442839'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442840':
+  bin: '442840'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FINITY CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442841':
+  bin: '442841'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CENTRAL BANK AND TRUST CO.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442842':
+  bin: '442842'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: INTEGRITY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442843':
+  bin: '442843'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PLAINS COMMERCE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442844':
+  bin: '442844'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SUFFOLK COUNTY NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442845':
+  bin: '442845'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442846':
+  bin: '442846'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: U.S. BANK N.A. ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442847':
+  bin: '442847'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442848':
+  bin: '442848'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CHASE BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442849':
+  bin: '442849'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANC ONE POS SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442850':
+  bin: '442850'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SANDIA AREA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442851':
+  bin: '442851'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442852':
+  bin: '442852'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442853':
+  bin: '442853'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: HERITAGE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442854':
+  bin: '442854'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: U.S. BANK N.A. ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442855':
+  bin: '442855'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SANDIA AREA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442856':
+  bin: '442856'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442857':
+  bin: '442857'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: BOEING EMPLOYEES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442858':
+  bin: '442858'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BAC FLORIDA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442859':
+  bin: '442859'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: REDWOOD CAPITAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442860':
+  bin: '442860'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ARVEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442861':
+  bin: '442861'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ARVEST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442862':
+  bin: '442862'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442863':
+  bin: '442863'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PNC NATIONAL BANK_OF DELAWARE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442864':
+  bin: '442864'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: INSIGHT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442865':
+  bin: '442865'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CASCADE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442866':
+  bin: '442866'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: PHILADELPHIA TELCO C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442867':
+  bin: '442867'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442868':
+  bin: '442868'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BOEING EMPLOYEES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442869':
+  bin: '442869'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442870':
+  bin: '442870'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442871':
+  bin: '442871'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: U.S. BANK N.A. ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442872':
+  bin: '442872'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF LANCASTER
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442873':
+  bin: '442873'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: AMERICAN GATEWAY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442874':
+  bin: '442874'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HSBC BANK NEVADA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442875':
+  bin: '442875'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: BOEING EMPLOYEES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442876':
+  bin: '442876'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CODE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442877':
+  bin: '442877'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TRUSTCO BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442878':
+  bin: '442878'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: BOEING EMPLOYEES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442879':
+  bin: '442879'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442880':
+  bin: '442880'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNION YES F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442881':
+  bin: '442881'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BAR HARBOR BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442882':
+  bin: '442882'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BB CREDIT SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442883':
+  bin: '442883'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: BOEING EMPLOYEES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442884':
+  bin: '442884'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: GESA C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442885':
+  bin: '442885'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: BOEING EMPLOYEES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442886':
+  bin: '442886'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CES CREDIT UNION, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442887':
+  bin: '442887'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442888':
+  bin: '442888'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: APPLIED BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442889':
+  bin: '442889'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MACHIAS SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442890':
+  bin: '442890'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF MAINE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442891':
+  bin: '442891'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442892':
+  bin: '442892'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BSB BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442893':
+  bin: '442893'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: U.S. BANK N.A. ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442894':
+  bin: '442894'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MERRICK BANK CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442895':
+  bin: '442895'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: INDEPENDENT BANKERS BANK OF FLORIDA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442896':
+  bin: '442896'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: RBS CITIZENS, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442897':
+  bin: '442897'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: TEACHERS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442898':
+  bin: '442898'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'442899':
+  bin: '442899'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: RIVER VALLEY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

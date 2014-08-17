@@ -1,0 +1,1001 @@
+---
+'445200':
+  bin: '445200'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO POPULAR NORTH AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445201':
+  bin: '445201'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HORIZON C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445202':
+  bin: '445202'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445203':
+  bin: '445203'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ARIZONA CENTRAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445204':
+  bin: '445204'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SAFE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445205':
+  bin: '445205'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SPOKANE TEACHERS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445206':
+  bin: '445206'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: VANTAGE WEST C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445207':
+  bin: '445207'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445208':
+  bin: '445208'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ARIZONA STATE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445209':
+  bin: '445209'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445210':
+  bin: '445210'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445211':
+  bin: '445211'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: COMBUSTION F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445212':
+  bin: '445212'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AMERICAN ELECTRONICS ASSN. C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445213':
+  bin: '445213'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: C.U. WEST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445214':
+  bin: '445214'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445215':
+  bin: '445215'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: QUALSTAR C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445216':
+  bin: '445216'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BLACK HILLS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445217':
+  bin: '445217'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445218':
+  bin: '445218'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: UNITUS COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445219':
+  bin: '445219'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PUBLIC SERVICE EMPLOYEES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445220':
+  bin: '445220'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TWINSTAR C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445221':
+  bin: '445221'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445222':
+  bin: '445222'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445223':
+  bin: '445223'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SACRAMENTO C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445224':
+  bin: '445224'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ALTAONE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445225':
+  bin: '445225'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CHARTWAY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445226':
+  bin: '445226'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445227':
+  bin: '445227'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ST. PAUL POSTAL EMPLOYEES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445228':
+  bin: '445228'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: OREGONIANS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445229':
+  bin: '445229'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MONEY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445230':
+  bin: '445230'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BEEHIVE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445231':
+  bin: '445231'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445232':
+  bin: '445232'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445233':
+  bin: '445233'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CREDIT UNION CARD SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445234':
+  bin: '445234'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445235':
+  bin: '445235'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DIRECTIONS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445236':
+  bin: '445236'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CREDIT UNION CARD SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445237':
+  bin: '445237'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TWIN COUNTY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445238':
+  bin: '445238'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: UNIVERSITY AND STATE EMPLOYEES CREDIT UNION OF SAN DIEGO
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445239':
+  bin: '445239'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: COLORADO SPRINGS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445240':
+  bin: '445240'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOULDER MUNICIPAL EMPLOYEES F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445241':
+  bin: '445241'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SOOPER C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445242':
+  bin: '445242'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445243':
+  bin: '445243'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445244':
+  bin: '445244'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ANDREWS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445245':
+  bin: '445245'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445246':
+  bin: '445246'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445247':
+  bin: '445247'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: GEORGIA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445248':
+  bin: '445248'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445249':
+  bin: '445249'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445250':
+  bin: '445250'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: I. H. MISSISSIPPI VALLEY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445251':
+  bin: '445251'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LBS FINANCIAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445252':
+  bin: '445252'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ANDREWS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445253':
+  bin: '445253'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445254':
+  bin: '445254'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: EMPOWER F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445255':
+  bin: '445255'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ADIRONDACK REGIONAL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445256':
+  bin: '445256'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ONPOINT COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445257':
+  bin: '445257'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CREDIT UNION OF COLORADO
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445258':
+  bin: '445258'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445259':
+  bin: '445259'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445260':
+  bin: '445260'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445261':
+  bin: '445261'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445262':
+  bin: '445262'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CENTRAL VIRGINIA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445263':
+  bin: '445263'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445264':
+  bin: '445264'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445265':
+  bin: '445265'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445266':
+  bin: '445266'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: IOWA LEAGUE CORPORATE CENTRAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445267':
+  bin: '445267'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445268':
+  bin: '445268'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445269':
+  bin: '445269'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445270':
+  bin: '445270'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LANSING AUTOMAKERS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445271':
+  bin: '445271'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: RIVERS EDGE COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445272':
+  bin: '445272'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ADVANTAGE ONE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445273':
+  bin: '445273'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445274':
+  bin: '445274'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445275':
+  bin: '445275'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SOUTHERN F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445276':
+  bin: '445276'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MARTINSVILLE DUPONT EMPLOYEES CREDIT UNION, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445277':
+  bin: '445277'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FAIRFAX COUNTY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445278':
+  bin: '445278'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445279':
+  bin: '445279'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445280':
+  bin: '445280'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ARLINGTON VIRGINIA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445281':
+  bin: '445281'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445282':
+  bin: '445282'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NORTHERN STAR CREDIT UNION, INCORPORATED
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445283':
+  bin: '445283'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445284':
+  bin: '445284'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PENTAGON F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445285':
+  bin: '445285'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445286':
+  bin: '445286'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445287':
+  bin: '445287'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SPIRE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445288':
+  bin: '445288'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445289':
+  bin: '445289'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ALOHA PACIFIC F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445290':
+  bin: '445290'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445291':
+  bin: '445291'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445292':
+  bin: '445292'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CHICAGO MUNICIPAL EMPLOYEES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445293':
+  bin: '445293'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445294':
+  bin: '445294'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445295':
+  bin: '445295'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445296':
+  bin: '445296'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445297':
+  bin: '445297'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WEST SUBURBAN BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445298':
+  bin: '445298'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'445299':
+  bin: '445299'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

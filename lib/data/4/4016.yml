@@ -1,0 +1,1001 @@
+---
+'401600':
+  bin: '401600'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401601':
+  bin: '401601'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA (PANAMA) S.A. - BBVA (PANAMA
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'401602':
+  bin: '401602'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA (PANAMA) S.A. - BBVA (PANAMA
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'401603':
+  bin: '401603'
+  brand: VISA
+  type: CREDIT
+  category: GOLD/PREM
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401604':
+  bin: '401604'
+  brand: VISA
+  type: CREDIT
+  category: GOLD/PREM
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401605':
+  bin: '401605'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: BANCO INDUSTRIAL E COMERCIAL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'401606':
+  bin: '401606'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'401607':
+  bin: '401607'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO IMPROSA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'401608':
+  bin: '401608'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITY BANK
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'401609':
+  bin: '401609'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: RBTT BANK BARBADOS, LTD.
+  country:
+    alpha_2: BB
+    alpha_3: BRB
+    name: Barbados
+'401610':
+  bin: '401610'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO IMPROSA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'401611':
+  bin: '401611'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VISION BANCO SOCIEDAD ANONIMA EMISORA DECAPITAL ABIERTO
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'401612':
+  bin: '401612'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO GNB SUDAMERIS, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'401613':
+  bin: '401613'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CAJA RURAL PROVINCIAL DE MALAGA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'401614':
+  bin: '401614'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HARVESTER'S F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401615':
+  bin: '401615'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITY BANK
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'401616':
+  bin: '401616'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO PICHINCHA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'401617':
+  bin: '401617'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: AMERICAN ENTERPRISE BANK OF FLORIDA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401618':
+  bin: '401618'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ''
+  country:
+    alpha_2: MV
+    alpha_3: MDV
+    name: Maldives
+'401619':
+  bin: '401619'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FINANCIERA FAMILIAR S.A.E.C.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'401620':
+  bin: '401620'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: INTERNATIONAL BANK OF MIAMI, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401621':
+  bin: '401621'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: PINNACLE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401622':
+  bin: '401622'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: YAPI VE KREDI BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'401623':
+  bin: '401623'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ATH DOMINICANA, S.A.
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'401624':
+  bin: '401624'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: STATE BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401625':
+  bin: '401625'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CITIZENS BANK OF EAST TENNESSEE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401626':
+  bin: '401626'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CITIZENS FIRST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401627':
+  bin: '401627'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WEST CENTRAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401628':
+  bin: '401628'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GLYNN COUNTY FEDERAL EMPLOYEES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401629':
+  bin: '401629'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: J.M. ASSOCIATES F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401630':
+  bin: '401630'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ATH COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'401631':
+  bin: '401631'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ATH COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'401632':
+  bin: '401632'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ATH COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'401633':
+  bin: '401633'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRSTSERVICE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401634':
+  bin: '401634'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: PREMIER BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401635':
+  bin: '401635'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HYPO ALPE-ADRIA-BANKA A.D.
+  country:
+    alpha_2: ME
+    alpha_3: MNE
+    name: Montenegro
+'401636':
+  bin: '401636'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITY BANK
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'401637':
+  bin: '401637'
+  brand: VISA
+  type: CREDIT
+  category: GOLD/PREM
+  issuer: BANCO INDUSTRIAL E COMERCIAL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'401638':
+  bin: '401638'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO SANTANDER, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'401639':
+  bin: '401639'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: FIRSTBANK PUERTO RICO
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'401640':
+  bin: '401640'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'401641':
+  bin: '401641'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: COPOCO COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401642':
+  bin: '401642'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO CITIBANK (PANAMA), S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'401643':
+  bin: '401643'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: TARJETAS DE CREDITO DE OCCIDENTE, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'401644':
+  bin: '401644'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: LAND OF LINCOLN C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401645':
+  bin: '401645'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK IOWA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401646':
+  bin: '401646'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401647':
+  bin: '401647'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO INDUSTRIAL, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'401648':
+  bin: '401648'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: LUDOVA BANKA BRATISLAVA, A.S.
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'401649':
+  bin: '401649'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'401650':
+  bin: '401650'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UNICARD BANCO MULTIPLO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'401651':
+  bin: '401651'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: ZW
+    alpha_3: ZWE
+    name: Zimbabwe
+'401652':
+  bin: '401652'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNICARD BANCO MULTIPLO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'401653':
+  bin: '401653'
+  brand: VISA
+  type: CREDIT
+  category: GOLD/PREM
+  issuer: BANCO INDUSTRIAL E COMERCIAL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'401654':
+  bin: '401654'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'401655':
+  bin: '401655'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401656':
+  bin: '401656'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: STALEY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401657':
+  bin: '401657'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FARMERS BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401658':
+  bin: '401658'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: KENTUCKY BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401659':
+  bin: '401659'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PBK BANK, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401660':
+  bin: '401660'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ALABAMA TEACHERS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401661':
+  bin: '401661'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401662':
+  bin: '401662'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO CITIBANK DE EL SALVADOR, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'401663':
+  bin: '401663'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO CITIBANK DE EL SALVADOR, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'401664':
+  bin: '401664'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO CITIBANK DE EL SALVADOR, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'401665':
+  bin: '401665'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO CITIBANK DE EL SALVADOR, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'401666':
+  bin: '401666'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BRIGHTSTAR C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401667':
+  bin: '401667'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SQUARE D EMPLOYEES F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401668':
+  bin: '401668'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401669':
+  bin: '401669'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO PROVINCIA DE TIERRA DEL FUEGO
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'401670':
+  bin: '401670'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401671':
+  bin: '401671'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401672':
+  bin: '401672'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SECURITY FEDERAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401673':
+  bin: '401673'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST AMERICAN BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401674':
+  bin: '401674'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMUNITY BANK AND TRUST OF FLORIDA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401675':
+  bin: '401675'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DEL PARANA, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'401676':
+  bin: '401676'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO DEL PARANA, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'401677':
+  bin: '401677'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: HYPO ALPE-ADRIA-BANKA A.D.
+  country:
+    alpha_2: ME
+    alpha_3: MNE
+    name: Montenegro
+'401678':
+  bin: '401678'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FINANCIERA DE CREDITO, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'401679':
+  bin: '401679'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MERRICK BANK CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401680':
+  bin: '401680'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO CUSCATLAN, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'401681':
+  bin: '401681'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DEL ISTMO (COSTA RICA), S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'401682':
+  bin: '401682'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ATH COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'401683':
+  bin: '401683'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: INVESTEC
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'401684':
+  bin: '401684'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO SAFRA, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'401685':
+  bin: '401685'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.
+  country:
+    alpha_2: KN
+    alpha_3: KNA
+    name: Saint Kitts and Nevis
+'401686':
+  bin: '401686'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.
+  country:
+    alpha_2: BS
+    alpha_3: BHS
+    name: Bahamas
+'401687':
+  bin: '401687'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.
+  country:
+    alpha_2: BS
+    alpha_3: BHS
+    name: Bahamas
+'401688':
+  bin: '401688'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'401689':
+  bin: '401689'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'401690':
+  bin: '401690'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: VISA SWEDEN ASSOCIATION
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'401691':
+  bin: '401691'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AMERICAN BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401692':
+  bin: '401692'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO FININVEST, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'401693':
+  bin: '401693'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO GNB SUDAMERIS, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'401694':
+  bin: '401694'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO HSBC COLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'401695':
+  bin: '401695'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: STATE BANK OF BEMENT
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401696':
+  bin: '401696'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'401697':
+  bin: '401697'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MID-ILLINI C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401698':
+  bin: '401698'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401699':
+  bin: '401699'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

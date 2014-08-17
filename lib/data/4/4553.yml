@@ -1,0 +1,1001 @@
+---
+'455300':
+  bin: '455300'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455301':
+  bin: '455301'
+  brand: VISA
+  type: DEBIT
+  category: PURCHASING
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455302':
+  bin: '455302'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'455303':
+  bin: '455303'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'455304':
+  bin: '455304'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'455305':
+  bin: '455305'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: COLUMBUS BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'455306':
+  bin: '455306'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: KOOKMIN BANK
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'455307':
+  bin: '455307'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: COLUMBUS BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'455308':
+  bin: '455308'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GRIFFLAND COMMUNITY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'455309':
+  bin: '455309'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: HELM BANK, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'455310':
+  bin: '455310'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SAUDI BRITISH BANK
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'455311':
+  bin: '455311'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'455312':
+  bin: '455312'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'455313':
+  bin: '455313'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PARAMOUNT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'455314':
+  bin: '455314'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: LANDMARK BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'455315':
+  bin: '455315'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST FINANCIAL BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'455316':
+  bin: '455316'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CREDICORP BANK, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'455317':
+  bin: '455317'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ARUBA BANK, N.V.
+  country:
+    alpha_2: AW
+    alpha_3: ABW
+    name: Aruba
+'455318':
+  bin: '455318'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'455319':
+  bin: '455319'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: WING HANG BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'455320':
+  bin: '455320'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'455321':
+  bin: '455321'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'455322':
+  bin: '455322'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'455323':
+  bin: '455323'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'455324':
+  bin: '455324'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'455325':
+  bin: '455325'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'455326':
+  bin: '455326'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO DE COSTA RICA
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'455327':
+  bin: '455327'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'455328':
+  bin: '455328'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANESCO, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'455329':
+  bin: '455329'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: WING HANG BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'455330':
+  bin: '455330'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCA NAZIONALE DEL LAVORO, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'455331':
+  bin: '455331'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'455332':
+  bin: '455332'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'455333':
+  bin: '455333'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'455334':
+  bin: '455334'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO FEDERAL, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'455335':
+  bin: '455335'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: WING HANG BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'455336':
+  bin: '455336'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'455337':
+  bin: '455337'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AVAL CARD (COSTA RICA), S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'455338':
+  bin: '455338'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HOCKING VALLEY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'455339':
+  bin: '455339'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'455340':
+  bin: '455340'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SAUDI BRITISH BANK
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'455341':
+  bin: '455341'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'455342':
+  bin: '455342'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CORP BANCA
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'455343':
+  bin: '455343'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: WING HANG BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'455344':
+  bin: '455344'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: UNITED OVERSEAS BANK (MALAYSIA) BHD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'455345':
+  bin: '455345'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE VITORIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455346':
+  bin: '455346'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO DESARROLLO ECONOMICO ESPANOL (BANDESCO)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455347':
+  bin: '455347'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DESARROLLO ECONOMICO ESPANOL (BANDESCO)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455348':
+  bin: '455348'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: RBC ROYAL BANK (JAMAICA), LTD.
+  country:
+    alpha_2: JM
+    alpha_3: JAM
+    name: Jamaica
+'455349':
+  bin: '455349'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HSBC BANK ARGENTINA, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'455350':
+  bin: '455350'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO WENG HANG, S.A.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'455351':
+  bin: '455351'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO WENG HANG, S.A.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'455352':
+  bin: '455352'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: WING HANG BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'455353':
+  bin: '455353'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: WING HANG BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'455354':
+  bin: '455354'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ALLEGACY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'455355':
+  bin: '455355'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ALLEGACY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'455356':
+  bin: '455356'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: MKB BANK ZRT.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'455357':
+  bin: '455357'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PUBLIC BANK BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'455358':
+  bin: '455358'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PUBLIC BANK BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'455359':
+  bin: '455359'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: YAPI VE KREDI BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'455360':
+  bin: '455360'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: YAPI VE KREDI BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'455361':
+  bin: '455361'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO DE VITORIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455362':
+  bin: '455362'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DE GRANADA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455363':
+  bin: '455363'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK ESPANA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455364':
+  bin: '455364'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: EMIRATES NBD BANK (P.J.S.C.)
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'455365':
+  bin: '455365'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIONAL BANK OF DUBAI PUBLIC JSC
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'455366':
+  bin: '455366'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455367':
+  bin: '455367'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDICARD, S.A.
+  country:
+    alpha_2: NI
+    alpha_3: NIC
+    name: Nicaragua
+'455368':
+  bin: '455368'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CREDICARD, S.A.
+  country:
+    alpha_2: NI
+    alpha_3: NIC
+    name: Nicaragua
+'455369':
+  bin: '455369'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDICARD, S.A.
+  country:
+    alpha_2: NI
+    alpha_3: NIC
+    name: Nicaragua
+'455370':
+  bin: '455370'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO DAVIVIENDA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'455371':
+  bin: '455371'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: GRANBANCO, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'455372':
+  bin: '455372'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: UNITED OVERSEAS BANK, LTD.
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'455373':
+  bin: '455373'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ALLIED IRISH BANKS PLC
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'455374':
+  bin: '455374'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: METROBAN, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'455375':
+  bin: '455375'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA (DUPLICATED BID SEE 10021435)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455376':
+  bin: '455376'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455377':
+  bin: '455377'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'455378':
+  bin: '455378'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'455379':
+  bin: '455379'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK MELLI IRAN
+  country:
+    alpha_2: IR
+    alpha_3: IRN
+    name: Iran, Islamic Republic of
+'455380':
+  bin: '455380'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BANEX, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'455381':
+  bin: '455381'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ARAB BANKING CORPORATION (JORDAN)
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'455382':
+  bin: '455382'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455383':
+  bin: '455383'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455384':
+  bin: '455384'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SISTEMA 4B, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455385':
+  bin: '455385'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCA PUEYO
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455386':
+  bin: '455386'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DELAWARE PLACE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'455387':
+  bin: '455387'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: WING HANG BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'455388':
+  bin: '455388'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: PUBLIC BANK BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'455389':
+  bin: '455389'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SAUDI BRITISH BANK
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'455390':
+  bin: '455390'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CITIBANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'455391':
+  bin: '455391'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HSBC BANK MIDDLE EAST
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'455392':
+  bin: '455392'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BRITISH BANK OF THE MIDDLE EAST
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'455393':
+  bin: '455393'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HSBC BANK MIDDLE EAST
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'455394':
+  bin: '455394'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BRITISH BANK OF THE MIDDLE EAST
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'455395':
+  bin: '455395'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BAYERISCHE LANDESBANK
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'455396':
+  bin: '455396'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HANA BANK
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'455397':
+  bin: '455397'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: HANA BANK
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'455398':
+  bin: '455398'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: WING HANG BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'455399':
+  bin: '455399'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: WING HANG BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong

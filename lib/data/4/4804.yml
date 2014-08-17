@@ -1,0 +1,1001 @@
+---
+'480400':
+  bin: '480400'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'480401':
+  bin: '480401'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'480402':
+  bin: '480402'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'480403':
+  bin: '480403'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480404':
+  bin: '480404'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: RAINIER PACIFIC SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480405':
+  bin: '480405'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'480406':
+  bin: '480406'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: AMEGY BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480407':
+  bin: '480407'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: FIRST NATIONAL BANK OF OMAHA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480408':
+  bin: '480408'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: M BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480409':
+  bin: '480409'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480410':
+  bin: '480410'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480411':
+  bin: '480411'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480412':
+  bin: '480412'
+  brand: VISA
+  type: DEBIT
+  category: PURCHASING
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480413':
+  bin: '480413'
+  brand: VISA
+  type: DEBIT
+  category: PURCHASING
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480414':
+  bin: '480414'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'480415':
+  bin: '480415'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480416':
+  bin: '480416'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480417':
+  bin: '480417'
+  brand: VISA
+  type: CREDIT
+  category: VISA COMMERCE
+  issuer: KORAM BANK
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'480418':
+  bin: '480418'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480419':
+  bin: '480419'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO CITIBANK (PANAMA), S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'480420':
+  bin: '480420'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480421':
+  bin: '480421'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: ROYAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480422':
+  bin: '480422'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480423':
+  bin: '480423'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: PNC BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'480424':
+  bin: '480424'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: NORDSTROM, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480425':
+  bin: '480425'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480426':
+  bin: '480426'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'480427':
+  bin: '480427'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480428':
+  bin: '480428'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: VISA ICELAND
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'480429':
+  bin: '480429'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: HERITAGE BANK OF COMMERCE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480430':
+  bin: '480430'
+  brand: VISA
+  type: DEBIT
+  category: PURCHASING
+  issuer: HERITAGE BANK OF COMMERCE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480431':
+  bin: '480431'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'480432':
+  bin: '480432'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'480433':
+  bin: '480433'
+  brand: VISA
+  type: DEBIT
+  category: PURCHASING
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480434':
+  bin: '480434'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'480435':
+  bin: '480435'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: FIRST NATIONAL BANK OF PENNSYLVANIA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480436':
+  bin: '480436'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'480437':
+  bin: '480437'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: HIGHLANDS INDEPENDENT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480438':
+  bin: '480438'
+  brand: VISA
+  type: DEBIT
+  category: PURCHASING
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480439':
+  bin: '480439'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480440':
+  bin: '480440'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'480441':
+  bin: '480441'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480442':
+  bin: '480442'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'480443':
+  bin: '480443'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: KOREA EXCHANGE BANK
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'480444':
+  bin: '480444'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: KOOKMIN CREDIT CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'480445':
+  bin: '480445'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: COMMERCE BANK OF WASHINGTON, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480446':
+  bin: '480446'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: MANUFACTURERS AND TRADERS TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480447':
+  bin: '480447'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: TAISHIN INTERNATIONAL BANK
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'480448':
+  bin: '480448'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: PK
+    alpha_3: PAK
+    name: Pakistan
+'480449':
+  bin: '480449'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480450':
+  bin: '480450'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: CHOHUNG BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480451':
+  bin: '480451'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: KWANGJU BANK, LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'480452':
+  bin: '480452'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: CHASE BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480453':
+  bin: '480453'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480454':
+  bin: '480454'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480455':
+  bin: '480455'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'480456':
+  bin: '480456'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480457':
+  bin: '480457'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'480458':
+  bin: '480458'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: STATE FARM BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480459':
+  bin: '480459'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480460':
+  bin: '480460'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480461':
+  bin: '480461'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480462':
+  bin: '480462'
+  brand: VISA
+  type: DEBIT
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'480463':
+  bin: '480463'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480464':
+  bin: '480464'
+  brand: VISA
+  type: DEBIT
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: BS
+    alpha_3: BHS
+    name: Bahamas
+'480465':
+  bin: '480465'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480466':
+  bin: '480466'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480467':
+  bin: '480467'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'480468':
+  bin: '480468'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: NORDDEUTSCHE LANDESBANK GIROZENTRALE NORD LB
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'480469':
+  bin: '480469'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: LANDESBANK SAAR
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'480470':
+  bin: '480470'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: RBS CITIZENS, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480471':
+  bin: '480471'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480472':
+  bin: '480472'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480473':
+  bin: '480473'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480474':
+  bin: '480474'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480475':
+  bin: '480475'
+  brand: VISA
+  type: DEBIT
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'480476':
+  bin: '480476'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480477':
+  bin: '480477'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480478':
+  bin: '480478'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480479':
+  bin: '480479'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480480':
+  bin: '480480'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480481':
+  bin: '480481'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480482':
+  bin: '480482'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480483':
+  bin: '480483'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480484':
+  bin: '480484'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480485':
+  bin: '480485'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480486':
+  bin: '480486'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480487':
+  bin: '480487'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480488':
+  bin: '480488'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480489':
+  bin: '480489'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480490':
+  bin: '480490'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480491':
+  bin: '480491'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480492':
+  bin: '480492'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480493':
+  bin: '480493'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480494':
+  bin: '480494'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480495':
+  bin: '480495'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480496':
+  bin: '480496'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480497':
+  bin: '480497'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480498':
+  bin: '480498'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480499':
+  bin: '480499'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

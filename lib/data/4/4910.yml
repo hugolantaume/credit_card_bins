@@ -1,0 +1,1001 @@
+---
+'491000':
+  bin: '491000'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NORDEA BANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'491001':
+  bin: '491001'
+  brand: VISA
+  type: DEBIT
+  category: ATM ONLY
+  issuer: CITIBANK INTERNATIONAL PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'491002':
+  bin: '491002'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CITIBANK INTERNATIONAL PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'491003':
+  bin: '491003'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: DOUBLE ELEVEN C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491004':
+  bin: '491004'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CHINATRUST COMMERCIAL BANK
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'491005':
+  bin: '491005'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: TURKIYE VAKIFLAR BANKASI T.A.O.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'491006':
+  bin: '491006'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: THANACHART BANK PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'491007':
+  bin: '491007'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF SCOTLAND PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'491008':
+  bin: '491008'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA RURAL DE UTRERA (UTRERA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'491009':
+  bin: '491009'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HEARTLAND C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491010':
+  bin: '491010'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491011':
+  bin: '491011'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CESKOSLOVENSKA OBCHODNI BANKA, A.S.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'491012':
+  bin: '491012'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MBNA EUROPE BANK, LTD.
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'491013':
+  bin: '491013'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'491014':
+  bin: '491014'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'491015':
+  bin: '491015'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ASSOCIATED CARD SERVICES BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491016':
+  bin: '491016'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DUTRAC COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491017':
+  bin: '491017'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JYSKE BANK (GIBRALTAR), LTD.
+  country:
+    alpha_2: GI
+    alpha_3: GIB
+    name: Gibraltar
+'491018':
+  bin: '491018'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: JYSKE BANK (GIBRALTAR), LTD.
+  country:
+    alpha_2: GI
+    alpha_3: GIB
+    name: Gibraltar
+'491019':
+  bin: '491019'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: 1ST SUMMIT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491020':
+  bin: '491020'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AGRICULTURAL BANK OF CHINA
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491021':
+  bin: '491021'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AGRICULTURAL BANK OF CHINA
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491022':
+  bin: '491022'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AGRICULTURAL BANK OF CHINA
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491023':
+  bin: '491023'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AGRICULTURAL BANK OF CHINA
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491024':
+  bin: '491024'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AGRICULTURAL BANK OF CHINA
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491025':
+  bin: '491025'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AGRICULTURAL BANK OF CHINA
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491026':
+  bin: '491026'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AGRICULTURAL BANK OF CHINA
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491027':
+  bin: '491027'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AGRICULTURAL BANK OF CHINA
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491028':
+  bin: '491028'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AGRICULTURAL BANK OF CHINA
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491029':
+  bin: '491029'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AGRICULTURAL BANK OF CHINA
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491030':
+  bin: '491030'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: POSTGIROT BANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'491031':
+  bin: '491031'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: CHINA CONSTRUCTION BANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491032':
+  bin: '491032'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: GUANGDONG DEVELOPMENT BANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491033':
+  bin: '491033'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CHINA GUANGFA BANK CO., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491034':
+  bin: '491034'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: CHINA GUANGFA BANK CO., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491035':
+  bin: '491035'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: GUANGDONG DEVELOPMENT BANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491036':
+  bin: '491036'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CHINA GUANGFA BANK CO., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491037':
+  bin: '491037'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GUANGDONG DEVELOPMENT BANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491038':
+  bin: '491038'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: GUANGDONG DEVELOPMENT BANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491039':
+  bin: '491039'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'491040':
+  bin: '491040'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491041':
+  bin: '491041'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF COMMUNICATIONS
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491042':
+  bin: '491042'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF COMMUNICATIONS
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491043':
+  bin: '491043'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF COMMUNICATIONS
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491044':
+  bin: '491044'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF COMMUNICATIONS
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491045':
+  bin: '491045'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF COMMUNICATIONS
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491046':
+  bin: '491046'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF COMMUNICATIONS
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491047':
+  bin: '491047'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF COMMUNICATIONS
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491048':
+  bin: '491048'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF COMMUNICATIONS
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491049':
+  bin: '491049'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF COMMUNICATIONS
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'491050':
+  bin: '491050'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'491051':
+  bin: '491051'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK SLASKI S.A. W KATOWICACH
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'491052':
+  bin: '491052'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK ZACHODNI WBK, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'491053':
+  bin: '491053'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ALPHA BANK CYPRUS
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'491054':
+  bin: '491054'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO COMERCIAL PORTUGUES, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'491055':
+  bin: '491055'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO COMERCIAL PORTUGUES, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'491056':
+  bin: '491056'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO COMERCIAL PORTUGUES, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'491057':
+  bin: '491057'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CAIXA GERAL DE DEPOSITOS, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'491058':
+  bin: '491058'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANK OF VALLETTA P.L.C
+  country:
+    alpha_2: MT
+    alpha_3: MLT
+    name: Malta
+'491059':
+  bin: '491059'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'491060':
+  bin: '491060'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF NOVA SCOTIA
+  country:
+    alpha_2: VI
+    alpha_3: VIR
+    name: Virgin Islands, U.S.
+'491061':
+  bin: '491061'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'491062':
+  bin: '491062'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF NOVA SCOTIA
+  country:
+    alpha_2: CW
+    alpha_3: CUW
+    name: Curaçao
+'491063':
+  bin: '491063'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF NOVA SCOTIA
+  country:
+    alpha_2: BZ
+    alpha_3: BLZ
+    name: Belize
+'491064':
+  bin: '491064'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF NOVA SCOTIA
+  country:
+    alpha_2: AG
+    alpha_3: ATG
+    name: Antigua and Barbuda
+'491065':
+  bin: '491065'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491066':
+  bin: '491066'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491067':
+  bin: '491067'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HARTFORD F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491068':
+  bin: '491068'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'491069':
+  bin: '491069'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'491070':
+  bin: '491070'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'491071':
+  bin: '491071'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491072':
+  bin: '491072'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491073':
+  bin: '491073'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TAICHUNG COMMERCIAL BANK
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'491074':
+  bin: '491074'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: TAICHUNG COMMERCIAL BANK
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'491075':
+  bin: '491075'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: DZ BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'491076':
+  bin: '491076'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: MU
+    alpha_3: MUS
+    name: Mauritius
+'491077':
+  bin: '491077'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: MU
+    alpha_3: MUS
+    name: Mauritius
+'491078':
+  bin: '491078'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AS SEB PANK
+  country:
+    alpha_2: EE
+    alpha_3: EST
+    name: Estonia
+'491079':
+  bin: '491079'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: AS SEB PANK
+  country:
+    alpha_2: EE
+    alpha_3: EST
+    name: Estonia
+'491080':
+  bin: '491080'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CESKOSLOVENSKA OBCHODNI BANKA, A.S.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'491081':
+  bin: '491081'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CAISSE CENTRALE DE CREDIT MUTUEL
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'491082':
+  bin: '491082'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491083':
+  bin: '491083'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491084':
+  bin: '491084'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491085':
+  bin: '491085'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: EESTI UHISPANK (UNION BANK OF ESTONIA)
+  country:
+    alpha_2: EE
+    alpha_3: EST
+    name: Estonia
+'491086':
+  bin: '491086'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'491087':
+  bin: '491087'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO GRUPO EL AHORRO HONDUREO S.A. (BANCO BGA)
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'491088':
+  bin: '491088'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO GRUPO EL AHORRO HONDUREO S.A. (BANCO BGA)
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'491089':
+  bin: '491089'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'491090':
+  bin: '491090'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MUTUAL BANK OF THE CARIBBEAN, INC.
+  country:
+    alpha_2: BB
+    alpha_3: BRB
+    name: Barbados
+'491091':
+  bin: '491091'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MUTUAL BANK OF THE CARIBBEAN, INC.
+  country:
+    alpha_2: BB
+    alpha_3: BRB
+    name: Barbados
+'491092':
+  bin: '491092'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491093':
+  bin: '491093'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: MUTUAL BANK OF THE CARIBBEAN, INC.
+  country:
+    alpha_2: BB
+    alpha_3: BRB
+    name: Barbados
+'491094':
+  bin: '491094'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ATLANTIC BANK, LTD.
+  country:
+    alpha_2: BZ
+    alpha_3: BLZ
+    name: Belize
+'491095':
+  bin: '491095'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ST. GEORGES BANK AND COMPANY, INC.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'491096':
+  bin: '491096'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ST. GEORGES BANK AND COMPANY, INC.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'491097':
+  bin: '491097'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ANTIGUA BARBUDA INVESTMENT BANK, LTD.
+  country:
+    alpha_2: AG
+    alpha_3: ATG
+    name: Antigua and Barbuda
+'491098':
+  bin: '491098'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CORP BANCA
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'491099':
+  bin: '491099'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HSBC BANK USA
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama

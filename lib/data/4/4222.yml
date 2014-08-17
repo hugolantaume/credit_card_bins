@@ -1,0 +1,1001 @@
+---
+'422200':
+  bin: '422200'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422201':
+  bin: '422201'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FINANCEIRA ITAU CBD S.A. CREDITO FINANCIAMENTO E INVESTIMENT
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422202':
+  bin: '422202'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422203':
+  bin: '422203'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422204':
+  bin: '422204'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TOYOTA BANK POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'422205':
+  bin: '422205'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TOYOTA BANK POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'422206':
+  bin: '422206'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AB BANK SNORAS
+  country:
+    alpha_2: LT
+    alpha_3: LTU
+    name: Lithuania
+'422207':
+  bin: '422207'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: AB BANK SNORAS
+  country:
+    alpha_2: LT
+    alpha_3: LTU
+    name: Lithuania
+'422208':
+  bin: '422208'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: AB BANK SNORAS
+  country:
+    alpha_2: LT
+    alpha_3: LTU
+    name: Lithuania
+'422209':
+  bin: '422209'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TODOTICKET 2004, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'422210':
+  bin: '422210'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'422211':
+  bin: '422211'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'422212':
+  bin: '422212'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422213':
+  bin: '422213'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422214':
+  bin: '422214'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422215':
+  bin: '422215'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422216':
+  bin: '422216'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'422217':
+  bin: '422217'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRSTRAND BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'422218':
+  bin: '422218'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRSTRAND BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'422219':
+  bin: '422219'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: DEUTSCHE BANK PRIVAT- UND GESCHAEFTSKUNDEN AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'422220':
+  bin: '422220'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: MADURO AND CURIEL'S BANK, N.V.
+  country:
+    alpha_2: CW
+    alpha_3: CUW
+    name: Curaçao
+'422221':
+  bin: '422221'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO PANAMERICANO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422222':
+  bin: '422222'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, C. POR
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'422223':
+  bin: '422223'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE AHORRO Y CREDITO PROMERICA, S.A.
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'422224':
+  bin: '422224'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: INTERBANK - BANCO INTERNACIONAL DEL PERU
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'422225':
+  bin: '422225'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: BANCO DEL CARIBE C.A., BANCO UNIVERS.A.L.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'422226':
+  bin: '422226'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'422227':
+  bin: '422227'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ST. GEORGES BANK AND COMPANY, INC.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'422228':
+  bin: '422228'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'422229':
+  bin: '422229'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'422230':
+  bin: '422230'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO CANARIAS DE VENEZUELA, BANCO UNIVERSAL, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'422231':
+  bin: '422231'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CONTECNICA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'422232':
+  bin: '422232'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF SAINT LUCIA, LTD.
+  country:
+    alpha_2: LC
+    alpha_3: LCA
+    name: Saint Lucia
+'422233':
+  bin: '422233'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: BANK OF SAINT LUCIA, LTD.
+  country:
+    alpha_2: LC
+    alpha_3: LCA
+    name: Saint Lucia
+'422234':
+  bin: '422234'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: GIROBANK, N.V.
+  country:
+    alpha_2: CW
+    alpha_3: CUW
+    name: Curaçao
+'422235':
+  bin: '422235'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: CW
+    alpha_3: CUW
+    name: Curaçao
+'422236':
+  bin: '422236'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: GIROBANK, N.V.
+  country:
+    alpha_2: CW
+    alpha_3: CUW
+    name: Curaçao
+'422237':
+  bin: '422237'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO PROCREDIT, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'422238':
+  bin: '422238'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422239':
+  bin: '422239'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAIXA ECONOMICA MONTEPIO GERAL
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'422240':
+  bin: '422240'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAIXA ECONOMICA MONTEPIO GERAL
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'422241':
+  bin: '422241'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CAIXA ECONOMICA MONTEPIO GERAL
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'422242':
+  bin: '422242'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: CORP BANCA, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'422243':
+  bin: '422243'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CITIBANK
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'422244':
+  bin: '422244'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: AF
+    alpha_3: AFG
+    name: Afghanistan
+'422245':
+  bin: '422245'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: AF
+    alpha_3: AFG
+    name: Afghanistan
+'422246':
+  bin: '422246'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIMASER, S.A.
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'422247':
+  bin: '422247'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIMASER, S.A.
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'422248':
+  bin: '422248'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIMASER, S.A.
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'422249':
+  bin: '422249'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO BOLIVARIANO, C.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'422250':
+  bin: '422250'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO SCHAHIN, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422251':
+  bin: '422251'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO PROCREDIT, S.A.
+  country:
+    alpha_2: NI
+    alpha_3: NIC
+    name: Nicaragua
+'422252':
+  bin: '422252'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: INTERBANK - BANCO INTERNACIONAL DEL PERU
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'422253':
+  bin: '422253'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PREMIACARD DE GUATEMALA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'422254':
+  bin: '422254'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: INVESTEC BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'422255':
+  bin: '422255'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: BANQUE DE TUNISIE ET DES EMIRATS
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'422256':
+  bin: '422256'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'422257':
+  bin: '422257'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: EMPORIKI BANK - BULGARIA EAD
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'422258':
+  bin: '422258'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: EMPORIKI BANK - BULGARIA EAD
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'422259':
+  bin: '422259'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: GOLOMT BANK OF MONGOLIA
+  country:
+    alpha_2: MN
+    alpha_3: MNG
+    name: Mongolia
+'422260':
+  bin: '422260'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DEL TESORO C.A. BANCO UNIVERS.A.L.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'422261':
+  bin: '422261'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO DEL TESORO C.A. BANCO UNIVERS.A.L.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'422262':
+  bin: '422262'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO DEL TESORO C.A. BANCO UNIVERS.A.L.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'422263':
+  bin: '422263'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: BANCO DEL TESORO C.A. BANCO UNIVERS.A.L.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'422264':
+  bin: '422264'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO INDUSTRIAL DO BRASIL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422265':
+  bin: '422265'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422266':
+  bin: '422266'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: MOSSTROIECONOMBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'422267':
+  bin: '422267'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'422268':
+  bin: '422268'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO CARONI, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'422269':
+  bin: '422269'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAMBODIAN PUBLIC BANK, LTD.
+  country:
+    alpha_2: KH
+    alpha_3: KHM
+    name: Cambodia
+'422270':
+  bin: '422270'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CAMBODIAN PUBLIC BANK, LTD.
+  country:
+    alpha_2: KH
+    alpha_3: KHM
+    name: Cambodia
+'422271':
+  bin: '422271'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: DEL SUR BANCO UNIVERSAL, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'422272':
+  bin: '422272'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BARCLAYS BANK OF KENYA, LTD.
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'422273':
+  bin: '422273'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BARCLAYS BANK OF KENYA, LTD.
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'422274':
+  bin: '422274'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: CITIBANK - COLOMBIA
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'422275':
+  bin: '422275'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BRE BANK SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'422276':
+  bin: '422276'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422277':
+  bin: '422277'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422278':
+  bin: '422278'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SANTANDER UK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'422279':
+  bin: '422279'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SANTANDER UK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'422280':
+  bin: '422280'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422281':
+  bin: '422281'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422282':
+  bin: '422282'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: BANCO BOLIVARIANO, C.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'422283':
+  bin: '422283'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ST. GEORGES BANK AND COMPANY, INC.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'422284':
+  bin: '422284'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CAPITAL BANK OF JORDAN PLC. CO.
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'422285':
+  bin: '422285'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SCOTIABANK EL SALVADOR, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'422286':
+  bin: '422286'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO ECONOMICO, S.A.
+  country:
+    alpha_2: BO
+    alpha_3: BOL
+    name: Bolivia, Plurinational State of
+'422287':
+  bin: '422287'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ZAO RAIFFEISENBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'422288':
+  bin: '422288'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BRE BANK SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'422289':
+  bin: '422289'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAPITAL BANK OF JORDAN PLC. CO.
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'422290':
+  bin: '422290'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422291':
+  bin: '422291'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422292':
+  bin: '422292'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422293':
+  bin: '422293'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422294':
+  bin: '422294'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422295':
+  bin: '422295'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422296':
+  bin: '422296'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422297':
+  bin: '422297'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422298':
+  bin: '422298'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ST. GEORGES BANK AND COMPANY, INC.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'422299':
+  bin: '422299'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico

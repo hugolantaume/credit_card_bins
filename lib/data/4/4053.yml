@@ -1,0 +1,1001 @@
+---
+'405300':
+  bin: '405300'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIRST-CITIZENS BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405301':
+  bin: '405301'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRST-CITIZENS BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405302':
+  bin: '405302'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIRST-CITIZENS BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405303':
+  bin: '405303'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CONWAY NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405304':
+  bin: '405304'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CONWAY NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405305':
+  bin: '405305'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF STANLY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405306':
+  bin: '405306'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'405307':
+  bin: '405307'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: PENNSYLVANIA NATIONAL BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405308':
+  bin: '405308'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SUNTRUST BANKCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405309':
+  bin: '405309'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: MICHIGAN EDUCATIONAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405310':
+  bin: '405310'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405311':
+  bin: '405311'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405312':
+  bin: '405312'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: COASTAL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405313':
+  bin: '405313'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: COASTAL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405314':
+  bin: '405314'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NATIONAL BANK OF BLACKSBURG
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405315':
+  bin: '405315'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIONAL BANK OF GREECE - TIRANA BRANCH
+  country:
+    alpha_2: AL
+    alpha_3: ALB
+    name: Albania
+'405316':
+  bin: '405316'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405317':
+  bin: '405317'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405318':
+  bin: '405318'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405319':
+  bin: '405319'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BRANCH BANKING AND TRUST COMPANY OF VIRGINIA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405320':
+  bin: '405320'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: EAST CAROLINA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405321':
+  bin: '405321'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: EAST CAROLINA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405322':
+  bin: '405322'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: EAST CAROLINA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405323':
+  bin: '405323'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BB AND T FINANCIAL, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405324':
+  bin: '405324'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SOUTHTRUST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405325':
+  bin: '405325'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF SOUTHSIDE VIRGINIA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405326':
+  bin: '405326'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK OF SOUTHSIDE VIRGINIA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405327':
+  bin: '405327'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITY NATIONAL BANK OF WEST VIRGINIA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405328':
+  bin: '405328'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CITY NATIONAL BANK OF WEST VIRGINIA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405329':
+  bin: '405329'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405330':
+  bin: '405330'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK OF OMAHA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405331':
+  bin: '405331'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'405332':
+  bin: '405332'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405333':
+  bin: '405333'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BA MERCHANT SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405334':
+  bin: '405334'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: 1ST FINANCIAL BANK USA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405335':
+  bin: '405335'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BATON ROUGE TELCO F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405336':
+  bin: '405336'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: HIGH POINT BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405337':
+  bin: '405337'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: IOWA CORPORATE CENTRAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405338':
+  bin: '405338'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCE BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405339':
+  bin: '405339'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CAPE COD BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405340':
+  bin: '405340'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405341':
+  bin: '405341'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CORTRUST BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405342':
+  bin: '405342'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405343':
+  bin: '405343'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405344':
+  bin: '405344'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SIGNAL FINANCIAL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405345':
+  bin: '405345'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: INVESTORS SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405346':
+  bin: '405346'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: KINGSPORT PRESS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405347':
+  bin: '405347'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PENTAGON F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405348':
+  bin: '405348'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SOUTH FLORIDA EDUCATIONAL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405349':
+  bin: '405349'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NEW YORK COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405350':
+  bin: '405350'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COLUMBUS BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405351':
+  bin: '405351'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: KINECTA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405352':
+  bin: '405352'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITY NATIONAL BANK OF WEST VIRGINIA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405353':
+  bin: '405353'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FORT SILL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405354':
+  bin: '405354'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANKERS' BANK OF THE WEST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405355':
+  bin: '405355'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK OF OMAHA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405356':
+  bin: '405356'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ZIA C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405357':
+  bin: '405357'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CHASE BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405358':
+  bin: '405358'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405359':
+  bin: '405359'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CHASE BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405360':
+  bin: '405360'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: U.S. BANK N.A. ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405361':
+  bin: '405361'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: EASTERN BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405362':
+  bin: '405362'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: EASTERN BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405363':
+  bin: '405363'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: UMB BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405364':
+  bin: '405364'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UMB BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405365':
+  bin: '405365'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: DELAWARE NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405366':
+  bin: '405366'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BAR HARBOR BANKING AND TRUST CO.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405367':
+  bin: '405367'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: VYSTAR C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405368':
+  bin: '405368'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405369':
+  bin: '405369'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MELLON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405370':
+  bin: '405370'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: METROBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405371':
+  bin: '405371'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BB AND T FINANCIAL, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405372':
+  bin: '405372'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BB AND T FINANCIAL, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405373':
+  bin: '405373'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ALLIANT C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405374':
+  bin: '405374'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ALLIANT C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405375':
+  bin: '405375'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FAIRWINDS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405376':
+  bin: '405376'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: KELLOGG COMMUNITY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405377':
+  bin: '405377'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NATIONAL CITY BANK OF INDIANA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405378':
+  bin: '405378'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405379':
+  bin: '405379'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST-CITIZENS BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405380':
+  bin: '405380'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COASTAL FEDERAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405381':
+  bin: '405381'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TRANSWEST C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405382':
+  bin: '405382'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'405383':
+  bin: '405383'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CAPITAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405384':
+  bin: '405384'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: PALMETTO CITIZENS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405385':
+  bin: '405385'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MOUNTAIN AMERICA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405386':
+  bin: '405386'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CHARTWAY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405387':
+  bin: '405387'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: INDEPENDENT GROUP C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405388':
+  bin: '405388'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF AMERICAN FORK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405389':
+  bin: '405389'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SIERRA CENTRAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405390':
+  bin: '405390'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CYPRUS C.U., INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405391':
+  bin: '405391'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WILMINGTON TRUST, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405392':
+  bin: '405392'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: MIDFLORIDA C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405393':
+  bin: '405393'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BB BANKCARD CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405394':
+  bin: '405394'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: COOPERATIVE CENTER F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405395':
+  bin: '405395'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SAUGUSBANK, A CO-OPERATIVE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405396':
+  bin: '405396'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SOUTHWEST CAPITAL BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405397':
+  bin: '405397'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405398':
+  bin: '405398'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'405399':
+  bin: '405399'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

@@ -1,0 +1,1001 @@
+---
+'435200':
+  bin: '435200'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: XCEED FINANCIAL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435201':
+  bin: '435201'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: EVERBANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435202':
+  bin: '435202'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435203':
+  bin: '435203'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: SOCIETE GENERALE
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'435204':
+  bin: '435204'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: SOCIETE GENERALE
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'435205':
+  bin: '435205'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435206':
+  bin: '435206'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIRST CITIZENS NATIONAL BANK OF UPPER SANDUSKY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435207':
+  bin: '435207'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST CITIZENS NATIONAL BANK OF UPPER SANDUSKY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435208':
+  bin: '435208'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: JORDAN COMMERCIAL BANK
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'435209':
+  bin: '435209'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JORDAN COMMERCIAL BANK
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'435210':
+  bin: '435210'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: INDUE, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'435211':
+  bin: '435211'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: INDUE, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'435212':
+  bin: '435212'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: INDUE, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'435213':
+  bin: '435213'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: INDUE, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'435214':
+  bin: '435214'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: INDUE, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'435215':
+  bin: '435215'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: INDUE, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'435216':
+  bin: '435216'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: INDUE, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'435217':
+  bin: '435217'
+  brand: VISA
+  type: CREDIT
+  category: GOLD
+  issuer: INDUE, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'435218':
+  bin: '435218'
+  brand: VISA
+  type: CREDIT
+  category: GOLD
+  issuer: INDUE, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'435219':
+  bin: '435219'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: INDUE, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'435220':
+  bin: '435220'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JORDAN COMMERCIAL BANK
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'435221':
+  bin: '435221'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435222':
+  bin: '435222'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435223':
+  bin: '435223'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK (SOUTH DAKOTA), N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435224':
+  bin: '435224'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK (SOUTH DAKOTA), N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435225':
+  bin: '435225'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NORDEA BANK POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'435226':
+  bin: '435226'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK BPH, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'435227':
+  bin: '435227'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435228':
+  bin: '435228'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NEW SOUTH FEDERAL SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435229':
+  bin: '435229'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FLOWER BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435230':
+  bin: '435230'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MKB BANK ZRT.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'435231':
+  bin: '435231'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435232':
+  bin: '435232'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435233':
+  bin: '435233'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANKFIRST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435234':
+  bin: '435234'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANKFIRST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435235':
+  bin: '435235'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'435236':
+  bin: '435236'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BIG BANK GDANSKI, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'435237':
+  bin: '435237'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TARGET NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435238':
+  bin: '435238'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435239':
+  bin: '435239'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CITIZENS EQUITY FIRST C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435240':
+  bin: '435240'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: RIYAD BANK
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'435241':
+  bin: '435241'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CHARTER ONE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435242':
+  bin: '435242'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435243':
+  bin: '435243'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SAIGON THUONG TIN COMMERCIAL JSB
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'435244':
+  bin: '435244'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: SAIGON THUONG TIN COMMERCIAL JSB
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'435245':
+  bin: '435245'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435246':
+  bin: '435246'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435247':
+  bin: '435247'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AB BANKAS HANSABANKAS
+  country:
+    alpha_2: LT
+    alpha_3: LTU
+    name: Lithuania
+'435248':
+  bin: '435248'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AURGROUP FINANCIAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435249':
+  bin: '435249'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435250':
+  bin: '435250'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FOUNDATIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435251':
+  bin: '435251'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FOUNDATIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435252':
+  bin: '435252'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PALM DESERT NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435253':
+  bin: '435253'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: LIBERTY BANK OF ARKANSAS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435254':
+  bin: '435254'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: LIBERTY BANK OF ARKANSAS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435255':
+  bin: '435255'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ABBYBANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435256':
+  bin: '435256'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: OXFORD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435257':
+  bin: '435257'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CONNEXUS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435258':
+  bin: '435258'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BANKERS TRUST COMPANY, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435259':
+  bin: '435259'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: HINSDALE BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435260':
+  bin: '435260'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: LIBERTYVILLE BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435261':
+  bin: '435261'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435262':
+  bin: '435262'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: NORTHBROOK BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435263':
+  bin: '435263'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: WHEATON BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435264':
+  bin: '435264'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: NATIONAL EXCHANGE BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435265':
+  bin: '435265'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NATIONAL EXCHANGE BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435266':
+  bin: '435266'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NEW ENGLAND F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435267':
+  bin: '435267'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FORTRESS BANK OF WESTBY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435268':
+  bin: '435268'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TEAMBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435269':
+  bin: '435269'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST DUPAGE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435270':
+  bin: '435270'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435271':
+  bin: '435271'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435272':
+  bin: '435272'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435273':
+  bin: '435273'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435274':
+  bin: '435274'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435275':
+  bin: '435275'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435276':
+  bin: '435276'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435277':
+  bin: '435277'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435278':
+  bin: '435278'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435279':
+  bin: '435279'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435280':
+  bin: '435280'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435281':
+  bin: '435281'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435282':
+  bin: '435282'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435283':
+  bin: '435283'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435284':
+  bin: '435284'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435285':
+  bin: '435285'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435286':
+  bin: '435286'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435287':
+  bin: '435287'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435288':
+  bin: '435288'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435289':
+  bin: '435289'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435290':
+  bin: '435290'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435291':
+  bin: '435291'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435292':
+  bin: '435292'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435293':
+  bin: '435293'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435294':
+  bin: '435294'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435295':
+  bin: '435295'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF TENNESSEE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435296':
+  bin: '435296'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: FIDELITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435297':
+  bin: '435297'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435298':
+  bin: '435298'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435299':
+  bin: '435299'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

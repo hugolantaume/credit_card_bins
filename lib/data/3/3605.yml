@@ -1,0 +1,21 @@
+---
+'360520':
+  bin: '360520'
+  brand: DISCOVER
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'360532':
+  bin: '360532'
+  brand: DISCOVER
+  type: CREDIT
+  category: ''
+  issuer: CITIBANK (SOUTH DAKOTA), N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

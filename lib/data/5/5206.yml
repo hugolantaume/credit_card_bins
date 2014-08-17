@@ -1,0 +1,1001 @@
+---
+'520600':
+  bin: '520600'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: COMPUTER SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'520601':
+  bin: '520601'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'520602':
+  bin: '520602'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: HSBC BANK NEVADA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'520603':
+  bin: '520603'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM)
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'520604':
+  bin: '520604'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'520605':
+  bin: '520605'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: ICUL SERVICE CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'520606':
+  bin: '520606'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'520607':
+  bin: '520607'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: HSBC BANK USA, N.A. ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'520608':
+  bin: '520608'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: TARJETAS BANAMEX, SA DE CV, SOFOM E.R.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'520609':
+  bin: '520609'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'520610':
+  bin: '520610'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'520611':
+  bin: '520611'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: HSBC BANK NEVADA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'520612':
+  bin: '520612'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: HSBC BANK NEVADA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'520613':
+  bin: '520613'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'520614':
+  bin: '520614'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: SANTANDER CONSUMER BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'520615':
+  bin: '520615'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: SANTANDER CONSUMER BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'520616':
+  bin: '520616'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: EUROCARD AB
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'520617':
+  bin: '520617'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BORGUN H.F.
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'520618':
+  bin: '520618'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BORGUN H.F.
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'520619':
+  bin: '520619'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BORGUN H.F.
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'520620':
+  bin: '520620'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'520621':
+  bin: '520621'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: ITAU UNIBANCO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'520622':
+  bin: '520622'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'520623':
+  bin: '520623'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: EURO KARTENSYSTEME GMBH
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'520624':
+  bin: '520624'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'520625':
+  bin: '520625'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'520626':
+  bin: '520626'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'520627':
+  bin: '520627'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: HELLENIC BANK PUBLIC CO., LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'520628':
+  bin: '520628'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: SOCIETE GENERALE BANKA SRBIJA AD BEOGRAD
+  country:
+    alpha_2: RS
+    alpha_3: SRB
+    name: Serbia
+'520629':
+  bin: '520629'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BANCO ESPANOL DE CREDITO (BANESTO)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'520630':
+  bin: '520630'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'520631':
+  bin: '520631'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'520632':
+  bin: '520632'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: POSTAL SAVINGS BANK JSC
+  country:
+    alpha_2: RS
+    alpha_3: SRB
+    name: Serbia
+'520633':
+  bin: '520633'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: JSB UKRGASBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'520634':
+  bin: '520634'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: JSC BANK OF KHANTY-MANSIYSK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'520635':
+  bin: '520635'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: EUROPAY FRANCE SAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'520636':
+  bin: '520636'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CAIXA GERAL DE DEPOSITOS, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'520637':
+  bin: '520637'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: RAIFFEISENBANK, A.S.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'520638':
+  bin: '520638'
+  brand: MASTERCARD
+  type: DEBIT
+  category: GOLD
+  issuer: BANCO DE COSTA RICA
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'520639':
+  bin: '520639'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: ING BANK, N.V.
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'520640':
+  bin: '520640'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: NATIONAL WESTMINSTER BANK PLC
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'520641':
+  bin: '520641'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: ROYAL BANK OF SCOTLAND PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'520642':
+  bin: '520642'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'520643':
+  bin: '520643'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: INTERNATIONAL CARD SERVICES BV
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'520644':
+  bin: '520644'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'520645':
+  bin: '520645'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'520646':
+  bin: '520646'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: ERSTE BANK A.D. PODGORICA
+  country:
+    alpha_2: ME
+    alpha_3: MNE
+    name: Montenegro
+'520647':
+  bin: '520647'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCA ROMANESCA, S.A.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'520648':
+  bin: '520648'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANK INICJATYW SPOLECZNO-EKONOMICZNYCH, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'520649':
+  bin: '520649'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANCO DE COSTA RICA
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'520650':
+  bin: '520650'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'520651':
+  bin: '520651'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CESKOSLOVENSKA OBCHODNA BANKA, A.S.
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'520652':
+  bin: '520652'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: PUBLIC JSC JSB UKRGASBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'520653':
+  bin: '520653'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: TURKIYE IS BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'520654':
+  bin: '520654'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'520655':
+  bin: '520655'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: RAIFFEISENBANK, A.S.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'520656':
+  bin: '520656'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: YAPI KREDI BANK AZERBAIJAN CJSC
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'520657':
+  bin: '520657'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: PUBLIC JSC RAIFFEISEN BANK AVAL
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'520658':
+  bin: '520658'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BELVNESHECONOMBANK
+  country:
+    alpha_2: BY
+    alpha_3: BLR
+    name: Belarus
+'520659':
+  bin: '520659'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'520660':
+  bin: '520660'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'520661':
+  bin: '520661'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CREDICORP BANK, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'520662':
+  bin: '520662'
+  brand: MASTERCARD
+  type: DEBIT
+  category: GIFT
+  issuer: PJSC CREDIT AGRICOLE BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'520663':
+  bin: '520663'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'520664':
+  bin: '520664'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: CREATION FINANCIAL SERVICES
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'520665':
+  bin: '520665'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'520666':
+  bin: '520666'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: COMMERCIAL BANK MASTER-BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'520667':
+  bin: '520667'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'520668':
+  bin: '520668'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CENTRAL-EUROPEAN INTERNATIONAL BANK (CIB BANK) RT.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'520669':
+  bin: '520669'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: FINDOMESTIC BANCA S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'520670':
+  bin: '520670'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: COMMERCIAL BANK ASSISTANCE FOR PUBLIC INITIATIVES SOBINBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'520671':
+  bin: '520671'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ING BANK RT.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'520672':
+  bin: '520672'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANK BPH SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'520673':
+  bin: '520673'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'520674':
+  bin: '520674'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ALLIANCE AND LEICESTER PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'520675':
+  bin: '520675'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: SANTANDER CARDS UK, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'520676':
+  bin: '520676'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'520677':
+  bin: '520677'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CREDIT AGRICOLE SRBIJA AD NOVI SAD
+  country:
+    alpha_2: RS
+    alpha_3: SRB
+    name: Serbia
+'520678':
+  bin: '520678'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: UNICREDIT S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'520679':
+  bin: '520679'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: PIRAEUS BANK BULGARIA
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'520680':
+  bin: '520680'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NORDEA BANK NORGE ASA
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'520681':
+  bin: '520681'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORDEA BANK NORGE ASA
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'520682':
+  bin: '520682'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORDEA BANK NORGE ASA
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'520683':
+  bin: '520683'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NORDEA BANK NORGE ASA
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'520684':
+  bin: '520684'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BANK DNB NORD POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'520685':
+  bin: '520685'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: COMMERCIAL BANK MASTER-BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'520686':
+  bin: '520686'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: PRIVREDNA BANKA ZAGREB D.D.
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'520687':
+  bin: '520687'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: ERSTE AND STEIERMARKISCHE BANK D.D.
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'520688':
+  bin: '520688'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: PROCREDIT BANK SH.A.
+  country:
+    alpha_2: AL
+    alpha_3: ALB
+    name: Albania
+'520689':
+  bin: '520689'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: PROTON BANK, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'520690':
+  bin: '520690'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'520691':
+  bin: '520691'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: BAYERISCHE LANDESBANK
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'520692':
+  bin: '520692'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: MASTERCAJAS, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'520693':
+  bin: '520693'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: MASTERCAJAS, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'520694':
+  bin: '520694'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'520695':
+  bin: '520695'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: MASTERCAJAS, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'520696':
+  bin: '520696'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: MASTERCAJAS, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'520697':
+  bin: '520697'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: EUROPAY BELGIUM S.C.R.L.
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'520698':
+  bin: '520698'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'520699':
+  bin: '520699'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico

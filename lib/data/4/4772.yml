@@ -1,0 +1,1001 @@
+---
+'477200':
+  bin: '477200'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: INTERBANK - BANCO INTERNACIONAL DEL PERU
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'477201':
+  bin: '477201'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'477202':
+  bin: '477202'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'477203':
+  bin: '477203'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477204':
+  bin: '477204'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477205':
+  bin: '477205'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477206':
+  bin: '477206'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'477207':
+  bin: '477207'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'477208':
+  bin: '477208'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'477209':
+  bin: '477209'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'477210':
+  bin: '477210'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BBVA BANCOMER, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'477211':
+  bin: '477211'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BBVA BANCOMER, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'477212':
+  bin: '477212'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BBVA BANCOMER, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'477213':
+  bin: '477213'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BBVA BANCOMER, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'477214':
+  bin: '477214'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BBVA BANCOMER, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'477215':
+  bin: '477215'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477216':
+  bin: '477216'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477217':
+  bin: '477217'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO NACIONAL DE BOLIVIA, S.A.
+  country:
+    alpha_2: BO
+    alpha_3: BOL
+    name: Bolivia, Plurinational State of
+'477218':
+  bin: '477218'
+  brand: VISA
+  type: CREDIT
+  category: GOLD
+  issuer: BANCO NACIONAL DE BOLIVIA, S.A.
+  country:
+    alpha_2: BO
+    alpha_3: BOL
+    name: Bolivia, Plurinational State of
+'477219':
+  bin: '477219'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO NACIONAL DE BOLIVIA, S.A.
+  country:
+    alpha_2: BO
+    alpha_3: BOL
+    name: Bolivia, Plurinational State of
+'477220':
+  bin: '477220'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO NACIONAL DE BOLIVIA, S.A.
+  country:
+    alpha_2: BO
+    alpha_3: BOL
+    name: Bolivia, Plurinational State of
+'477221':
+  bin: '477221'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: NATIXIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'477222':
+  bin: '477222'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: NATIXIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'477223':
+  bin: '477223'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477224':
+  bin: '477224'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477225':
+  bin: '477225'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477226':
+  bin: '477226'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477227':
+  bin: '477227'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477228':
+  bin: '477228'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477229':
+  bin: '477229'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477230':
+  bin: '477230'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477231':
+  bin: '477231'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477232':
+  bin: '477232'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477233':
+  bin: '477233'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477234':
+  bin: '477234'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477235':
+  bin: '477235'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477236':
+  bin: '477236'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477237':
+  bin: '477237'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477238':
+  bin: '477238'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477239':
+  bin: '477239'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477240':
+  bin: '477240'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477241':
+  bin: '477241'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477242':
+  bin: '477242'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477243':
+  bin: '477243'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477244':
+  bin: '477244'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477245':
+  bin: '477245'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477246':
+  bin: '477246'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477247':
+  bin: '477247'
+  brand: VISA
+  type: CREDIT
+  category: GOLD
+  issuer: TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'477248':
+  bin: '477248'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477249':
+  bin: '477249'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'477250':
+  bin: '477250'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'477251':
+  bin: '477251'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'477252':
+  bin: '477252'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: ''
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'477253':
+  bin: '477253'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'477254':
+  bin: '477254'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'477255':
+  bin: '477255'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477256':
+  bin: '477256'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477257':
+  bin: '477257'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PAYSQUARE B.V.
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'477258':
+  bin: '477258'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PAYSQUARE B.V.
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'477259':
+  bin: '477259'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: PAYSQUARE B.V.
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'477260':
+  bin: '477260'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SCOTIABANK INVERLAT, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'477261':
+  bin: '477261'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477262':
+  bin: '477262'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'477263':
+  bin: '477263'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE
+  issuer: ING BANK SLASKI, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'477264':
+  bin: '477264'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'477265':
+  bin: '477265'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477266':
+  bin: '477266'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'477267':
+  bin: '477267'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'477268':
+  bin: '477268'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'477269':
+  bin: '477269'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477270':
+  bin: '477270'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477271':
+  bin: '477271'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477272':
+  bin: '477272'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'477273':
+  bin: '477273'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477274':
+  bin: '477274'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477275':
+  bin: '477275'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DEL PACIFICO, S.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'477276':
+  bin: '477276'
+  brand: VISA
+  type: CREDIT
+  category: GOLD
+  issuer: BANCO DEL PACIFICO, S.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'477277':
+  bin: '477277'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'477278':
+  bin: '477278'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477279':
+  bin: '477279'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: ''
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'477280':
+  bin: '477280'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: ''
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'477281':
+  bin: '477281'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO PICHINCHA, C.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'477282':
+  bin: '477282'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'477283':
+  bin: '477283'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'477284':
+  bin: '477284'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477285':
+  bin: '477285'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477286':
+  bin: '477286'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477287':
+  bin: '477287'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477288':
+  bin: '477288'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477289':
+  bin: '477289'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: INTERBANK - BANCO INTERNACIONAL DEL PERU
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'477290':
+  bin: '477290'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: INTERBANK - BANCO INTERNACIONAL DEL PERU
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'477291':
+  bin: '477291'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BBVA BANCOMER, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'477292':
+  bin: '477292'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BBVA BANCOMER, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'477293':
+  bin: '477293'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: ''
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'477294':
+  bin: '477294'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477295':
+  bin: '477295'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: INTERBANK - BANCO INTERNACIONAL DEL PERU
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'477296':
+  bin: '477296'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477297':
+  bin: '477297'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477298':
+  bin: '477298'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'477299':
+  bin: '477299'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

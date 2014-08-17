@@ -1,0 +1,1001 @@
+---
+'432100':
+  bin: '432100'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: KEYBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432101':
+  bin: '432101'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432102':
+  bin: '432102'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANAMEX USA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432103':
+  bin: '432103'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: CITIZENS BANK OF CANADA / VANCOUVER CITY SAVINGS C.U.
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'432104':
+  bin: '432104'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: MOSSTROIECONOMBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'432105':
+  bin: '432105'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'432106':
+  bin: '432106'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'432107':
+  bin: '432107'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: PJSC UNICREDIT BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'432108':
+  bin: '432108'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: UNICREDIT BANK LLC
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'432109':
+  bin: '432109'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: UNICREDIT BANK LLC
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'432110':
+  bin: '432110'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VON ESSEN KG BANKGESELLSCHAFT
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'432111':
+  bin: '432111'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VON ESSEN KG BANKGESELLSCHAFT
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'432112':
+  bin: '432112'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: VON ESSEN KG BANKGESELLSCHAFT
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'432113':
+  bin: '432113'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GIROBANK, N.V.
+  country:
+    alpha_2: CW
+    alpha_3: CUW
+    name: Curaçao
+'432114':
+  bin: '432114'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: EMIRATES BANK INTERNATIONAL PJSC
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'432115':
+  bin: '432115'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: NATIONAL INDUSTRIAL CREDIT BANK, LTD.
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'432116':
+  bin: '432116'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: NATIONAL INDUSTRIAL CREDIT BANK, LTD.
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'432117':
+  bin: '432117'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: CITIZENS BANK OF CANADA / VANCOUVER CITY SAVINGS C.U.
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'432118':
+  bin: '432118'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: AHLI UNITED BANK B.S.C.
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'432119':
+  bin: '432119'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'432120':
+  bin: '432120'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'432121':
+  bin: '432121'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'432122':
+  bin: '432122'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO DE ANDALUCIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'432123':
+  bin: '432123'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'432124':
+  bin: '432124'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'432125':
+  bin: '432125'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'432126':
+  bin: '432126'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'432127':
+  bin: '432127'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'432128':
+  bin: '432128'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'432129':
+  bin: '432129'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'432130':
+  bin: '432130'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'432131':
+  bin: '432131'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: ''
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'432132':
+  bin: '432132'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AL RAJHI BANKING AND INVESTMENT CORP.
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'432133':
+  bin: '432133'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: AL RAJHI BANKING AND INVESTMENT CORP.
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'432134':
+  bin: '432134'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AL RAJHI BANKING AND INVESTMENT CORP.
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'432135':
+  bin: '432135'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: AL RAJHI BANKING AND INVESTMENT CORP.
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'432136':
+  bin: '432136'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: CITIZENS BANK OF CANADA / VANCOUVER CITY SAVINGS C.U.
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'432137':
+  bin: '432137'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: CITIZENS BANK OF CANADA / VANCOUVER CITY SAVINGS C.U.
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'432138':
+  bin: '432138'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: R RAPHAEL AND SONS PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'432139':
+  bin: '432139'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: PRIMER BANCO DEL ISTMO, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'432140':
+  bin: '432140'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432141':
+  bin: '432141'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF EAST ASIA, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'432142':
+  bin: '432142'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: CITIZENS BANK OF CANADA / VANCOUVER CITY SAVINGS C.U.
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'432143':
+  bin: '432143'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: CITIZENS BANK OF CANADA / VANCOUVER CITY SAVINGS C.U.
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'432144':
+  bin: '432144'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: CITIZENS BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'432145':
+  bin: '432145'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BRAC BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'432146':
+  bin: '432146'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BRAC BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'432147':
+  bin: '432147'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BRAC BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'432148':
+  bin: '432148'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BRAC BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'432149':
+  bin: '432149'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BRAC BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'432150':
+  bin: '432150'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: CITIZENS BANK OF CANADA / VANCOUVER CITY SAVINGS C.U.
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'432151':
+  bin: '432151'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: ''
+  country:
+    alpha_2: MU
+    alpha_3: MUS
+    name: Mauritius
+'432152':
+  bin: '432152'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: MU
+    alpha_3: MUS
+    name: Mauritius
+'432153':
+  bin: '432153'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: MU
+    alpha_3: MUS
+    name: Mauritius
+'432154':
+  bin: '432154'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TURKIYE GARANTI BANKASI A. S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'432155':
+  bin: '432155'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'432156':
+  bin: '432156'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK SAVINGS, INC.
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'432157':
+  bin: '432157'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: CITIZENS BANK OF CANADA / VANCOUVER CITY SAVINGS C.U.
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'432158':
+  bin: '432158'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CJSC CREDIT EUROPE BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'432159':
+  bin: '432159'
+  brand: VISA
+  type: DEBIT
+  category: INFINITE
+  issuer: AL RAJHI BANKING AND INVESTMENT CORP.
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'432160':
+  bin: '432160'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: JSCB NADRA
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'432161':
+  bin: '432161'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: CITIZENS BANK OF CANADA / VANCOUVER CITY SAVINGS C.U.
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'432162':
+  bin: '432162'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK GABORONE, LTD.
+  country:
+    alpha_2: BW
+    alpha_3: BWA
+    name: Botswana
+'432163':
+  bin: '432163'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: BANK GABORONE, LTD.
+  country:
+    alpha_2: BW
+    alpha_3: BWA
+    name: Botswana
+'432164':
+  bin: '432164'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANK GABORONE, LTD.
+  country:
+    alpha_2: BW
+    alpha_3: BWA
+    name: Botswana
+'432165':
+  bin: '432165'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK GABORONE, LTD.
+  country:
+    alpha_2: BW
+    alpha_3: BWA
+    name: Botswana
+'432166':
+  bin: '432166'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ALPHA BANK
+  country:
+    alpha_2: AL
+    alpha_3: ALB
+    name: Albania
+'432167':
+  bin: '432167'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'432168':
+  bin: '432168'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'432169':
+  bin: '432169'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'432170':
+  bin: '432170'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JSC GE MONEYBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'432171':
+  bin: '432171'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: JSC GE MONEYBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'432172':
+  bin: '432172'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CONTECNICA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'432173':
+  bin: '432173'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CONTECNICA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'432174':
+  bin: '432174'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CONTECNICA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'432175':
+  bin: '432175'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CONTECNICA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'432176':
+  bin: '432176'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: CONTECNICA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'432177':
+  bin: '432177'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANKIA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'432178':
+  bin: '432178'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: RAIFFEISENBANK (BULGARIA) EAD
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'432179':
+  bin: '432179'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: RAIFFEISENBANK (BULGARIA) EAD
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'432180':
+  bin: '432180'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HSBC BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432181':
+  bin: '432181'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HSBC BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432182':
+  bin: '432182'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HSBC BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432183':
+  bin: '432183'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: CITIZENS BANK OF CANADA / VANCOUVER CITY SAVINGS C.U.
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'432184':
+  bin: '432184'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HSBC BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432185':
+  bin: '432185'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HSBC BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432186':
+  bin: '432186'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HSBC BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432187':
+  bin: '432187'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HSBC BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432188':
+  bin: '432188'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HSBC BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432189':
+  bin: '432189'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HSBC BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'432190':
+  bin: '432190'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: CITIZENS BANK OF CANADA / VANCOUVER CITY SAVINGS C.U.
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'432191':
+  bin: '432191'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: ''
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'432192':
+  bin: '432192'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: ''
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'432193':
+  bin: '432193'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: CITIZENS BANK OF CANADA / VANCOUVER CITY SAVINGS C.U.
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'432194':
+  bin: '432194'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: CITIZENS BANK OF CANADA / VANCOUVER CITY SAVINGS C.U.
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'432195':
+  bin: '432195'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: CITIZENS BANK OF CANADA / VANCOUVER CITY SAVINGS C.U.
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'432196':
+  bin: '432196'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: CITIZENS BANK OF CANADA / VANCOUVER CITY SAVINGS C.U.
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'432197':
+  bin: '432197'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: CITIZENS BANK OF CANADA / VANCOUVER CITY SAVINGS C.U.
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'432198':
+  bin: '432198'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'432199':
+  bin: '432199'
+  brand: VISA
+  type: DEBIT
+  category: GIFT
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India

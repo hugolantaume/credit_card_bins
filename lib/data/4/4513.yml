@@ -1,0 +1,1001 @@
+---
+'451300':
+  bin: '451300'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO ITAU, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451301':
+  bin: '451301'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451302':
+  bin: '451302'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ADMINISTRADORA DE CARTAO DE CREDITO BANKOF BOSTON S.C., LTD.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451303':
+  bin: '451303'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451304':
+  bin: '451304'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'451305':
+  bin: '451305'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.
+  country:
+    alpha_2: BS
+    alpha_3: BHS
+    name: Bahamas
+'451306':
+  bin: '451306'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'451307':
+  bin: '451307'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451308':
+  bin: '451308'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451309':
+  bin: '451309'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451310':
+  bin: '451310'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ENTERPRISE BANK OF SOUTH CAROLINA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451311':
+  bin: '451311'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DEL CENTRO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'451312':
+  bin: '451312'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANCO SANTANDER S.A. INST. DE BANCA MULTIPLE GRUPO FINANCIER
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'451313':
+  bin: '451313'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO MERCURIO, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'451314':
+  bin: '451314'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CREDIX INTERNACIONAL, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'451315':
+  bin: '451315'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO DEL CARIBE S.A.C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'451316':
+  bin: '451316'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: TRANSBANK, S.A.
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'451317':
+  bin: '451317'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST FINANCIAL BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451318':
+  bin: '451318'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451319':
+  bin: '451319'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO SANTANDER, S.A.
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'451320':
+  bin: '451320'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'451321':
+  bin: '451321'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451322':
+  bin: '451322'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MULTICREDIT, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'451323':
+  bin: '451323'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FINANCIERA BERMUDEZ Y VALENZUELA S.A. COMPANIA DE
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451324':
+  bin: '451324'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO DE CHILE
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'451325':
+  bin: '451325'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO DEL CARIBE C.A., BANCO UNIVERS.A.L.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'451326':
+  bin: '451326'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO PROMOTOR DEL NORTE, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'451327':
+  bin: '451327'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451328':
+  bin: '451328'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HSBC BANK PARAGUAY, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'451329':
+  bin: '451329'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HSBC BANK PARAGUAY, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'451330':
+  bin: '451330'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HSBC BANK BRASIL S.A. - BANCO MULTIPLO
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451331':
+  bin: '451331'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'451332':
+  bin: '451332'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'451333':
+  bin: '451333'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'451334':
+  bin: '451334'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'451335':
+  bin: '451335'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'451336':
+  bin: '451336'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ADVANCIAL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451337':
+  bin: '451337'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO BANEX
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451338':
+  bin: '451338'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451339':
+  bin: '451339'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HONOR C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451340':
+  bin: '451340'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO BANEX
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'451341':
+  bin: '451341'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BANEX
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451342':
+  bin: '451342'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANESTES S.A. - BANCO DO ESTADO DO ESPIRITO SANTO
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451343':
+  bin: '451343'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANESTES S.A. - BANCO DO ESTADO DO ESPIRITO SANTO
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451344':
+  bin: '451344'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANESTES S.A. - BANCO DO ESTADO DO ESPIRITO SANTO
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451345':
+  bin: '451345'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANESTES S.A. - BANCO DO ESTADO DO ESPIRITO SANTO
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451346':
+  bin: '451346'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: KY
+    alpha_3: CYM
+    name: Cayman Islands
+'451347':
+  bin: '451347'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: KRUNGTHAI CARD PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'451348':
+  bin: '451348'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451349':
+  bin: '451349'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451350':
+  bin: '451350'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROIG COMMERCIAL BANK
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'451351':
+  bin: '451351'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AMERICAN INTERNATIONAL BANK
+  country:
+    alpha_2: AG
+    alpha_3: ATG
+    name: Antigua and Barbuda
+'451352':
+  bin: '451352'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'451353':
+  bin: '451353'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AVAL CARD, S.A. DE C.V.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'451354':
+  bin: '451354'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO CITIBANK DE EL SALVADOR, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'451355':
+  bin: '451355'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DO ESTADO DO PARANA
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451356':
+  bin: '451356'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DO ESTADO DO PARANA
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451357':
+  bin: '451357'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO MULTIVALORES, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'451358':
+  bin: '451358'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO MULTIVALORES, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'451359':
+  bin: '451359'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451360':
+  bin: '451360'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CREST, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'451361':
+  bin: '451361'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: MERCOBANK, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'451362':
+  bin: '451362'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO POPULAR FINANCIERO, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'451363':
+  bin: '451363'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451364':
+  bin: '451364'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CAJA ESPANA DE INVERSIONES C.A. Y M.P. (CAJA ESPANA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'451365':
+  bin: '451365'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO PROSPER, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451366':
+  bin: '451366'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'451367':
+  bin: '451367'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'451368':
+  bin: '451368'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO DE CREDITO E INVERSIONES
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'451369':
+  bin: '451369'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NATIONAL COMMERCIAL BANK JAMAICA, LTD.
+  country:
+    alpha_2: JM
+    alpha_3: JAM
+    name: Jamaica
+'451370':
+  bin: '451370'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO PROMOTOR DEL NORTE, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'451371':
+  bin: '451371'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO PROMOTOR DEL NORTE, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'451372':
+  bin: '451372'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DEL ESTADO
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451373':
+  bin: '451373'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ABN AMRO BANK (CHILE)
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'451374':
+  bin: '451374'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451375':
+  bin: '451375'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BOLIVARIANO, C.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'451376':
+  bin: '451376'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451377':
+  bin: '451377'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO DE LA PROVINCIA DE BUENOS AIRES
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'451378':
+  bin: '451378'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO ITAU, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451379':
+  bin: '451379'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO ITAU, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451380':
+  bin: '451380'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451381':
+  bin: '451381'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451382':
+  bin: '451382'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO ITAU, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451383':
+  bin: '451383'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'451384':
+  bin: '451384'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANESCO, BANCO UNIVERSAL, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'451385':
+  bin: '451385'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANESCO, BANCO UNIVERSAL, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'451386':
+  bin: '451386'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO DEL NUEVO MUNDO
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'451387':
+  bin: '451387'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO DEL NUEVO MUNDO
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'451388':
+  bin: '451388'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BUTTERFIELD BANK (CAYMAN), LTD.
+  country:
+    alpha_2: KY
+    alpha_3: CYM
+    name: Cayman Islands
+'451389':
+  bin: '451389'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BUTTERFIELD BANK (CAYMAN), LTD.
+  country:
+    alpha_2: KY
+    alpha_3: CYM
+    name: Cayman Islands
+'451390':
+  bin: '451390'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451391':
+  bin: '451391'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451392':
+  bin: '451392'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451393':
+  bin: '451393'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO GENERAL, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'451394':
+  bin: '451394'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO GENERAL, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'451395':
+  bin: '451395'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO CONTINENTAL DE PANAMA, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'451396':
+  bin: '451396'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451397':
+  bin: '451397'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451398':
+  bin: '451398'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'451399':
+  bin: '451399'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia

@@ -1,0 +1,1001 @@
+---
+'431300':
+  bin: '431300'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BS
+    alpha_3: BHS
+    name: Bahamas
+'431301':
+  bin: '431301'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431302':
+  bin: '431302'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431303':
+  bin: '431303'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431304':
+  bin: '431304'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431305':
+  bin: '431305'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431306':
+  bin: '431306'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: BANK OF AMERICA (FORMERLY MBNA)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431307':
+  bin: '431307'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431308':
+  bin: '431308'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431309':
+  bin: '431309'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIDELITY BANK (CAYMAN), LTD.
+  country:
+    alpha_2: KY
+    alpha_3: CYM
+    name: Cayman Islands
+'431310':
+  bin: '431310'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'431311':
+  bin: '431311'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'431312':
+  bin: '431312'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'431313':
+  bin: '431313'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'431314':
+  bin: '431314'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'431315':
+  bin: '431315'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'431316':
+  bin: '431316'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'431317':
+  bin: '431317'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'431318':
+  bin: '431318'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'431319':
+  bin: '431319'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: J.P. MORGAN EUROPE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'431320':
+  bin: '431320'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: J.P. MORGAN EUROPE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'431321':
+  bin: '431321'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: J.P. MORGAN EUROPE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'431322':
+  bin: '431322'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: J.P. MORGAN EUROPE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'431323':
+  bin: '431323'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: J.P. MORGAN EUROPE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'431324':
+  bin: '431324'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: J.P. MORGAN EUROPE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'431325':
+  bin: '431325'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: J.P. MORGAN EUROPE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'431326':
+  bin: '431326'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: J.P. MORGAN EUROPE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'431327':
+  bin: '431327'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: J.P. MORGAN EUROPE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'431328':
+  bin: '431328'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: J.P. MORGAN EUROPE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'431329':
+  bin: '431329'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: J.P. MORGAN EUROPE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'431330':
+  bin: '431330'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: J.P. MORGAN EUROPE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'431331':
+  bin: '431331'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: STANBIC BANK TANZANIA, LTD.
+  country:
+    alpha_2: TZ
+    alpha_3: TZA
+    name: Tanzania, United Republic of
+'431332':
+  bin: '431332'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: STANBIC BANK TANZANIA, LTD.
+  country:
+    alpha_2: TZ
+    alpha_3: TZA
+    name: Tanzania, United Republic of
+'431333':
+  bin: '431333'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STANBIC BANK TANZANIA, LTD.
+  country:
+    alpha_2: TZ
+    alpha_3: TZA
+    name: Tanzania, United Republic of
+'431334':
+  bin: '431334'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TZ
+    alpha_3: TZA
+    name: Tanzania, United Republic of
+'431335':
+  bin: '431335'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TZ
+    alpha_3: TZA
+    name: Tanzania, United Republic of
+'431336':
+  bin: '431336'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JSC BANK OF MOSCOW
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'431337':
+  bin: '431337'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: VISA AUSTRIA
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'431338':
+  bin: '431338'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: VISA AUSTRIA
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'431339':
+  bin: '431339'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: VISA AUSTRIA
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'431340':
+  bin: '431340'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: VISA AUSTRIA
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'431341':
+  bin: '431341'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: VISA AUSTRIA
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'431342':
+  bin: '431342'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: VISA AUSTRIA
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'431343':
+  bin: '431343'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: VISA AUSTRIA
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'431344':
+  bin: '431344'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: VISA AUSTRIA
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'431345':
+  bin: '431345'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431346':
+  bin: '431346'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431347':
+  bin: '431347'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431348':
+  bin: '431348'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431349':
+  bin: '431349'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PAYSQUARE B.V.
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'431350':
+  bin: '431350'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KY
+    alpha_3: CYM
+    name: Cayman Islands
+'431351':
+  bin: '431351'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431352':
+  bin: '431352'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431353':
+  bin: '431353'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: BANCO INDUSTRIAL, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'431354':
+  bin: '431354'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANCO INDUSTRIAL, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'431355':
+  bin: '431355'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: UNION NATIONAL BANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'431356':
+  bin: '431356'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'431357':
+  bin: '431357'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: COMMERCIAL BANK OF DUBAI, LTD.
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'431358':
+  bin: '431358'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CHELINDBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'431359':
+  bin: '431359'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: OJSC ROSGOSSTRAKH BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'431360':
+  bin: '431360'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: COMMERCIAL BANK OF QATAR (Q.S.C.)
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'431361':
+  bin: '431361'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIONAL BANK OF KUWAIT, S.A.K.
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'431362':
+  bin: '431362'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'431363':
+  bin: '431363'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'431364':
+  bin: '431364'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: KUWAIT FINANCE HOUSE
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'431365':
+  bin: '431365'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: KUWAIT FINANCE HOUSE
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'431366':
+  bin: '431366'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: LT
+    alpha_3: LTU
+    name: Lithuania
+'431367':
+  bin: '431367'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIDELITY BANK (CAYMAN), LTD.
+  country:
+    alpha_2: KY
+    alpha_3: CYM
+    name: Cayman Islands
+'431368':
+  bin: '431368'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431369':
+  bin: '431369'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF SCOTLAND (IRELAND), LTD.
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431370':
+  bin: '431370'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'431371':
+  bin: '431371'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431372':
+  bin: '431372'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431373':
+  bin: '431373'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431374':
+  bin: '431374'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: KOMERCIJALNA BANKA AD BEOGRAD CJSC
+  country:
+    alpha_2: RS
+    alpha_3: SRB
+    name: Serbia
+'431375':
+  bin: '431375'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431376':
+  bin: '431376'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF JORDAN
+  country:
+    alpha_2: PS
+    alpha_3: PSE
+    name: Palestinian Territory, Occupied
+'431377':
+  bin: '431377'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO COMERCIAL E DE INVESTIMENTOS SARL
+  country:
+    alpha_2: MZ
+    alpha_3: MOZ
+    name: Mozambique
+'431378':
+  bin: '431378'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ALPHA BANK ROMANIA, S.A.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'431379':
+  bin: '431379'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: FINANSBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'431380':
+  bin: '431380'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANK OF VALLETTA P.L.C
+  country:
+    alpha_2: MT
+    alpha_3: MLT
+    name: Malta
+'431381':
+  bin: '431381'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431382':
+  bin: '431382'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431383':
+  bin: '431383'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431384':
+  bin: '431384'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431385':
+  bin: '431385'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: HELM BANK, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'431386':
+  bin: '431386'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANCO DE CREDITO DE COLOMBIA S.A. HELM FINANCIAL SERVICES
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'431387':
+  bin: '431387'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK 1 SAAR EG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'431388':
+  bin: '431388'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431389':
+  bin: '431389'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431390':
+  bin: '431390'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIDELITY BANK (BAHAMAS), LTD.
+  country:
+    alpha_2: BS
+    alpha_3: BHS
+    name: Bahamas
+'431391':
+  bin: '431391'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431392':
+  bin: '431392'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431393':
+  bin: '431393'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431394':
+  bin: '431394'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431395':
+  bin: '431395'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431396':
+  bin: '431396'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431397':
+  bin: '431397'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431398':
+  bin: '431398'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431399':
+  bin: '431399'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BS
+    alpha_3: BHS
+    name: Bahamas

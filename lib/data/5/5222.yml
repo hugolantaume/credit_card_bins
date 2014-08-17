@@ -1,0 +1,1001 @@
+---
+'522200':
+  bin: '522200'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: PACIFICARD, S.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'522201':
+  bin: '522201'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'522202':
+  bin: '522202'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NATIONAL CITY BANK OF MICHIGAN/ILLINOIS
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'522203':
+  bin: '522203'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'522204':
+  bin: '522204'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: TURKIYE GARANTI BANKASI A. S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'522205':
+  bin: '522205'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'522206':
+  bin: '522206'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: CONSORCIO CREDICARD, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'522207':
+  bin: '522207'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522208':
+  bin: '522208'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: JSC BELAGROPROMBANK
+  country:
+    alpha_2: BY
+    alpha_3: BLR
+    name: Belarus
+'522209':
+  bin: '522209'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NATIONAL CITY BANK OF MICHIGAN/ILLINOIS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522210':
+  bin: '522210'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: HSBC BANK (CHILE)
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'522211':
+  bin: '522211'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'522212':
+  bin: '522212'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'522213':
+  bin: '522213'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIA CARD SERVICES PR
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'522214':
+  bin: '522214'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522215':
+  bin: '522215'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522216':
+  bin: '522216'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'522217':
+  bin: '522217'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: PROCARD, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'522218':
+  bin: '522218'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF TAIWAN
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'522219':
+  bin: '522219'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: COLUMBUS BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522220':
+  bin: '522220'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: COLUMBUS BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522221':
+  bin: '522221'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCA TURCO ROMANA S.A.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'522222':
+  bin: '522222'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: UNITED OVERSEAS BANK (MALAYSIA) BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'522223':
+  bin: '522223'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: JSCB AVANGARD
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'522224':
+  bin: '522224'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: JSCB AVANGARD
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'522225':
+  bin: '522225'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'522226':
+  bin: '522226'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'522227':
+  bin: '522227'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'522228':
+  bin: '522228'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'522229':
+  bin: '522229'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: SEB KORT AB (HELSINKI BRANCH)
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'522230':
+  bin: '522230'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'522231':
+  bin: '522231'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: JSCB ROSBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'522232':
+  bin: '522232'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'522233':
+  bin: '522233'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: HSBC BANK NEVADA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522234':
+  bin: '522234'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: JSC BANK OF GEORGIA
+  country:
+    alpha_2: GE
+    alpha_3: GEO
+    name: Georgia
+'522235':
+  bin: '522235'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: JSC BANK OF GEORGIA
+  country:
+    alpha_2: GE
+    alpha_3: GEO
+    name: Georgia
+'522236':
+  bin: '522236'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: JSCB ROSBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'522237':
+  bin: '522237'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522238':
+  bin: '522238'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: DEUTSCHE BANK S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'522239':
+  bin: '522239'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: COMPASS S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'522240':
+  bin: '522240'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: ANADOLUBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'522241':
+  bin: '522241'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: ANADOLUBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'522242':
+  bin: '522242'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BANK KERJASAMA RAKYAT MALAYSIA BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'522243':
+  bin: '522243'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522244':
+  bin: '522244'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: FIRST DATA CONO SUR, S.R.L.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'522245':
+  bin: '522245'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: CSCBANK S.A.L.
+  country:
+    alpha_2: KM
+    alpha_3: COM
+    name: Comoros
+'522246':
+  bin: '522246'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522247':
+  bin: '522247'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522248':
+  bin: '522248'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522249':
+  bin: '522249'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522250':
+  bin: '522250'
+  brand: MASTERCARD
+  type: DEBIT
+  category: GOLD
+  issuer: STANDARD BANK OF SOUTH AFRICA, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'522251':
+  bin: '522251'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522252':
+  bin: '522252'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'522253':
+  bin: '522253'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: POST BANK AND SAVINGS BANK CORPORATION
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'522254':
+  bin: '522254'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522255':
+  bin: '522255'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SCOTIABANK DE PUERTO RICO
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'522256':
+  bin: '522256'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: GE CAPITAL BANK, A.S.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'522257':
+  bin: '522257'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: CHINATRUST COMMERCIAL BANK, LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'522258':
+  bin: '522258'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: CITIBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522259':
+  bin: '522259'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522260':
+  bin: '522260'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522261':
+  bin: '522261'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522262':
+  bin: '522262'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: STANDARD BANK OF SOUTH AFRICA, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'522263':
+  bin: '522263'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: STANDARD BANK OF SOUTH AFRICA, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'522264':
+  bin: '522264'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522265':
+  bin: '522265'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522266':
+  bin: '522266'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522267':
+  bin: '522267'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522268':
+  bin: '522268'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522269':
+  bin: '522269'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522270':
+  bin: '522270'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BFC BANCO FONDO COMUN, C.A. BANCO UNIVERS.A.L.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'522271':
+  bin: '522271'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522272':
+  bin: '522272'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: CITIBANK, N.A., PHILIPPINES
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'522273':
+  bin: '522273'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO DE BRASILIA, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'522274':
+  bin: '522274'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: CITIBANK SINGAPORE, LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'522275':
+  bin: '522275'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: FRANKLIN TEMPLETON BANK AND TRUST, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522276':
+  bin: '522276'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: CHASE BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522277':
+  bin: '522277'
+  brand: MASTERCARD
+  type: ''
+  category: PLATINUM
+  issuer: CHASE BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522278':
+  bin: '522278'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: ERIE COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522279':
+  bin: '522279'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: KINECTA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522280':
+  bin: '522280'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: RBC BANK (USA)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522281':
+  bin: '522281'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: CITIBANK (SOUTH DAKOTA), N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522282':
+  bin: '522282'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522283':
+  bin: '522283'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'522284':
+  bin: '522284'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: CITIBANK (SOUTH DAKOTA), N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522285':
+  bin: '522285'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: STAR NETWORKS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522286':
+  bin: '522286'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522287':
+  bin: '522287'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522288':
+  bin: '522288'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522289':
+  bin: '522289'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCO SANTANDER SERFIN , S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'522290':
+  bin: '522290'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: KEYBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522291':
+  bin: '522291'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522292':
+  bin: '522292'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522293':
+  bin: '522293'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522294':
+  bin: '522294'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NEDBANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'522295':
+  bin: '522295'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: PAYLIFE BANK GMBH
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'522296':
+  bin: '522296'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: CONSUMER C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522297':
+  bin: '522297'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: CHASE MANHATTAN BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522298':
+  bin: '522298'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: CRESTAR BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'522299':
+  bin: '522299'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

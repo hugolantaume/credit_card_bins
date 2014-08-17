@@ -1,0 +1,1001 @@
+---
+'410300':
+  bin: '410300'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'410301':
+  bin: '410301'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CHASE MANHATTAN BANK
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'410302':
+  bin: '410302'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'410303':
+  bin: '410303'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'410304':
+  bin: '410304'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410305':
+  bin: '410305'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410306':
+  bin: '410306'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO PROCREDIT, S.A.
+  country:
+    alpha_2: MZ
+    alpha_3: MOZ
+    name: Mozambique
+'410307':
+  bin: '410307'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410308':
+  bin: '410308'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410309':
+  bin: '410309'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410310':
+  bin: '410310'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'410311':
+  bin: '410311'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNICAJA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'410312':
+  bin: '410312'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANQUE MAROCAINE DU COMMERCE EXTERIEUR
+  country:
+    alpha_2: MA
+    alpha_3: MAR
+    name: Morocco
+'410313':
+  bin: '410313'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410314':
+  bin: '410314'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410315':
+  bin: '410315'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AB BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'410316':
+  bin: '410316'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: AB BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'410317':
+  bin: '410317'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410318':
+  bin: '410318'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: AO
+    alpha_3: AGO
+    name: Angola
+'410319':
+  bin: '410319'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410320':
+  bin: '410320'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: DEUTSCHE BANK S.A.E.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'410321':
+  bin: '410321'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'410322':
+  bin: '410322'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HYPO ALPE-ADRIA-BANKA A.D.
+  country:
+    alpha_2: ME
+    alpha_3: MNE
+    name: Montenegro
+'410323':
+  bin: '410323'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NATIONAL BANK TRUST OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'410324':
+  bin: '410324'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'410325':
+  bin: '410325'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: AMALGAMATED BANKS OF SOUTH AFRICA LIMITED (ABSA BANK LIMITED)
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'410326':
+  bin: '410326'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'410327':
+  bin: '410327'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNION NATIONAL BANK - EGYPT
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'410328':
+  bin: '410328'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UNION NATIONAL BANK - EGYPT
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'410329':
+  bin: '410329'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRSTRAND BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'410330':
+  bin: '410330'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410331':
+  bin: '410331'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: RW
+    alpha_3: RWA
+    name: Rwanda
+'410332':
+  bin: '410332'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: OJSC FIRST INVESTMENT BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'410333':
+  bin: '410333'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410334':
+  bin: '410334'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'410335':
+  bin: '410335'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'410336':
+  bin: '410336'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: OTP BANK JSC
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'410337':
+  bin: '410337'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: OTP BANK JSC
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'410338':
+  bin: '410338'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410339':
+  bin: '410339'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: JORDAN AHLI BANK
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'410340':
+  bin: '410340'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: VOLKSBANK BH DD SARAJEVO
+  country:
+    alpha_2: BA
+    alpha_3: BIH
+    name: Bosnia and Herzegovina
+'410341':
+  bin: '410341'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410342':
+  bin: '410342'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'410343':
+  bin: '410343'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'410344':
+  bin: '410344'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAIXA ECONOMICA MONTEPIO GERAL
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'410345':
+  bin: '410345'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAIXA ECONOMICA MONTEPIO GERAL
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'410346':
+  bin: '410346'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ATH COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'410347':
+  bin: '410347'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ATH COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'410348':
+  bin: '410348'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ATH COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'410349':
+  bin: '410349'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CJSC EUROPEAN BANK OF RATIONAL FINANCING
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'410350':
+  bin: '410350'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CJSC EUROPEAN BANK OF RATIONAL FINANCING
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'410351':
+  bin: '410351'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CJSC EUROPEAN BANK OF RATIONAL FINANCING
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'410352':
+  bin: '410352'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CJSC EUROPEAN BANK OF RATIONAL FINANCING
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'410353':
+  bin: '410353'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410354':
+  bin: '410354'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410355':
+  bin: '410355'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410356':
+  bin: '410356'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'410357':
+  bin: '410357'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'410358':
+  bin: '410358'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANK SOHAR (S.A.O.G.)
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'410359':
+  bin: '410359'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'410360':
+  bin: '410360'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'410361':
+  bin: '410361'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: UNEX BANK PJSC
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'410362':
+  bin: '410362'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: UNEX BANK PJSC
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'410363':
+  bin: '410363'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410364':
+  bin: '410364'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PAYLIFE BANK GMBH
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'410365':
+  bin: '410365'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410366':
+  bin: '410366'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: PAYLIFE BANK GMBH
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'410367':
+  bin: '410367'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: PAYLIFE BANK GMBH
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'410368':
+  bin: '410368'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PAYLIFE BANK GMBH
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'410369':
+  bin: '410369'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410370':
+  bin: '410370'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410371':
+  bin: '410371'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410372':
+  bin: '410372'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANCO DE COSTA RICA
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'410373':
+  bin: '410373'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410374':
+  bin: '410374'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'410375':
+  bin: '410375'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'410376':
+  bin: '410376'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410377':
+  bin: '410377'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410378':
+  bin: '410378'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'410379':
+  bin: '410379'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410380':
+  bin: '410380'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410381':
+  bin: '410381'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410382':
+  bin: '410382'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410383':
+  bin: '410383'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: UNEX BANK PJSC
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'410384':
+  bin: '410384'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AFRICA - SENEGAL
+  country:
+    alpha_2: SN
+    alpha_3: SEN
+    name: Senegal
+'410385':
+  bin: '410385'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANK OF AFRICA - SENEGAL
+  country:
+    alpha_2: SN
+    alpha_3: SEN
+    name: Senegal
+'410386':
+  bin: '410386'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410387':
+  bin: '410387'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410388':
+  bin: '410388'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410389':
+  bin: '410389'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410390':
+  bin: '410390'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'410391':
+  bin: '410391'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'410392':
+  bin: '410392'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO BRADESCO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'410393':
+  bin: '410393'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'410394':
+  bin: '410394'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410395':
+  bin: '410395'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410396':
+  bin: '410396'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'410397':
+  bin: '410397'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410398':
+  bin: '410398'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410399':
+  bin: '410399'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

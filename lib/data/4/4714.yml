@@ -1,0 +1,1001 @@
+---
+'471400':
+  bin: '471400'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'471401':
+  bin: '471401'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: PEOPLES TRUST COMPANY
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471402':
+  bin: '471402'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471403':
+  bin: '471403'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471404':
+  bin: '471404'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: PEOPLES TRUST COMPANY
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471405':
+  bin: '471405'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471406':
+  bin: '471406'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471407':
+  bin: '471407'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471408':
+  bin: '471408'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471409':
+  bin: '471409'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CB RUSSIAN MORTGAGE BANK LLC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471410':
+  bin: '471410'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: CB RUSSIAN MORTGAGE BANK LLC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471411':
+  bin: '471411'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: CB RUSSIAN MORTGAGE BANK LLC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471412':
+  bin: '471412'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CB RUSSIAN MORTGAGE BANK LLC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471413':
+  bin: '471413'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'471414':
+  bin: '471414'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471415':
+  bin: '471415'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'471416':
+  bin: '471416'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TRADE BANK OF IRAQ
+  country:
+    alpha_2: IQ
+    alpha_3: IRQ
+    name: Iraq
+'471417':
+  bin: '471417'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IQ
+    alpha_3: IRQ
+    name: Iraq
+'471418':
+  bin: '471418'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IQ
+    alpha_3: IRQ
+    name: Iraq
+'471419':
+  bin: '471419'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: CREDIT-DNEPR JSB
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'471420':
+  bin: '471420'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471421':
+  bin: '471421'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO BIC, S.A.
+  country:
+    alpha_2: AO
+    alpha_3: AGO
+    name: Angola
+'471422':
+  bin: '471422'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: SN
+    alpha_3: SEN
+    name: Senegal
+'471423':
+  bin: '471423'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471424':
+  bin: '471424'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471425':
+  bin: '471425'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'471426':
+  bin: '471426'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'471427':
+  bin: '471427'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'471428':
+  bin: '471428'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471429':
+  bin: '471429'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471430':
+  bin: '471430'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471431':
+  bin: '471431'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471432':
+  bin: '471432'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471433':
+  bin: '471433'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471434':
+  bin: '471434'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471435':
+  bin: '471435'
+  brand: VISA
+  type: DEBIT
+  category: INFINITE
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471436':
+  bin: '471436'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: JSCB NOVIKOMBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471437':
+  bin: '471437'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471438':
+  bin: '471438'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471439':
+  bin: '471439'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471440':
+  bin: '471440'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471441':
+  bin: '471441'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471442':
+  bin: '471442'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: SL
+    alpha_3: SLE
+    name: Sierra Leone
+'471443':
+  bin: '471443'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: ZM
+    alpha_3: ZMB
+    name: Zambia
+'471444':
+  bin: '471444'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: ZM
+    alpha_3: ZMB
+    name: Zambia
+'471445':
+  bin: '471445'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANQUE MISR
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'471446':
+  bin: '471446'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: PJSC PLATINUM BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'471447':
+  bin: '471447'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'471448':
+  bin: '471448'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'471449':
+  bin: '471449'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'471450':
+  bin: '471450'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'471451':
+  bin: '471451'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'471452':
+  bin: '471452'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471453':
+  bin: '471453'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: OMAN ARAB BANK SAO
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'471454':
+  bin: '471454'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471455':
+  bin: '471455'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471456':
+  bin: '471456'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471457':
+  bin: '471457'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: KW
+    alpha_3: KWT
+    name: Kuwait
+'471458':
+  bin: '471458'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471459':
+  bin: '471459'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471460':
+  bin: '471460'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: NATIONAL BANK OF ABU DHABI
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'471461':
+  bin: '471461'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471462':
+  bin: '471462'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CD
+    alpha_3: COD
+    name: Congo, The Democratic Republic of the
+'471463':
+  bin: '471463'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'471464':
+  bin: '471464'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'471465':
+  bin: '471465'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471466':
+  bin: '471466'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471467':
+  bin: '471467'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471468':
+  bin: '471468'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471469':
+  bin: '471469'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: PJSC VSEUKRAINSKYI AKSIONERNYI BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'471470':
+  bin: '471470'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: KG
+    alpha_3: KGZ
+    name: Kyrgyzstan
+'471471':
+  bin: '471471'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471472':
+  bin: '471472'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471473':
+  bin: '471473'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: GH
+    alpha_3: GHA
+    name: Ghana
+'471474':
+  bin: '471474'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: GH
+    alpha_3: GHA
+    name: Ghana
+'471475':
+  bin: '471475'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: GH
+    alpha_3: GHA
+    name: Ghana
+'471476':
+  bin: '471476'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471477':
+  bin: '471477'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: BY
+    alpha_3: BLR
+    name: Belarus
+'471478':
+  bin: '471478'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471479':
+  bin: '471479'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471480':
+  bin: '471480'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471481':
+  bin: '471481'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471482':
+  bin: '471482'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471483':
+  bin: '471483'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANKMED S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'471484':
+  bin: '471484'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'471485':
+  bin: '471485'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'471486':
+  bin: '471486'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471487':
+  bin: '471487'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK VTB24 (CJSC)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471488':
+  bin: '471488'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'471489':
+  bin: '471489'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471490':
+  bin: '471490'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471491':
+  bin: '471491'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471492':
+  bin: '471492'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471493':
+  bin: '471493'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471494':
+  bin: '471494'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471495':
+  bin: '471495'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'471496':
+  bin: '471496'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471497':
+  bin: '471497'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471498':
+  bin: '471498'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'471499':
+  bin: '471499'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation

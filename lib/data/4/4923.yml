@@ -1,0 +1,1001 @@
+---
+'492300':
+  bin: '492300'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANKFIRST FINANCIAL SERVICES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'492301':
+  bin: '492301'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: PEOPLES BANK
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'492302':
+  bin: '492302'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'492303':
+  bin: '492303'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: NEDBANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'492304':
+  bin: '492304'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABANKA D.D. LJUBLJANA
+  country:
+    alpha_2: SI
+    alpha_3: SVN
+    name: Slovenia
+'492305':
+  bin: '492305'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: NEDBANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'492306':
+  bin: '492306'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VISA ARGENTINA, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'492307':
+  bin: '492307'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE SAN JUAN
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'492308':
+  bin: '492308'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'492309':
+  bin: '492309'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO MAPFRE, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'492310':
+  bin: '492310'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO MAPFRE, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'492311':
+  bin: '492311'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NEDBANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'492312':
+  bin: '492312'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NEDBANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'492313':
+  bin: '492313'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MITSUBISHI UFJ NICOS CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492314':
+  bin: '492314'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MITSUBISHI UFJ FINANCIAL GROUP, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492315':
+  bin: '492315'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492316':
+  bin: '492316'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492317':
+  bin: '492317'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492318':
+  bin: '492318'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492319':
+  bin: '492319'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492320':
+  bin: '492320'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492321':
+  bin: '492321'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492322':
+  bin: '492322'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492323':
+  bin: '492323'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492324':
+  bin: '492324'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492325':
+  bin: '492325'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492326':
+  bin: '492326'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492327':
+  bin: '492327'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492328':
+  bin: '492328'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492329':
+  bin: '492329'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492330':
+  bin: '492330'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492331':
+  bin: '492331'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492332':
+  bin: '492332'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492333':
+  bin: '492333'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492334':
+  bin: '492334'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492335':
+  bin: '492335'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492336':
+  bin: '492336'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492337':
+  bin: '492337'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492338':
+  bin: '492338'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492339':
+  bin: '492339'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MITSUBISHI UFJ FINANCIAL GROUP, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492340':
+  bin: '492340'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492341':
+  bin: '492341'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492342':
+  bin: '492342'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492343':
+  bin: '492343'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492344':
+  bin: '492344'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492345':
+  bin: '492345'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MITSUBISHI UFJ FINANCIAL GROUP, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492346':
+  bin: '492346'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492347':
+  bin: '492347'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492348':
+  bin: '492348'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492349':
+  bin: '492349'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492350':
+  bin: '492350'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492351':
+  bin: '492351'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492352':
+  bin: '492352'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492353':
+  bin: '492353'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492354':
+  bin: '492354'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492355':
+  bin: '492355'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492356':
+  bin: '492356'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492357':
+  bin: '492357'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492358':
+  bin: '492358'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SUMISHIN LIFE CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492359':
+  bin: '492359'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MITSUBISHI UFJ NICOS CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492360':
+  bin: '492360'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492361':
+  bin: '492361'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492362':
+  bin: '492362'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492363':
+  bin: '492363'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492364':
+  bin: '492364'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492365':
+  bin: '492365'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492366':
+  bin: '492366'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492367':
+  bin: '492367'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492368':
+  bin: '492368'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492369':
+  bin: '492369'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492370':
+  bin: '492370'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492371':
+  bin: '492371'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492372':
+  bin: '492372'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492373':
+  bin: '492373'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MITSUBISHI UFJ NICOS CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492374':
+  bin: '492374'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492375':
+  bin: '492375'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492376':
+  bin: '492376'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492377':
+  bin: '492377'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492378':
+  bin: '492378'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492379':
+  bin: '492379'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492380':
+  bin: '492380'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MITSUBISHI UFJ NICOS CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492381':
+  bin: '492381'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492382':
+  bin: '492382'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492383':
+  bin: '492383'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492384':
+  bin: '492384'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492385':
+  bin: '492385'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492386':
+  bin: '492386'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492387':
+  bin: '492387'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492388':
+  bin: '492388'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492389':
+  bin: '492389'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492390':
+  bin: '492390'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492391':
+  bin: '492391'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MITSUBISHI UFJ FINANCIAL GROUP, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492392':
+  bin: '492392'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492393':
+  bin: '492393'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492394':
+  bin: '492394'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492395':
+  bin: '492395'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492396':
+  bin: '492396'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MITSUBISHI UFJ FINANCIAL GROUP, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492397':
+  bin: '492397'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492398':
+  bin: '492398'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'492399':
+  bin: '492399'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NIPPON SHINPAN CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan

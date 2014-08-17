@@ -1,0 +1,1001 @@
+---
+'447500':
+  bin: '447500'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: KENTBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'447501':
+  bin: '447501'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: KENTBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'447502':
+  bin: '447502'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ING BANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'447503':
+  bin: '447503'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: TURK EKONOMI BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'447504':
+  bin: '447504'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: T.C. ZIRAAT BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'447505':
+  bin: '447505'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: TURKIYE HALK BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'447506':
+  bin: '447506'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'447507':
+  bin: '447507'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'447508':
+  bin: '447508'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'447509':
+  bin: '447509'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'447510':
+  bin: '447510'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'447511':
+  bin: '447511'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'447512':
+  bin: '447512'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'447513':
+  bin: '447513'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ARAB BANK PLC
+  country:
+    alpha_2: PS
+    alpha_3: PSE
+    name: Palestinian Territory, Occupied
+'447514':
+  bin: '447514'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BELVNESHECONOMBANK FOREIGN ECONOMIC AFFAIRS BELARUS JSCB
+  country:
+    alpha_2: BY
+    alpha_3: BLR
+    name: Belarus
+'447515':
+  bin: '447515'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BELVNESHECONOMBANK FOREIGN ECONOMIC AFFAIRS BELARUS JSCB
+  country:
+    alpha_2: BY
+    alpha_3: BLR
+    name: Belarus
+'447516':
+  bin: '447516'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK MENATEP
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'447517':
+  bin: '447517'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ZARAGOZANO S.A. (BANZANO)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447518':
+  bin: '447518'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO ZARAGOZANO S.A. (BANZANO)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447519':
+  bin: '447519'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TRYGG BANKEN AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'447520':
+  bin: '447520'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: VTB BANK OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'447521':
+  bin: '447521'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ARAB BANK PLC
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'447522':
+  bin: '447522'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ARAB BANK PLC
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'447523':
+  bin: '447523'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ARAB BANK PLC
+  country:
+    alpha_2: YE
+    alpha_3: YEM
+    name: Yemen
+'447524':
+  bin: '447524'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'447525':
+  bin: '447525'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ARAB BANK PLC
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'447526':
+  bin: '447526'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ARAB BANK PLC
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'447527':
+  bin: '447527'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ARAB BANK PLC
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'447528':
+  bin: '447528'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ARAB BANK PLC
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'447529':
+  bin: '447529'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ARAB BANK PLC
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'447530':
+  bin: '447530'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447531':
+  bin: '447531'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447532':
+  bin: '447532'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CAJA DE AHORROS DE MADRID (CAJA MADRID)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447533':
+  bin: '447533'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447534':
+  bin: '447534'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA ESPANA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447535':
+  bin: '447535'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CAJA RURAL SAN ISIDRO CASTELLON
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447536':
+  bin: '447536'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447537':
+  bin: '447537'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447538':
+  bin: '447538'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447539':
+  bin: '447539'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447540':
+  bin: '447540'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CAJA DE AHORROS DE LA INMACULADA DE ZARAGOZA (CAI)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447541':
+  bin: '447541'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447542':
+  bin: '447542'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447543':
+  bin: '447543'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447544':
+  bin: '447544'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447545':
+  bin: '447545'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CAIXABANK S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447546':
+  bin: '447546'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CAIXA POPULAR
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447547':
+  bin: '447547'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: UNO-E BANK, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447548':
+  bin: '447548'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANC INTERNACIONAL DANDORRA S.A. ANDORRA
+  country:
+    alpha_2: AD
+    alpha_3: AND
+    name: Andorra
+'447549':
+  bin: '447549'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447550':
+  bin: '447550'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447551':
+  bin: '447551'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447552':
+  bin: '447552'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447553':
+  bin: '447553'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447554':
+  bin: '447554'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447555':
+  bin: '447555'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447556':
+  bin: '447556'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447557':
+  bin: '447557'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447558':
+  bin: '447558'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447559':
+  bin: '447559'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'447560':
+  bin: '447560'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ARAB INTERNATIONAL BANK
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'447561':
+  bin: '447561'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ARAB INTERNATIONAL BANK
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'447562':
+  bin: '447562'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ARAB INTERNATIONAL BANK
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'447563':
+  bin: '447563'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: UNITED BANK, S.A.E.
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'447564':
+  bin: '447564'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ARAB INTERNATIONAL BANK
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'447565':
+  bin: '447565'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ARAB INTERNATIONAL BANK
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'447566':
+  bin: '447566'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ARAB INTERNATIONAL BANK
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'447567':
+  bin: '447567'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ARAB INTERNATIONAL BANK
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'447568':
+  bin: '447568'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: UNITED BANK, S.A.E.
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'447569':
+  bin: '447569'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ARAB INTERNATIONAL BANK
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'447570':
+  bin: '447570'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ARAB INTERNATIONAL BANK
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'447571':
+  bin: '447571'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ATTIJARIWAFA BANK
+  country:
+    alpha_2: MA
+    alpha_3: MAR
+    name: Morocco
+'447572':
+  bin: '447572'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST STATE BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'447573':
+  bin: '447573'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NEDBANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'447574':
+  bin: '447574'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: BERLINER BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'447575':
+  bin: '447575'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SUN COMMUNITY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'447576':
+  bin: '447576'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'447577':
+  bin: '447577'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'447578':
+  bin: '447578'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIBRE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'447579':
+  bin: '447579'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SKANDIABANKEN
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'447580':
+  bin: '447580'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: PAREX BANK
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'447581':
+  bin: '447581'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TRI COUNTIES BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'447582':
+  bin: '447582'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ARAB BANK PLC
+  country:
+    alpha_2: MA
+    alpha_3: MAR
+    name: Morocco
+'447583':
+  bin: '447583'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HFC BANK, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'447584':
+  bin: '447584'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: INTERNATIONAL BANK OF ST-PETERSBURG PLC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'447585':
+  bin: '447585'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'447586':
+  bin: '447586'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'447587':
+  bin: '447587'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'447588':
+  bin: '447588'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'447589':
+  bin: '447589'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'447590':
+  bin: '447590'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'447591':
+  bin: '447591'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'447592':
+  bin: '447592'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'447593':
+  bin: '447593'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'447594':
+  bin: '447594'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'447595':
+  bin: '447595'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'447596':
+  bin: '447596'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'447597':
+  bin: '447597'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'447598':
+  bin: '447598'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'447599':
+  bin: '447599'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany

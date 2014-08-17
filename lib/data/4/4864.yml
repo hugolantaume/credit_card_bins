@@ -1,0 +1,1001 @@
+---
+'486400':
+  bin: '486400'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CITIBANK INTERNATIONAL PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'486401':
+  bin: '486401'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'486402':
+  bin: '486402'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'486403':
+  bin: '486403'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'486404':
+  bin: '486404'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'486405':
+  bin: '486405'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO ELCA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'486406':
+  bin: '486406'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'486407':
+  bin: '486407'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: AEON CREDIT CARD (TAIWAN) CO., LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'486408':
+  bin: '486408'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: UNITED OVERSEAS BANK(THAI)PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'486409':
+  bin: '486409'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ICICI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'486410':
+  bin: '486410'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ICICI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'486411':
+  bin: '486411'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'486412':
+  bin: '486412'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO DE BOGOTA
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'486413':
+  bin: '486413'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: HELM BANK, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'486414':
+  bin: '486414'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'486415':
+  bin: '486415'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'486416':
+  bin: '486416'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: STANDARD CHARTERED GRINDLAYS (OFFSHORE), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'486417':
+  bin: '486417'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: NORDEA BANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'486418':
+  bin: '486418'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'486419':
+  bin: '486419'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'486420':
+  bin: '486420'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: B@NCA 24-7 S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'486421':
+  bin: '486421'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: HSBC BANK ARGENTINA, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'486422':
+  bin: '486422'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'486423':
+  bin: '486423'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO REGIONAL DE CUYO
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'486424':
+  bin: '486424'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ZB BANK, LTD.
+  country:
+    alpha_2: ZW
+    alpha_3: ZWE
+    name: Zimbabwe
+'486425':
+  bin: '486425'
+  brand: VISA
+  type: DEBIT
+  category: CORPORATE T&E
+  issuer: BANCO CITIBANK (PANAMA), S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'486426':
+  bin: '486426'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BMW BANK GMBH
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'486427':
+  bin: '486427'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO SANTANDER, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'486428':
+  bin: '486428'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO SANTANDER, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'486429':
+  bin: '486429'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BMW BANK GMBH
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'486430':
+  bin: '486430'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'486431':
+  bin: '486431'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CITIBANK
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'486432':
+  bin: '486432'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: DRESDNER BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'486433':
+  bin: '486433'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: DRESDNER BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'486434':
+  bin: '486434'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'486435':
+  bin: '486435'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: RBS (RD EUROPE) GMBH
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'486436':
+  bin: '486436'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'486437':
+  bin: '486437'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO DAVIVIENDA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'486438':
+  bin: '486438'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: NATIONAL CITY BANK OF PENNSYLVANIA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'486439':
+  bin: '486439'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'486440':
+  bin: '486440'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO GUIPUZCOANO, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'486441':
+  bin: '486441'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO GUIPUZCOANO, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'486442':
+  bin: '486442'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'486443':
+  bin: '486443'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'486444':
+  bin: '486444'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: NATIONAL CITY BANK OF PENNSYLVANIA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'486445':
+  bin: '486445'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO DEL ESTADO DE CHILE
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'486446':
+  bin: '486446'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'486447':
+  bin: '486447'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'486448':
+  bin: '486448'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CAJA DE AHORROS DE MADRID (CAJA MADRID)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'486449':
+  bin: '486449'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO COMERCIAL PORTUGUES, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'486450':
+  bin: '486450'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CITIBANK INTERNATIONAL PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'486451':
+  bin: '486451'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: STANDARD CHARTERED GRINDLAYS (OFFSHORE), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'486452':
+  bin: '486452'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: STANDARD CHARTERED GRINDLAYS (OFFSHORE), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'486453':
+  bin: '486453'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: STANDARD CHARTERED GRINDLAYS (OFFSHORE), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'486454':
+  bin: '486454'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: STANDARD CHARTERED BANK (CI), LTD.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'486455':
+  bin: '486455'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: DEUTSCHE BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'486456':
+  bin: '486456'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: DEUTSCHE BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'486457':
+  bin: '486457'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO COMERCIAL PORTUGUES, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'486458':
+  bin: '486458'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CITIBANK
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'486459':
+  bin: '486459'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'486460':
+  bin: '486460'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'486461':
+  bin: '486461'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: SBI CARDS AND PAYMENT SERVICES PTE, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'486462':
+  bin: '486462'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'486463':
+  bin: '486463'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'486464':
+  bin: '486464'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: RBS CITIZENS, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'486465':
+  bin: '486465'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'486466':
+  bin: '486466'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANK OF SHANGHAI
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'486467':
+  bin: '486467'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: SAMSUNG CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'486468':
+  bin: '486468'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE
+  issuer: SAMSUNG CARD CO.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'486469':
+  bin: '486469'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'486470':
+  bin: '486470'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ICCREA BANCA S.P.A. - ISTITUTO CENTRALE DEL CREDITO COOPERAT
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'486471':
+  bin: '486471'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: ICCREA - ISTITUTO CENTRALE DELLE BANCHE DI CREDITO COOPERATIVO
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'486472':
+  bin: '486472'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'486473':
+  bin: '486473'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'486474':
+  bin: '486474'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCA NAZIONALE DEL LAVORO
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'486475':
+  bin: '486475'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'486476':
+  bin: '486476'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO SABADELL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'486477':
+  bin: '486477'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO SABADELL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'486478':
+  bin: '486478'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO SABADELL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'486479':
+  bin: '486479'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO SABADELL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'486480':
+  bin: '486480'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'486481':
+  bin: '486481'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CAJA DE AHORROS Y MONTE DE PIEDAD DE GIPUZKOA Y SAN SEBASTIA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'486482':
+  bin: '486482'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: CAJA DE AHORROS DE VITORIA Y ALVARA (CAJA VITAL)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'486483':
+  bin: '486483'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: HSBC BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'486484':
+  bin: '486484'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'486485':
+  bin: '486485'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'486486':
+  bin: '486486'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: DRESDNER BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'486487':
+  bin: '486487'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: DRESDNER BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'486488':
+  bin: '486488'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'486489':
+  bin: '486489'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: BANCO DE VASCONIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'486490':
+  bin: '486490'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'486491':
+  bin: '486491'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'486492':
+  bin: '486492'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'486493':
+  bin: '486493'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: INDUSTRIAL BANK CO., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'486494':
+  bin: '486494'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: INDUSTRIAL BANK CO., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'486495':
+  bin: '486495'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: STANDARD CHARTERED BANK (HONG KONG), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'486496':
+  bin: '486496'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'486497':
+  bin: '486497'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CHINA EVERBRIGHT BANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'486498':
+  bin: '486498'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'486499':
+  bin: '486499'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

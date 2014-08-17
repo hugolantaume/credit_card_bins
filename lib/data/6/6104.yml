@@ -1,0 +1,51 @@
+---
+'610423':
+  bin: '610423'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'610424':
+  bin: '610424'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: FIRST NATIONAL BANK ALASKA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'610434':
+  bin: '610434'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'610460':
+  bin: '610460'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: FIRST NATIONAL BANK ALASKA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'610470':
+  bin: '610470'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

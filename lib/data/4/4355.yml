@@ -1,0 +1,1001 @@
+---
+'435500':
+  bin: '435500'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435501':
+  bin: '435501'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ACBA CREDIT AGRICOLE BANK CJSC
+  country:
+    alpha_2: AM
+    alpha_3: ARM
+    name: Armenia
+'435502':
+  bin: '435502'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435503':
+  bin: '435503'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ACBA CREDIT AGRICOLE BANK CJSC
+  country:
+    alpha_2: AM
+    alpha_3: ARM
+    name: Armenia
+'435504':
+  bin: '435504'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ACBA CREDIT AGRICOLE BANK CJSC
+  country:
+    alpha_2: AM
+    alpha_3: ARM
+    name: Armenia
+'435505':
+  bin: '435505'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ACBA CREDIT AGRICOLE BANK CJSC
+  country:
+    alpha_2: AM
+    alpha_3: ARM
+    name: Armenia
+'435506':
+  bin: '435506'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ACBA CREDIT AGRICOLE BANK CJSC
+  country:
+    alpha_2: AM
+    alpha_3: ARM
+    name: Armenia
+'435507':
+  bin: '435507'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AGRICULTURAL COOPERATIVE BANK OF ARMENIA
+  country:
+    alpha_2: AM
+    alpha_3: ARM
+    name: Armenia
+'435508':
+  bin: '435508'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AKBANK T.A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'435509':
+  bin: '435509'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: AKBANK T.A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'435510':
+  bin: '435510'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435511':
+  bin: '435511'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435512':
+  bin: '435512'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435513':
+  bin: '435513'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435514':
+  bin: '435514'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435515':
+  bin: '435515'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435516':
+  bin: '435516'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435517':
+  bin: '435517'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435518':
+  bin: '435518'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435519':
+  bin: '435519'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435520':
+  bin: '435520'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435521':
+  bin: '435521'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435522':
+  bin: '435522'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435523':
+  bin: '435523'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435524':
+  bin: '435524'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435525':
+  bin: '435525'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435526':
+  bin: '435526'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435527':
+  bin: '435527'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: HERITAGE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435528':
+  bin: '435528'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435529':
+  bin: '435529'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435530':
+  bin: '435530'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: MB FINANCIAL BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435531':
+  bin: '435531'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435532':
+  bin: '435532'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435533':
+  bin: '435533'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435534':
+  bin: '435534'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANKFINANCIAL
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435535':
+  bin: '435535'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435536':
+  bin: '435536'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435537':
+  bin: '435537'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435538':
+  bin: '435538'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435539':
+  bin: '435539'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435540':
+  bin: '435540'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435541':
+  bin: '435541'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435542':
+  bin: '435542'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435543':
+  bin: '435543'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435544':
+  bin: '435544'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435545':
+  bin: '435545'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435546':
+  bin: '435546'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435547':
+  bin: '435547'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435548':
+  bin: '435548'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BANCORP BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435549':
+  bin: '435549'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435550':
+  bin: '435550'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435551':
+  bin: '435551'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435552':
+  bin: '435552'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BA MERCHANT SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435553':
+  bin: '435553'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435554':
+  bin: '435554'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435555':
+  bin: '435555'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435556':
+  bin: '435556'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435557':
+  bin: '435557'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: UMB BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435558':
+  bin: '435558'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435559':
+  bin: '435559'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435560':
+  bin: '435560'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435561':
+  bin: '435561'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435562':
+  bin: '435562'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435563':
+  bin: '435563'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435564':
+  bin: '435564'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435565':
+  bin: '435565'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435566':
+  bin: '435566'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435567':
+  bin: '435567'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435568':
+  bin: '435568'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WEST COAST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435569':
+  bin: '435569'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WEST COAST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435570':
+  bin: '435570'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JSC INDUSTRIAL AND INVESTMENT BANK (CSC)
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'435571':
+  bin: '435571'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MERRICK BANK CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435572':
+  bin: '435572'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: EASTERN BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435573':
+  bin: '435573'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NORBEL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435574':
+  bin: '435574'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NORBEL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435575':
+  bin: '435575'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF THE CASCADES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435576':
+  bin: '435576'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: COMPASS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435577':
+  bin: '435577'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435578':
+  bin: '435578'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435579':
+  bin: '435579'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FARMERS STATE BANK OF FORT MORGAN, COLORADO
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435580':
+  bin: '435580'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CHICAGO POST OFFICE EMPLOYEES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435581':
+  bin: '435581'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435582':
+  bin: '435582'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST BANK RICHMOND, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435583':
+  bin: '435583'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: APPLIED CARD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435584':
+  bin: '435584'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: E*TRADE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435585':
+  bin: '435585'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WAYNE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435586':
+  bin: '435586'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: UNITED BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435587':
+  bin: '435587'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: UNITED BANK, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435588':
+  bin: '435588'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST FEDERAL BANK OF FLORIDA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435589':
+  bin: '435589'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435590':
+  bin: '435590'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MERCED SCHOOL EMPLOYEES F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435591':
+  bin: '435591'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435592':
+  bin: '435592'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST NATIONAL BANK OF STEAMBOAT SPRINGS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435593':
+  bin: '435593'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435594':
+  bin: '435594'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435595':
+  bin: '435595'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CENTRA BANK, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435596':
+  bin: '435596'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: STATE BANK OF DELANO
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435597':
+  bin: '435597'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435598':
+  bin: '435598'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'435599':
+  bin: '435599'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine

@@ -1,0 +1,1001 @@
+---
+'460000':
+  bin: '460000'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMUNITY FIRST NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460001':
+  bin: '460001'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460002':
+  bin: '460002'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMUNITY FIRST NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460003':
+  bin: '460003'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460004':
+  bin: '460004'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460005':
+  bin: '460005'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460006':
+  bin: '460006'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460007':
+  bin: '460007'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460008':
+  bin: '460008'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMUNITY FIRST NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460009':
+  bin: '460009'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460010':
+  bin: '460010'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460011':
+  bin: '460011'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'460012':
+  bin: '460012'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'460013':
+  bin: '460013'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: CD
+    alpha_3: COD
+    name: Congo, The Democratic Republic of the
+'460014':
+  bin: '460014'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'460015':
+  bin: '460015'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AUTOTORGBANK LIMITED COMPANY
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'460016':
+  bin: '460016'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: AUTOTORGBANK LIMITED COMPANY
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'460017':
+  bin: '460017'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: AUTOTORGBANK LIMITED COMPANY
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'460018':
+  bin: '460018'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: AUTOTORGBANK LIMITED COMPANY
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'460019':
+  bin: '460019'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460020':
+  bin: '460020'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460021':
+  bin: '460021'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460022':
+  bin: '460022'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: PEOPLES TRUST COMPANY
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'460023':
+  bin: '460023'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460024':
+  bin: '460024'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'460025':
+  bin: '460025'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460026':
+  bin: '460026'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460027':
+  bin: '460027'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460028':
+  bin: '460028'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'460029':
+  bin: '460029'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460030':
+  bin: '460030'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: MASHREQBANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'460031':
+  bin: '460031'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MASHREQBANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'460032':
+  bin: '460032'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460033':
+  bin: '460033'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460034':
+  bin: '460034'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'460035':
+  bin: '460035'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'460036':
+  bin: '460036'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'460037':
+  bin: '460037'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'460038':
+  bin: '460038'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'460039':
+  bin: '460039'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460040':
+  bin: '460040'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460041':
+  bin: '460041'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'460042':
+  bin: '460042'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: OJSC GUTA BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'460043':
+  bin: '460043'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UNICREDIT BANK A.D. BANJA LUKA
+  country:
+    alpha_2: BA
+    alpha_3: BIH
+    name: Bosnia and Herzegovina
+'460044':
+  bin: '460044'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: UG
+    alpha_3: UGA
+    name: Uganda
+'460045':
+  bin: '460045'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460046':
+  bin: '460046'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: JSB INTERPROGRESSBANK (CJSC)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'460047':
+  bin: '460047'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460048':
+  bin: '460048'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JSCB VJATKA BANK OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'460049':
+  bin: '460049'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: JSCB VJATKA BANK OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'460050':
+  bin: '460050'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JSCB VJATKA BANK OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'460051':
+  bin: '460051'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: JSCB VJATKA BANK OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'460052':
+  bin: '460052'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: INTERCOMMERZ CB LLC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'460053':
+  bin: '460053'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'460054':
+  bin: '460054'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'460055':
+  bin: '460055'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'460056':
+  bin: '460056'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'460057':
+  bin: '460057'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'460058':
+  bin: '460058'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'460059':
+  bin: '460059'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460060':
+  bin: '460060'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460061':
+  bin: '460061'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: INVESTICIONO-KOMERCIJALNA BANKA DD ZENICA
+  country:
+    alpha_2: BA
+    alpha_3: BIH
+    name: Bosnia and Herzegovina
+'460062':
+  bin: '460062'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: INVESTICIONO-KOMERCIJALNA BANKA DD ZENICA
+  country:
+    alpha_2: BA
+    alpha_3: BIH
+    name: Bosnia and Herzegovina
+'460063':
+  bin: '460063'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: INVESTICIONO-KOMERCIJALNA BANKA DD ZENICA
+  country:
+    alpha_2: BA
+    alpha_3: BIH
+    name: Bosnia and Herzegovina
+'460064':
+  bin: '460064'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460065':
+  bin: '460065'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'460066':
+  bin: '460066'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460067':
+  bin: '460067'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'460068':
+  bin: '460068'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'460069':
+  bin: '460069'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460070':
+  bin: '460070'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460071':
+  bin: '460071'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460072':
+  bin: '460072'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'460073':
+  bin: '460073'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: IQ
+    alpha_3: IRQ
+    name: Iraq
+'460074':
+  bin: '460074'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: IQ
+    alpha_3: IRQ
+    name: Iraq
+'460075':
+  bin: '460075'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: IQ
+    alpha_3: IRQ
+    name: Iraq
+'460076':
+  bin: '460076'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460077':
+  bin: '460077'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460078':
+  bin: '460078'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: SR
+    alpha_3: SUR
+    name: Suriname
+'460079':
+  bin: '460079'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: MW
+    alpha_3: MWI
+    name: Malawi
+'460080':
+  bin: '460080'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460081':
+  bin: '460081'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: PJSC EUROPEAN GAZ BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'460082':
+  bin: '460082'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460083':
+  bin: '460083'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: AXA BANK EUROPE, S.A.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'460084':
+  bin: '460084'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PJSC EUROPEAN GAZ BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'460085':
+  bin: '460085'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PJSC EUROPEAN GAZ BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'460086':
+  bin: '460086'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: GD
+    alpha_3: GRD
+    name: Grenada
+'460087':
+  bin: '460087'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460088':
+  bin: '460088'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'460089':
+  bin: '460089'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'460090':
+  bin: '460090'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: PAYLIFE
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'460091':
+  bin: '460091'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460092':
+  bin: '460092'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460093':
+  bin: '460093'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460094':
+  bin: '460094'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MD
+    alpha_3: MDA
+    name: Moldova, Republic of
+'460095':
+  bin: '460095'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MD
+    alpha_3: MDA
+    name: Moldova, Republic of
+'460096':
+  bin: '460096'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MD
+    alpha_3: MDA
+    name: Moldova, Republic of
+'460097':
+  bin: '460097'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MD
+    alpha_3: MDA
+    name: Moldova, Republic of
+'460098':
+  bin: '460098'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'460099':
+  bin: '460099'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa

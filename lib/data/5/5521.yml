@@ -1,0 +1,1001 @@
+---
+'552100':
+  bin: '552100'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: DAH SING BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'552101':
+  bin: '552101'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: TURKIYE VAKIFLAR BANKASI T.A.O.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'552102':
+  bin: '552102'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: HSBC BANK MIDDLE EAST
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'552103':
+  bin: '552103'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'552104':
+  bin: '552104'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: HSBC BANK MIDDLE EAST
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'552105':
+  bin: '552105'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: HSBC BANK MIDDLE EAST
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'552106':
+  bin: '552106'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: KB KOOKMIN CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'552107':
+  bin: '552107'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: HSBC BANK MIDDLE EAST
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'552108':
+  bin: '552108'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: HSBC BANK MIDDLE EAST
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'552109':
+  bin: '552109'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'552110':
+  bin: '552110'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: CREDIMAX
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'552111':
+  bin: '552111'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'552112':
+  bin: '552112'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'552113':
+  bin: '552113'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: QATAR NATIONAL BANK
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'552114':
+  bin: '552114'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KP
+    alpha_3: PRK
+    name: Korea, Democratic People's Republic of
+'552115':
+  bin: '552115'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: CIMB BANK BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'552116':
+  bin: '552116'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: FBME BANK, LTD.
+  country:
+    alpha_2: TZ
+    alpha_3: TZA
+    name: Tanzania, United Republic of
+'552117':
+  bin: '552117'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: COSMOS BANK, TAIWAN
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'552118':
+  bin: '552118'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: SHANGHAI COMMERCIAL BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'552119':
+  bin: '552119'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'552120':
+  bin: '552120'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'552121':
+  bin: '552121'
+  brand: MASTERCARD
+  type: ''
+  category: PLATINUM
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'552122':
+  bin: '552122'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'552123':
+  bin: '552123'
+  brand: MASTERCARD
+  type: ''
+  category: PLATINUM
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'552124':
+  bin: '552124'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'552125':
+  bin: '552125'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: HANASK CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'552126':
+  bin: '552126'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: UNICREDIT BULBANK A.D.
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'552127':
+  bin: '552127'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'552128':
+  bin: '552128'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO CITIBANK, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'552129':
+  bin: '552129'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'552130':
+  bin: '552130'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'552131':
+  bin: '552131'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'552132':
+  bin: '552132'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'552133':
+  bin: '552133'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: HANASK CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'552134':
+  bin: '552134'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: STANDARD BANK OF SOUTH AFRICA, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'552135':
+  bin: '552135'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: WING HANG BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'552136':
+  bin: '552136'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: LOTTE CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'552137':
+  bin: '552137'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: CITIBANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'552138':
+  bin: '552138'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'552139':
+  bin: '552139'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'552140':
+  bin: '552140'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'552141':
+  bin: '552141'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANK OF CYPRUS (HOLDINGS), LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'552142':
+  bin: '552142'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANK OF CYPRUS (HOLDINGS), LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'552143':
+  bin: '552143'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: HSBC BANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'552144':
+  bin: '552144'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO SANTANDER (BRASIL), S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'552145':
+  bin: '552145'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO SANTANDER, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'552146':
+  bin: '552146'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: HELLENIC BANK PUBLIC CO., LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'552147':
+  bin: '552147'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: HELLENIC BANK, LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'552148':
+  bin: '552148'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: MBNA EUROPE BANK, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'552149':
+  bin: '552149'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: MBNA INTERNATIONAL BANK LTD
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'552150':
+  bin: '552150'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: ANDORRA BANC AGRICOL REIG, S.A.
+  country:
+    alpha_2: AD
+    alpha_3: AND
+    name: Andorra
+'552151':
+  bin: '552151'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO SANTANDER, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'552152':
+  bin: '552152'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: MASTERCAJAS, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'552153':
+  bin: '552153'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'552154':
+  bin: '552154'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'552155':
+  bin: '552155'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIRST COMMUNITY CREDIT UNION OF HOUSTON
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'552156':
+  bin: '552156'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'552157':
+  bin: '552157'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'552158':
+  bin: '552158'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: CHANG HWA COMMERCIAL BANK, LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'552159':
+  bin: '552159'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: STANDARD CHARTERED BANK (TAIWAN), LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'552160':
+  bin: '552160'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: STANBIC IBTC BANK
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'552161':
+  bin: '552161'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIRST DATA CONO SUR, S.R.L.
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'552162':
+  bin: '552162'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BLACK
+  issuer: HSBC BANK (PANAMA), S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'552163':
+  bin: '552163'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: UNITED OVERSEAS BANK, LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'552164':
+  bin: '552164'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: HYUNDAICARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'552165':
+  bin: '552165'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'552166':
+  bin: '552166'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: FAR EASTERN INTERNATIONAL BANK
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'552167':
+  bin: '552167'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: JSC BALTIC INTERNATIONAL BANK
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'552168':
+  bin: '552168'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: STANDARD CHARTERED BANK (HONG KONG), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'552169':
+  bin: '552169'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'552170':
+  bin: '552170'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: SAMPO PANKKI OYJ / SAMPO BANK PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'552171':
+  bin: '552171'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: PAYLIFE BANK GMBH
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'552172':
+  bin: '552172'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCA MONTE DEI PASCHI DI SIENA
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'552173':
+  bin: '552173'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'552174':
+  bin: '552174'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANVALOR BANCO COMERCIAL, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'552175':
+  bin: '552175'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: COMMERCIAL INNOVATION BANK ALFA-BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'552176':
+  bin: '552176'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANK LEUMI LE-ISRAEL B.M.
+  country:
+    alpha_2: IL
+    alpha_3: ISR
+    name: Israel
+'552177':
+  bin: '552177'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: LEUMICARD, LTD.
+  country:
+    alpha_2: IL
+    alpha_3: ISR
+    name: Israel
+'552178':
+  bin: '552178'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: CARTASI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'552179':
+  bin: '552179'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SERVIZI INTERBANCARI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'552180':
+  bin: '552180'
+  brand: MASTERCARD
+  type: ''
+  category: PLATINUM
+  issuer: CARTASI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'552181':
+  bin: '552181'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SERVIZI INTERBANCARI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'552182':
+  bin: '552182'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: RIETUMU BANKA
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'552183':
+  bin: '552183'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: ISRAEL CREDIT CARDS, LTD.
+  country:
+    alpha_2: IL
+    alpha_3: ISR
+    name: Israel
+'552184':
+  bin: '552184'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: ISRAEL DISCOUNT BANK, LTD.
+  country:
+    alpha_2: IL
+    alpha_3: ISR
+    name: Israel
+'552185':
+  bin: '552185'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANK BPH SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'552186':
+  bin: '552186'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: JSC BANK TURANALEM
+  country:
+    alpha_2: KZ
+    alpha_3: KAZ
+    name: Kazakhstan
+'552187':
+  bin: '552187'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: ALBERTA TREASURY BRANCHES
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'552188':
+  bin: '552188'
+  brand: MASTERCARD
+  type: CREDIT
+  category: NEW WORLD
+  issuer: ROYAL BANK OF SCOTLAND PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'552189':
+  bin: '552189'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: MASTERCAJAS, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'552190':
+  bin: '552190'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'552191':
+  bin: '552191'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: EMIRATES NBD BANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'552192':
+  bin: '552192'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: NETWORK INTERNATIONAL LLC
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'552193':
+  bin: '552193'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'552194':
+  bin: '552194'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: SAMSUNG CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'552195':
+  bin: '552195'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO HSBC (COSTA RICA), S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'552196':
+  bin: '552196'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO SANTANDER PUERTO RICO
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'552197':
+  bin: '552197'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: CATHAY UNITED BANK
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'552198':
+  bin: '552198'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: JSCB NADRA
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'552199':
+  bin: '552199'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: E. SUN COMMERCIAL BANK CO., LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan

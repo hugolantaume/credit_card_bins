@@ -1,0 +1,1001 @@
+---
+'492000':
+  bin: '492000'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: LUOTTOKUNTA
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492001':
+  bin: '492001'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO UNION, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'492002':
+  bin: '492002'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HARRINGTON BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'492003':
+  bin: '492003'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: TRADE AND COMMERCE BANK
+  country:
+    alpha_2: KY
+    alpha_3: CYM
+    name: Cayman Islands
+'492004':
+  bin: '492004'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO MERCANTIL SANTA CRUZ, S.A.
+  country:
+    alpha_2: BO
+    alpha_3: BOL
+    name: Bolivia, Plurinational State of
+'492005':
+  bin: '492005'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: LUOTTOKUNTA
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492006':
+  bin: '492006'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SOCIETE GENERALE - SPLITSKA BANKA D.D.
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'492007':
+  bin: '492007'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: POHJOLA BANK PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492008':
+  bin: '492008'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO INDUSTRIAL DE VENEZUELA, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'492009':
+  bin: '492009'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO INDUSTRIAL DE VENEZUELA, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'492010':
+  bin: '492010'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492011':
+  bin: '492011'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492012':
+  bin: '492012'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO INDUSTRIAL DE VENEZUELA, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'492013':
+  bin: '492013'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UBS AG
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'492014':
+  bin: '492014'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO INDUSTRIAL DE VENEZUELA, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'492015':
+  bin: '492015'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492016':
+  bin: '492016'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492017':
+  bin: '492017'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492018':
+  bin: '492018'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492019':
+  bin: '492019'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492020':
+  bin: '492020'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492021':
+  bin: '492021'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492022':
+  bin: '492022'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: AVAL GOLD, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'492023':
+  bin: '492023'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ACCESO, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'492024':
+  bin: '492024'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ACCESO, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'492025':
+  bin: '492025'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: POHJOLA BANK PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492026':
+  bin: '492026'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492027':
+  bin: '492027'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ARUBA BANK, N.V.
+  country:
+    alpha_2: AW
+    alpha_3: ABW
+    name: Aruba
+'492028':
+  bin: '492028'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492029':
+  bin: '492029'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492030':
+  bin: '492030'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: SVENSKA HANDELSBANKEN AB (PUBL)
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492031':
+  bin: '492031'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492032':
+  bin: '492032'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ARUBA BANK, N.V.
+  country:
+    alpha_2: AW
+    alpha_3: ABW
+    name: Aruba
+'492033':
+  bin: '492033'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492034':
+  bin: '492034'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492035':
+  bin: '492035'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'492036':
+  bin: '492036'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'492037':
+  bin: '492037'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492038':
+  bin: '492038'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HANDELSBANKEN - FINLAND
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492039':
+  bin: '492039'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HANDELSBANKEN - FINLAND
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492040':
+  bin: '492040'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: AKTIA SAASTOPANKII OY
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492041':
+  bin: '492041'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SP/POP
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492042':
+  bin: '492042'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492043':
+  bin: '492043'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HSBC BANK ARGENTINA, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'492044':
+  bin: '492044'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK PRIVATKUNDEN AG AND CO KGAA
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'492045':
+  bin: '492045'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AKTIIVIRAHA
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492046':
+  bin: '492046'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: AKTIA SAASTOPANKII OY
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492047':
+  bin: '492047'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492048':
+  bin: '492048'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492049':
+  bin: '492049'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AKTIA SAASTOPANKII OY
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492050':
+  bin: '492050'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: OP
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492051':
+  bin: '492051'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: OP
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492052':
+  bin: '492052'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'492053':
+  bin: '492053'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'492054':
+  bin: '492054'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492055':
+  bin: '492055'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: LUOTTOKUNTA
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492056':
+  bin: '492056'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: POHJOLA BANK PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492057':
+  bin: '492057'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: POHJOLA BANK PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492058':
+  bin: '492058'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: LUOTTOKUNTA
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492059':
+  bin: '492059'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: POHJOLA BANK PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492060':
+  bin: '492060'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANK OF AALAND LTD. (AALANDSBANKEN AB)
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492061':
+  bin: '492061'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ANDSBANKEN
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492062':
+  bin: '492062'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO MERCANTIL SANTA CRUZ, S.A.
+  country:
+    alpha_2: BO
+    alpha_3: BOL
+    name: Bolivia, Plurinational State of
+'492063':
+  bin: '492063'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO NACIONAL DE BOLIVIA, S.A.
+  country:
+    alpha_2: BO
+    alpha_3: BOL
+    name: Bolivia, Plurinational State of
+'492064':
+  bin: '492064'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO MERCANTIL SANTA CRUZ, S.A.
+  country:
+    alpha_2: BO
+    alpha_3: BOL
+    name: Bolivia, Plurinational State of
+'492065':
+  bin: '492065'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: POHJOLA BANK PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492066':
+  bin: '492066'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK OF AALAND LTD. (AALANDSBANKEN AB)
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492067':
+  bin: '492067'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF DUBAI, LTD.
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'492068':
+  bin: '492068'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: SVENSKA HANDELSBANKEN AB (PUBL)
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492069':
+  bin: '492069'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF AALAND LTD. (AALANDSBANKEN AB)
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492070':
+  bin: '492070'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: TAPIOLA PANKKI OY
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492071':
+  bin: '492071'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: TAPIOLA
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492072':
+  bin: '492072'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: IONIAN AND POPULAR BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'492073':
+  bin: '492073'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: IONIAN AND POPULAR BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'492074':
+  bin: '492074'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492075':
+  bin: '492075'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'492076':
+  bin: '492076'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: TAPIOLA PANKKI OY
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492077':
+  bin: '492077'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA DE AHORROS DE GALICIA, VIGO, ORENSE Y PONTEVEDRA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'492078':
+  bin: '492078'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TAPIOLA PANKKI OY
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492079':
+  bin: '492079'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: STS BANK
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492080':
+  bin: '492080'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: SAMPO PANKKI OYJ
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492081':
+  bin: '492081'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SAMPO
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492082':
+  bin: '492082'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CITIBANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'492083':
+  bin: '492083'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF IELAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'492084':
+  bin: '492084'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NATIONAL PROCESSING COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'492085':
+  bin: '492085'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NATIONAL PROCESSING COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'492086':
+  bin: '492086'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SAMPO PANKKI OYJ
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492087':
+  bin: '492087'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CITIBANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'492088':
+  bin: '492088'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SAMPO
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492089':
+  bin: '492089'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SAMPO PANKKI OYJ
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'492090':
+  bin: '492090'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'492091':
+  bin: '492091'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: EMIRATES NBD BANK (P.J.S.C.)
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'492092':
+  bin: '492092'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: EMIRATES NBD BANK (P.J.S.C.)
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'492093':
+  bin: '492093'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: DEUTSCHE BANK PRIVAT- UND GESCHAEFTSKUNDEN AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'492094':
+  bin: '492094'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: TURKIYE HALK BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'492095':
+  bin: '492095'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TURKIYE HALK BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'492096':
+  bin: '492096'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: HSBC BANK MIDDLE EAST
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'492097':
+  bin: '492097'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HSBC BANK MIDDLE EAST
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'492098':
+  bin: '492098'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'492099':
+  bin: '492099'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain

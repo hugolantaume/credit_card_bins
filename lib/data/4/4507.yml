@@ -1,0 +1,1001 @@
+---
+'450700':
+  bin: '450700'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450701':
+  bin: '450701'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF N.T. BUTTERFIELD AND SON, LTD.
+  country:
+    alpha_2: BM
+    alpha_3: BMU
+    name: Bermuda
+'450702':
+  bin: '450702'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ATLANTICO, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450703':
+  bin: '450703'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450704':
+  bin: '450704'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DEL ESTADO
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'450705':
+  bin: '450705'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450706':
+  bin: '450706'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO LA CAJA OBRERA
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'450707':
+  bin: '450707'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ST. GEORGE BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'450708':
+  bin: '450708'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ST. GEORGE BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'450709':
+  bin: '450709'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJASTUR (CAJA DE AHORROS DE ASTURIAS)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450710':
+  bin: '450710'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ST. GEORGE BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'450711':
+  bin: '450711'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ST. GEORGE BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'450712':
+  bin: '450712'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ST. GEORGE BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'450713':
+  bin: '450713'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ST. GEORGE BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'450714':
+  bin: '450714'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANISTMO COLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'450715':
+  bin: '450715'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ST. GEORGE BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'450716':
+  bin: '450716'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANQUE MAROCAINE DU COMMERCE EXTERIEUR
+  country:
+    alpha_2: MA
+    alpha_3: MAR
+    name: Morocco
+'450717':
+  bin: '450717'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450718':
+  bin: '450718'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF AMERICA N.T. AND, S.A.
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'450719':
+  bin: '450719'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF AMERICA N.T. AND, S.A.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'450720':
+  bin: '450720'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF AMERICA N.T. AND, S.A.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450721':
+  bin: '450721'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF AMERICA N.T. AND, S.A.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450722':
+  bin: '450722'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK DUTA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'450723':
+  bin: '450723'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ENVISION C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450724':
+  bin: '450724'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ASOCIACION DE BANCOS QUE PRESTAN EL SERVICIO DE CREDIBANCO - CREDIBANCO
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'450725':
+  bin: '450725'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA GENERAL DE AHORROS DE CANARIAS (CAJA CANARIAS)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450726':
+  bin: '450726'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CAIXABANK S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450727':
+  bin: '450727'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA DE AHORROS DE GALICIA, VIGO, ORENSE Y PONTEVEDRA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450728':
+  bin: '450728'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VISA ICELAND
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'450729':
+  bin: '450729'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SPARISJODUR HAFNARFJARDAR
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'450730':
+  bin: '450730'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SPARISJODUR BOLUNGARVIKUR
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'450731':
+  bin: '450731'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SPARISJODUR MYRASYSLU
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'450732':
+  bin: '450732'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SPARISJODUR NORDFJARDAR
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'450733':
+  bin: '450733'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SPARISJODUR OLAFSFJARDAR
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'450734':
+  bin: '450734'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SPARISJODUR SIGLUFJARDAR
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'450735':
+  bin: '450735'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SPARISJODUR SVARFDAELA
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'450736':
+  bin: '450736'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SPARISJODUR VESTMANNAEYJA
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'450737':
+  bin: '450737'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SPARISJODUR VESTUR HUNAVATNSSYSLU
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'450738':
+  bin: '450738'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SPARISJODUR KOPAVOGS
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'450739':
+  bin: '450739'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SPARISJODURINN I KEFLAVIK
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'450740':
+  bin: '450740'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: EYRARSPARISJODUR
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'450741':
+  bin: '450741'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SPARISJODUR REYKJAVIKUR OG NAGRENNIS
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'450742':
+  bin: '450742'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: VISA ICELAND
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'450743':
+  bin: '450743'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: GLITNIR BANKI HF
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'450744':
+  bin: '450744'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA ICELAND
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'450745':
+  bin: '450745'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: KAUPTHING BANK HF
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'450746':
+  bin: '450746'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BEOBANKA A.D.
+  country:
+    alpha_2: RS
+    alpha_3: SRB
+    name: Serbia
+'450747':
+  bin: '450747'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450748':
+  bin: '450748'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK ESPIRITO SANTO INTERNATIONAL, LTD.
+  country:
+    alpha_2: KY
+    alpha_3: CYM
+    name: Cayman Islands
+'450749':
+  bin: '450749'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TURKIYE IMAR BANKASI T.A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'450750':
+  bin: '450750'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO PROVINCIA DEL NEUQUEN, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450751':
+  bin: '450751'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DE LA PROVINCIA DEL NEUQUEN
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450752':
+  bin: '450752'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DE RIO NEGRO, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450753':
+  bin: '450753'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DE RIO NEGRO, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450754':
+  bin: '450754'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA POPULAR DE AHORROS DE LA PROVINCIA DE TUCUMAN
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450755':
+  bin: '450755'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CAJA POPULAR DE AHORROS DE LA PROVINCIA DE TUCUMAN
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450756':
+  bin: '450756'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450757':
+  bin: '450757'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NUEVO BANCO DE SANTA FE, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450758':
+  bin: '450758'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NUEVO BANCO DE SANTA FE, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450759':
+  bin: '450759'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO SOCIAL DE CORDOBA
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450760':
+  bin: '450760'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ING LUXEMBOURG, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'450761':
+  bin: '450761'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO CONTINENTAL, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'450762':
+  bin: '450762'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BEOBANKA A.D.
+  country:
+    alpha_2: RS
+    alpha_3: SRB
+    name: Serbia
+'450763':
+  bin: '450763'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO GUIPUZCOANO, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450764':
+  bin: '450764'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO SOCIAL DE CORDOBA
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450765':
+  bin: '450765'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ST. GEORGE BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'450766':
+  bin: '450766'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SAMBA FINANCIAL GROUP
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'450767':
+  bin: '450767'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CONFEDERACION ESPANOLA DE CAJAS DE AHORROS (CECA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450768':
+  bin: '450768'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MONTE DE PIEDAD Y CAJA DE AHORROS DE RONDA, CADIZ, ALMERIA,
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450769':
+  bin: '450769'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'450770':
+  bin: '450770'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVICIOS SOCIALES BANCARIOS S.A.E.C.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'450771':
+  bin: '450771'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVICIOS SOCIALES BANCARIOS S.A.E.C.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'450772':
+  bin: '450772'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ADABANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'450773':
+  bin: '450773'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BEOBANKA A.D.
+  country:
+    alpha_2: RS
+    alpha_3: SRB
+    name: Serbia
+'450774':
+  bin: '450774'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450775':
+  bin: '450775'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CAJA RURAL PROVINCIAL DE MALAGA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450776':
+  bin: '450776'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ADABANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'450777':
+  bin: '450777'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: KUWAIT FINANCE HOUSE
+  country:
+    alpha_2: KW
+    alpha_3: KWT
+    name: Kuwait
+'450778':
+  bin: '450778'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: KUWAIT FINANCE HOUSE
+  country:
+    alpha_2: KW
+    alpha_3: KWT
+    name: Kuwait
+'450779':
+  bin: '450779'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ST. GEORGE BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'450780':
+  bin: '450780'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ST. GEORGE BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'450781':
+  bin: '450781'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO COMERCIAL PORTUGUES, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'450782':
+  bin: '450782'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450783':
+  bin: '450783'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANK OF SCOTLAND PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'450784':
+  bin: '450784'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO PROVINCIA DE TIERRA DEL FUEGO
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450785':
+  bin: '450785'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO PROVINCIA DE TIERRA DEL FUEGO
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450786':
+  bin: '450786'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ADELAIDE BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'450787':
+  bin: '450787'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA DE AHORROS DE LA RIOJA (CAJA RIOJA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450788':
+  bin: '450788'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ST. GEORGE BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'450789':
+  bin: '450789'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ST. GEORGE BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'450790':
+  bin: '450790'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450791':
+  bin: '450791'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE COMERCIO
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'450792':
+  bin: '450792'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SCOTIABANK PERU S.A.A.
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'450793':
+  bin: '450793'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450794':
+  bin: '450794'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450795':
+  bin: '450795'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450796':
+  bin: '450796'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BCSC, S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'450797':
+  bin: '450797'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAIXA DESTALVIS DE CATALUNYA (CAJA DE AHORROS DE CATALUNA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450798':
+  bin: '450798'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VIETNAM TECHNOLOGICAL AND COMMERCIAL JSB
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'450799':
+  bin: '450799'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA ARGENTINA, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina

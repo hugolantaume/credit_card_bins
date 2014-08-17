@@ -1,0 +1,1001 @@
+---
+'472300':
+  bin: '472300'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: KEY BANK USA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472301':
+  bin: '472301'
+  brand: VISA
+  type: DEBIT
+  category: TRAVEL MONEY
+  issuer: INTERPAYMENT SERVICES, LTD.
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'472302':
+  bin: '472302'
+  brand: VISA
+  type: DEBIT
+  category: TRAVEL MONEY
+  issuer: ''
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'472303':
+  bin: '472303'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'472304':
+  bin: '472304'
+  brand: VISA
+  type: DEBIT
+  category: PROPRIETARY ATM
+  issuer: INLUX (NETHERLANDS) BV
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'472305':
+  bin: '472305'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ITAZ UNIBANCO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'472306':
+  bin: '472306'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472307':
+  bin: '472307'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472308':
+  bin: '472308'
+  brand: VISA
+  type: DEBIT
+  category: TRAVEL MONEY
+  issuer: BANK INSINGER DE BEAUFORT PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'472309':
+  bin: '472309'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BANCO INDUSTRIAL, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'472310':
+  bin: '472310'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472311':
+  bin: '472311'
+  brand: VISA
+  type: DEBIT
+  category: TRAVEL MONEY
+  issuer: INTERPAYMENT SERVICES, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'472312':
+  bin: '472312'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'472313':
+  bin: '472313'
+  brand: VISA
+  type: DEBIT
+  category: TRAVEL MONEY
+  issuer: INTERPAYMENT SERVICES, LTD.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472314':
+  bin: '472314'
+  brand: VISA
+  type: DEBIT
+  category: PROPRIETARY ATM
+  issuer: INLUX (NETHERLANDS) BV
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'472315':
+  bin: '472315'
+  brand: VISA
+  type: DEBIT
+  category: TRAVEL MONEY
+  issuer: ''
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'472316':
+  bin: '472316'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: INLUX (NETHERLANDS) BV
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'472317':
+  bin: '472317'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: INLUX (NETHERLANDS) BV
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'472318':
+  bin: '472318'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: INLUX (NETHERLANDS) BV
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'472319':
+  bin: '472319'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'472320':
+  bin: '472320'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'472321':
+  bin: '472321'
+  brand: VISA
+  type: DEBIT
+  category: TRAVEL MONEY
+  issuer: ''
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'472322':
+  bin: '472322'
+  brand: VISA
+  type: DEBIT
+  category: TRAVEL MONEY
+  issuer: INTERPAYMENT SERVICES, LTD.
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'472323':
+  bin: '472323'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: INTERPAYMENT SERVICES, LTD.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'472324':
+  bin: '472324'
+  brand: VISA
+  type: DEBIT
+  category: TRAVEL MONEY
+  issuer: INTERPAYMENT SERVICES, LTD.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'472325':
+  bin: '472325'
+  brand: VISA
+  type: DEBIT
+  category: TRAVEL MONEY
+  issuer: INTERPAYMENT SERVICES, LTD.
+  country:
+    alpha_2: NZ
+    alpha_3: NZL
+    name: New Zealand
+'472326':
+  bin: '472326'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: INTERPAYMENT SERVICES, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'472327':
+  bin: '472327'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472328':
+  bin: '472328'
+  brand: VISA
+  type: DEBIT
+  category: TRAVEL MONEY
+  issuer: BANK INSINGER DE BEAUFORT PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'472329':
+  bin: '472329'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472330':
+  bin: '472330'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: INLUX (NETHERLANDS) BV
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'472331':
+  bin: '472331'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472332':
+  bin: '472332'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472333':
+  bin: '472333'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472334':
+  bin: '472334'
+  brand: VISA
+  type: DEBIT
+  category: TRAVEL MONEY
+  issuer: INTERPAYMENT SERVICES, LTD.
+  country:
+    alpha_2: KW
+    alpha_3: KWT
+    name: Kuwait
+'472335':
+  bin: '472335'
+  brand: VISA
+  type: DEBIT
+  category: TRAVEL MONEY
+  issuer: INTERPAYMENT SERVICES, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'472336':
+  bin: '472336'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'472337':
+  bin: '472337'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472338':
+  bin: '472338'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472339':
+  bin: '472339'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'472340':
+  bin: '472340'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472341':
+  bin: '472341'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472342':
+  bin: '472342'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472343':
+  bin: '472343'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472344':
+  bin: '472344'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472345':
+  bin: '472345'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'472346':
+  bin: '472346'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'472347':
+  bin: '472347'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'472348':
+  bin: '472348'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'472349':
+  bin: '472349'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'472350':
+  bin: '472350'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: COMMUNITY BANK OF PARKERSBURG
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472351':
+  bin: '472351'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMUNITYWIDE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472352':
+  bin: '472352'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CNLBANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472353':
+  bin: '472353'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: 'U S #1364 F.C.U.'
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472354':
+  bin: '472354'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: LIBERTY SAVINGS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472355':
+  bin: '472355'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NEW JERSEY LAW AND PUBLIC SAFETY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472356':
+  bin: '472356'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CONVERSE COUNTY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472357':
+  bin: '472357'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NEW ALBANY SCHOOLS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472358':
+  bin: '472358'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF LANCASTER COUNTY, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472359':
+  bin: '472359'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FARMERS AND MERCHANTS BANK OF CENTRAL CALIFORNIA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472360':
+  bin: '472360'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: INTERCREDIT BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472361':
+  bin: '472361'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: VIRGINIA NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472362':
+  bin: '472362'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BALTIMORE COUNTY SAVINGS BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472363':
+  bin: '472363'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GRIMES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472364':
+  bin: '472364'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: VIRGINIA NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472365':
+  bin: '472365'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: HILLTOP NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472366':
+  bin: '472366'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BELLWETHER COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472367':
+  bin: '472367'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PERU FEDERAL SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472368':
+  bin: '472368'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF LANCASTER COUNTY, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472369':
+  bin: '472369'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BROTHERHOOD BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472370':
+  bin: '472370'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: SOUTH CENTRAL BANK OF BOWLING GREEN, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472371':
+  bin: '472371'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: KIT F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472372':
+  bin: '472372'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: YADKIN VALLEY BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472373':
+  bin: '472373'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MEMORIAL EMPLOYEES F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472374':
+  bin: '472374'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FARMERS AND MERCHANTS BANK OF WESTERN PENNSYLVANIA, NATIONAL
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472375':
+  bin: '472375'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BLUE RIDGE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472376':
+  bin: '472376'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ABINGTON SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472377':
+  bin: '472377'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JOHNSON COUNTY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472378':
+  bin: '472378'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: IRON WORKERS SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472379':
+  bin: '472379'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST STATE BANK OF WARREN
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472380':
+  bin: '472380'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MERCER COUNTY N J TEACHERS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472381':
+  bin: '472381'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: IMECO F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472382':
+  bin: '472382'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SEAGRAM EMPLOYEES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472383':
+  bin: '472383'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: KAW VALLEY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472384':
+  bin: '472384'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: VIRGINIA HERITAGE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472385':
+  bin: '472385'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: PEOPLES BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472386':
+  bin: '472386'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST FEDERAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472387':
+  bin: '472387'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ADAMS COUNTY NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472388':
+  bin: '472388'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST KEYSTONE COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472389':
+  bin: '472389'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472390':
+  bin: '472390'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472391':
+  bin: '472391'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: MENNONITE FINANCIAL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472392':
+  bin: '472392'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK OF CROSSETT
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472393':
+  bin: '472393'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ADVANCE FINANCIAL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472394':
+  bin: '472394'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SUMMIT COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472395':
+  bin: '472395'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WINCHESTER FEDERAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472396':
+  bin: '472396'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CORTLAND SAVINGS AND BANKING COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472397':
+  bin: '472397'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CENTER VALLEY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472398':
+  bin: '472398'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SOUTH FLORIDA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472399':
+  bin: '472399'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: POLICEMEN'S F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

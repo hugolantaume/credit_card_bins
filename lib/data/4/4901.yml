@@ -1,0 +1,1001 @@
+---
+'490100':
+  bin: '490100'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'490101':
+  bin: '490101'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DE CREDITO REAL DE MINAS GERAIS
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'490102':
+  bin: '490102'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DE CREDITO REAL DE MINAS GERAIS
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'490103':
+  bin: '490103'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DE CREDITO REAL DE MINAS GERAIS
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'490104':
+  bin: '490104'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'490105':
+  bin: '490105'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO ITAU, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'490106':
+  bin: '490106'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO ITAU, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'490107':
+  bin: '490107'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRSTRAND BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'490108':
+  bin: '490108'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO ITAU, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'490109':
+  bin: '490109'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO HSBC COLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'490110':
+  bin: '490110'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'490111':
+  bin: '490111'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'490112':
+  bin: '490112'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO SOFITASA, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'490113':
+  bin: '490113'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO SOFITASA, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'490114':
+  bin: '490114'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'490115':
+  bin: '490115'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIRSTRAND BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'490116':
+  bin: '490116'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SOUND C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490117':
+  bin: '490117'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UBS AG
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'490118':
+  bin: '490118'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UBS AG
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'490119':
+  bin: '490119'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO ITAU, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'490120':
+  bin: '490120'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CEDYNA FINANCIAL CORPORATION
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490121':
+  bin: '490121'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: OMC CARD, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490122':
+  bin: '490122'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DAIEI OMC, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490123':
+  bin: '490123'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DAIEI OMC, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490124':
+  bin: '490124'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DAIEI OMC, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490125':
+  bin: '490125'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DAIEI OMC, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490126':
+  bin: '490126'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DAIEI OMC, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490127':
+  bin: '490127'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DAIEI OMC, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490128':
+  bin: '490128'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: DAIEI OMC, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490129':
+  bin: '490129'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CEDYNA FINANCIAL CORPORATION
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490130':
+  bin: '490130'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: FIRSTRAND BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'490131':
+  bin: '490131'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490132':
+  bin: '490132'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK OF BOTSWANA, LTD.
+  country:
+    alpha_2: BW
+    alpha_3: BWA
+    name: Botswana
+'490133':
+  bin: '490133'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: FIRST NATIONAL BANK OF BOTSWANA, LTD.
+  country:
+    alpha_2: BW
+    alpha_3: BWA
+    name: Botswana
+'490134':
+  bin: '490134'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRST NATIONAL BANK OF BOTSWANA, LTD.
+  country:
+    alpha_2: BW
+    alpha_3: BWA
+    name: Botswana
+'490135':
+  bin: '490135'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRSTRAND BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'490136':
+  bin: '490136'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIRSTRAND BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'490137':
+  bin: '490137'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIRSTRAND BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'490138':
+  bin: '490138'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRSTRAND BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'490139':
+  bin: '490139'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: FIRSTRAND BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'490140':
+  bin: '490140'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'490141':
+  bin: '490141'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HORIZON BANK, S.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490142':
+  bin: '490142'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SADDLE RIVER VALLEY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490143':
+  bin: '490143'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF THE SOUTH
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490144':
+  bin: '490144'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'490145':
+  bin: '490145'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490146':
+  bin: '490146'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490147':
+  bin: '490147'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANKINTER, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490148':
+  bin: '490148'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO HSBC COLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'490149':
+  bin: '490149'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'490150':
+  bin: '490150'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'490151':
+  bin: '490151'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'490152':
+  bin: '490152'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'490153':
+  bin: '490153'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: STATE BANK OF LIZTON
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490154':
+  bin: '490154'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: CITIZENS STATE BANK OF NEW CASTLE, INDIANA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490155':
+  bin: '490155'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490156':
+  bin: '490156'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490157':
+  bin: '490157'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF THAYER
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490158':
+  bin: '490158'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ING-DIBA AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'490159':
+  bin: '490159'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490160':
+  bin: '490160'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: SAUDI BRITISH BANK
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'490161':
+  bin: '490161'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO DIRECTO, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490162':
+  bin: '490162'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490163':
+  bin: '490163'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490164':
+  bin: '490164'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490165':
+  bin: '490165'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490166':
+  bin: '490166'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490167':
+  bin: '490167'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: DEGUSSA BANK GMBH
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'490168':
+  bin: '490168'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'490169':
+  bin: '490169'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ZIVNOSTENSKA BANKA
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'490170':
+  bin: '490170'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SISTEMA 4B
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490171':
+  bin: '490171'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SISTEMA 4B
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490172':
+  bin: '490172'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'490173':
+  bin: '490173'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CAJA RURAL SAN ISIDRO DE VALL DE UXO
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490174':
+  bin: '490174'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BROWARD HEALTHCARE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490175':
+  bin: '490175'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: TURKIYE GARANTI BANKASI A. S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'490176':
+  bin: '490176'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'490177':
+  bin: '490177'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490178':
+  bin: '490178'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'490179':
+  bin: '490179'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490180':
+  bin: '490180'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490181':
+  bin: '490181'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490182':
+  bin: '490182'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490183':
+  bin: '490183'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490184':
+  bin: '490184'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490185':
+  bin: '490185'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490186':
+  bin: '490186'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490187':
+  bin: '490187'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490188':
+  bin: '490188'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490189':
+  bin: '490189'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490190':
+  bin: '490190'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490191':
+  bin: '490191'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490192':
+  bin: '490192'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490193':
+  bin: '490193'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490194':
+  bin: '490194'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NORDEA BANK NORGE ASA HK
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490195':
+  bin: '490195'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490196':
+  bin: '490196'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490197':
+  bin: '490197'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490198':
+  bin: '490198'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'490199':
+  bin: '490199'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway

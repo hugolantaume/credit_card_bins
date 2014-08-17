@@ -1,0 +1,1001 @@
+---
+'450100':
+  bin: '450100'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450101':
+  bin: '450101'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: TOWN NORTH BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450102':
+  bin: '450102'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: TOWN NORTH BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450103':
+  bin: '450103'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: TOWN NORTH BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450104':
+  bin: '450104'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450105':
+  bin: '450105'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BA MERCHANT SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450106':
+  bin: '450106'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450107':
+  bin: '450107'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: SOUTHBRIDGE SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450108':
+  bin: '450108'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST COAST COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450109':
+  bin: '450109'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450110':
+  bin: '450110'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450111':
+  bin: '450111'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450112':
+  bin: '450112'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450113':
+  bin: '450113'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450114':
+  bin: '450114'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450115':
+  bin: '450115'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450116':
+  bin: '450116'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450117':
+  bin: '450117'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450118':
+  bin: '450118'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450119':
+  bin: '450119'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450120':
+  bin: '450120'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450121':
+  bin: '450121'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450122':
+  bin: '450122'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450123':
+  bin: '450123'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450124':
+  bin: '450124'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450125':
+  bin: '450125'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450126':
+  bin: '450126'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450127':
+  bin: '450127'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450128':
+  bin: '450128'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450129':
+  bin: '450129'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450130':
+  bin: '450130'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450131':
+  bin: '450131'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450132':
+  bin: '450132'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450133':
+  bin: '450133'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450134':
+  bin: '450134'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450135':
+  bin: '450135'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450136':
+  bin: '450136'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450137':
+  bin: '450137'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450138':
+  bin: '450138'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450139':
+  bin: '450139'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450140':
+  bin: '450140'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450141':
+  bin: '450141'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450142':
+  bin: '450142'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450143':
+  bin: '450143'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450144':
+  bin: '450144'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450145':
+  bin: '450145'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450146':
+  bin: '450146'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450147':
+  bin: '450147'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450148':
+  bin: '450148'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450149':
+  bin: '450149'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450150':
+  bin: '450150'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450151':
+  bin: '450151'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450152':
+  bin: '450152'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450153':
+  bin: '450153'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450154':
+  bin: '450154'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450155':
+  bin: '450155'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450156':
+  bin: '450156'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450157':
+  bin: '450157'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450158':
+  bin: '450158'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450159':
+  bin: '450159'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450160':
+  bin: '450160'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450161':
+  bin: '450161'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450162':
+  bin: '450162'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450163':
+  bin: '450163'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450164':
+  bin: '450164'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450165':
+  bin: '450165'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450166':
+  bin: '450166'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450167':
+  bin: '450167'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450168':
+  bin: '450168'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450169':
+  bin: '450169'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450170':
+  bin: '450170'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450171':
+  bin: '450171'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450172':
+  bin: '450172'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450173':
+  bin: '450173'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450174':
+  bin: '450174'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450175':
+  bin: '450175'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450176':
+  bin: '450176'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450177':
+  bin: '450177'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450178':
+  bin: '450178'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450179':
+  bin: '450179'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450180':
+  bin: '450180'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'450181':
+  bin: '450181'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'450182':
+  bin: '450182'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450183':
+  bin: '450183'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'450184':
+  bin: '450184'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'450185':
+  bin: '450185'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'450186':
+  bin: '450186'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450187':
+  bin: '450187'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450188':
+  bin: '450188'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450189':
+  bin: '450189'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450190':
+  bin: '450190'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450191':
+  bin: '450191'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450192':
+  bin: '450192'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450193':
+  bin: '450193'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450194':
+  bin: '450194'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'450195':
+  bin: '450195'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MBNA EUROPE BANK, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'450196':
+  bin: '450196'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: MBNA EUROPE BANK, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'450197':
+  bin: '450197'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MBNA EUROPE BANK, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'450198':
+  bin: '450198'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'450199':
+  bin: '450199'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom

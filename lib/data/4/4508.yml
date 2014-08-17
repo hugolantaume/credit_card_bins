@@ -1,0 +1,1001 @@
+---
+'450800':
+  bin: '450800'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CORP BANCA
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'450801':
+  bin: '450801'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO PASTOR, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450802':
+  bin: '450802'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA, CHILE
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'450803':
+  bin: '450803'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: TURKIYE IS BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'450804':
+  bin: '450804'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450805':
+  bin: '450805'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: CW
+    alpha_3: CUW
+    name: Curaçao
+'450806':
+  bin: '450806'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450807':
+  bin: '450807'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.
+  country:
+    alpha_2: CW
+    alpha_3: CUW
+    name: Curaçao
+'450808':
+  bin: '450808'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: MONTE DE PIEDAD Y CAJA DE AHORROS DE GUADALAJARA, HUELVA, JE
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450809':
+  bin: '450809'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450810':
+  bin: '450810'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450811':
+  bin: '450811'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450812':
+  bin: '450812'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450813':
+  bin: '450813'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: POPULAR BANK (NY)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450814':
+  bin: '450814'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: POPULAR BANK (NY)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450815':
+  bin: '450815'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE LA CIUDAD DE BUENOS AIRES
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450816':
+  bin: '450816'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA DE AHORROS Y MONTE DE PIEDAD DE NAVARRA (CAJA NAVARRA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450817':
+  bin: '450817'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA INSULAR DE AHORROS DE CANARIAS (LA CAJA DE CANARIAS)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450818':
+  bin: '450818'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: POPULAR BANK (NY)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450819':
+  bin: '450819'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'450820':
+  bin: '450820'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: POPULAR BANK (NY)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450821':
+  bin: '450821'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO SANTANDER PUERTO RICO
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'450822':
+  bin: '450822'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO SANTANDER COLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'450823':
+  bin: '450823'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'450824':
+  bin: '450824'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANQUE SAUDI FRANSI
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'450825':
+  bin: '450825'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: POPULAR BANK LTD., INC.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'450826':
+  bin: '450826'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: BN
+    alpha_3: BRN
+    name: Brunei Darussalam
+'450827':
+  bin: '450827'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CAJA LABORAL POPULAR DE MONDRAGON
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450828':
+  bin: '450828'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NATIONAL BANK OF BAHRAIN B. S. C.
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'450829':
+  bin: '450829'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NATIONAL BANK OF BAHRAIN B. S. C.
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'450830':
+  bin: '450830'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: POPULAR BANK (NY)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450831':
+  bin: '450831'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ASSOCIATES CAPITAL CORP.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'450832':
+  bin: '450832'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO CAJA DE AHORRO, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450833':
+  bin: '450833'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO CAJA DE AHORRO, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450834':
+  bin: '450834'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CONTECNICA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'450835':
+  bin: '450835'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CONTECNICA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'450836':
+  bin: '450836'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: TURK TICARET BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'450837':
+  bin: '450837'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: UC CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'450838':
+  bin: '450838'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA, CHILE
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'450839':
+  bin: '450839'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO MULTIPLE LEON, S.A.
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'450840':
+  bin: '450840'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO MULTIPLE LEON, S.A.
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'450841':
+  bin: '450841'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: IRWIN UNION BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450842':
+  bin: '450842'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE LA CIUDAD DE BUENOS AIRES
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450843':
+  bin: '450843'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BANSUD, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450844':
+  bin: '450844'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO BANSUD, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450845':
+  bin: '450845'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450846':
+  bin: '450846'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: VAMCO C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450847':
+  bin: '450847'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: POPULAR BANK (NY)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450848':
+  bin: '450848'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VALORES INTERNACIONALES, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'450849':
+  bin: '450849'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA DE AHORROS DE GALICIA, VIGO, ORENSE Y PONTEVEDRA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450850':
+  bin: '450850'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450851':
+  bin: '450851'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DEL BUEN AYRE
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450852':
+  bin: '450852'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DEL BUEN AYRE
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'450853':
+  bin: '450853'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450854':
+  bin: '450854'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NEDBANK NAMIBIA, LTD.
+  country:
+    alpha_2: NA
+    alpha_3: NAM
+    name: Namibia
+'450855':
+  bin: '450855'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NEDBANK NAMIBIA, LTD.
+  country:
+    alpha_2: NA
+    alpha_3: NAM
+    name: Namibia
+'450856':
+  bin: '450856'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NEDBANK NAMIBIA, LTD.
+  country:
+    alpha_2: NA
+    alpha_3: NAM
+    name: Namibia
+'450857':
+  bin: '450857'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'450858':
+  bin: '450858'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO ATLANTICO, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450859':
+  bin: '450859'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SANTANDER UK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'450860':
+  bin: '450860'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'450861':
+  bin: '450861'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: POPULAR BANK (NY)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450862':
+  bin: '450862'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: POPULAR BANK (NY)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450863':
+  bin: '450863'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450864':
+  bin: '450864'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SISTEMA 4B, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450865':
+  bin: '450865'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO SABADELL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450866':
+  bin: '450866'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: POPULAR BANK (NY)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450867':
+  bin: '450867'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: POPULAR BANK (NY)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450868':
+  bin: '450868'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: POPULAR BANK (NY)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450869':
+  bin: '450869'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'450870':
+  bin: '450870'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: GREAT BASIN BANK OF NEVADA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450871':
+  bin: '450871'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA DE AHORROS Y MONTE DE PIEDAD DE EXTREMADURA (CAJA DE EX
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450872':
+  bin: '450872'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROIG COMMERCIAL BANK
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'450873':
+  bin: '450873'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'450874':
+  bin: '450874'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'450875':
+  bin: '450875'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CO-OPERATIVE BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'450876':
+  bin: '450876'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ANDORRA BANC AGRICOL REIG, S.A.
+  country:
+    alpha_2: AD
+    alpha_3: AND
+    name: Andorra
+'450877':
+  bin: '450877'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450878':
+  bin: '450878'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE CHILE
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'450879':
+  bin: '450879'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO DE CHILE
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'450880':
+  bin: '450880'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO SANTANDER CHILE
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'450881':
+  bin: '450881'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO SANTANDER CHILE
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'450882':
+  bin: '450882'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SCOTIABANK CHILE
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'450883':
+  bin: '450883'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SCOTIABANK SUD AMERICANO
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'450884':
+  bin: '450884'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SCOTIABANK DE PUERTO RICO
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'450885':
+  bin: '450885'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: STANDARD CHARTERED BANK (HONG KONG), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'450886':
+  bin: '450886'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450887':
+  bin: '450887'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MONTE DE PIEDAD Y CAJA DE AHORROS DE GUADALAJARA, HUELVA, JE
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450888':
+  bin: '450888'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: POPULAR BANK (NY)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450889':
+  bin: '450889'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CHEVRON F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450890':
+  bin: '450890'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: POPULAR BANK (NY)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450891':
+  bin: '450891'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HFC BANK, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'450892':
+  bin: '450892'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAIXA D'ESTALVIS UNIO DE CAIXES DE MANLLEU, SABADELL Y TERRA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450893':
+  bin: '450893'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DE CREDITO DE BOLIVIA
+  country:
+    alpha_2: BO
+    alpha_3: BOL
+    name: Bolivia, Plurinational State of
+'450894':
+  bin: '450894'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA DE AHORROS LAYETANA (CAIXA LAIETANA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450895':
+  bin: '450895'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA DE AHORROS DE LA INMACULADA DE ZARAGOZA (CAI)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'450896':
+  bin: '450896'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: BAIDURI BANK BHD
+  country:
+    alpha_2: BN
+    alpha_3: BRN
+    name: Brunei Darussalam
+'450897':
+  bin: '450897'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'450898':
+  bin: '450898'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: OVERSEA-CHINESE BANKING CORP., LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'450899':
+  bin: '450899'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ARAB AFRICAN INTERNATIONAL BANK
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt

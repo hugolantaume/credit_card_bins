@@ -1,0 +1,1001 @@
+---
+'493800':
+  bin: '493800'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO COMERCIAL PORTUGUES, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'493801':
+  bin: '493801'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO COMERCIAL PORTUGUES, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'493802':
+  bin: '493802'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE VENEZUELA, S.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'493803':
+  bin: '493803'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE VENEZUELA, S.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'493804':
+  bin: '493804'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO DE VENEZUELA, S.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'493805':
+  bin: '493805'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'493806':
+  bin: '493806'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493807':
+  bin: '493807'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO COMERCIAL PORTUGUES, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'493808':
+  bin: '493808'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF CHINA
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'493809':
+  bin: '493809'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF CHINA
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'493810':
+  bin: '493810'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST DATA RESOURCES (UK) (FDR)
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'493811':
+  bin: '493811'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NEPAL GRINDLAYS BANK, LTD.
+  country:
+    alpha_2: NP
+    alpha_3: NPL
+    name: Nepal
+'493812':
+  bin: '493812'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493813':
+  bin: '493813'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'493814':
+  bin: '493814'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CREDIMAX B.S.C. (CLOSED)
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'493815':
+  bin: '493815'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: POLISH AND SLAVIC F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493816':
+  bin: '493816'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: QATAR NATIONAL BANK, S. A. Q.
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'493817':
+  bin: '493817'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NATIONAL CREDIT CARD CENTER
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'493818':
+  bin: '493818'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: QATAR NATIONAL BANK, S. A. Q.
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'493819':
+  bin: '493819'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: REPUBLIC BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493820':
+  bin: '493820'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: VECTRA BANK COLORADO, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493821':
+  bin: '493821'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: TEXAS STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493822':
+  bin: '493822'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CHANG HWA COMMERCIAL BANK, LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'493823':
+  bin: '493823'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO NACIONAL DE COSTA RICA
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'493824':
+  bin: '493824'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO NACIONAL DE COSTA RICA
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'493825':
+  bin: '493825'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TAIWAN BUSINESS BANK
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'493826':
+  bin: '493826'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANK OF BARODA
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'493827':
+  bin: '493827'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF BARODA
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'493828':
+  bin: '493828'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK INTERNASIONAL INDONESIA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'493829':
+  bin: '493829'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANK INTERNASIONAL INDONESIA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'493830':
+  bin: '493830'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO COMERCIAL PORTUGUES, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'493831':
+  bin: '493831'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: VSB INTERNATIONAL B.V.
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'493832':
+  bin: '493832'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST NATIONAL BANK OF CROSSETT
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493833':
+  bin: '493833'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MBNA EUROPE BANK, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'493834':
+  bin: '493834'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493835':
+  bin: '493835'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA DE AHORROS DE CARLET
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'493836':
+  bin: '493836'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANQUE DU SUD
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'493837':
+  bin: '493837'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AKBANK T.A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'493838':
+  bin: '493838'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIMAX B.S.C. (CLOSED)
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'493839':
+  bin: '493839'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493840':
+  bin: '493840'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TURKIYE VAKIFLAR BANKASI T.A.O.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'493841':
+  bin: '493841'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TURKIYE VAKIFLAR BANKASI T.A.O.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'493842':
+  bin: '493842'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493843':
+  bin: '493843'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA BURGOS (CAJA DE AHORROS MUNICIPAL DE BURGOS)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'493844':
+  bin: '493844'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: MBNA EUROPE BANK, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'493845':
+  bin: '493845'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: TURKIYE GARANTI BANKASI A. S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'493846':
+  bin: '493846'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: TURKIYE VAKIFLAR BANKASI T.A.O.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'493847':
+  bin: '493847'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: AIB GROUP (UK) PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'493848':
+  bin: '493848'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AIB GROUP (UK) PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'493849':
+  bin: '493849'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BOLIVARIANO, C.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'493850':
+  bin: '493850'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO BOLIVARIANO, C.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'493851':
+  bin: '493851'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HSBC BANK (PANAMA), S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'493852':
+  bin: '493852'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF BERMUDA, LTD.
+  country:
+    alpha_2: BM
+    alpha_3: BMU
+    name: Bermuda
+'493853':
+  bin: '493853'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NORTHERN TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493854':
+  bin: '493854'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ARIZONA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493855':
+  bin: '493855'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ARIZONA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493856':
+  bin: '493856'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TOWERBANK INTERNATIONAL, INC.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'493857':
+  bin: '493857'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SCOTIABANK CHILE
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'493858':
+  bin: '493858'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DEL DESARROLLO
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'493859':
+  bin: '493859'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SCOTIABANK CHILE
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'493860':
+  bin: '493860'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493861':
+  bin: '493861'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493862':
+  bin: '493862'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493863':
+  bin: '493863'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493864':
+  bin: '493864'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493865':
+  bin: '493865'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493866':
+  bin: '493866'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493867':
+  bin: '493867'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493868':
+  bin: '493868'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493869':
+  bin: '493869'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493870':
+  bin: '493870'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493871':
+  bin: '493871'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493872':
+  bin: '493872'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493873':
+  bin: '493873'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493874':
+  bin: '493874'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493875':
+  bin: '493875'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493876':
+  bin: '493876'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493877':
+  bin: '493877'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493878':
+  bin: '493878'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'493879':
+  bin: '493879'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493880':
+  bin: '493880'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493881':
+  bin: '493881'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493882':
+  bin: '493882'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493883':
+  bin: '493883'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493884':
+  bin: '493884'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493885':
+  bin: '493885'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493886':
+  bin: '493886'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493887':
+  bin: '493887'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493888':
+  bin: '493888'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493889':
+  bin: '493889'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493890':
+  bin: '493890'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493891':
+  bin: '493891'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493892':
+  bin: '493892'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493893':
+  bin: '493893'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493894':
+  bin: '493894'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493895':
+  bin: '493895'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493896':
+  bin: '493896'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493897':
+  bin: '493897'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493898':
+  bin: '493898'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'493899':
+  bin: '493899'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong

@@ -1,0 +1,21 @@
+---
+'507857':
+  bin: '507857'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: CETELEM CR, A.S.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'507860':
+  bin: '507860'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: CETELEM BRASIL S.A.- CREDITO, FINANCIAMENTO E INVESTIMENTO
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil

@@ -1,0 +1,1001 @@
+---
+'537000':
+  bin: '537000'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BELVNESHECONOMBANK
+  country:
+    alpha_2: BY
+    alpha_3: BLR
+    name: Belarus
+'537001':
+  bin: '537001'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BANCO PANAMERICANO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'537002':
+  bin: '537002'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BNP PARIBAS BANK POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'537003':
+  bin: '537003'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'537004':
+  bin: '537004'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'537005':
+  bin: '537005'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: JOINT STOCK WEST-SIBERIAN COMMERCIAL BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'537006':
+  bin: '537006'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537007':
+  bin: '537007'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SY
+    alpha_3: SYR
+    name: Syrian Arab Republic
+'537008':
+  bin: '537008'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CREDOMATIC DEL ISTMO, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'537009':
+  bin: '537009'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537010':
+  bin: '537010'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: ECOBANK NIGERIA PLC
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'537011':
+  bin: '537011'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: ECOBANK NIGERIA PLC
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'537012':
+  bin: '537012'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537013':
+  bin: '537013'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IQ
+    alpha_3: IRQ
+    name: Iraq
+'537014':
+  bin: '537014'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CREDIT AGRICOLE DU MAROC
+  country:
+    alpha_2: MA
+    alpha_3: MAR
+    name: Morocco
+'537015':
+  bin: '537015'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537016':
+  bin: '537016'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: AHLI UNITED BANK
+  country:
+    alpha_2: KW
+    alpha_3: KWT
+    name: Kuwait
+'537017':
+  bin: '537017'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'537018':
+  bin: '537018'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: ASIA COMMERCIAL BANK
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'537019':
+  bin: '537019'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537020':
+  bin: '537020'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CSCBANK S.A.L.
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'537021':
+  bin: '537021'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537022':
+  bin: '537022'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537023':
+  bin: '537023'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: BANQUE MISR
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'537024':
+  bin: '537024'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: JORDAN AHLI BANK
+  country:
+    alpha_2: IQ
+    alpha_3: IRQ
+    name: Iraq
+'537025':
+  bin: '537025'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: PREMIER BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'537026':
+  bin: '537026'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SY
+    alpha_3: SYR
+    name: Syrian Arab Republic
+'537027':
+  bin: '537027'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FBC BANK, LTD.
+  country:
+    alpha_2: ZW
+    alpha_3: ZWE
+    name: Zimbabwe
+'537028':
+  bin: '537028'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'537029':
+  bin: '537029'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: CRDB BANK PLC
+  country:
+    alpha_2: TZ
+    alpha_3: TZA
+    name: Tanzania, United Republic of
+'537030':
+  bin: '537030'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANCA AFIRME, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'537031':
+  bin: '537031'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CREDOMATIC DEL ISTMO, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'537032':
+  bin: '537032'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'537033':
+  bin: '537033'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: FEDERACION UNISAP,S.C. DE R.L. DE C.V.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'537034':
+  bin: '537034'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537035':
+  bin: '537035'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537036':
+  bin: '537036'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537037':
+  bin: '537037'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537038':
+  bin: '537038'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537039':
+  bin: '537039'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537040':
+  bin: '537040'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537041':
+  bin: '537041'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537042':
+  bin: '537042'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537043':
+  bin: '537043'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537044':
+  bin: '537044'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537045':
+  bin: '537045'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537046':
+  bin: '537046'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537047':
+  bin: '537047'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537048':
+  bin: '537048'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537049':
+  bin: '537049'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537050':
+  bin: '537050'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537051':
+  bin: '537051'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537052':
+  bin: '537052'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'537053':
+  bin: '537053'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537054':
+  bin: '537054'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537055':
+  bin: '537055'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537056':
+  bin: '537056'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537057':
+  bin: '537057'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537058':
+  bin: '537058'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537059':
+  bin: '537059'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537060':
+  bin: '537060'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537061':
+  bin: '537061'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537062':
+  bin: '537062'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537063':
+  bin: '537063'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537064':
+  bin: '537064'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537065':
+  bin: '537065'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537066':
+  bin: '537066'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537067':
+  bin: '537067'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537068':
+  bin: '537068'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537069':
+  bin: '537069'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537070':
+  bin: '537070'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537071':
+  bin: '537071'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537072':
+  bin: '537072'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537073':
+  bin: '537073'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537074':
+  bin: '537074'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537075':
+  bin: '537075'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537076':
+  bin: '537076'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537077':
+  bin: '537077'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537078':
+  bin: '537078'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537079':
+  bin: '537079'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537080':
+  bin: '537080'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537081':
+  bin: '537081'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537082':
+  bin: '537082'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537083':
+  bin: '537083'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537084':
+  bin: '537084'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537085':
+  bin: '537085'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537086':
+  bin: '537086'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537087':
+  bin: '537087'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537088':
+  bin: '537088'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537089':
+  bin: '537089'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537090':
+  bin: '537090'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537091':
+  bin: '537091'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537092':
+  bin: '537092'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537093':
+  bin: '537093'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537094':
+  bin: '537094'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537095':
+  bin: '537095'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537096':
+  bin: '537096'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537097':
+  bin: '537097'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537098':
+  bin: '537098'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'537099':
+  bin: '537099'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

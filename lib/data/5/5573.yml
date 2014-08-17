@@ -1,0 +1,701 @@
+---
+'557300':
+  bin: '557300'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557301':
+  bin: '557301'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557302':
+  bin: '557302'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557303':
+  bin: '557303'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557304':
+  bin: '557304'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557305':
+  bin: '557305'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: STAR PROCESSING, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557306':
+  bin: '557306'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557307':
+  bin: '557307'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557308':
+  bin: '557308'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557309':
+  bin: '557309'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: DATA CENTER INCORPORATED
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557310':
+  bin: '557310'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557311':
+  bin: '557311'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557313':
+  bin: '557313'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'557315':
+  bin: '557315'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'557317':
+  bin: '557317'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'557319':
+  bin: '557319'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ZW
+    alpha_3: ZWE
+    name: Zimbabwe
+'557338':
+  bin: '557338'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'557347':
+  bin: '557347'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557348':
+  bin: '557348'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: NEWCASTLE BUILDING SOCIETY
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557349':
+  bin: '557349'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: CLYDESDALE BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557350':
+  bin: '557350'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: CLYDESDALE BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557351':
+  bin: '557351'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: CLYDESDALE BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557352':
+  bin: '557352'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: CLYDESDALE BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557353':
+  bin: '557353'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: STATE BANK OF INDIA
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557354':
+  bin: '557354'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: NEWCASTLE BUILDING SOCIETY
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557355':
+  bin: '557355'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557356':
+  bin: '557356'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FBN BANK (UK), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557357':
+  bin: '557357'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: NEWCASTLE BUILDING SOCIETY
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557358':
+  bin: '557358'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: GUARANTY TRUST BANK (UK), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557359':
+  bin: '557359'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557360':
+  bin: '557360'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: METRO BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557361':
+  bin: '557361'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: METRO BANK
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557362':
+  bin: '557362'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557363':
+  bin: '557363'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: BUTTERFIELD BANK (UK), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557364':
+  bin: '557364'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: UNITED NATIONAL BANK, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557365':
+  bin: '557365'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557366':
+  bin: '557366'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557367':
+  bin: '557367'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'557368':
+  bin: '557368'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'557369':
+  bin: '557369'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557370':
+  bin: '557370'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'557371':
+  bin: '557371'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557372':
+  bin: '557372'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557373':
+  bin: '557373'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557374':
+  bin: '557374'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557375':
+  bin: '557375'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557376':
+  bin: '557376'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557377':
+  bin: '557377'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557378':
+  bin: '557378'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557379':
+  bin: '557379'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557380':
+  bin: '557380'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557381':
+  bin: '557381'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'557382':
+  bin: '557382'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'557383':
+  bin: '557383'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557384':
+  bin: '557384'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557385':
+  bin: '557385'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557386':
+  bin: '557386'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557387':
+  bin: '557387'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557388':
+  bin: '557388'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'557389':
+  bin: '557389'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557390':
+  bin: '557390'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557391':
+  bin: '557391'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557392':
+  bin: '557392'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557393':
+  bin: '557393'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557394':
+  bin: '557394'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557395':
+  bin: '557395'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557396':
+  bin: '557396'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557397':
+  bin: '557397'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557398':
+  bin: '557398'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'557399':
+  bin: '557399'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom

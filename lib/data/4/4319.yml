@@ -1,0 +1,1001 @@
+---
+'431900':
+  bin: '431900'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431901':
+  bin: '431901'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431902':
+  bin: '431902'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF EAST ASIA, LTD.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'431903':
+  bin: '431903'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431904':
+  bin: '431904'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431905':
+  bin: '431905'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: AMINIT, LTD.
+  country:
+    alpha_2: IL
+    alpha_3: ISR
+    name: Israel
+'431906':
+  bin: '431906'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: AMINIT, LTD.
+  country:
+    alpha_2: IL
+    alpha_3: ISR
+    name: Israel
+'431907':
+  bin: '431907'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: AMINIT, LTD.
+  country:
+    alpha_2: IL
+    alpha_3: ISR
+    name: Israel
+'431908':
+  bin: '431908'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANQUE DE DEVELOPPEMENT DU MALI
+  country:
+    alpha_2: ML
+    alpha_3: MLI
+    name: Mali
+'431909':
+  bin: '431909'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431910':
+  bin: '431910'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT AGRICOLE BANK POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'431911':
+  bin: '431911'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LUKAS BANK SWIETOKRZYSKI, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'431912':
+  bin: '431912'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LUKAS BANK SWIETOKRZYSKI, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'431913':
+  bin: '431913'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LUKAS BANK SWIETOKRZYSKI, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'431914':
+  bin: '431914'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LUKAS BANK SWIETOKRZYSKI, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'431915':
+  bin: '431915'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LUKAS BANK SWIETOKRZYSKI, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'431916':
+  bin: '431916'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO PROCREDIT, S.A.
+  country:
+    alpha_2: NI
+    alpha_3: NIC
+    name: Nicaragua
+'431917':
+  bin: '431917'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CRANE BANK, LTD.
+  country:
+    alpha_2: UG
+    alpha_3: UGA
+    name: Uganda
+'431918':
+  bin: '431918'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431919':
+  bin: '431919'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431920':
+  bin: '431920'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431921':
+  bin: '431921'
+  brand: VISA
+  type: DEBIT
+  category: CORPORATE T&E
+  issuer: CITIBANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'431922':
+  bin: '431922'
+  brand: VISA
+  type: DEBIT
+  category: CORPORATE T&E
+  issuer: CITIBANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'431923':
+  bin: '431923'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO PANAMENO DE LA VIVIENDA, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'431924':
+  bin: '431924'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'431925':
+  bin: '431925'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CB KAURI LLC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'431926':
+  bin: '431926'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAIXA ECONOMICA MONTEPIO GERAL
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'431927':
+  bin: '431927'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GULF BANK K.S.C.
+  country:
+    alpha_2: KW
+    alpha_3: KWT
+    name: Kuwait
+'431928':
+  bin: '431928'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431929':
+  bin: '431929'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: UNICARD BANCO MULTIPLO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'431930':
+  bin: '431930'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: HALIFAX
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431931':
+  bin: '431931'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ULSTER BANK
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431932':
+  bin: '431932'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ULSTER BANK
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431933':
+  bin: '431933'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431934':
+  bin: '431934'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431935':
+  bin: '431935'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431936':
+  bin: '431936'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431937':
+  bin: '431937'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431938':
+  bin: '431938'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431939':
+  bin: '431939'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431940':
+  bin: '431940'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431941':
+  bin: '431941'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431942':
+  bin: '431942'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431943':
+  bin: '431943'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431944':
+  bin: '431944'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431945':
+  bin: '431945'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431946':
+  bin: '431946'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431947':
+  bin: '431947'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ALLIED IRISH BANKS PLC
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431948':
+  bin: '431948'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431949':
+  bin: '431949'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431950':
+  bin: '431950'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431951':
+  bin: '431951'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431952':
+  bin: '431952'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431953':
+  bin: '431953'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431954':
+  bin: '431954'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431955':
+  bin: '431955'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431956':
+  bin: '431956'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431957':
+  bin: '431957'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431958':
+  bin: '431958'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431959':
+  bin: '431959'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431960':
+  bin: '431960'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431961':
+  bin: '431961'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431962':
+  bin: '431962'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431963':
+  bin: '431963'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431964':
+  bin: '431964'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431965':
+  bin: '431965'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431966':
+  bin: '431966'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431967':
+  bin: '431967'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431968':
+  bin: '431968'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431969':
+  bin: '431969'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431970':
+  bin: '431970'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431971':
+  bin: '431971'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431972':
+  bin: '431972'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431973':
+  bin: '431973'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431974':
+  bin: '431974'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431975':
+  bin: '431975'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431976':
+  bin: '431976'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431977':
+  bin: '431977'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431978':
+  bin: '431978'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431979':
+  bin: '431979'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'431980':
+  bin: '431980'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SANTANDER UK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'431981':
+  bin: '431981'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431982':
+  bin: '431982'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431983':
+  bin: '431983'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431984':
+  bin: '431984'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431985':
+  bin: '431985'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431986':
+  bin: '431986'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431987':
+  bin: '431987'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431988':
+  bin: '431988'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431989':
+  bin: '431989'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANK BPH, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'431990':
+  bin: '431990'
+  brand: VISA
+  type: DEBIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'431991':
+  bin: '431991'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431992':
+  bin: '431992'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431993':
+  bin: '431993'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431994':
+  bin: '431994'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431995':
+  bin: '431995'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431996':
+  bin: '431996'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431997':
+  bin: '431997'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431998':
+  bin: '431998'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431999':
+  bin: '431999'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

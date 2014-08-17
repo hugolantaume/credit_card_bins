@@ -1,0 +1,31 @@
+---
+'604620':
+  bin: '604620'
+  brand: MAESTRO
+  type: DEBIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'604625':
+  bin: '604625'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'604646':
+  bin: '604646'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: SCENE LP (CINEPLEX ENTERTAINMENT)
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada

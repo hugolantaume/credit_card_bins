@@ -1,0 +1,41 @@
+---
+'679923':
+  bin: '679923'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'679943':
+  bin: '679943'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'679984':
+  bin: '679984'
+  brand: MAESTRO
+  type: ''
+  category: DEBIT
+  issuer: FIRST DATA GLOBAL SERVICES
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'679998':
+  bin: '679998'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium

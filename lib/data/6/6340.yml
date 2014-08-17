@@ -1,0 +1,41 @@
+---
+'634001':
+  bin: '634001'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: TESCO PERSONAL FINANCE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'634004':
+  bin: '634004'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: TESCO CLUBCARD
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'634005':
+  bin: '634005'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: TESCO FUEL CARD
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'634008':
+  bin: '634008'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: TESCO PERSONAL FINANCE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom

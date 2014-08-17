@@ -1,0 +1,31 @@
+---
+'982613':
+  bin: '982613'
+  brand: RBS GIFT CARD
+  type: DEBIT
+  category: GIFT
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'982615':
+  bin: '982615'
+  brand: PRIVATE LABEL
+  type: ''
+  category: ''
+  issuer: Waterstones
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'982620':
+  bin: '982620'
+  brand: RBS GIFT CARD
+  type: DEBIT
+  category: GIFT
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom

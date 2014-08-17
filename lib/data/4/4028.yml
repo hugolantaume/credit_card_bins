@@ -1,0 +1,1001 @@
+---
+'402800':
+  bin: '402800'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF STOCKTON
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402801':
+  bin: '402801'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: LUOTTOKUNTA
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'402802':
+  bin: '402802'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HANDELSBANKEN
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'402803':
+  bin: '402803'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'402804':
+  bin: '402804'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'402805':
+  bin: '402805'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CB MEZHREGIONBANK LLC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'402806':
+  bin: '402806'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BARCLAYS BANK MOCAMBIQUE, S.A.
+  country:
+    alpha_2: MZ
+    alpha_3: MOZ
+    name: Mozambique
+'402807':
+  bin: '402807'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ASIANBANK CORPORATION
+  country:
+    alpha_2: MZ
+    alpha_3: MOZ
+    name: Mozambique
+'402808':
+  bin: '402808'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402809':
+  bin: '402809'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: SOUTHERN BANK BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'402810':
+  bin: '402810'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: KEYBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402811':
+  bin: '402811'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: MD
+    alpha_3: MDA
+    name: Moldova, Republic of
+'402812':
+  bin: '402812'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: MD
+    alpha_3: MDA
+    name: Moldova, Republic of
+'402813':
+  bin: '402813'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CHASE MANHATTAN BANK
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'402814':
+  bin: '402814'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HONG LEONG BANK BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'402815':
+  bin: '402815'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HONG LEONG BANK BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'402816':
+  bin: '402816'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: EON BANK BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'402817':
+  bin: '402817'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK, N.A.
+  country:
+    alpha_2: GU
+    alpha_3: GUM
+    name: Guam
+'402818':
+  bin: '402818'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: PK
+    alpha_3: PAK
+    name: Pakistan
+'402819':
+  bin: '402819'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: FIRSTMERIT BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402820':
+  bin: '402820'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF STOCKTON
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402821':
+  bin: '402821'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANKMERIDIAN, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402822':
+  bin: '402822'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: HSBC PHILIPPINE AIRLINES MABUHAY MILES
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'402823':
+  bin: '402823'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF EASTMAN
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402824':
+  bin: '402824'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402825':
+  bin: '402825'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: DIGITAL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402826':
+  bin: '402826'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: DIGITAL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402827':
+  bin: '402827'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIRST FINANCIAL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402828':
+  bin: '402828'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402829':
+  bin: '402829'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402830':
+  bin: '402830'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANKER'S BANK OF KANSAS, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402831':
+  bin: '402831'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: VALLEY F.C.U. OF MONTANA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402832':
+  bin: '402832'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MIDLAND FEDERAL SAVINGS AND LOAN ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402833':
+  bin: '402833'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: UNITED EDUCATIONAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402834':
+  bin: '402834'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: NW PREFERRED F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402835':
+  bin: '402835'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK (HONG KONG), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'402836':
+  bin: '402836'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CITIBANK (HONG KONG), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'402837':
+  bin: '402837'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'402838':
+  bin: '402838'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'402839':
+  bin: '402839'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'402840':
+  bin: '402840'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CB MKB UNIONBANK A.D.
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'402841':
+  bin: '402841'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: INTERRA C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402842':
+  bin: '402842'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO AFRICANO INVESTIMENTOS SARL
+  country:
+    alpha_2: AO
+    alpha_3: AGO
+    name: Angola
+'402843':
+  bin: '402843'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: HSBC PHILIPPINE AIRLINES MABUHAY MILES
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'402844':
+  bin: '402844'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CHANG HWA COMMERCIAL BANK, LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'402845':
+  bin: '402845'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK SIMPANAN NASIONAL
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'402846':
+  bin: '402846'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIRST COMMUNITY BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402847':
+  bin: '402847'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402848':
+  bin: '402848'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402849':
+  bin: '402849'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SAVINGS BANK OF DANBURY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402850':
+  bin: '402850'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: KORAM BANK
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'402851':
+  bin: '402851'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: HSBC PHILIPPINE AIRLINES MABUHAY MILES
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'402852':
+  bin: '402852'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BRITANNIA BUILDING SOCIETY
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'402853':
+  bin: '402853'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ICICI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'402854':
+  bin: '402854'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITI CARDS JAPAN, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'402855':
+  bin: '402855'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CITI CARDS JAPAN, INC.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'402856':
+  bin: '402856'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CITIBANK (HONG KONG), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'402857':
+  bin: '402857'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HYUNDAICARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'402858':
+  bin: '402858'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: HYUNDAICARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'402859':
+  bin: '402859'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BRE BANK SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'402860':
+  bin: '402860'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HYUNDAICARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'402861':
+  bin: '402861'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PIONEER C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402862':
+  bin: '402862'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402863':
+  bin: '402863'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HEARTLAND COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402864':
+  bin: '402864'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HEARTLAND COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402865':
+  bin: '402865'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNIBANK COMMERCIAL BANK
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'402866':
+  bin: '402866'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SHANGHAI CREDIT CARD NETWORK CO., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'402867':
+  bin: '402867'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402868':
+  bin: '402868'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BANKEAST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402869':
+  bin: '402869'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMUNITY SOUTH BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402870':
+  bin: '402870'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: HSBC PHILIPPINE AIRLINES MABUHAY MILES
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'402871':
+  bin: '402871'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402872':
+  bin: '402872'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO NOASSA CAIXA, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'402873':
+  bin: '402873'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HORIZON BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402874':
+  bin: '402874'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'402875':
+  bin: '402875'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DANE COUNTY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402876':
+  bin: '402876'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: U.S. BANK N.A. ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402877':
+  bin: '402877'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: JSCB TRANSCAPITALBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'402878':
+  bin: '402878'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'402879':
+  bin: '402879'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST FINANCIAL BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402880':
+  bin: '402880'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: HSBC PHILIPPINE AIRLINES MABUHAY MILES
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'402881':
+  bin: '402881'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'402882':
+  bin: '402882'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST JERSEY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402883':
+  bin: '402883'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MERCANTILE BANK OF MICHIGAN
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402884':
+  bin: '402884'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: MERCANTILE BANK OF MICHIGAN
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402885':
+  bin: '402885'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: MERCANTILE BANK OF MICHIGAN
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402886':
+  bin: '402886'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: HSBC PHILIPPINE AIRLINES MABUHAY MILES
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'402887':
+  bin: '402887'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF TRAVELERS REST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402888':
+  bin: '402888'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: GR BUILDING TRADES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402889':
+  bin: '402889'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: OJSC BANK UNIVERS.A.L.
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'402890':
+  bin: '402890'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GARDINER SAVINGS INSTITUTION, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402891':
+  bin: '402891'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SAMSUNG CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'402892':
+  bin: '402892'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'402893':
+  bin: '402893'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'402894':
+  bin: '402894'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NIPSCO INDUSTRIES F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402895':
+  bin: '402895'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402896':
+  bin: '402896'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402897':
+  bin: '402897'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: MBNA AMERICA (DELAWARE), N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402898':
+  bin: '402898'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DESERT SCHOOLS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'402899':
+  bin: '402899'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

@@ -1,0 +1,51 @@
+---
+'633110':
+  bin: '633110'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'633128':
+  bin: '633128'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: GE CAPITAL
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'633165':
+  bin: '633165'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: GE CAPITAL
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'633174':
+  bin: '633174'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: CO-OPERATIVE MEMBERSHIP
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'633179':
+  bin: '633179'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: GE MONEY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

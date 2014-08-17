@@ -1,0 +1,1001 @@
+---
+'450000':
+  bin: '450000'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ''
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'450001':
+  bin: '450001'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450002':
+  bin: '450002'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450003':
+  bin: '450003'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450004':
+  bin: '450004'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450005':
+  bin: '450005'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450006':
+  bin: '450006'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: GH
+    alpha_3: GHA
+    name: Ghana
+'450007':
+  bin: '450007'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'450008':
+  bin: '450008'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450009':
+  bin: '450009'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: GH
+    alpha_3: GHA
+    name: Ghana
+'450010':
+  bin: '450010'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: INTELIGO BANK, LTD.
+  country:
+    alpha_2: BS
+    alpha_3: BHS
+    name: Bahamas
+'450011':
+  bin: '450011'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO POPULAR
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'450012':
+  bin: '450012'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MONGOL POST BANK
+  country:
+    alpha_2: MN
+    alpha_3: MNG
+    name: Mongolia
+'450013':
+  bin: '450013'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MONGOL SHYYDAN BANK
+  country:
+    alpha_2: MN
+    alpha_3: MNG
+    name: Mongolia
+'450014':
+  bin: '450014'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450015':
+  bin: '450015'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: MONGOL POST BANK
+  country:
+    alpha_2: MN
+    alpha_3: MNG
+    name: Mongolia
+'450016':
+  bin: '450016'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: MONGOL POST BANK
+  country:
+    alpha_2: MN
+    alpha_3: MNG
+    name: Mongolia
+'450017':
+  bin: '450017'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450018':
+  bin: '450018'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450019':
+  bin: '450019'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450020':
+  bin: '450020'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450021':
+  bin: '450021'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNIVERZAL BANKA A.D.
+  country:
+    alpha_2: RS
+    alpha_3: SRB
+    name: Serbia
+'450022':
+  bin: '450022'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: UNIVERZAL BANKA A.D.
+  country:
+    alpha_2: RS
+    alpha_3: SRB
+    name: Serbia
+'450023':
+  bin: '450023'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: UNIVERZAL BANKA A.D.
+  country:
+    alpha_2: RS
+    alpha_3: SRB
+    name: Serbia
+'450024':
+  bin: '450024'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450025':
+  bin: '450025'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'450026':
+  bin: '450026'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450027':
+  bin: '450027'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'450028':
+  bin: '450028'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'450029':
+  bin: '450029'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'450030':
+  bin: '450030'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'450031':
+  bin: '450031'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'450032':
+  bin: '450032'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'450033':
+  bin: '450033'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'450034':
+  bin: '450034'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO RIPLEY, S.A.
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'450035':
+  bin: '450035'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO RIPLEY, S.A.
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'450036':
+  bin: '450036'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'450037':
+  bin: '450037'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450038':
+  bin: '450038'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'450039':
+  bin: '450039'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450040':
+  bin: '450040'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BELARUSKY NARODNY BANK (BELARUSIAN PEOPLE'S BANK OJSC)
+  country:
+    alpha_2: BY
+    alpha_3: BLR
+    name: Belarus
+'450041':
+  bin: '450041'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: BELARUSKY NARODNY BANK (BELARUSIAN PEOPLE'S BANK OJSC)
+  country:
+    alpha_2: BY
+    alpha_3: BLR
+    name: Belarus
+'450042':
+  bin: '450042'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BELARUSKY NARODNY BANK (BELARUSIAN PEOPLE'S BANK OJSC)
+  country:
+    alpha_2: BY
+    alpha_3: BLR
+    name: Belarus
+'450043':
+  bin: '450043'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450044':
+  bin: '450044'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NATIONAL BANK OF MALAWI
+  country:
+    alpha_2: MW
+    alpha_3: MWI
+    name: Malawi
+'450045':
+  bin: '450045'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: MW
+    alpha_3: MWI
+    name: Malawi
+'450046':
+  bin: '450046'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: MW
+    alpha_3: MWI
+    name: Malawi
+'450047':
+  bin: '450047'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: MW
+    alpha_3: MWI
+    name: Malawi
+'450048':
+  bin: '450048'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450049':
+  bin: '450049'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450050':
+  bin: '450050'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'450051':
+  bin: '450051'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CITIBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'450052':
+  bin: '450052'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'450053':
+  bin: '450053'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'450054':
+  bin: '450054'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'450055':
+  bin: '450055'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450056':
+  bin: '450056'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450057':
+  bin: '450057'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450058':
+  bin: '450058'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'450059':
+  bin: '450059'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'450060':
+  bin: '450060'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450061':
+  bin: '450061'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450062':
+  bin: '450062'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450063':
+  bin: '450063'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'450064':
+  bin: '450064'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450065':
+  bin: '450065'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450066':
+  bin: '450066'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450067':
+  bin: '450067'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450068':
+  bin: '450068'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MBNA AMERICA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450069':
+  bin: '450069'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MISSION BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'450070':
+  bin: '450070'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO UNO, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'450071':
+  bin: '450071'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO UNO, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'450072':
+  bin: '450072'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO UNO, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'450073':
+  bin: '450073'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ZENITH BANK PLC
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'450074':
+  bin: '450074'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ZENITH BANK PLC
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'450075':
+  bin: '450075'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ZENITH BANK PLC
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'450076':
+  bin: '450076'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: INTESA SANPAOLO BANKA
+  country:
+    alpha_2: BA
+    alpha_3: BIH
+    name: Bosnia and Herzegovina
+'450077':
+  bin: '450077'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: INTESA SANPAOLO BANKA
+  country:
+    alpha_2: BA
+    alpha_3: BIH
+    name: Bosnia and Herzegovina
+'450078':
+  bin: '450078'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: INTESA SANPAOLO BANKA
+  country:
+    alpha_2: BA
+    alpha_3: BIH
+    name: Bosnia and Herzegovina
+'450079':
+  bin: '450079'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450080':
+  bin: '450080'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'450081':
+  bin: '450081'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: INTERDIN S.A. EMISORA Y ADMINISTRADORA DE TARJETAS DE CREDIT
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'450082':
+  bin: '450082'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450083':
+  bin: '450083'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'450084':
+  bin: '450084'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: UNITED BANK, LTD.
+  country:
+    alpha_2: PK
+    alpha_3: PAK
+    name: Pakistan
+'450085':
+  bin: '450085'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PK
+    alpha_3: PAK
+    name: Pakistan
+'450086':
+  bin: '450086'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: UNITED BANK, LTD.
+  country:
+    alpha_2: PK
+    alpha_3: PAK
+    name: Pakistan
+'450087':
+  bin: '450087'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PK
+    alpha_3: PAK
+    name: Pakistan
+'450088':
+  bin: '450088'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: EASTERN BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'450089':
+  bin: '450089'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'450090':
+  bin: '450090'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ZENITH BANK PLC
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'450091':
+  bin: '450091'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'450092':
+  bin: '450092'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'450093':
+  bin: '450093'
+  brand: VISA
+  type: DEBIT
+  category: CORPORATE T&E
+  issuer: ZENITH BANK PLC
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'450094':
+  bin: '450094'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450095':
+  bin: '450095'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450096':
+  bin: '450096'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450097':
+  bin: '450097'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450098':
+  bin: '450098'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'450099':
+  bin: '450099'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada

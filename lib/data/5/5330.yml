@@ -1,0 +1,1001 @@
+---
+'533000':
+  bin: '533000'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: VALITOR HF.
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'533001':
+  bin: '533001'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: FBME CARD SERVICES, LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'533002':
+  bin: '533002'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533003':
+  bin: '533003'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'533004':
+  bin: '533004'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'533005':
+  bin: '533005'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533006':
+  bin: '533006'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533007':
+  bin: '533007'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533008':
+  bin: '533008'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: SETEFI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'533009':
+  bin: '533009'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533010':
+  bin: '533010'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: MBNA AMERICA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533011':
+  bin: '533011'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: BANCO COOPERATIVO ESPANOL
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'533012':
+  bin: '533012'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533013':
+  bin: '533013'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: CORP BANCA
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'533014':
+  bin: '533014'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533015':
+  bin: '533015'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: BANK BPH SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'533016':
+  bin: '533016'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: BBVA BANCO FRANCES
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'533017':
+  bin: '533017'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'533018':
+  bin: '533018'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: INTESA SANPAOLO S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'533019':
+  bin: '533019'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM)
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'533020':
+  bin: '533020'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533021':
+  bin: '533021'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM)
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'533022':
+  bin: '533022'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533023':
+  bin: '533023'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: CITIBANK EUROPE PUBLIC LIMITED COMPANY
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'533024':
+  bin: '533024'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533025':
+  bin: '533025'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: BANCO COOPERATIVO ESPANOL
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'533026':
+  bin: '533026'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: FIRST DATA CONO SUR, S.R.L.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'533027':
+  bin: '533027'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'533028':
+  bin: '533028'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: DEUTSCHE BANK S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'533029':
+  bin: '533029'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: CITIBANK NA KENYA
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'533030':
+  bin: '533030'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533031':
+  bin: '533031'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: CITIBANK NIGERIA, LTD.
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'533032':
+  bin: '533032'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'533033':
+  bin: '533033'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: BANK OF MONTREAL
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'533034':
+  bin: '533034'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: BANK OF MONTREAL
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533035':
+  bin: '533035'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533036':
+  bin: '533036'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533037':
+  bin: '533037'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: PUBLIC JSC UKRSIBBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'533038':
+  bin: '533038'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: BANK OF MONTREAL
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533039':
+  bin: '533039'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: BANK OF MONTREAL
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'533040':
+  bin: '533040'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'533041':
+  bin: '533041'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'533042':
+  bin: '533042'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533043':
+  bin: '533043'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533044':
+  bin: '533044'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533045':
+  bin: '533045'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533046':
+  bin: '533046'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533047':
+  bin: '533047'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533048':
+  bin: '533048'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533049':
+  bin: '533049'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533050':
+  bin: '533050'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533051':
+  bin: '533051'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533052':
+  bin: '533052'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: STAR PROCESSING, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533053':
+  bin: '533053'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: ICBA BANCARD, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533054':
+  bin: '533054'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: STAR PROCESSING, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533055':
+  bin: '533055'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: COMPUTER SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533056':
+  bin: '533056'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533057':
+  bin: '533057'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: ICBA BANCARD, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533058':
+  bin: '533058'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533059':
+  bin: '533059'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: ICBA BANCARD, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533060':
+  bin: '533060'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533061':
+  bin: '533061'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: ICBA BANCARD, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533062':
+  bin: '533062'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533063':
+  bin: '533063'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533064':
+  bin: '533064'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: STAR PROCESSING, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533065':
+  bin: '533065'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: ICBA BANCARD, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533066':
+  bin: '533066'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533067':
+  bin: '533067'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533068':
+  bin: '533068'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: DATA CENTER INCORPORATED
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533069':
+  bin: '533069'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533070':
+  bin: '533070'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533071':
+  bin: '533071'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533072':
+  bin: '533072'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533073':
+  bin: '533073'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533074':
+  bin: '533074'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533075':
+  bin: '533075'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533076':
+  bin: '533076'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533077':
+  bin: '533077'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533078':
+  bin: '533078'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533079':
+  bin: '533079'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533080':
+  bin: '533080'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533081':
+  bin: '533081'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533082':
+  bin: '533082'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533083':
+  bin: '533083'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533084':
+  bin: '533084'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533085':
+  bin: '533085'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533086':
+  bin: '533086'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533087':
+  bin: '533087'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533088':
+  bin: '533088'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533089':
+  bin: '533089'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533090':
+  bin: '533090'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533091':
+  bin: '533091'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533092':
+  bin: '533092'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533093':
+  bin: '533093'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533094':
+  bin: '533094'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533095':
+  bin: '533095'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533096':
+  bin: '533096'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533097':
+  bin: '533097'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533098':
+  bin: '533098'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'533099':
+  bin: '533099'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

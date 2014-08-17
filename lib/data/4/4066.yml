@@ -1,0 +1,1001 @@
+---
+'406600':
+  bin: '406600'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406601':
+  bin: '406601'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SOCIETE IVOIRIENNE DE BANQUE
+  country:
+    alpha_2: CI
+    alpha_3: CIV
+    name: Côte d'Ivoire
+'406602':
+  bin: '406602'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: SOCIETE IVOIRIENNE DE BANQUE
+  country:
+    alpha_2: CI
+    alpha_3: CIV
+    name: Côte d'Ivoire
+'406603':
+  bin: '406603'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: SOCIETE IVOIRIENNE DE BANQUE
+  country:
+    alpha_2: CI
+    alpha_3: CIV
+    name: Côte d'Ivoire
+'406604':
+  bin: '406604'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BNI MADAGASCAR
+  country:
+    alpha_2: MG
+    alpha_3: MDG
+    name: Madagascar
+'406605':
+  bin: '406605'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BNI - CREDIT LYONNAIS MADAGASCAR
+  country:
+    alpha_2: MG
+    alpha_3: MDG
+    name: Madagascar
+'406606':
+  bin: '406606'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BNI - CREDIT LYONNAIS MADAGASCAR
+  country:
+    alpha_2: MG
+    alpha_3: MDG
+    name: Madagascar
+'406607':
+  bin: '406607'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CREDIT LYONNAIS CAMEROUN
+  country:
+    alpha_2: CM
+    alpha_3: CMR
+    name: Cameroon
+'406608':
+  bin: '406608'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CREDIT LYONNAIS CAMEROUN
+  country:
+    alpha_2: CM
+    alpha_3: CMR
+    name: Cameroon
+'406609':
+  bin: '406609'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CREDIT LYONNAIS CAMEROUN
+  country:
+    alpha_2: CM
+    alpha_3: CMR
+    name: Cameroon
+'406610':
+  bin: '406610'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: UNION GABONAISE DE BANQUES
+  country:
+    alpha_2: GA
+    alpha_3: GAB
+    name: Gabon
+'406611':
+  bin: '406611'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: UNION GABONAISE DE BANQUES
+  country:
+    alpha_2: GA
+    alpha_3: GAB
+    name: Gabon
+'406612':
+  bin: '406612'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: UNION GABONAISE DE BANQUES
+  country:
+    alpha_2: GA
+    alpha_3: GAB
+    name: Gabon
+'406613':
+  bin: '406613'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CREDIT DU SENEGAL
+  country:
+    alpha_2: SN
+    alpha_3: SEN
+    name: Senegal
+'406614':
+  bin: '406614'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CREDIT LYONNAIS SENEGAL
+  country:
+    alpha_2: SN
+    alpha_3: SEN
+    name: Senegal
+'406615':
+  bin: '406615'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CREDIT LYONNAIS SENEGAL
+  country:
+    alpha_2: SN
+    alpha_3: SEN
+    name: Senegal
+'406616':
+  bin: '406616'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CREDIT DU CONGO
+  country:
+    alpha_2: CG
+    alpha_3: COG
+    name: Congo
+'406617':
+  bin: '406617'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CREDIT DU CONGO
+  country:
+    alpha_2: CG
+    alpha_3: COG
+    name: Congo
+'406618':
+  bin: '406618'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CREDIT LYONNAIS CONGO
+  country:
+    alpha_2: CG
+    alpha_3: COG
+    name: Congo
+'406619':
+  bin: '406619'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MU
+    alpha_3: MUS
+    name: Mauritius
+'406620':
+  bin: '406620'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406621':
+  bin: '406621'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406622':
+  bin: '406622'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406623':
+  bin: '406623'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406624':
+  bin: '406624'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AM
+    alpha_3: ARM
+    name: Armenia
+'406625':
+  bin: '406625'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406626':
+  bin: '406626'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'406627':
+  bin: '406627'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406628':
+  bin: '406628'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'406629':
+  bin: '406629'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406630':
+  bin: '406630'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST FEDERAL SAVINGS AND LOAN ASSOCIATION OF PORT ANGELES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406631':
+  bin: '406631'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ELECTRIC SERVICE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406632':
+  bin: '406632'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: LGE COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406633':
+  bin: '406633'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SHREVEPORT F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406634':
+  bin: '406634'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CITIZENS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406635':
+  bin: '406635'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ST. THOMAS HOSPITAL EMPLOYEES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406636':
+  bin: '406636'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO AMAMBAY, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'406637':
+  bin: '406637'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO AMAMBAY, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'406638':
+  bin: '406638'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO AMAMBAY, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'406639':
+  bin: '406639'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST COMMUNITY BANK OF EAST TENNESSEE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406640':
+  bin: '406640'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CENTRIS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406641':
+  bin: '406641'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406642':
+  bin: '406642'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMERCIAL BANKING COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406643':
+  bin: '406643'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: RAYMOND JAMES BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406644':
+  bin: '406644'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406645':
+  bin: '406645'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406646':
+  bin: '406646'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: MULTICREDIT, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'406647':
+  bin: '406647'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO PANAMERICANO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'406648':
+  bin: '406648'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK OF ELMER
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406649':
+  bin: '406649'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST STATE BANK OF MAYNARDVILLE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406650':
+  bin: '406650'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO SUDAMERIS ARGENTINA, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'406651':
+  bin: '406651'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO SUDAMERIS ARGENTINA, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'406652':
+  bin: '406652'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO PATAGONIA, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'406653':
+  bin: '406653'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO SUDAMERIS ARGENTINA, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'406654':
+  bin: '406654'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO SUDAMERIS ARGENTINA, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'406655':
+  bin: '406655'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'406656':
+  bin: '406656'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: OJSC RODOVID BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'406657':
+  bin: '406657'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: OJSC RODOVID BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'406658':
+  bin: '406658'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: EQUITABLE CO-OPERATIVE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406659':
+  bin: '406659'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST UKRAINIAN INTERNATIONAL BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'406660':
+  bin: '406660'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: FIRST UKRAINIAN INTERNATIONAL BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'406661':
+  bin: '406661'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406662':
+  bin: '406662'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406663':
+  bin: '406663'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'406664':
+  bin: '406664'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'406665':
+  bin: '406665'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: TC
+    alpha_3: TCA
+    name: Turks and Caicos Islands
+'406666':
+  bin: '406666'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.
+  country:
+    alpha_2: VG
+    alpha_3: VGB
+    name: Virgin Islands, British
+'406667':
+  bin: '406667'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: BZ
+    alpha_3: BLZ
+    name: Belize
+'406668':
+  bin: '406668'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANINTER AND TRUST COMPANY
+  country:
+    alpha_2: KY
+    alpha_3: CYM
+    name: Cayman Islands
+'406669':
+  bin: '406669'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'406670':
+  bin: '406670'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CAJA DE AHORROS DE GALICIA, VIGO, ORENSE Y PONTEVEDRA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'406671':
+  bin: '406671'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: POWERCO F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406672':
+  bin: '406672'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NETBANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406673':
+  bin: '406673'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF DICKSON
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406674':
+  bin: '406674'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMUNITY TRUST BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406675':
+  bin: '406675'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FARMERS STATE BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406676':
+  bin: '406676'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'406677':
+  bin: '406677'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF ANTIGUA, LTD.
+  country:
+    alpha_2: AG
+    alpha_3: ATG
+    name: Antigua and Barbuda
+'406678':
+  bin: '406678'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: HELM BANK, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'406679':
+  bin: '406679'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406680':
+  bin: '406680'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406681':
+  bin: '406681'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406682':
+  bin: '406682'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406683':
+  bin: '406683'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406684':
+  bin: '406684'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406685':
+  bin: '406685'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406686':
+  bin: '406686'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'406687':
+  bin: '406687'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406688':
+  bin: '406688'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406689':
+  bin: '406689'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: KANE COUNTY TEACHERS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406690':
+  bin: '406690'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406691':
+  bin: '406691'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406692':
+  bin: '406692'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO NACIONAL DEL COMERCIO, S.A. (B.N.C.)
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'406693':
+  bin: '406693'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SCHOOL EMPLOYEES LORAIN COUNTY CREDIT UNION, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406694':
+  bin: '406694'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO POPULAR
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'406695':
+  bin: '406695'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406696':
+  bin: '406696'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406697':
+  bin: '406697'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406698':
+  bin: '406698'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'406699':
+  bin: '406699'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO ITAU PARAGUAY, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay

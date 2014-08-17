@@ -1,0 +1,1001 @@
+---
+'543400':
+  bin: '543400'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: DENIZBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'543401':
+  bin: '543401'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: VSEOBECNA UVEROVA BANKA, A.S.
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'543402':
+  bin: '543402'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: KOMERCNI BANKA, A.S.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'543403':
+  bin: '543403'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543404':
+  bin: '543404'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NCMIC FINANCE CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543405':
+  bin: '543405'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: MBNA AMERICA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543406':
+  bin: '543406'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: JSC GE MONEYBANK
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'543407':
+  bin: '543407'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543408':
+  bin: '543408'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: SAUDI HOLLANDI BANK
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'543409':
+  bin: '543409'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: INTESA SANPAOLO S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'543410':
+  bin: '543410'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: MID AMERICAN NATIONAL BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543411':
+  bin: '543411'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543412':
+  bin: '543412'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: COMPAGNIE BANCAIRE DE L'AFRIQUE OCCIDENTALE
+  country:
+    alpha_2: SN
+    alpha_3: SEN
+    name: Senegal
+'543413':
+  bin: '543413'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: CSCBANK S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'543414':
+  bin: '543414'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: PUBLIC JSC ''VSEUKRAINSKYI AKSIONERNYI BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'543415':
+  bin: '543415'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: PT. BANK DANAMON INDONESIA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'543416':
+  bin: '543416'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543417':
+  bin: '543417'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: YAMAGIN CREDIT CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'543418':
+  bin: '543418'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: PUBLIC JSC ''VSEUKRAINSKYI AKSIONERNYI BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'543419':
+  bin: '543419'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: CITIBANK INTERNATIONAL PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543420':
+  bin: '543420'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: KRUNGTHAI CARD PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'543421':
+  bin: '543421'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CITIBANK COLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'543422':
+  bin: '543422'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: CALIFORNIA CHO HUNG BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543423':
+  bin: '543423'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: ICICI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'543424':
+  bin: '543424'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543425':
+  bin: '543425'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORTHERN TRUST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543426':
+  bin: '543426'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: PENTAGON F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543427':
+  bin: '543427'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: DENIZBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'543428':
+  bin: '543428'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED
+  country:
+    alpha_2: BN
+    alpha_3: BRN
+    name: Brunei Darussalam
+'543429':
+  bin: '543429'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BANK OF SCOTLAND PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543430':
+  bin: '543430'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543431':
+  bin: '543431'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: RIZAL COMMERCIAL BANKING CORPORATION
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'543432':
+  bin: '543432'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543433':
+  bin: '543433'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FIRST UNION DIRECT BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543434':
+  bin: '543434'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543435':
+  bin: '543435'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'543436':
+  bin: '543436'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543437':
+  bin: '543437'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: AMERICAN SAVINGS BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543438':
+  bin: '543438'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: PUBLIC JSC JSB UKRGASBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'543439':
+  bin: '543439'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: LIMITED LIABILIY COMPANY MEDIC AL COMMERCIAL BANK AVERS
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'543440':
+  bin: '543440'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: WAL-MART CANADA BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'543441':
+  bin: '543441'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543442':
+  bin: '543442'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: FIRST CALIFORNIA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543443':
+  bin: '543443'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543444':
+  bin: '543444'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: STANDARD CHARTERED BANK ZIMBABWE, LTD.
+  country:
+    alpha_2: ZW
+    alpha_3: ZWE
+    name: Zimbabwe
+'543445':
+  bin: '543445'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: SANTANDER CONSUMER FINANCE, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'543446':
+  bin: '543446'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543447':
+  bin: '543447'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: FIRST FINANCIAL BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543448':
+  bin: '543448'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: CITIBANK COLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'543449':
+  bin: '543449'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CITIBANK
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'543450':
+  bin: '543450'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543451':
+  bin: '543451'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ALPINE BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543452':
+  bin: '543452'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'543453':
+  bin: '543453'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FMB-OLD STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543454':
+  bin: '543454'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: CARUANA S.A. - SOCIEDADE DE CREDITO, FINANCIAMENTO E INVES
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'543455':
+  bin: '543455'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CESKOSLOVENSKA OBCHODNI BANKA, A.S.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'543456':
+  bin: '543456'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: YUANTA COMMERCIAL BANK CO., LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'543457':
+  bin: '543457'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: HSBC BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543458':
+  bin: '543458'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: HSBC BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543459':
+  bin: '543459'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: UNIVERSITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543460':
+  bin: '543460'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: HSBC BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543461':
+  bin: '543461'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: HSBC BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543462':
+  bin: '543462'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CAIXA D'ESTALVIS DE PENEDES
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'543463':
+  bin: '543463'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CESKOSLOVENSKA OBCHODNI BANKA, A.S.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'543464':
+  bin: '543464'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BANCO DE AHORRO Y CREDITO MICRO, S.A.
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'543465':
+  bin: '543465'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543466':
+  bin: '543466'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543467':
+  bin: '543467'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: MAIN STREET BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543468':
+  bin: '543468'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL WESTMINSTER BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543469':
+  bin: '543469'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NATIONAL WESTMINSTER BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543470':
+  bin: '543470'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: NATIONAL WESTMINSTER BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543471':
+  bin: '543471'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NATIONAL WESTMINSTER BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543472':
+  bin: '543472'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL WESTMINSTER BANK PLC
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'543473':
+  bin: '543473'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NATIONAL WESTMINSTER BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543474':
+  bin: '543474'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: NATIONAL WESTMINSTER BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543475':
+  bin: '543475'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NATIONAL WESTMINSTER BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543476':
+  bin: '543476'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543477':
+  bin: '543477'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: CLYDESDALE BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543478':
+  bin: '543478'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: DANSKE BANK A/S
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543479':
+  bin: '543479'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: DANSKE BANK A/S
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'543480':
+  bin: '543480'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543481':
+  bin: '543481'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'543482':
+  bin: '543482'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543483':
+  bin: '543483'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543484':
+  bin: '543484'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543485':
+  bin: '543485'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543486':
+  bin: '543486'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543487':
+  bin: '543487'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'543488':
+  bin: '543488'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543489':
+  bin: '543489'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: CITIBANK INTERNATIONAL PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'543490':
+  bin: '543490'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SWISS AMERICAN BANK, LTD.
+  country:
+    alpha_2: AG
+    alpha_3: ATG
+    name: Antigua and Barbuda
+'543491':
+  bin: '543491'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543492':
+  bin: '543492'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: YUANTA COMMERCIAL BANK CO., LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'543493':
+  bin: '543493'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: MBNA AMERICA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543494':
+  bin: '543494'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'543495':
+  bin: '543495'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: CREDOMATIC DE CENTROAMERICA, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'543496':
+  bin: '543496'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: NP
+    alpha_3: NPL
+    name: Nepal
+'543497':
+  bin: '543497'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANESCO BANCO COMERCIAL, S.A.C
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'543498':
+  bin: '543498'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANESCO BANCO COMERCIAL, S.A.C
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'543499':
+  bin: '543499'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCA SERFIN, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico

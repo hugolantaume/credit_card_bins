@@ -1,0 +1,911 @@
+---
+'557200':
+  bin: '557200'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557201':
+  bin: '557201'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: PEOPLE'S UNITED BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557202':
+  bin: '557202'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557203':
+  bin: '557203'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FIFTH THIRD PROCESSING SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557204':
+  bin: '557204'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557205':
+  bin: '557205'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: U.S. BANK N.A. ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557206':
+  bin: '557206'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: STAR PROCESSING, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557207':
+  bin: '557207'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557208':
+  bin: '557208'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557209':
+  bin: '557209'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557210':
+  bin: '557210'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557211':
+  bin: '557211'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557212':
+  bin: '557212'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: JACK HENRY AND ASSOCIATES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557213':
+  bin: '557213'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557214':
+  bin: '557214'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557215':
+  bin: '557215'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: PEOPLE'S UNITED BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557216':
+  bin: '557216'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRST HAWAIIAN BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557217':
+  bin: '557217'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557218':
+  bin: '557218'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: STAR PROCESSING, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557219':
+  bin: '557219'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557220':
+  bin: '557220'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557221':
+  bin: '557221'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557222':
+  bin: '557222'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557224':
+  bin: '557224'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: PULSE NETWORK LLC
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557225':
+  bin: '557225'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557226':
+  bin: '557226'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: COMPUTER SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557227':
+  bin: '557227'
+  brand: MASTERCARD
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIFTH THIRD PROCESSING SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557228':
+  bin: '557228'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: SALISBURY BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557229':
+  bin: '557229'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SALEM FIVE CENTS SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557230':
+  bin: '557230'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557231':
+  bin: '557231'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: BOEING EMPLOYEES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557232':
+  bin: '557232'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: NYCE PAYMENTS NETWORK, LLC
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557233':
+  bin: '557233'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557234':
+  bin: '557234'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: STAR PROCESSING, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557235':
+  bin: '557235'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557236':
+  bin: '557236'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: NYCE PAYMENTS NETWORK, LLC
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557237':
+  bin: '557237'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: INTERNATIONAL BANK OF COMMERCE OF LAREDO
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557238':
+  bin: '557238'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557239':
+  bin: '557239'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: STAR PROCESSING, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557240':
+  bin: '557240'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FIFTH THIRD PROCESSING SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557241':
+  bin: '557241'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557242':
+  bin: '557242'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557243':
+  bin: '557243'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: DATA CENTER INCORPORATED
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557244':
+  bin: '557244'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557245':
+  bin: '557245'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557246':
+  bin: '557246'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557247':
+  bin: '557247'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: STAR PROCESSING, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557248':
+  bin: '557248'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557249':
+  bin: '557249'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557250':
+  bin: '557250'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRST NATIONAL BANK TEXAS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557251':
+  bin: '557251'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557252':
+  bin: '557252'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557253':
+  bin: '557253'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557254':
+  bin: '557254'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557255':
+  bin: '557255'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557256':
+  bin: '557256'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557257':
+  bin: '557257'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: NYCE PAYMENTS NETWORK, LLC
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557258':
+  bin: '557258'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557259':
+  bin: '557259'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557260':
+  bin: '557260'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557261':
+  bin: '557261'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557262':
+  bin: '557262'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557265':
+  bin: '557265'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: GENISYS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557266':
+  bin: '557266'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: ICBA BANCARD, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557267':
+  bin: '557267'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557268':
+  bin: '557268'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557270':
+  bin: '557270'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557271':
+  bin: '557271'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557272':
+  bin: '557272'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557273':
+  bin: '557273'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: STAR PROCESSING, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557274':
+  bin: '557274'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557275':
+  bin: '557275'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: STAR PROCESSING, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557276':
+  bin: '557276'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557277':
+  bin: '557277'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557279':
+  bin: '557279'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557280':
+  bin: '557280'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557281':
+  bin: '557281'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: CITIBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557282':
+  bin: '557282'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557283':
+  bin: '557283'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557284':
+  bin: '557284'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557285':
+  bin: '557285'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: INTOUCH C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557287':
+  bin: '557287'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557288':
+  bin: '557288'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557290':
+  bin: '557290'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557291':
+  bin: '557291'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557292':
+  bin: '557292'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557293':
+  bin: '557293'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557296':
+  bin: '557296'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557297':
+  bin: '557297'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557298':
+  bin: '557298'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557299':
+  bin: '557299'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

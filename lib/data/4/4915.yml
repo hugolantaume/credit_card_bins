@@ -1,0 +1,1003 @@
+---
+'491500':
+  bin: '491500'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SCOTIABANK EL SALVADOR, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'491501':
+  bin: '491501'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'491502':
+  bin: '491502'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'491503':
+  bin: '491503'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: INDEPENDENT BANKERS' BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491504':
+  bin: '491504'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: AVAL CARD, S.A. DE C.V.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'491505':
+  bin: '491505'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO CITIBANK DE EL SALVADOR, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'491506':
+  bin: '491506'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO CITIBANK DE EL SALVADOR, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'491507':
+  bin: '491507'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO CITIBANK DE HONDURAS, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'491508':
+  bin: '491508'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CORP BANCA, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'491509':
+  bin: '491509'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CORP BANCA, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'491510':
+  bin: '491510'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO SANTANDER, S.A.
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'491511':
+  bin: '491511'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO DE BOGOTA
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'491512':
+  bin: '491512'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO SANTANDER S.A. INST. DE BANCA MULTIPLE GRUPO FINANCIERO SANTANDER
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'491513':
+  bin: '491513'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO ABN AMRO REAL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'491514':
+  bin: '491514'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ABN AMRO REAL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'491515':
+  bin: '491515'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SCOTIABANK DE PUERTO RICO
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'491516':
+  bin: '491516'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: EDIGUAY, S.A.
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'491517':
+  bin: '491517'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'491518':
+  bin: '491518'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO PROMERICA, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'491519':
+  bin: '491519'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO ALMAFUERTE COOPERATIVO LIMITADO
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'491520':
+  bin: '491520'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO ALMAFUERTE COOPERATIVO LIMITADO
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'491521':
+  bin: '491521'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO ALMAFUERTE COOPERATIVO LIMITADO
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'491522':
+  bin: '491522'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: BANCO PROMERICA, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'491523':
+  bin: '491523'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO PROMERICA, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'491524':
+  bin: '491524'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491525':
+  bin: '491525'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491526':
+  bin: '491526'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SCHUYLER SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491527':
+  bin: '491527'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491528':
+  bin: '491528'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491529':
+  bin: '491529'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'491530':
+  bin: '491530'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TARJETAS CUSCATLAN, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'491531':
+  bin: '491531'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ACCESO, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'491532':
+  bin: '491532'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: TARJETAS CUSCATLAN, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'491533':
+  bin: '491533'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: TARJETAS CUSCATLAN, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'491534':
+  bin: '491534'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'491535':
+  bin: '491535'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRST FEDERAL SAVINGS BANK OF TWIN FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491536':
+  bin: '491536'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491537':
+  bin: '491537'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LANDMARK COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491538':
+  bin: '491538'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491539':
+  bin: '491539'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491540':
+  bin: '491540'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491541':
+  bin: '491541'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: LANDMARK COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491542':
+  bin: '491542'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491543':
+  bin: '491543'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'491544':
+  bin: '491544'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'491545':
+  bin: '491545'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: COLUMBUS BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491546':
+  bin: '491546'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'491547':
+  bin: '491547'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'491548':
+  bin: '491548'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'491549':
+  bin: '491549'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'491550':
+  bin: '491550'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: AVAL CARD (COSTA RICA), S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'491551':
+  bin: '491551'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BELIZE BANK, LTD.
+  country:
+    alpha_2: BZ
+    alpha_3: BLZ
+    name: Belize
+'491552':
+  bin: '491552'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO BMD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'491553':
+  bin: '491553'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO BMD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'491554':
+  bin: '491554'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO BMD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'491555':
+  bin: '491555'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'491556':
+  bin: '491556'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO PROMERICA, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'491557':
+  bin: '491557'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO PROMERICA, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'491558':
+  bin: '491558'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO PROMERICA, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'491559':
+  bin: '491559'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491560':
+  bin: '491560'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491561':
+  bin: '491561'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491562':
+  bin: '491562'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491563':
+  bin: '491563'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491564':
+  bin: '491564'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'491565':
+  bin: '491565'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO DE LA CONSTRUCCION, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'491566':
+  bin: '491566'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'491567':
+  bin: '491567'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO MERCANTIL DEL NORTE S.A.-INSTIT.DEBANCA MULTIPLE, GRUPO FINANCIERO
+    BANORTE
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'491568':
+  bin: '491568'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'491569':
+  bin: '491569'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491570':
+  bin: '491570'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: FIRST TENNESSEE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491571':
+  bin: '491571'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491572':
+  bin: '491572'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO SANTANDER MEXICANO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'491573':
+  bin: '491573'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO SANTANDER MEXICANO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'491574':
+  bin: '491574'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'491575':
+  bin: '491575'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'491576':
+  bin: '491576'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'491577':
+  bin: '491577'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491578':
+  bin: '491578'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491579':
+  bin: '491579'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'491580':
+  bin: '491580'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'491581':
+  bin: '491581'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491582':
+  bin: '491582'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SCOTIABANK EL SALVADOR, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'491583':
+  bin: '491583'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MULTICREDIT, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'491584':
+  bin: '491584'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO MERCANTIL DEL NORTE S.A.-INSTIT.DEBANCA MULTIPLE, GRUPO FINANCIERO
+    BANORTE
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'491585':
+  bin: '491585'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491586':
+  bin: '491586'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'491587':
+  bin: '491587'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE LA REPUBLICA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'491588':
+  bin: '491588'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE LA REPUBLICA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'491589':
+  bin: '491589'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491590':
+  bin: '491590'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO DE LA REPUBLICA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'491591':
+  bin: '491591'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SCOTIABANK INVERLAT, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'491592':
+  bin: '491592'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491593':
+  bin: '491593'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491594':
+  bin: '491594'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'491595':
+  bin: '491595'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'491596':
+  bin: '491596'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SAINT LUCIA CO-OPERATIVE BANK, LTD.
+  country:
+    alpha_2: LC
+    alpha_3: LCA
+    name: Saint Lucia
+'491597':
+  bin: '491597'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'491598':
+  bin: '491598'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: BB
+    alpha_3: BRB
+    name: Barbados
+'491599':
+  bin: '491599'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: REPUBLIC BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago

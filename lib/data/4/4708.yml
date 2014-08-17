@@ -1,0 +1,1001 @@
+---
+'470800':
+  bin: '470800'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CHUGOKU BANK, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470801':
+  bin: '470801'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CHUGOKU BANK, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470802':
+  bin: '470802'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANK OF FUKUOKA, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470803':
+  bin: '470803'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: BANK OF FUKUOKA, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470804':
+  bin: '470804'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANK OF FUKUOKA, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470805':
+  bin: '470805'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANK OF FUKUOKA, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470806':
+  bin: '470806'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK OF YOKOHAMA, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470807':
+  bin: '470807'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470808':
+  bin: '470808'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SHIKOKU BANK, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470809':
+  bin: '470809'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SHIKOKU BANK, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470810':
+  bin: '470810'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470811':
+  bin: '470811'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470812':
+  bin: '470812'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: KANTO-TSUKUBA BANK
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470813':
+  bin: '470813'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470814':
+  bin: '470814'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HOKKOKU BANK, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470815':
+  bin: '470815'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HOKKOKU BANK, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470816':
+  bin: '470816'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: VJA
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470817':
+  bin: '470817'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VJA
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470818':
+  bin: '470818'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470819':
+  bin: '470819'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AKITA BANK, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470820':
+  bin: '470820'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470821':
+  bin: '470821'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TOHO BANK, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470822':
+  bin: '470822'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470823':
+  bin: '470823'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470824':
+  bin: '470824'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470825':
+  bin: '470825'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF OKINAWA, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470826':
+  bin: '470826'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470827':
+  bin: '470827'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470828':
+  bin: '470828'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470829':
+  bin: '470829'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470830':
+  bin: '470830'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470831':
+  bin: '470831'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470832':
+  bin: '470832'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470833':
+  bin: '470833'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470834':
+  bin: '470834'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470835':
+  bin: '470835'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470836':
+  bin: '470836'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SUMITOMO MITSUI CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470837':
+  bin: '470837'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470838':
+  bin: '470838'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470839':
+  bin: '470839'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470840':
+  bin: '470840'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470841':
+  bin: '470841'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470842':
+  bin: '470842'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: SURUGA CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470843':
+  bin: '470843'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470844':
+  bin: '470844'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470845':
+  bin: '470845'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470846':
+  bin: '470846'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470847':
+  bin: '470847'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: FFG CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470848':
+  bin: '470848'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470849':
+  bin: '470849'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470850':
+  bin: '470850'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: VJA
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470851':
+  bin: '470851'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VJA
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470852':
+  bin: '470852'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: VJA
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470853':
+  bin: '470853'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VJA
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470854':
+  bin: '470854'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: VJA
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470855':
+  bin: '470855'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470856':
+  bin: '470856'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470857':
+  bin: '470857'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470858':
+  bin: '470858'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: VJA
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470859':
+  bin: '470859'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470860':
+  bin: '470860'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470861':
+  bin: '470861'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: VJA
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470862':
+  bin: '470862'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470863':
+  bin: '470863'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: VJA
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470864':
+  bin: '470864'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470865':
+  bin: '470865'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470866':
+  bin: '470866'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470867':
+  bin: '470867'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470868':
+  bin: '470868'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470869':
+  bin: '470869'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470870':
+  bin: '470870'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470871':
+  bin: '470871'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470872':
+  bin: '470872'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470873':
+  bin: '470873'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470874':
+  bin: '470874'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470875':
+  bin: '470875'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470876':
+  bin: '470876'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470877':
+  bin: '470877'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470878':
+  bin: '470878'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470879':
+  bin: '470879'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470880':
+  bin: '470880'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470881':
+  bin: '470881'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470882':
+  bin: '470882'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: VJA
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470883':
+  bin: '470883'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470884':
+  bin: '470884'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470885':
+  bin: '470885'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470886':
+  bin: '470886'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470887':
+  bin: '470887'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470888':
+  bin: '470888'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470889':
+  bin: '470889'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470890':
+  bin: '470890'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: JAPAN POST BANK
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470891':
+  bin: '470891'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JAPAN POST BANK
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470892':
+  bin: '470892'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470893':
+  bin: '470893'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470894':
+  bin: '470894'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470895':
+  bin: '470895'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470896':
+  bin: '470896'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470897':
+  bin: '470897'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470898':
+  bin: '470898'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'470899':
+  bin: '470899'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan

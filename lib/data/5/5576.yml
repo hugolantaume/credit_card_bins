@@ -1,0 +1,751 @@
+---
+'557601':
+  bin: '557601'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: JORDAN KUWAIT BANK
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'557603':
+  bin: '557603'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK ISLAM BRUNEI DARUSSALAM BERHAD
+  country:
+    alpha_2: BN
+    alpha_3: BRN
+    name: Brunei Darussalam
+'557604':
+  bin: '557604'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'557606':
+  bin: '557606'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: SAUDI HOLLANDI BANK
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'557607':
+  bin: '557607'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'557608':
+  bin: '557608'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: NODUS INTERNATIONAL BANK, INC.
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'557612':
+  bin: '557612'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: RENASANT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557613':
+  bin: '557613'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: PRIVAL BANK, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'557614':
+  bin: '557614'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557615':
+  bin: '557615'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BREMER FINANCIAL SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557616':
+  bin: '557616'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: CSCBANK S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'557617':
+  bin: '557617'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: ST. GEORGES BANK AND TRUST CO., LTD.
+  country:
+    alpha_2: MS
+    alpha_3: MSR
+    name: Montserrat
+'557618':
+  bin: '557618'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: CSCBANK S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'557619':
+  bin: '557619'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: MISSION F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557620':
+  bin: '557620'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SY
+    alpha_3: SYR
+    name: Syrian Arab Republic
+'557621':
+  bin: '557621'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: SUNTRUST BANKS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557622':
+  bin: '557622'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557623':
+  bin: '557623'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SY
+    alpha_3: SYR
+    name: Syrian Arab Republic
+'557625':
+  bin: '557625'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: CAPITAL G BANK, LTD.
+  country:
+    alpha_2: BM
+    alpha_3: BMU
+    name: Bermuda
+'557626':
+  bin: '557626'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BM
+    alpha_3: BMU
+    name: Bermuda
+'557627':
+  bin: '557627'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557628':
+  bin: '557628'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: QATAR ISLAMIC BANK
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'557629':
+  bin: '557629'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'557630':
+  bin: '557630'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANQUE LIBANO-FRANCAISE S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'557631':
+  bin: '557631'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'557632':
+  bin: '557632'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'557633':
+  bin: '557633'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: INDIAN BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'557634':
+  bin: '557634'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557635':
+  bin: '557635'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: TEACHERS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557636':
+  bin: '557636'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: CSCBANK S.A.L.
+  country:
+    alpha_2: SN
+    alpha_3: SEN
+    name: Senegal
+'557637':
+  bin: '557637'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CM
+    alpha_3: CMR
+    name: Cameroon
+'557641':
+  bin: '557641'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'557642':
+  bin: '557642'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557643':
+  bin: '557643'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'557644':
+  bin: '557644'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO SANTANDER, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'557649':
+  bin: '557649'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'557652':
+  bin: '557652'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: ABU DHABI COMMERCIAL BANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'557653':
+  bin: '557653'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'557654':
+  bin: '557654'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: AXIS BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'557658':
+  bin: '557658'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: GHANA COMMERCIAL BANK, LTD.
+  country:
+    alpha_2: GH
+    alpha_3: GHA
+    name: Ghana
+'557660':
+  bin: '557660'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: PRIME BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'557661':
+  bin: '557661'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: NATIONAL BANK OF ABU DHABI
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'557662':
+  bin: '557662'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BANCO DE NEGOCIOS INTERNACIONAL, S.A.
+  country:
+    alpha_2: AO
+    alpha_3: AGO
+    name: Angola
+'557663':
+  bin: '557663'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: GHANA COMMERCIAL BANK, LTD.
+  country:
+    alpha_2: GH
+    alpha_3: GHA
+    name: Ghana
+'557664':
+  bin: '557664'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: UNION BANK OF INDIA
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'557665':
+  bin: '557665'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'557666':
+  bin: '557666'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, SAE
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'557667':
+  bin: '557667'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: DUTCH-BANGLA BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'557668':
+  bin: '557668'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: AHLI UNITED BANK B.S.C.
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'557669':
+  bin: '557669'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: CSCBANK S.A.L.
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'557670':
+  bin: '557670'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'557672':
+  bin: '557672'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BANCO DE LA PRODUCCION, S.A.
+  country:
+    alpha_2: NI
+    alpha_3: NIC
+    name: Nicaragua
+'557673':
+  bin: '557673'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CSCBANK S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'557674':
+  bin: '557674'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CSCBANK S.A.L.
+  country:
+    alpha_2: AF
+    alpha_3: AFG
+    name: Afghanistan
+'557676':
+  bin: '557676'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: SEYLAN BANK PLC
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'557677':
+  bin: '557677'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: STATE BANK OF INDIA
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'557678':
+  bin: '557678'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: GRINDROD BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'557679':
+  bin: '557679'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IQ
+    alpha_3: IRQ
+    name: Iraq
+'557680':
+  bin: '557680'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IQ
+    alpha_3: IRQ
+    name: Iraq
+'557681':
+  bin: '557681'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BLOM BANK S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'557682':
+  bin: '557682'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: STATE BANK OF INDIA
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'557683':
+  bin: '557683'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BANCO NACIONAL DE COSTA RICA
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'557684':
+  bin: '557684'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: CORPORATION BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'557685':
+  bin: '557685'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: INTERNATIONAL BANK OF QATAR (Q.S.C.)
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'557686':
+  bin: '557686'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'557688':
+  bin: '557688'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: CORPORATION BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'557689':
+  bin: '557689'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: INTERNATIONAL BANK OF QATAR (Q.S.C.)
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'557690':
+  bin: '557690'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: JORDAN AHLI BANK
+  country:
+    alpha_2: IQ
+    alpha_3: IRQ
+    name: Iraq
+'557691':
+  bin: '557691'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IQ
+    alpha_3: IRQ
+    name: Iraq
+'557692':
+  bin: '557692'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'557693':
+  bin: '557693'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: INTERCONTINENTAL BANK PLC
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'557694':
+  bin: '557694'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'557695':
+  bin: '557695'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'557696':
+  bin: '557696'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'557697':
+  bin: '557697'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa

@@ -1,0 +1,1001 @@
+---
+'456200':
+  bin: '456200'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SOCIETE GENERALE, S.A.
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456201':
+  bin: '456201'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: SOCIETE GENERALE
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456202':
+  bin: '456202'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456203':
+  bin: '456203'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456204':
+  bin: '456204'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456205':
+  bin: '456205'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456206':
+  bin: '456206'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456207':
+  bin: '456207'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456208':
+  bin: '456208'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456209':
+  bin: '456209'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CREDIT DU NORD
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456210':
+  bin: '456210'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456211':
+  bin: '456211'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456212':
+  bin: '456212'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456213':
+  bin: '456213'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIXIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456214':
+  bin: '456214'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456215':
+  bin: '456215'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456216':
+  bin: '456216'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456217':
+  bin: '456217'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CAISSE NATIONALE DES CAISSES D'EPARGNE (CNCE)
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456218':
+  bin: '456218'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CAISSE NATIONALE DES CAISSES D'EPARGNE (CNCE)
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456219':
+  bin: '456219'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456220':
+  bin: '456220'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDIT AGRICOLE, S.A.
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456221':
+  bin: '456221'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIXIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456222':
+  bin: '456222'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456223':
+  bin: '456223'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CREDIT DU NORD
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456224':
+  bin: '456224'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CAISSE NATIONALE DES CAISSES D'EPARGNE (CNCE)
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456225':
+  bin: '456225'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: CREDIT DU NORD
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456226':
+  bin: '456226'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CREDIT DU NORD
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456227':
+  bin: '456227'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIXIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456228':
+  bin: '456228'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456229':
+  bin: '456229'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456230':
+  bin: '456230'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIXIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456231':
+  bin: '456231'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456232':
+  bin: '456232'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIXIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456233':
+  bin: '456233'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIXIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456234':
+  bin: '456234'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456235':
+  bin: '456235'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456236':
+  bin: '456236'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456237':
+  bin: '456237'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456238':
+  bin: '456238'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456239':
+  bin: '456239'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456240':
+  bin: '456240'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456241':
+  bin: '456241'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456242':
+  bin: '456242'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456243':
+  bin: '456243'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456244':
+  bin: '456244'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456245':
+  bin: '456245'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIXIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456246':
+  bin: '456246'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIXIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456247':
+  bin: '456247'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456248':
+  bin: '456248'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIXIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456249':
+  bin: '456249'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456250':
+  bin: '456250'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456251':
+  bin: '456251'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456252':
+  bin: '456252'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456253':
+  bin: '456253'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456254':
+  bin: '456254'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIXIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456255':
+  bin: '456255'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CAISSE NATIONALE DES CAISSES D'EPARGNE (CNCE)
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456256':
+  bin: '456256'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDIT AGRICOLE, S.A.
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456257':
+  bin: '456257'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456258':
+  bin: '456258'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456259':
+  bin: '456259'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456260':
+  bin: '456260'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456261':
+  bin: '456261'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: SOCIETE GENERALE
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456262':
+  bin: '456262'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CAISSE NATIONALE DES CAISSES D'EPARGNE (CNCE)
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456263':
+  bin: '456263'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIXIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456264':
+  bin: '456264'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CREDIT DU NORD
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456265':
+  bin: '456265'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIXIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456266':
+  bin: '456266'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456267':
+  bin: '456267'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456268':
+  bin: '456268'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIXIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456269':
+  bin: '456269'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456270':
+  bin: '456270'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CREDIT DU NORD
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456271':
+  bin: '456271'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BNP PARIBAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456272':
+  bin: '456272'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CREDIT DU NORD
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456273':
+  bin: '456273'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: CREDIT DU NORD
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456274':
+  bin: '456274'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDIT DU NORD
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456275':
+  bin: '456275'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CREDIT DU NORD
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456276':
+  bin: '456276'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BNP PARIBAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456277':
+  bin: '456277'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CREDIT DU NORD
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456278':
+  bin: '456278'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDIT DU NORD
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456279':
+  bin: '456279'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDIT DU NORD
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456280':
+  bin: '456280'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NATIXIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456281':
+  bin: '456281'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BNP PARIBAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456282':
+  bin: '456282'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BNP PARIBAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456283':
+  bin: '456283'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIXIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456284':
+  bin: '456284'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456285':
+  bin: '456285'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CREDIT DU NORD
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456286':
+  bin: '456286'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: HSBC FRANCE
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456287':
+  bin: '456287'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CAISSE NATIONALE DES CAISSES D'EPARGNE (CNCE)
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456288':
+  bin: '456288'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: CAISSE NATIONALE DES CAISSES D'EPARGNE (CNCE)
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456289':
+  bin: '456289'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BNP PARIBAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456290':
+  bin: '456290'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CREDIT INDUSTRIEL ET COMMERCIAL
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456291':
+  bin: '456291'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: CAISSE NATIONALE DES CAISSES D'EPARGNE (CNCE)
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456292':
+  bin: '456292'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456293':
+  bin: '456293'
+  brand: VISA
+  type: DEBIT
+  category: CORPORATE T
+  issuer: CAISSE NATIONALE DES CAISSES D'EPARGNE (CNCE)
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456294':
+  bin: '456294'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NATIXIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456295':
+  bin: '456295'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CREDIT INDUSTRIEL ET COMMERCIAL
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456296':
+  bin: '456296'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456297':
+  bin: '456297'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: SOCIETE GENERALE
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456298':
+  bin: '456298'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CREDIT INDUSTRIEL ET COMMERCIAL
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'456299':
+  bin: '456299'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CREDIT INDUSTRIEL ET COMMERCIAL
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France

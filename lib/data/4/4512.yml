@@ -1,0 +1,1001 @@
+---
+'451200':
+  bin: '451200'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451201':
+  bin: '451201'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: PNC BANK, DELAWARE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451202':
+  bin: '451202'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: PNC BANK, DELAWARE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451203':
+  bin: '451203'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451204':
+  bin: '451204'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: PNC BANK, GLOBAL INVESTMENT SERVICING
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451205':
+  bin: '451205'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: PNC BANK, DELAWARE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451206':
+  bin: '451206'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451207':
+  bin: '451207'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451208':
+  bin: '451208'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CALUMET COUNTY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451209':
+  bin: '451209'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451210':
+  bin: '451210'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451211':
+  bin: '451211'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451212':
+  bin: '451212'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451213':
+  bin: '451213'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO MERCANTIL DO BRASIL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451214':
+  bin: '451214'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451215':
+  bin: '451215'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451216':
+  bin: '451216'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451217':
+  bin: '451217'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451218':
+  bin: '451218'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451219':
+  bin: '451219'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451220':
+  bin: '451220'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451221':
+  bin: '451221'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451222':
+  bin: '451222'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451223':
+  bin: '451223'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451224':
+  bin: '451224'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SHELBY SAVINGS BANK, S.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451225':
+  bin: '451225'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BROOKLYN FEDERAL SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451226':
+  bin: '451226'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MILESTONE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451227':
+  bin: '451227'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MEMBERS FIRST C.U., INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451228':
+  bin: '451228'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BALTIMORE WASHINGTON F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451229':
+  bin: '451229'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: UNION BANK, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451230':
+  bin: '451230'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: WALLA WALLA VALLEY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451231':
+  bin: '451231'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CENTEL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451232':
+  bin: '451232'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NORTHERN SKIES F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451233':
+  bin: '451233'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451234':
+  bin: '451234'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451235':
+  bin: '451235'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SANTA CRUZ COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451236':
+  bin: '451236'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451237':
+  bin: '451237'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: E*TRADE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451238':
+  bin: '451238'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ALTURA C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451239':
+  bin: '451239'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COLUMBUS BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'451240':
+  bin: '451240'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451241':
+  bin: '451241'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451242':
+  bin: '451242'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451243':
+  bin: '451243'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451244':
+  bin: '451244'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451245':
+  bin: '451245'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SAMSUNG CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'451246':
+  bin: '451246'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451247':
+  bin: '451247'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: CITIBANK
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'451248':
+  bin: '451248'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO BICE
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'451249':
+  bin: '451249'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: PT. BANK NEGARA INDONESIA (PERSERO) TBK.
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'451250':
+  bin: '451250'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451251':
+  bin: '451251'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO SANTOS, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451252':
+  bin: '451252'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451253':
+  bin: '451253'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: HSBC BANK ARGENTINA, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'451254':
+  bin: '451254'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451255':
+  bin: '451255'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK PR
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'451256':
+  bin: '451256'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FLEET NATIONAL BANK MERCHANT SERVICES
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'451257':
+  bin: '451257'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JOINT DEVELOPMENT BANK, LTD.
+  country:
+    alpha_2: LA
+    alpha_3: LAO
+    name: Lao People's Democratic Republic
+'451258':
+  bin: '451258'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451259':
+  bin: '451259'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451260':
+  bin: '451260'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451261':
+  bin: '451261'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.
+  country:
+    alpha_2: GD
+    alpha_3: GRD
+    name: Grenada
+'451262':
+  bin: '451262'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.
+  country:
+    alpha_2: GD
+    alpha_3: GRD
+    name: Grenada
+'451263':
+  bin: '451263'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.
+  country:
+    alpha_2: KN
+    alpha_3: KNA
+    name: Saint Kitts and Nevis
+'451264':
+  bin: '451264'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.
+  country:
+    alpha_2: TC
+    alpha_3: TCA
+    name: Turks and Caicos Islands
+'451265':
+  bin: '451265'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.
+  country:
+    alpha_2: GD
+    alpha_3: GRD
+    name: Grenada
+'451266':
+  bin: '451266'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.
+  country:
+    alpha_2: GD
+    alpha_3: GRD
+    name: Grenada
+'451267':
+  bin: '451267'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.
+  country:
+    alpha_2: KN
+    alpha_3: KNA
+    name: Saint Kitts and Nevis
+'451268':
+  bin: '451268'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.
+  country:
+    alpha_2: TC
+    alpha_3: TCA
+    name: Turks and Caicos Islands
+'451269':
+  bin: '451269'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451270':
+  bin: '451270'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451271':
+  bin: '451271'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.
+  country:
+    alpha_2: GD
+    alpha_3: GRD
+    name: Grenada
+'451272':
+  bin: '451272'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.
+  country:
+    alpha_2: GD
+    alpha_3: GRD
+    name: Grenada
+'451273':
+  bin: '451273'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.
+  country:
+    alpha_2: KN
+    alpha_3: KNA
+    name: Saint Kitts and Nevis
+'451274':
+  bin: '451274'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.
+  country:
+    alpha_2: TC
+    alpha_3: TCA
+    name: Turks and Caicos Islands
+'451275':
+  bin: '451275'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE LA PROVINCIA DE BUENOS AIRES
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'451276':
+  bin: '451276'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451277':
+  bin: '451277'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451278':
+  bin: '451278'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451279':
+  bin: '451279'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'451280':
+  bin: '451280'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451281':
+  bin: '451281'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: SHINHAN CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'451282':
+  bin: '451282'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: PROVIDENT BANK AND TRUST OF BELIZE, LTD.
+  country:
+    alpha_2: BZ
+    alpha_3: BLZ
+    name: Belize
+'451283':
+  bin: '451283'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: TARJETAS CUSCATLAN, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'451284':
+  bin: '451284'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.
+  country:
+    alpha_2: KY
+    alpha_3: CYM
+    name: Cayman Islands
+'451285':
+  bin: '451285'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PT BANK DANAMON INDONESIA TBK
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'451286':
+  bin: '451286'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: BANK DANAMON
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'451287':
+  bin: '451287'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'451288':
+  bin: '451288'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HSBC BANK MALAYSIA BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'451289':
+  bin: '451289'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: INDUSTRIAL BANK CO., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'451290':
+  bin: '451290'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: INDUSTRIAL BANK CO., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'451291':
+  bin: '451291'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF CHINA, LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'451292':
+  bin: '451292'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK OF CHINA, LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'451293':
+  bin: '451293'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANK OF CHINA, LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'451294':
+  bin: '451294'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: BANK OF CHINA, LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'451295':
+  bin: '451295'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CIMB BANK BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'451296':
+  bin: '451296'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO SANTANDER, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'451297':
+  bin: '451297'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'451298':
+  bin: '451298'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO SANTANDER SERFIN S.A. INSTITUCION DE BANCA MULTIPLE
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'451299':
+  bin: '451299'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO SANTANDER SERFIN S.A. INSTITUCION DE BANCA MULTIPLE
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico

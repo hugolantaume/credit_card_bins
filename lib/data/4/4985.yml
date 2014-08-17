@@ -1,0 +1,1001 @@
+---
+'498500':
+  bin: '498500'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK INTERNATIONAL
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498501':
+  bin: '498501'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: NORDEA BANK FINLAND PLC
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'498502':
+  bin: '498502'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: NORDEA BANK NORGE ASA HK
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'498503':
+  bin: '498503'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO INTERAMERICANO DE FINANZAS, S.A.E.M.A.
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'498504':
+  bin: '498504'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: CITIBANK INTERNATIONAL
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'498505':
+  bin: '498505'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'498506':
+  bin: '498506'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'498507':
+  bin: '498507'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CITIBANK INTERNATIONAL
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'498508':
+  bin: '498508'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK INTERNATIONAL
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498509':
+  bin: '498509'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498510':
+  bin: '498510'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK INTERNATIONAL
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498511':
+  bin: '498511'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: RAIFFEISEN ZENTRALBANK OESTERREICH AG
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'498512':
+  bin: '498512'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: RAIFFEISEN ZENTRALBANK OESTERREICH AG
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'498513':
+  bin: '498513'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK
+  country:
+    alpha_2: AD
+    alpha_3: AND
+    name: Andorra
+'498514':
+  bin: '498514'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CITIBANK
+  country:
+    alpha_2: AD
+    alpha_3: AND
+    name: Andorra
+'498515':
+  bin: '498515'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK INTERNATIONAL
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'498516':
+  bin: '498516'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: EUROBANK TEKFEN, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'498517':
+  bin: '498517'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: EUROBANK TEKFEN, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'498518':
+  bin: '498518'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: EUROBANK TEKFEN, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'498519':
+  bin: '498519'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: EUROBANK TEKFEN, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'498520':
+  bin: '498520'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: EUROBANK TEKFEN, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'498521':
+  bin: '498521'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: EUROBANK TEKFEN, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'498522':
+  bin: '498522'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: CITIBANK
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'498523':
+  bin: '498523'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FBME CARD SERVICES, LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'498524':
+  bin: '498524'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CITIBANK
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'498525':
+  bin: '498525'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: CITIBANK
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'498526':
+  bin: '498526'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498527':
+  bin: '498527'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: SI
+    alpha_3: SVN
+    name: Slovenia
+'498528':
+  bin: '498528'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: SI
+    alpha_3: SVN
+    name: Slovenia
+'498529':
+  bin: '498529'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: SI
+    alpha_3: SVN
+    name: Slovenia
+'498530':
+  bin: '498530'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: CITIBANK
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'498531':
+  bin: '498531'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498532':
+  bin: '498532'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498533':
+  bin: '498533'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CITIBANK
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'498534':
+  bin: '498534'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BCSC, S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'498535':
+  bin: '498535'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO SANTANDER, S.A.
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'498536':
+  bin: '498536'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'498537':
+  bin: '498537'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: ''
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'498538':
+  bin: '498538'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498539':
+  bin: '498539'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498540':
+  bin: '498540'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498541':
+  bin: '498541'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TESCO PERSONAL FINANCE PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'498542':
+  bin: '498542'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ZUNO BANK AG
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'498543':
+  bin: '498543'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498544':
+  bin: '498544'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'498545':
+  bin: '498545'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FBME CARD SERVICES, LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'498546':
+  bin: '498546'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498547':
+  bin: '498547'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498548':
+  bin: '498548'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498549':
+  bin: '498549'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'498550':
+  bin: '498550'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BZ
+    alpha_3: BLZ
+    name: Belize
+'498551':
+  bin: '498551'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: BZ
+    alpha_3: BLZ
+    name: Belize
+'498552':
+  bin: '498552'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'498553':
+  bin: '498553'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'498554':
+  bin: '498554'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'498555':
+  bin: '498555'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'498556':
+  bin: '498556'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'498557':
+  bin: '498557'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'498558':
+  bin: '498558'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'498559':
+  bin: '498559'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'498560':
+  bin: '498560'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'498561':
+  bin: '498561'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498562':
+  bin: '498562'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498563':
+  bin: '498563'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498564':
+  bin: '498564'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498565':
+  bin: '498565'
+  brand: VISA
+  type: CREDIT
+  category: GOLD
+  issuer: CITIBANK
+  country:
+    alpha_2: BO
+    alpha_3: BOL
+    name: Bolivia, Plurinational State of
+'498566':
+  bin: '498566'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498567':
+  bin: '498567'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498568':
+  bin: '498568'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: UNICREDIT BANK CZECH REPUBLIC, A.S.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'498569':
+  bin: '498569'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498570':
+  bin: '498570'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498571':
+  bin: '498571'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498572':
+  bin: '498572'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498573':
+  bin: '498573'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498574':
+  bin: '498574'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498575':
+  bin: '498575'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498576':
+  bin: '498576'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498577':
+  bin: '498577'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498578':
+  bin: '498578'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498579':
+  bin: '498579'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498580':
+  bin: '498580'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO INDUSTRIAL E COMERCIAL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'498581':
+  bin: '498581'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO INDUSTRIAL E COMERCIAL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'498582':
+  bin: '498582'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'498583':
+  bin: '498583'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'498584':
+  bin: '498584'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498585':
+  bin: '498585'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498586':
+  bin: '498586'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498587':
+  bin: '498587'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498588':
+  bin: '498588'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'498589':
+  bin: '498589'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'498590':
+  bin: '498590'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'498591':
+  bin: '498591'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'498592':
+  bin: '498592'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'498593':
+  bin: '498593'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'498594':
+  bin: '498594'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'498595':
+  bin: '498595'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: ''
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'498596':
+  bin: '498596'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'498597':
+  bin: '498597'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498598':
+  bin: '498598'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'498599':
+  bin: '498599'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China

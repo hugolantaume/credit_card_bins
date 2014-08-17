@@ -1,0 +1,1001 @@
+---
+'420000':
+  bin: '420000'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420001':
+  bin: '420001'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TULANE/LOYOLA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420002':
+  bin: '420002'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST BANK KANSAS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420003':
+  bin: '420003'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: OCHOCO F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420004':
+  bin: '420004'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PUGET SOUND COOPERATIVE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420005':
+  bin: '420005'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: OREGONIANS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420006':
+  bin: '420006'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'420007':
+  bin: '420007'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: U.S. BANK N.A. ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420008':
+  bin: '420008'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: PIKES PEAK C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420009':
+  bin: '420009'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420010':
+  bin: '420010'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FARMERS INSURANCE GROUP F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420011':
+  bin: '420011'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420012':
+  bin: '420012'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'420013':
+  bin: '420013'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CENTRAL WASHINGTON BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420014':
+  bin: '420014'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420015':
+  bin: '420015'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMERCIAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420016':
+  bin: '420016'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420017':
+  bin: '420017'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AMERICREST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420018':
+  bin: '420018'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: AMERICREST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420019':
+  bin: '420019'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SECURITY SAVINGS BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420020':
+  bin: '420020'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420021':
+  bin: '420021'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420022':
+  bin: '420022'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420023':
+  bin: '420023'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420024':
+  bin: '420024'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420025':
+  bin: '420025'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420026':
+  bin: '420026'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420027':
+  bin: '420027'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420028':
+  bin: '420028'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PREMIACARD DE GUATEMALA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'420029':
+  bin: '420029'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MD
+    alpha_3: MDA
+    name: Moldova, Republic of
+'420030':
+  bin: '420030'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: PJSC CB ACTIVE BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'420031':
+  bin: '420031'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNION BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420032':
+  bin: '420032'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PEOPLES BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420033':
+  bin: '420033'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BRE BANK SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'420034':
+  bin: '420034'
+  brand: VISA
+  type: DEBIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'420035':
+  bin: '420035'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'420036':
+  bin: '420036'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MEMBERS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420037':
+  bin: '420037'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNITED LABOR BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420038':
+  bin: '420038'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: UNITED LABOR BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420039':
+  bin: '420039'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: UNITED LABOR BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420040':
+  bin: '420040'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TLC F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420041':
+  bin: '420041'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PREVAIL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420042':
+  bin: '420042'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HSBC BANK NEVADA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420043':
+  bin: '420043'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HSBC BANK NEVADA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420044':
+  bin: '420044'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420045':
+  bin: '420045'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: FIRST INTERSTATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420046':
+  bin: '420046'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420047':
+  bin: '420047'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST INTERSTATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420048':
+  bin: '420048'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FLATHEAD BANK OF BIGFORK, MONTANA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420049':
+  bin: '420049'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST INTERSTATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420050':
+  bin: '420050'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST INTERSTATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420051':
+  bin: '420051'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST INTERSTATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420052':
+  bin: '420052'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420053':
+  bin: '420053'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: FIRST INTERSTATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420054':
+  bin: '420054'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST INTERSTATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420055':
+  bin: '420055'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420056':
+  bin: '420056'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420057':
+  bin: '420057'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420058':
+  bin: '420058'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF WHITTIER, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420059':
+  bin: '420059'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420060':
+  bin: '420060'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420061':
+  bin: '420061'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO SUPERVIELLE, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'420062':
+  bin: '420062'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CORNERSTONE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420063':
+  bin: '420063'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420064':
+  bin: '420064'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NEW MEXICO EDUCATORS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420065':
+  bin: '420065'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TIERONE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420066':
+  bin: '420066'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CERRITOS VALLEY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420067':
+  bin: '420067'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CERRITOS VALLEY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420068':
+  bin: '420068'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CERRITOS VALLEY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420069':
+  bin: '420069'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CATHAY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420070':
+  bin: '420070'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420071':
+  bin: '420071'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DACOTAH BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420072':
+  bin: '420072'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420073':
+  bin: '420073'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420074':
+  bin: '420074'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK IN SIOUX FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420075':
+  bin: '420075'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO ATLANTIDA, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'420076':
+  bin: '420076'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'420077':
+  bin: '420077'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COASTWAY COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420078':
+  bin: '420078'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420079':
+  bin: '420079'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420080':
+  bin: '420080'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CASCADE CENTRAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420081':
+  bin: '420081'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MID STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420082':
+  bin: '420082'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNION SQUARE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420083':
+  bin: '420083'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UNION SQUARE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420084':
+  bin: '420084'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: GREATER BAY BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420085':
+  bin: '420085'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CITIZENS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420086':
+  bin: '420086'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: POWERCO C.U., INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420087':
+  bin: '420087'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: COMMUNITY BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420088':
+  bin: '420088'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CAJA AHORROS GERONA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'420089':
+  bin: '420089'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420090':
+  bin: '420090'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420091':
+  bin: '420091'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK OF HOLCOMB
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420092':
+  bin: '420092'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FINANSBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'420093':
+  bin: '420093'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TIB - THE INDEPENDENT BANKERSBANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420094':
+  bin: '420094'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK NEVADA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420095':
+  bin: '420095'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: WELLS FARGO BANK NEVADA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420096':
+  bin: '420096'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420097':
+  bin: '420097'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NORTHRIM BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420098':
+  bin: '420098'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: NORTHRIM BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420099':
+  bin: '420099'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK CENTER FIRST
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada

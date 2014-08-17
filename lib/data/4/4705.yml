@@ -1,0 +1,1001 @@
+---
+'470500':
+  bin: '470500'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470501':
+  bin: '470501'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470502':
+  bin: '470502'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: LOS ANGELES F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470503':
+  bin: '470503'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: GROSSMONT SCHOOLS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470504':
+  bin: '470504'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: WESCOM CENTRAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470505':
+  bin: '470505'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: MERCK SHARP AND DOHME F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470506':
+  bin: '470506'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: TULARE COUNTY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470507':
+  bin: '470507'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: GOLDEN 1 C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470508':
+  bin: '470508'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: STANFORD F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470509':
+  bin: '470509'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FAIRWINDS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470510':
+  bin: '470510'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ARLINGTON VIRGINIA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470511':
+  bin: '470511'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ABRI C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470512':
+  bin: '470512'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: WESTCONSIN C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470513':
+  bin: '470513'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NRL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470514':
+  bin: '470514'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: AGRICULTURE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470515':
+  bin: '470515'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: STAR USA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470516':
+  bin: '470516'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: AMERICA'S CHRISTIAN C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470517':
+  bin: '470517'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: NASA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470518':
+  bin: '470518'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: PINELLAS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470519':
+  bin: '470519'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ABBOTT LABORATORIES EMPLOYEES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470520':
+  bin: '470520'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470521':
+  bin: '470521'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: DEL NORTE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470522':
+  bin: '470522'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: WOODSTONE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470523':
+  bin: '470523'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ARROWHEAD CENTRAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470524':
+  bin: '470524'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FOUNDATION BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470525':
+  bin: '470525'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: FOUNDATION BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470526':
+  bin: '470526'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FOUNDATION BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470527':
+  bin: '470527'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FOUNDATION BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470528':
+  bin: '470528'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470529':
+  bin: '470529'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NORTON COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'470530':
+  bin: '470530'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: LA
+    alpha_3: LAO
+    name: Lao People's Democratic Republic
+'470531':
+  bin: '470531'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: LA
+    alpha_3: LAO
+    name: Lao People's Democratic Republic
+'470532':
+  bin: '470532'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: LA
+    alpha_3: LAO
+    name: Lao People's Democratic Republic
+'470533':
+  bin: '470533'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470534':
+  bin: '470534'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CITIBANK (HONG KONG), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'470535':
+  bin: '470535'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470536':
+  bin: '470536'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470537':
+  bin: '470537'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470538':
+  bin: '470538'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'470539':
+  bin: '470539'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470540':
+  bin: '470540'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470541':
+  bin: '470541'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470542':
+  bin: '470542'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AMBANK (M) BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'470543':
+  bin: '470543'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: AMBANK (M) BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'470544':
+  bin: '470544'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'470545':
+  bin: '470545'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470546':
+  bin: '470546'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470547':
+  bin: '470547'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'470548':
+  bin: '470548'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'470549':
+  bin: '470549'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'470550':
+  bin: '470550'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'470551':
+  bin: '470551'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'470552':
+  bin: '470552'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'470553':
+  bin: '470553'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NEPAL INVESTMENT BANK, LTD.
+  country:
+    alpha_2: NP
+    alpha_3: NPL
+    name: Nepal
+'470554':
+  bin: '470554'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: NP
+    alpha_3: NPL
+    name: Nepal
+'470555':
+  bin: '470555'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470556':
+  bin: '470556'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: MCB BANK, LTD.
+  country:
+    alpha_2: PK
+    alpha_3: PAK
+    name: Pakistan
+'470557':
+  bin: '470557'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470558':
+  bin: '470558'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: AEON CREDIT SERVICE (ASIA) CO., LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'470559':
+  bin: '470559'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470560':
+  bin: '470560'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470561':
+  bin: '470561'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470562':
+  bin: '470562'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470563':
+  bin: '470563'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BROKEN HILL C.U.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'470564':
+  bin: '470564'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CUSCAL, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'470565':
+  bin: '470565'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BROKEN HILL C.U.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'470566':
+  bin: '470566'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470567':
+  bin: '470567'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470568':
+  bin: '470568'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BROKEN HILL C.U.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'470569':
+  bin: '470569'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470570':
+  bin: '470570'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'470571':
+  bin: '470571'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470572':
+  bin: '470572'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: BANK SINOPAC
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'470573':
+  bin: '470573'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ICICI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470574':
+  bin: '470574'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470575':
+  bin: '470575'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470576':
+  bin: '470576'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470577':
+  bin: '470577'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470578':
+  bin: '470578'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CAMBODIAN PUBLIC BANK, LTD.
+  country:
+    alpha_2: KH
+    alpha_3: KHM
+    name: Cambodia
+'470579':
+  bin: '470579'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'470580':
+  bin: '470580'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'470581':
+  bin: '470581'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'470582':
+  bin: '470582'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'470583':
+  bin: '470583'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'470584':
+  bin: '470584'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'470585':
+  bin: '470585'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'470586':
+  bin: '470586'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'470587':
+  bin: '470587'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SAMSUNG CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'470588':
+  bin: '470588'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'470589':
+  bin: '470589'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ICICI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470590':
+  bin: '470590'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470591':
+  bin: '470591'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470592':
+  bin: '470592'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'470593':
+  bin: '470593'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'470594':
+  bin: '470594'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470595':
+  bin: '470595'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470596':
+  bin: '470596'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470597':
+  bin: '470597'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'470598':
+  bin: '470598'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'470599':
+  bin: '470599'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt

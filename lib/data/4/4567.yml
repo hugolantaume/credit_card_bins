@@ -1,0 +1,1001 @@
+---
+'456700':
+  bin: '456700'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO CREDITO AGRICOLA DE CARTAGO
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'456701':
+  bin: '456701'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO CREDITO AGRICOLA DE CARTAGO
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'456702':
+  bin: '456702'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NATIONAL FEDERATION OF FISHERIES COOPERATIVES
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'456703':
+  bin: '456703'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NATIONAL FEDERATION OF FISHERIES COOPERATIVES
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'456704':
+  bin: '456704'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'456705':
+  bin: '456705'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CITIBANK
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'456706':
+  bin: '456706'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CITIBANK INTERNATIONAL PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456707':
+  bin: '456707'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'456708':
+  bin: '456708'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST CITIZENS BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'456709':
+  bin: '456709'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: STATE BANK OF MAURITIUS, LTD.
+  country:
+    alpha_2: MU
+    alpha_3: MUS
+    name: Mauritius
+'456710':
+  bin: '456710'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCA JOVER
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456711':
+  bin: '456711'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BNP PARIBAS INTERCONTINENTALE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'456712':
+  bin: '456712'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BNP PARIBAS INTERCONTINENTALE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'456713':
+  bin: '456713'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'456714':
+  bin: '456714'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BLACKHAWK COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456715':
+  bin: '456715'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: VISA ICELAND
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'456716':
+  bin: '456716'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: VISA ICELAND
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'456717':
+  bin: '456717'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: VISA ICELAND
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'456718':
+  bin: '456718'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA ICELAND
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'456719':
+  bin: '456719'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'456720':
+  bin: '456720'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PRIMER BANCO DE AHORROS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456721':
+  bin: '456721'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: PRIMER BANCO DEL ISTMO, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'456722':
+  bin: '456722'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PRIMER BANCO DEL ISTMO, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'456723':
+  bin: '456723'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: KRUNGTHAI CARD PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'456724':
+  bin: '456724'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: KRUNGTHAI CARD PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'456725':
+  bin: '456725'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456726':
+  bin: '456726'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SANTANDER UK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456727':
+  bin: '456727'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: C. HOARE AND CO.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456728':
+  bin: '456728'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456729':
+  bin: '456729'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: NATIONWIDE BUILDING SOCIETY
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456730':
+  bin: '456730'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HARRODS BANK, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456731':
+  bin: '456731'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SANTANDER UK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456732':
+  bin: '456732'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: GUINNESS MAHON AND CO., LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456733':
+  bin: '456733'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CITIBANK INTERNATIONAL PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456734':
+  bin: '456734'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ALLIANCE AND LEICESTER PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456735':
+  bin: '456735'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SANTANDER UK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456736':
+  bin: '456736'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ALLIANCE AND LEICESTER PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456737':
+  bin: '456737'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: INVESTEC BANK (UK), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456738':
+  bin: '456738'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CITIBANK INTERNATIONAL PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456739':
+  bin: '456739'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF CYPRUS, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456740':
+  bin: '456740'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AHLI UNITED BANK (UK) PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456741':
+  bin: '456741'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: AHLI UNITED BANK (UK) PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456742':
+  bin: '456742'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: UNITED BANK OF KUWAIT PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456743':
+  bin: '456743'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HABIB ALLIED INTERNATIONAL BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456744':
+  bin: '456744'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: CITIBANK INTERNATIONAL PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'456745':
+  bin: '456745'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'456746':
+  bin: '456746'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ATTIJARIWAFA BANK
+  country:
+    alpha_2: MA
+    alpha_3: MAR
+    name: Morocco
+'456747':
+  bin: '456747'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HELLENIC BANK PUBLIC CO., LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'456748':
+  bin: '456748'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HELLENIC BANK PUBLIC CO., LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'456749':
+  bin: '456749'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: HELLENIC BANK PUBLIC CO., LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'456750':
+  bin: '456750'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HELLENIC BANK PUBLIC CO., LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'456751':
+  bin: '456751'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HELLENIC BANK PUBLIC CO., LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'456752':
+  bin: '456752'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: EQUITABLE PCI BANK
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'456753':
+  bin: '456753'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'456754':
+  bin: '456754'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'456755':
+  bin: '456755'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'456756':
+  bin: '456756'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'456757':
+  bin: '456757'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'456758':
+  bin: '456758'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'456759':
+  bin: '456759'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'456760':
+  bin: '456760'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'456761':
+  bin: '456761'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'456762':
+  bin: '456762'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'456763':
+  bin: '456763'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'456764':
+  bin: '456764'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'456765':
+  bin: '456765'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'456766':
+  bin: '456766'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'456767':
+  bin: '456767'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'456768':
+  bin: '456768'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'456769':
+  bin: '456769'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'456770':
+  bin: '456770'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'456771':
+  bin: '456771'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'456772':
+  bin: '456772'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'456773':
+  bin: '456773'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'456774':
+  bin: '456774'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'456775':
+  bin: '456775'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO POPULAR DOMINICANO, C. POR A., BANCO MULTIPLE
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'456776':
+  bin: '456776'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: GULF BANK K.S.C.
+  country:
+    alpha_2: KW
+    alpha_3: KWT
+    name: Kuwait
+'456777':
+  bin: '456777'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: GULF BANK K.S.C.
+  country:
+    alpha_2: KW
+    alpha_3: KWT
+    name: Kuwait
+'456778':
+  bin: '456778'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: GULF BANK K.S.C.
+  country:
+    alpha_2: KW
+    alpha_3: KWT
+    name: Kuwait
+'456779':
+  bin: '456779'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HELLENIC BANK PUBLIC CO., LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'456780':
+  bin: '456780'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HSBC BANK (PANAMA), S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'456781':
+  bin: '456781'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: PT. BANK INTERNASIONAL INDONESIA TBK
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'456782':
+  bin: '456782'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANQUE ATTIJARI DE TUNISIE
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'456783':
+  bin: '456783'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'456784':
+  bin: '456784'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'456785':
+  bin: '456785'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'456786':
+  bin: '456786'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'456787':
+  bin: '456787'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO COMERCIAL DE MANABI, S.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'456788':
+  bin: '456788'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO COMERCIAL DE MANABI, S.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'456789':
+  bin: '456789'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO COMERCIAL DE MANABI, S.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'456790':
+  bin: '456790'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST CITIZENS BANK, LTD.
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'456791':
+  bin: '456791'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STANDARD CHARTERED BANK ZIMBABWE, LTD.
+  country:
+    alpha_2: ZW
+    alpha_3: ZWE
+    name: Zimbabwe
+'456792':
+  bin: '456792'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'456793':
+  bin: '456793'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'456794':
+  bin: '456794'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO AGRICOLA, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'456795':
+  bin: '456795'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO AGRICOLA, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'456796':
+  bin: '456796'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO AGRICOLA, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'456797':
+  bin: '456797'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'456798':
+  bin: '456798'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PT BANK DANAMON INDONESIA TBK
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'456799':
+  bin: '456799'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PT BANK DANAMON INDONESIA TBK
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia

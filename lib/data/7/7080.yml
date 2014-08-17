@@ -1,0 +1,41 @@
+---
+'708007':
+  bin: '708007'
+  brand: UK FUEL CARD
+  type: ''
+  category: ''
+  issuer: UK FUELS
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'708013':
+  bin: '708013'
+  brand: RED FUEL CARD
+  type: ''
+  category: ''
+  issuer: REDFUEL(EUROPE)
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'708032':
+  bin: '708032'
+  brand: UK FUEL CARD
+  type: ''
+  category: ''
+  issuer: UK FUELS
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'708050':
+  bin: '708050'
+  brand: RED FUEL CARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom

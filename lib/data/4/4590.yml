@@ -1,0 +1,1001 @@
+---
+'459000':
+  bin: '459000'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'459001':
+  bin: '459001'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'459002':
+  bin: '459002'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'459003':
+  bin: '459003'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'459004':
+  bin: '459004'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459005':
+  bin: '459005'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459006':
+  bin: '459006'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459007':
+  bin: '459007'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'459008':
+  bin: '459008'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459009':
+  bin: '459009'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO GENERAL (COSTA RICA), S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'459010':
+  bin: '459010'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO GENERAL (COSTA RICA), S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'459011':
+  bin: '459011'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: BANCO GENERAL (COSTA RICA), S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'459012':
+  bin: '459012'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO GENERAL (COSTA RICA), S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'459013':
+  bin: '459013'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'459014':
+  bin: '459014'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: VC
+    alpha_3: VCT
+    name: Saint Vincent and the Grenadines
+'459015':
+  bin: '459015'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: VC
+    alpha_3: VCT
+    name: Saint Vincent and the Grenadines
+'459016':
+  bin: '459016'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: VC
+    alpha_3: VCT
+    name: Saint Vincent and the Grenadines
+'459017':
+  bin: '459017'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: UNICREDIT BANK CZECH REPUBLIC, A.S.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'459018':
+  bin: '459018'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459019':
+  bin: '459019'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'459020':
+  bin: '459020'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'459021':
+  bin: '459021'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459022':
+  bin: '459022'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459023':
+  bin: '459023'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'459024':
+  bin: '459024'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459025':
+  bin: '459025'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: UNICREDIT S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'459026':
+  bin: '459026'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'459027':
+  bin: '459027'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'459028':
+  bin: '459028'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'459029':
+  bin: '459029'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'459030':
+  bin: '459030'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'459031':
+  bin: '459031'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'459032':
+  bin: '459032'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459033':
+  bin: '459033'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459034':
+  bin: '459034'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459035':
+  bin: '459035'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459036':
+  bin: '459036'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459037':
+  bin: '459037'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459038':
+  bin: '459038'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459039':
+  bin: '459039'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CB RUSSKY NARODNY BANK (CJSC)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'459040':
+  bin: '459040'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: CB RUSSKY NARODNY BANK (CJSC)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'459041':
+  bin: '459041'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CB RUSSKY NARODNY BANK (CJSC)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'459042':
+  bin: '459042'
+  brand: VISA
+  type: DEBIT
+  category: INFINITE
+  issuer: DUBAI ISLAMIC BANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'459043':
+  bin: '459043'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'459044':
+  bin: '459044'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'459045':
+  bin: '459045'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'459046':
+  bin: '459046'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'459047':
+  bin: '459047'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SY
+    alpha_3: SYR
+    name: Syrian Arab Republic
+'459048':
+  bin: '459048'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VENETO BANKA SH.A.
+  country:
+    alpha_2: AL
+    alpha_3: ALB
+    name: Albania
+'459049':
+  bin: '459049'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459050':
+  bin: '459050'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANQUE NATIONALE D'INVESTISSEMENT
+  country:
+    alpha_2: CI
+    alpha_3: CIV
+    name: Côte d'Ivoire
+'459051':
+  bin: '459051'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CI
+    alpha_3: CIV
+    name: Côte d'Ivoire
+'459052':
+  bin: '459052'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CI
+    alpha_3: CIV
+    name: Côte d'Ivoire
+'459053':
+  bin: '459053'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANQUE NATIONALE D'INVESTISSEMENT
+  country:
+    alpha_2: CI
+    alpha_3: CIV
+    name: Côte d'Ivoire
+'459054':
+  bin: '459054'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANQUE NATIONALE D'INVESTISSEMENT
+  country:
+    alpha_2: CI
+    alpha_3: CIV
+    name: Côte d'Ivoire
+'459055':
+  bin: '459055'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459056':
+  bin: '459056'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: OJSC PARITETBANK
+  country:
+    alpha_2: BY
+    alpha_3: BLR
+    name: Belarus
+'459057':
+  bin: '459057'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: HT
+    alpha_3: HTI
+    name: Haiti
+'459058':
+  bin: '459058'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459059':
+  bin: '459059'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459060':
+  bin: '459060'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'459061':
+  bin: '459061'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF VALLETTA P.L.C
+  country:
+    alpha_2: MT
+    alpha_3: MLT
+    name: Malta
+'459062':
+  bin: '459062'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459063':
+  bin: '459063'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459064':
+  bin: '459064'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459065':
+  bin: '459065'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459066':
+  bin: '459066'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: BANCO DE OCCIDENTE, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'459067':
+  bin: '459067'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459068':
+  bin: '459068'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: SEKERBANK T.A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'459069':
+  bin: '459069'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459070':
+  bin: '459070'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CITIBANK - COLOMBIA
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'459071':
+  bin: '459071'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRST GLOBAL BANK, LTD.
+  country:
+    alpha_2: JM
+    alpha_3: JAM
+    name: Jamaica
+'459072':
+  bin: '459072'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: FIRST GLOBAL BANK, LTD.
+  country:
+    alpha_2: JM
+    alpha_3: JAM
+    name: Jamaica
+'459073':
+  bin: '459073'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459074':
+  bin: '459074'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAIXA D'ESTALVIS UNIO DE CAIXES DE MANLLEU, SABADELL Y TERRA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'459075':
+  bin: '459075'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459076':
+  bin: '459076'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'459077':
+  bin: '459077'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'459078':
+  bin: '459078'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'459079':
+  bin: '459079'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'459080':
+  bin: '459080'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'459081':
+  bin: '459081'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'459082':
+  bin: '459082'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'459083':
+  bin: '459083'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SEVERNY NARODNY BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'459084':
+  bin: '459084'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: SEVERNY NARODNY BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'459085':
+  bin: '459085'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'459086':
+  bin: '459086'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459087':
+  bin: '459087'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: RAIFFEISEN ZENTRALBANK OESTERREICH AG
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'459088':
+  bin: '459088'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: RAIFFEISEN ZENTRALBANK OESTERREICH AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'459089':
+  bin: '459089'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: RAIFFEISEN ZENTRALBANK OESTERREICH AG
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'459090':
+  bin: '459090'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: RAIFFEISEN ZENTRALBANK OESTERREICH AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'459091':
+  bin: '459091'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO SANTANDER, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'459092':
+  bin: '459092'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'459093':
+  bin: '459093'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'459094':
+  bin: '459094'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'459095':
+  bin: '459095'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'459096':
+  bin: '459096'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO COOMEVA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'459097':
+  bin: '459097'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'459098':
+  bin: '459098'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'459099':
+  bin: '459099'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland

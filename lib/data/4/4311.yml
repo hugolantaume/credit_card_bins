@@ -1,0 +1,1001 @@
+---
+'431100':
+  bin: '431100'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431101':
+  bin: '431101'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COLEMAN COUNTY STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431102':
+  bin: '431102'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: MAZUMA C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431103':
+  bin: '431103'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MATTEL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431104':
+  bin: '431104'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: MATTEL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431105':
+  bin: '431105'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: MATTEL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431106':
+  bin: '431106'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431107':
+  bin: '431107'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST MARINER BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431108':
+  bin: '431108'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMERCIAL BANK ROSAVTOBANK LLC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'431109':
+  bin: '431109'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: COMMERCIAL BANK ROSAVTOBANK LLC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'431110':
+  bin: '431110'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: COMMERCIAL BANK ROSAVTOBANK LLC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'431111':
+  bin: '431111'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: COMMERCIAL BANK ROSAVTOBANK LLC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'431112':
+  bin: '431112'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'431113':
+  bin: '431113'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'431114':
+  bin: '431114'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'431115':
+  bin: '431115'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNITED OVERSEAS BANK(THAI)PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'431116':
+  bin: '431116'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UNITED OVERSEAS BANK(THAI)PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'431117':
+  bin: '431117'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431118':
+  bin: '431118'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF INDIA
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'431119':
+  bin: '431119'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK OF INDIA
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'431120':
+  bin: '431120'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'431121':
+  bin: '431121'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'431122':
+  bin: '431122'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'431123':
+  bin: '431123'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'431124':
+  bin: '431124'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'431125':
+  bin: '431125'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'431126':
+  bin: '431126'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'431127':
+  bin: '431127'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'431128':
+  bin: '431128'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'431129':
+  bin: '431129'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'431130':
+  bin: '431130'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431131':
+  bin: '431131'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431132':
+  bin: '431132'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431133':
+  bin: '431133'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431134':
+  bin: '431134'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431135':
+  bin: '431135'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431136':
+  bin: '431136'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431137':
+  bin: '431137'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431138':
+  bin: '431138'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GOLDEN CIRCLE CREDIT UNION, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431139':
+  bin: '431139'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MERCANTILE BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'431140':
+  bin: '431140'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431141':
+  bin: '431141'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: OHIO STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431142':
+  bin: '431142'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DEL MET F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431143':
+  bin: '431143'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIREFIGHTERS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431144':
+  bin: '431144'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MERRICK BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431145':
+  bin: '431145'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431146':
+  bin: '431146'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431147':
+  bin: '431147'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431148':
+  bin: '431148'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431149':
+  bin: '431149'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431150':
+  bin: '431150'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CORNERSTONE COMMUNITY FINANCIAL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431151':
+  bin: '431151'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: DBS BANK, LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'431152':
+  bin: '431152'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: DBS BANK, LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'431153':
+  bin: '431153'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JSCB FOR SOCIAL DEVELOPMENT UKRSOTSBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'431154':
+  bin: '431154'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CHASE MANHATTAN BANK
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'431155':
+  bin: '431155'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: RIVER VALLEY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431156':
+  bin: '431156'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BRIDGEPORT BRASS (INDPLS) F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431157':
+  bin: '431157'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SERVIRED S.C.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'431158':
+  bin: '431158'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: MEMBERS SOURCE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431159':
+  bin: '431159'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: 'PUBLIC SERVICE #3 C.U.'
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431160':
+  bin: '431160'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431161':
+  bin: '431161'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431162':
+  bin: '431162'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PATRIOT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431163':
+  bin: '431163'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PARK BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431164':
+  bin: '431164'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431165':
+  bin: '431165'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SVERDLOVSKY GUBERNSKY BANK JSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'431166':
+  bin: '431166'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: SVERDLOVSKY GUBERNSKY BANK JSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'431167':
+  bin: '431167'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CAMBODIA MEKONG BANK
+  country:
+    alpha_2: KH
+    alpha_3: KHM
+    name: Cambodia
+'431168':
+  bin: '431168'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: METROBANK CARD CORPORATION
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'431169':
+  bin: '431169'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: AMERICAN 1 F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431170':
+  bin: '431170'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: RIZAL COMMERCIAL BANKING CORPORATION
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'431171':
+  bin: '431171'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431172':
+  bin: '431172'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AMERIANA BANK AND TRUST, S.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431173':
+  bin: '431173'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SECURITY FEDERAL SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431174':
+  bin: '431174'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431175':
+  bin: '431175'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CHASE BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431176':
+  bin: '431176'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MID-SOUTHERN SAVINGS BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431177':
+  bin: '431177'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431178':
+  bin: '431178'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CITIBANK TAIWAN, LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'431179':
+  bin: '431179'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: METROBANK CARD CORPORATION
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'431180':
+  bin: '431180'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST FINANCIAL BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431181':
+  bin: '431181'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PT. BANK ARTHA GRAHA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'431182':
+  bin: '431182'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: PT. BANK ARTHA GRAHA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'431183':
+  bin: '431183'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: HUNTINGTON NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431184':
+  bin: '431184'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'431185':
+  bin: '431185'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: GE CAPITAL CONSUMER CARD CO.
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'431186':
+  bin: '431186'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: JS BANK EXPRESS BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'431187':
+  bin: '431187'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: JS BANK EXPRESS BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'431188':
+  bin: '431188'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: JS BANK EXPRESS BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'431189':
+  bin: '431189'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: GE CAPITAL CONSUMER CARD CO.
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'431190':
+  bin: '431190'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GE CAPITAL CONSUMER CARD CO.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431191':
+  bin: '431191'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GE CAPITAL CONSUMER CARD CO.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431192':
+  bin: '431192'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GE CAPITAL CONSUMER CARD CO.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431193':
+  bin: '431193'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GE CAPITAL CONSUMER CARD CO.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431194':
+  bin: '431194'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GE CAPITAL CONSUMER CARD CO.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431195':
+  bin: '431195'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CHINATRUST COMMERCIAL BANK
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'431196':
+  bin: '431196'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: PNC BANK, NATIONAL ASSOCIATION - CONSUMER CREDIT
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431197':
+  bin: '431197'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ASOCIACION DUARTE DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'431198':
+  bin: '431198'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CITIZENS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'431199':
+  bin: '431199'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HORIZON ONE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

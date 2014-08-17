@@ -1,0 +1,1001 @@
+---
+'421800':
+  bin: '421800'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'421801':
+  bin: '421801'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VANQUIS BANK, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'421802':
+  bin: '421802'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'421803':
+  bin: '421803'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'421804':
+  bin: '421804'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'421805':
+  bin: '421805'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'421806':
+  bin: '421806'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'421807':
+  bin: '421807'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'421808':
+  bin: '421808'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: OVERSEA-CHINESE BANKING CORP., LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'421809':
+  bin: '421809'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'421810':
+  bin: '421810'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'421811':
+  bin: '421811'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SPIRA DE MEXICO S.A. DE C.V.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'421812':
+  bin: '421812'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO INVEX S.A. INSTITUCION DE BANCA MULTIPLE
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'421813':
+  bin: '421813'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: INTERBANK - BANCO INTERNACIONAL DEL PERU
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'421814':
+  bin: '421814'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'421815':
+  bin: '421815'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: ASOCIACION POPULAR DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'421816':
+  bin: '421816'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO LAFISE, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'421817':
+  bin: '421817'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'421818':
+  bin: '421818'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'421819':
+  bin: '421819'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'421820':
+  bin: '421820'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'421821':
+  bin: '421821'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'421822':
+  bin: '421822'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'421823':
+  bin: '421823'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: BANCO SANTOS, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'421824':
+  bin: '421824'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO SANTOS, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'421825':
+  bin: '421825'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: PREMIACARD DE GUATEMALA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'421826':
+  bin: '421826'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO MERCANTIL, S.A.C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'421827':
+  bin: '421827'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'421828':
+  bin: '421828'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO GANADERO, S.A.
+  country:
+    alpha_2: BO
+    alpha_3: BOL
+    name: Bolivia, Plurinational State of
+'421829':
+  bin: '421829'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'421830':
+  bin: '421830'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'421831':
+  bin: '421831'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO CITIBANK DE GUATEMALA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'421832':
+  bin: '421832'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: BANCO CITIBANK DE GUATEMALA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'421833':
+  bin: '421833'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO INDUSTRIAL E COMERCIAL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'421834':
+  bin: '421834'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: KWANGJU BANK, LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'421835':
+  bin: '421835'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: FIRST GLOBAL BANK, LTD.
+  country:
+    alpha_2: JM
+    alpha_3: JAM
+    name: Jamaica
+'421836':
+  bin: '421836'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIRST GLOBAL BANK, LTD.
+  country:
+    alpha_2: JM
+    alpha_3: JAM
+    name: Jamaica
+'421837':
+  bin: '421837'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO AGROMERCANTIL DE GUATEMALA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'421838':
+  bin: '421838'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO AGROMERCANTIL DE GUATEMALA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'421839':
+  bin: '421839'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO AGROMERCANTIL DE GUATEMALA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'421840':
+  bin: '421840'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO PROMERICA, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'421841':
+  bin: '421841'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421842':
+  bin: '421842'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: BANCO PROMERICA, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'421843':
+  bin: '421843'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'421844':
+  bin: '421844'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'421845':
+  bin: '421845'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'421846':
+  bin: '421846'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'421847':
+  bin: '421847'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'421848':
+  bin: '421848'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'421849':
+  bin: '421849'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421850':
+  bin: '421850'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421851':
+  bin: '421851'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO CRUZEIRO DO SUL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'421852':
+  bin: '421852'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'421853':
+  bin: '421853'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DEXIA BANKA SLOVENSKO, A.S.
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'421854':
+  bin: '421854'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MULTIBANK, INC.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'421855':
+  bin: '421855'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CJSC HOME CREDIT BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'421856':
+  bin: '421856'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421857':
+  bin: '421857'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421858':
+  bin: '421858'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ERSTE CARD CLUB D.D.
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'421859':
+  bin: '421859'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421860':
+  bin: '421860'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA
+  country:
+    alpha_2: ME
+    alpha_3: MNE
+    name: Montenegro
+'421861':
+  bin: '421861'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA
+  country:
+    alpha_2: ME
+    alpha_3: MNE
+    name: Montenegro
+'421862':
+  bin: '421862'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FAI FINANCEIRA AMERICANAS ITAU S.A. DE CREDITO FINANCIAMENTO
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'421863':
+  bin: '421863'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421864':
+  bin: '421864'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421865':
+  bin: '421865'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421866':
+  bin: '421866'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421867':
+  bin: '421867'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421868':
+  bin: '421868'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421869':
+  bin: '421869'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421870':
+  bin: '421870'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421871':
+  bin: '421871'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421872':
+  bin: '421872'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421873':
+  bin: '421873'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421874':
+  bin: '421874'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST INVESTMENT BANK
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'421875':
+  bin: '421875'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIRST INVESTMENT BANK
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'421876':
+  bin: '421876'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIRST INVESTMENT BANK
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'421877':
+  bin: '421877'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421878':
+  bin: '421878'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421879':
+  bin: '421879'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421880':
+  bin: '421880'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421881':
+  bin: '421881'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421882':
+  bin: '421882'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO EXTERIOR, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'421883':
+  bin: '421883'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DEL AUSTRO, S.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'421884':
+  bin: '421884'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'421885':
+  bin: '421885'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'421886':
+  bin: '421886'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'421887':
+  bin: '421887'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JORDAN KUWAIT BANK
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'421888':
+  bin: '421888'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: JORDAN KUWAIT BANK
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'421889':
+  bin: '421889'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JORDAN KUWAIT BANK
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'421890':
+  bin: '421890'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: JORDAN KUWAIT BANK
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'421891':
+  bin: '421891'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: GOLOMT BANK OF MONGOLIA
+  country:
+    alpha_2: MN
+    alpha_3: MNG
+    name: Mongolia
+'421892':
+  bin: '421892'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'421893':
+  bin: '421893'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421894':
+  bin: '421894'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'421895':
+  bin: '421895'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO PROVIVIENDA C.A. BANCO UNIVERSAL (BANPRO)
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'421896':
+  bin: '421896'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: BANCO UNO, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'421897':
+  bin: '421897'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'421898':
+  bin: '421898'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'421899':
+  bin: '421899'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China

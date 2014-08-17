@@ -1,0 +1,1001 @@
+---
+'443000':
+  bin: '443000'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443001':
+  bin: '443001'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443002':
+  bin: '443002'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: M. S. BAILEY AND SON, BANKERS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443003':
+  bin: '443003'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DELAWARE NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443004':
+  bin: '443004'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SPACE COAST C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443005':
+  bin: '443005'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: U.S. BANK N.A. ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443006':
+  bin: '443006'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: DAY AIR CREDIT UNION, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443007':
+  bin: '443007'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: METROPOLITAN NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443008':
+  bin: '443008'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443009':
+  bin: '443009'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: MBNA AMERICA (DELAWARE), N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443010':
+  bin: '443010'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443011':
+  bin: '443011'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: WHITNEY NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443012':
+  bin: '443012'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PACESETTER BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443013':
+  bin: '443013'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PACESETTER BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443014':
+  bin: '443014'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STAR BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443015':
+  bin: '443015'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PROPONENT F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443016':
+  bin: '443016'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: J.S.C. F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443017':
+  bin: '443017'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NATIONAL BANK AND TRUST COMPANY OF SYCAMORE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443018':
+  bin: '443018'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MAIN STREET BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443019':
+  bin: '443019'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SUMMIT COMMUNITY BANK, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443020':
+  bin: '443020'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NORTH SIDE BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443021':
+  bin: '443021'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MARQUETTE NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443022':
+  bin: '443022'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: MARQUETTE NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443023':
+  bin: '443023'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UMB BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443024':
+  bin: '443024'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UMB BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443025':
+  bin: '443025'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PEOPLES SAVINGS BANK OF TROY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443026':
+  bin: '443026'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: PEOPLES SAVINGS BANK OF TROY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443027':
+  bin: '443027'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443028':
+  bin: '443028'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST AMERICAN BANK, S.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443029':
+  bin: '443029'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443030':
+  bin: '443030'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: U.S. BANK N.A. ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443031':
+  bin: '443031'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ILLIANA FINANCIAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443032':
+  bin: '443032'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NAVY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443033':
+  bin: '443033'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443034':
+  bin: '443034'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443035':
+  bin: '443035'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SPACE COAST C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443036':
+  bin: '443036'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: U.S. BANK N.A. ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443037':
+  bin: '443037'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443038':
+  bin: '443038'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443039':
+  bin: '443039'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST FEDERAL SAVINGS AND LOAN ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443040':
+  bin: '443040'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443041':
+  bin: '443041'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443042':
+  bin: '443042'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443043':
+  bin: '443043'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443044':
+  bin: '443044'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443045':
+  bin: '443045'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443046':
+  bin: '443046'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443047':
+  bin: '443047'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443048':
+  bin: '443048'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443049':
+  bin: '443049'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443050':
+  bin: '443050'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443051':
+  bin: '443051'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443052':
+  bin: '443052'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443053':
+  bin: '443053'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: FIRST GULF BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443054':
+  bin: '443054'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BUFFALO FEDERAL SAVINGS AND LOAN ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443055':
+  bin: '443055'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443056':
+  bin: '443056'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443057':
+  bin: '443057'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443058':
+  bin: '443058'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: STAR ONE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443059':
+  bin: '443059'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: STAR ONE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443060':
+  bin: '443060'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443061':
+  bin: '443061'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443062':
+  bin: '443062'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443063':
+  bin: '443063'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443064':
+  bin: '443064'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443065':
+  bin: '443065'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443066':
+  bin: '443066'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443067':
+  bin: '443067'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443068':
+  bin: '443068'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443069':
+  bin: '443069'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443070':
+  bin: '443070'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443071':
+  bin: '443071'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443072':
+  bin: '443072'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443073':
+  bin: '443073'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443074':
+  bin: '443074'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443075':
+  bin: '443075'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443076':
+  bin: '443076'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443077':
+  bin: '443077'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443078':
+  bin: '443078'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443079':
+  bin: '443079'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443080':
+  bin: '443080'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CENTRAL INDIANA SCHOOLS COMMUNITY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443081':
+  bin: '443081'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BAR HARBOR BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443082':
+  bin: '443082'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: U.S. BANK N.A. ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443083':
+  bin: '443083'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NEPAL DEVELOPMENT BANK, LTD.
+  country:
+    alpha_2: NP
+    alpha_3: NPL
+    name: Nepal
+'443084':
+  bin: '443084'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: INDUE, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'443085':
+  bin: '443085'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: FIRST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443086':
+  bin: '443086'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PEOPLES BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443087':
+  bin: '443087'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443088':
+  bin: '443088'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NATIONAL BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443089':
+  bin: '443089'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: ''
+  country:
+    alpha_2: MV
+    alpha_3: MDV
+    name: Maldives
+'443090':
+  bin: '443090'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: NORTH SIDE BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443091':
+  bin: '443091'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: PNC BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443092':
+  bin: '443092'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SECURITY SERVICE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443093':
+  bin: '443093'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: EVANSVILLE TEACHERS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443094':
+  bin: '443094'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443095':
+  bin: '443095'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443096':
+  bin: '443096'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: KANE COUNTY TEACHERS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443097':
+  bin: '443097'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: FRANKLIN SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443098':
+  bin: '443098'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: YOUR COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'443099':
+  bin: '443099'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: LASALLE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

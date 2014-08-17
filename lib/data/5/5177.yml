@@ -1,0 +1,1001 @@
+---
+'517700':
+  bin: '517700'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: CITIBANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'517701':
+  bin: '517701'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCO FININVEST, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'517702':
+  bin: '517702'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BANQUE DE L'UNION HAITIENNE, S.A.
+  country:
+    alpha_2: HT
+    alpha_3: HTI
+    name: Haiti
+'517703':
+  bin: '517703'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'517704':
+  bin: '517704'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: CREDIT LIBANAIS S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'517705':
+  bin: '517705'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: DAH SING BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'517706':
+  bin: '517706'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'517707':
+  bin: '517707'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'517708':
+  bin: '517708'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BANK OF CEYLON
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'517709':
+  bin: '517709'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: SAMSUNG CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'517710':
+  bin: '517710'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BANCOLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'517711':
+  bin: '517711'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: BANQUE DE L'UNION HAITIENNE, S.A.
+  country:
+    alpha_2: HT
+    alpha_3: HTI
+    name: Haiti
+'517712':
+  bin: '517712'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517713':
+  bin: '517713'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCO SANTANDER SERFIN , S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517714':
+  bin: '517714'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: ALLSTATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517715':
+  bin: '517715'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: EMIRATES NBD BANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'517716':
+  bin: '517716'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: NATIONAL BANK OF EGYPT
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'517717':
+  bin: '517717'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517718':
+  bin: '517718'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANCO FININVEST, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'517719':
+  bin: '517719'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: ICICI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'517720':
+  bin: '517720'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL COMMERCIAL BANK
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'517721':
+  bin: '517721'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517722':
+  bin: '517722'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: HSBC BANK MIDDLE EAST
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'517723':
+  bin: '517723'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: EMIRATES NBD BANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'517724':
+  bin: '517724'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BANQUE SAUDI FRANSI
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'517725':
+  bin: '517725'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: PUBLIC JSC JSB UKRGASBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'517726':
+  bin: '517726'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'517727':
+  bin: '517727'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: JORDAN AHLI BANK
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'517728':
+  bin: '517728'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'517729':
+  bin: '517729'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'517730':
+  bin: '517730'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: INTERNATIONAL CARD CO., LTD.
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'517731':
+  bin: '517731'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'517732':
+  bin: '517732'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: CREDIT SUISSE
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'517733':
+  bin: '517733'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: CREDIMAX
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'517734':
+  bin: '517734'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: EMIRATES NBD BANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'517735':
+  bin: '517735'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: AHLI UNITED BANK
+  country:
+    alpha_2: KW
+    alpha_3: KWT
+    name: Kuwait
+'517736':
+  bin: '517736'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NATIONAL BANK OF ABU DHABI
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'517737':
+  bin: '517737'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517738':
+  bin: '517738'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: MASHREQBANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'517739':
+  bin: '517739'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'517740':
+  bin: '517740'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'517741':
+  bin: '517741'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: COMMERCIAL BANK OF QATAR, LTD.
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'517742':
+  bin: '517742'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: EMIRATES NBD BANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'517743':
+  bin: '517743'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: CREDIT SUISSE
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'517744':
+  bin: '517744'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: QATAR NATIONAL BANK
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'517745':
+  bin: '517745'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: HSBC BANK MIDDLE EAST
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'517746':
+  bin: '517746'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: METROPOLITAN BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517747':
+  bin: '517747'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517748':
+  bin: '517748'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: HUMBOLDT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517749':
+  bin: '517749'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: LAKE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517750':
+  bin: '517750'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: CENTRAL TRUST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517751':
+  bin: '517751'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BARCLAYS BANK DELAWARE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517752':
+  bin: '517752'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANCARD, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'517753':
+  bin: '517753'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517754':
+  bin: '517754'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: INTERCONTINENTAL BANK PLC
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'517755':
+  bin: '517755'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'517756':
+  bin: '517756'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANCO SANTANDER (BRASIL), S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'517757':
+  bin: '517757'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'517758':
+  bin: '517758'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: MERCANTIL, C.A., BANCO UNIVERS.A.L.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'517759':
+  bin: '517759'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'517760':
+  bin: '517760'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: FIRST PREMIER BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517761':
+  bin: '517761'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: CIBC NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517762':
+  bin: '517762'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: CITIBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517763':
+  bin: '517763'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517764':
+  bin: '517764'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517765':
+  bin: '517765'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517766':
+  bin: '517766'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'517767':
+  bin: '517767'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517768':
+  bin: '517768'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517769':
+  bin: '517769'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517770':
+  bin: '517770'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: PROVIDENT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517771':
+  bin: '517771'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517772':
+  bin: '517772'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ZIONS FIRST NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517773':
+  bin: '517773'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: EMIRATES NBD BANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'517774':
+  bin: '517774'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: HANG SENG BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'517775':
+  bin: '517775'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517776':
+  bin: '517776'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517777':
+  bin: '517777'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517778':
+  bin: '517778'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517779':
+  bin: '517779'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517780':
+  bin: '517780'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: UNION NATIONAL BANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'517781':
+  bin: '517781'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'517782':
+  bin: '517782'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'517783':
+  bin: '517783'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: EMIRATES NBD BANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'517784':
+  bin: '517784'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BANCO NACIONAL DE COSTA RICA
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'517785':
+  bin: '517785'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517786':
+  bin: '517786'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BANK BPH SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'517787':
+  bin: '517787'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: ITAU UNIBANCO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'517788':
+  bin: '517788'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: BARCLAYS BANK DELAWARE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'517789':
+  bin: '517789'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BANCARD, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'517790':
+  bin: '517790'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'517791':
+  bin: '517791'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: WING HANG BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'517792':
+  bin: '517792'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517793':
+  bin: '517793'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BANCO AZTECA DE GUATEMALA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'517794':
+  bin: '517794'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: MAGYAR CETELEM BANK RT.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'517795':
+  bin: '517795'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'517796':
+  bin: '517796'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: BANCO DAVIVIENDA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'517797':
+  bin: '517797'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'517798':
+  bin: '517798'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'517799':
+  bin: '517799'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: BANK CROZIER, LTD.
+  country:
+    alpha_2: GD
+    alpha_3: GRD
+    name: Grenada

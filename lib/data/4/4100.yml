@@ -1,0 +1,1001 @@
+---
+'410000':
+  bin: '410000'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO COMERCIAL PORTUGUES, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'410001':
+  bin: '410001'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNICARD BANCO MULTIPLO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'410002':
+  bin: '410002'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNICARD BANCO MULTIPLO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'410003':
+  bin: '410003'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNICARD BANCO MULTIPLO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'410004':
+  bin: '410004'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DIBENS, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'410005':
+  bin: '410005'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK BPH, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'410006':
+  bin: '410006'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410007':
+  bin: '410007'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA ARGENTINA, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'410008':
+  bin: '410008'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: RUSSIAN CONSTRUCTION BANK CJSC RUSSTROYBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'410009':
+  bin: '410009'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PROVIDENT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410010':
+  bin: '410010'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF WESTERN AUSTRALIA, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'410011':
+  bin: '410011'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF WESTERN AUSTRALIA, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'410012':
+  bin: '410012'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF WESTERN AUSTRALIA, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'410013':
+  bin: '410013'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF WESTERN AUSTRALIA, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'410014':
+  bin: '410014'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF WESTERN AUSTRALIA, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'410015':
+  bin: '410015'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SCOTIABANK EL SALVADOR, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'410016':
+  bin: '410016'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO MACRO BANSUD, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'410017':
+  bin: '410017'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410018':
+  bin: '410018'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: OJSC INDUSTRIAL COMMERCIAL AVTOVAZBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'410019':
+  bin: '410019'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: INTELIGO BANK, LTD.
+  country:
+    alpha_2: BS
+    alpha_3: BHS
+    name: Bahamas
+'410020':
+  bin: '410020'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410021':
+  bin: '410021'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANQUE LAURENTIENNE DU CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'410022':
+  bin: '410022'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANQUE LAURENTIENNE DU CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'410023':
+  bin: '410023'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANQUE LAURENTIENNE DU CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'410024':
+  bin: '410024'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANQUE LAURENTIENNE DU CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'410025':
+  bin: '410025'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANQUE LAURENTIENNE DU CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'410026':
+  bin: '410026'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410027':
+  bin: '410027'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: STAROKIEVSKIY BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'410028':
+  bin: '410028'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DEVELOPMENT CREDIT BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'410029':
+  bin: '410029'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410030':
+  bin: '410030'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DEVELOPMENT CREDIT BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'410031':
+  bin: '410031'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410032':
+  bin: '410032'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410033':
+  bin: '410033'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIDELITY COMMERCIAL BANK, LTD.
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'410034':
+  bin: '410034'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PROCREDIT BANK SH.A.
+  country:
+    alpha_2: AL
+    alpha_3: ALB
+    name: Albania
+'410035':
+  bin: '410035'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: PROCREDIT BANK SH.A.
+  country:
+    alpha_2: AL
+    alpha_3: ALB
+    name: Albania
+'410036':
+  bin: '410036'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST GULF BANK PJSC
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'410037':
+  bin: '410037'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIRST GULF BANK PJSC
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'410038':
+  bin: '410038'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIRST GULF BANK PJSC
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'410039':
+  bin: '410039'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410040':
+  bin: '410040'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410041':
+  bin: '410041'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: STANDARD CHARTERED BANK (HONG KONG), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'410042':
+  bin: '410042'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410043':
+  bin: '410043'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: SYNDICATE BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'410044':
+  bin: '410044'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: LLC BANK FAMILNY
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'410045':
+  bin: '410045'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: WING HANG BANK, LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'410046':
+  bin: '410046'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410047':
+  bin: '410047'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMONWEALTH BANK OF AUSTRALIA
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'410048':
+  bin: '410048'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMONWEALTH BANK OF AUSTRALIA
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'410049':
+  bin: '410049'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMONWEALTH BANK OF AUSTRALIA
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'410050':
+  bin: '410050'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMONWEALTH BANK OF AUSTRALIA
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'410051':
+  bin: '410051'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMONWEALTH BANK OF AUSTRALIA
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'410052':
+  bin: '410052'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SOCIEDADE INTERBANCARIA E SISTEMA DE PAGAMENTOS, SARL (SISP)
+  country:
+    alpha_2: CV
+    alpha_3: CPV
+    name: Cape Verde
+'410053':
+  bin: '410053'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SOCIEDADE INTERBANCARIA E SISTEMA DE PAGAMENTOS, SARL (SISP)
+  country:
+    alpha_2: CV
+    alpha_3: CPV
+    name: Cape Verde
+'410054':
+  bin: '410054'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410055':
+  bin: '410055'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO ABN AMRO REAL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'410056':
+  bin: '410056'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: IKANO BANK SE
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'410057':
+  bin: '410057'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410058':
+  bin: '410058'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'410059':
+  bin: '410059'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ICICI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'410060':
+  bin: '410060'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410061':
+  bin: '410061'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NLB BANKA A.D. BEOGRAD
+  country:
+    alpha_2: RS
+    alpha_3: SRB
+    name: Serbia
+'410062':
+  bin: '410062'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: CHINA MERCHANTS BANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'410063':
+  bin: '410063'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410064':
+  bin: '410064'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410065':
+  bin: '410065'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410066':
+  bin: '410066'
+  brand: VISA
+  type: DEBIT
+  category: PRIVATE LABEL
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'410067':
+  bin: '410067'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: OTP BANK RT (NATIONAL SAVINGS AND COMMERCIAL BANK LTD.)
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'410068':
+  bin: '410068'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SAINT-PETERSBURG BANK FOR RECONSTRUCTION AND DEVELOPMENT
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'410069':
+  bin: '410069'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: SAINT-PETERSBURG BANK FOR RECONSTRUCTION AND DEVELOPMENT
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'410070':
+  bin: '410070'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: SAINT-PETERSBURG BANK FOR RECONSTRUCTION AND DEVELOPMENT
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'410071':
+  bin: '410071'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: SAINT-PETERSBURG BANK FOR RECONSTRUCTION AND DEVELOPMENT
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'410072':
+  bin: '410072'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410073':
+  bin: '410073'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BARBADOS NATIONAL BANK
+  country:
+    alpha_2: BB
+    alpha_3: BRB
+    name: Barbados
+'410074':
+  bin: '410074'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BARBADOS NATIONAL BANK
+  country:
+    alpha_2: BB
+    alpha_3: BRB
+    name: Barbados
+'410075':
+  bin: '410075'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARIBBEAN COMMERCIAL BANK (ANGUILLA), LTD.
+  country:
+    alpha_2: AI
+    alpha_3: AIA
+    name: Anguilla
+'410076':
+  bin: '410076'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: CARIBBEAN COMMERCIAL BANK (ANGUILLA), LTD.
+  country:
+    alpha_2: AI
+    alpha_3: AIA
+    name: Anguilla
+'410077':
+  bin: '410077'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410078':
+  bin: '410078'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NATIONAL BANK OF ANGUILLA, LTD.
+  country:
+    alpha_2: AI
+    alpha_3: AIA
+    name: Anguilla
+'410079':
+  bin: '410079'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: NATIONAL BANK OF ANGUILLA, LTD.
+  country:
+    alpha_2: AI
+    alpha_3: AIA
+    name: Anguilla
+'410080':
+  bin: '410080'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410081':
+  bin: '410081'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410082':
+  bin: '410082'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'410083':
+  bin: '410083'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'410084':
+  bin: '410084'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'410085':
+  bin: '410085'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ZHELDORBANK JSB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'410086':
+  bin: '410086'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: ZHELDORBANK JSB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'410087':
+  bin: '410087'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ZHELDORBANK JSB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'410088':
+  bin: '410088'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410089':
+  bin: '410089'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LINEA S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'410090':
+  bin: '410090'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410091':
+  bin: '410091'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410092':
+  bin: '410092'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'410093':
+  bin: '410093'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'410094':
+  bin: '410094'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'410095':
+  bin: '410095'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'410096':
+  bin: '410096'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410097':
+  bin: '410097'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410098':
+  bin: '410098'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'410099':
+  bin: '410099'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

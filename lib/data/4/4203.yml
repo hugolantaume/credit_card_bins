@@ -1,0 +1,721 @@
+---
+'420300':
+  bin: '420300'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST CAPITAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420301':
+  bin: '420301'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MERRILL LYNCH BANK AND TRUST CO., F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420302':
+  bin: '420302'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420303':
+  bin: '420303'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420304':
+  bin: '420304'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: AMERICAN FIRST C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420305':
+  bin: '420305'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420306':
+  bin: '420306'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIRST FEDERAL SAVINGS BANK OF TWIN FALLS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420307':
+  bin: '420307'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GREEN BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420308':
+  bin: '420308'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: JUSTICE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420309':
+  bin: '420309'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: EVANS BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'420310':
+  bin: '420310'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'420311':
+  bin: '420311'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'420312':
+  bin: '420312'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'420314':
+  bin: '420314'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'420315':
+  bin: '420315'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: DJ
+    alpha_3: DJI
+    name: Djibouti
+'420316':
+  bin: '420316'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: DJ
+    alpha_3: DJI
+    name: Djibouti
+'420317':
+  bin: '420317'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: DJ
+    alpha_3: DJI
+    name: Djibouti
+'420319':
+  bin: '420319'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: GUARANTY TRUST BANK PLC
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'420320':
+  bin: '420320'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GUARANTY TRUST BANK PLC
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'420321':
+  bin: '420321'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'420322':
+  bin: '420322'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ING BANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'420323':
+  bin: '420323'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ING BANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'420324':
+  bin: '420324'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ING BANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'420325':
+  bin: '420325'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'420330':
+  bin: '420330'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: GOSPODARCZY BANK WIELKOPOLSKI SA W POZNANIU
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'420331':
+  bin: '420331'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: GOSPODARCZY BANK WIELKOPOLSKI SA W POZNANIU
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'420332':
+  bin: '420332'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'420333':
+  bin: '420333'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'420334':
+  bin: '420334'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'420335':
+  bin: '420335'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'420336':
+  bin: '420336'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: KIT FINANCE INVESTMENT BANK PJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'420337':
+  bin: '420337'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: KIT FINANCE INVESTMENT BANK PJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'420338':
+  bin: '420338'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'420339':
+  bin: '420339'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'420340':
+  bin: '420340'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'420341':
+  bin: '420341'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'420342':
+  bin: '420342'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: YAPI VE KREDI BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'420343':
+  bin: '420343'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: YAPI VE KREDI BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'420344':
+  bin: '420344'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: YAPI VE KREDI BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'420345':
+  bin: '420345'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: EQUITY BANK, LTD.
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'420346':
+  bin: '420346'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: EQUITY BANK, LTD.
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'420347':
+  bin: '420347'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MR
+    alpha_3: MRT
+    name: Mauritania
+'420349':
+  bin: '420349'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: SANTANDER UK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'420350':
+  bin: '420350'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'420351':
+  bin: '420351'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'420356':
+  bin: '420356'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO MASVENTAS, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'420358':
+  bin: '420358'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: UNITED BANK FOR AFRICA PLC
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'420359':
+  bin: '420359'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: UNITED BANK FOR AFRICA PLC
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'420363':
+  bin: '420363'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: SB SBERBANK JSC
+  country:
+    alpha_2: KZ
+    alpha_3: KAZ
+    name: Kazakhstan
+'420366':
+  bin: '420366'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK BOHUSLAV JSC
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'420367':
+  bin: '420367'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK BOHUSLAV JSC
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'420368':
+  bin: '420368'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANK BOHUSLAV JSC
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'420370':
+  bin: '420370'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'420371':
+  bin: '420371'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'420372':
+  bin: '420372'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BARWA BANK
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'420373':
+  bin: '420373'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BARWA BANK
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'420374':
+  bin: '420374'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BARWA BANK
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'420375':
+  bin: '420375'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BARWA BANK
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'420376':
+  bin: '420376'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DANSKE BANK A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'420377':
+  bin: '420377'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: DANSKE BANK A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'420378':
+  bin: '420378'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: DANSKE BANK A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'420379':
+  bin: '420379'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: RUSSIAN JSC ROADS BANK PJSC ROSDORBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'420380':
+  bin: '420380'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: RUSSIAN JSC ROADS BANK PJSC ROSDORBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'420381':
+  bin: '420381'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: RUSSIAN JSC ROADS BANK PJSC ROSDORBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'420382':
+  bin: '420382'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF BAKU OJSC
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'420383':
+  bin: '420383'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK OF BAKU OJSC
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'420384':
+  bin: '420384'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANK OF BAKU OJSC
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'420386':
+  bin: '420386'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: NI
+    alpha_3: NIC
+    name: Nicaragua
+'420387':
+  bin: '420387'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: NI
+    alpha_3: NIC
+    name: Nicaragua
+'420388':
+  bin: '420388'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: NI
+    alpha_3: NIC
+    name: Nicaragua
+'420389':
+  bin: '420389'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: DEUTSCHE BANK PBC, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'420390':
+  bin: '420390'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru

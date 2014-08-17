@@ -1,0 +1,1001 @@
+---
+'429300':
+  bin: '429300'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429301':
+  bin: '429301'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK INTERNASIONAL INDONESIA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'429302':
+  bin: '429302'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF AMERICA N.T. AND, S.A.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'429303':
+  bin: '429303'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: VIJAYA BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'429304':
+  bin: '429304'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: VIJAYA BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'429305':
+  bin: '429305'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429306':
+  bin: '429306'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANK OF EAST ASIA, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'429307':
+  bin: '429307'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF EAST ASIA, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'429308':
+  bin: '429308'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'429309':
+  bin: '429309'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST PACIFIC BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'429310':
+  bin: '429310'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST PACIFIC BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'429311':
+  bin: '429311'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429312':
+  bin: '429312'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AMBANK (M) BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'429313':
+  bin: '429313'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: AMBANK (M) BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'429314':
+  bin: '429314'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: RHB BANK BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'429315':
+  bin: '429315'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: RHB BANK BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'429316':
+  bin: '429316'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MALAYAN BANKING BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'429317':
+  bin: '429317'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: WESTPAC BANKING CORPORATION
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'429318':
+  bin: '429318'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: WESTPAC BANKING CORPORATION
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'429319':
+  bin: '429319'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HONG LEONG BANK BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'429320':
+  bin: '429320'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HONG LEONG BANK BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'429321':
+  bin: '429321'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: B AND E, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'429322':
+  bin: '429322'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429323':
+  bin: '429323'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NBS BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'429324':
+  bin: '429324'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ABN AMRO BANK, N.V.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'429325':
+  bin: '429325'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ABN AMRO BANK, N.V.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'429326':
+  bin: '429326'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NMB BANK, LTD.
+  country:
+    alpha_2: ZW
+    alpha_3: ZWE
+    name: Zimbabwe
+'429327':
+  bin: '429327'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'429328':
+  bin: '429328'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'429329':
+  bin: '429329'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROYAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'429330':
+  bin: '429330'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429331':
+  bin: '429331'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429332':
+  bin: '429332'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CHINA MERCHANTS BANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'429333':
+  bin: '429333'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CHINA MERCHANTS BANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'429334':
+  bin: '429334'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CHINA MERCHANTS BANK
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'429335':
+  bin: '429335'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429336':
+  bin: '429336'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CREDITO PREDIAL PORTUGUES, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'429337':
+  bin: '429337'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429338':
+  bin: '429338'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429339':
+  bin: '429339'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CHINATRUST COMMERCIAL BANK
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'429340':
+  bin: '429340'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'429341':
+  bin: '429341'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429342':
+  bin: '429342'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429343':
+  bin: '429343'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO SANTANDER TOTTA, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'429344':
+  bin: '429344'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'429345':
+  bin: '429345'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'429346':
+  bin: '429346'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429347':
+  bin: '429347'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429348':
+  bin: '429348'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WESTPAC BANKING CORPORATION
+  country:
+    alpha_2: PG
+    alpha_3: PNG
+    name: Papua New Guinea
+'429349':
+  bin: '429349'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WESTPAC BANKING CORPORATION
+  country:
+    alpha_2: FJ
+    alpha_3: FJI
+    name: Fiji
+'429350':
+  bin: '429350'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HSBC BANK NEVADA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429351':
+  bin: '429351'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNION FEDERAL SAVINGS BANK OF INDIANAPOLIS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429352':
+  bin: '429352'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NORTHWEST SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429353':
+  bin: '429353'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MEMBERSALLIANCE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429354':
+  bin: '429354'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MAIN STREET BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429355':
+  bin: '429355'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMERCIAL SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429356':
+  bin: '429356'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429357':
+  bin: '429357'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO SANTANDER TOTTA, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'429358':
+  bin: '429358'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NORTHWEST SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429359':
+  bin: '429359'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429360':
+  bin: '429360'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NEW WASHINGTON STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429361':
+  bin: '429361'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429362':
+  bin: '429362'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429363':
+  bin: '429363'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST STATE BANK OF BLOOMINGTON
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429364':
+  bin: '429364'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: STATE BANK OF CHERRY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429365':
+  bin: '429365'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MAIN STREET BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429366':
+  bin: '429366'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SELECT COMMUNITY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429367':
+  bin: '429367'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429368':
+  bin: '429368'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FULTON BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429369':
+  bin: '429369'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FULTON BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429370':
+  bin: '429370'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JERSEY TRADES F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429371':
+  bin: '429371'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NEW ENGLAND F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429372':
+  bin: '429372'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CITY NATIONAL BANK OF METROPOLIS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429373':
+  bin: '429373'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK OF OTTAWA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429374':
+  bin: '429374'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: AMERICAN BANK OF ILLINOIS IN HIGHLAND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429375':
+  bin: '429375'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: RANTOUL FIRST BANK, S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429376':
+  bin: '429376'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: CITY BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429377':
+  bin: '429377'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: CITY BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429378':
+  bin: '429378'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429379':
+  bin: '429379'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BRANCH BANKING AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429380':
+  bin: '429380'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429381':
+  bin: '429381'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANKARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429382':
+  bin: '429382'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: RIZAL COMMERCIAL BANKING CORPORATION
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'429383':
+  bin: '429383'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ATTICA BANK, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'429384':
+  bin: '429384'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF ATTICA, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'429385':
+  bin: '429385'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429386':
+  bin: '429386'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF NOVA SCOTIA
+  country:
+    alpha_2: AI
+    alpha_3: AIA
+    name: Anguilla
+'429387':
+  bin: '429387'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429388':
+  bin: '429388'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429389':
+  bin: '429389'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'429390':
+  bin: '429390'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF BARODA
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'429391':
+  bin: '429391'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: KOTAK MAHINDRA BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'429392':
+  bin: '429392'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429393':
+  bin: '429393'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: KOTAK MAHINDRA BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'429394':
+  bin: '429394'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NATIONAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'429395':
+  bin: '429395'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CU ELECTRONIC TRANSACTION SERVICES, INC.
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'429396':
+  bin: '429396'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429397':
+  bin: '429397'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429398':
+  bin: '429398'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'429399':
+  bin: '429399'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: INTERBANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

@@ -1,0 +1,1001 @@
+---
+'484100':
+  bin: '484100'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484101':
+  bin: '484101'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484102':
+  bin: '484102'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484103':
+  bin: '484103'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484104':
+  bin: '484104'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484105':
+  bin: '484105'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484106':
+  bin: '484106'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484107':
+  bin: '484107'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: GP COMMUNITY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484108':
+  bin: '484108'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BURLINGTON NORTHERN SANTA FE RAILWAY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484109':
+  bin: '484109'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BURLINGTON NORTHERN SANTA FE RAILWAY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484110':
+  bin: '484110'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484111':
+  bin: '484111'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BBVA BANCOMER USA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484112':
+  bin: '484112'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484113':
+  bin: '484113'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484114':
+  bin: '484114'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: AMERICAN HERITAGE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484115':
+  bin: '484115'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484116':
+  bin: '484116'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484117':
+  bin: '484117'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484118':
+  bin: '484118'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484119':
+  bin: '484119'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484120':
+  bin: '484120'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484121':
+  bin: '484121'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484122':
+  bin: '484122'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484123':
+  bin: '484123'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484124':
+  bin: '484124'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484125':
+  bin: '484125'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484126':
+  bin: '484126'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484127':
+  bin: '484127'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484128':
+  bin: '484128'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF TENNESSEE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484129':
+  bin: '484129'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484130':
+  bin: '484130'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'484131':
+  bin: '484131'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'484132':
+  bin: '484132'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'484133':
+  bin: '484133'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MZ
+    alpha_3: MOZ
+    name: Mozambique
+'484134':
+  bin: '484134'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484135':
+  bin: '484135'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484136':
+  bin: '484136'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484137':
+  bin: '484137'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484138':
+  bin: '484138'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484139':
+  bin: '484139'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484140':
+  bin: '484140'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484141':
+  bin: '484141'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484142':
+  bin: '484142'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484143':
+  bin: '484143'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484144':
+  bin: '484144'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'484145':
+  bin: '484145'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'484146':
+  bin: '484146'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'484147':
+  bin: '484147'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'484148':
+  bin: '484148'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'484149':
+  bin: '484149'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UZ
+    alpha_3: UZB
+    name: Uzbekistan
+'484150':
+  bin: '484150'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'484151':
+  bin: '484151'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'484152':
+  bin: '484152'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'484153':
+  bin: '484153'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ''
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'484154':
+  bin: '484154'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: ''
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'484155':
+  bin: '484155'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484156':
+  bin: '484156'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484157':
+  bin: '484157'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484158':
+  bin: '484158'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484159':
+  bin: '484159'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484160':
+  bin: '484160'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484161':
+  bin: '484161'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484162':
+  bin: '484162'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: FIRSTRAND BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'484163':
+  bin: '484163'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484164':
+  bin: '484164'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'484165':
+  bin: '484165'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SN
+    alpha_3: SEN
+    name: Senegal
+'484166':
+  bin: '484166'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484167':
+  bin: '484167'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PS
+    alpha_3: PSE
+    name: Palestinian Territory, Occupied
+'484168':
+  bin: '484168'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'484169':
+  bin: '484169'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484170':
+  bin: '484170'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484171':
+  bin: '484171'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: PK
+    alpha_3: PAK
+    name: Pakistan
+'484172':
+  bin: '484172'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'484173':
+  bin: '484173'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'484174':
+  bin: '484174'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'484175':
+  bin: '484175'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'484176':
+  bin: '484176'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'484177':
+  bin: '484177'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SN
+    alpha_3: SEN
+    name: Senegal
+'484178':
+  bin: '484178'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484179':
+  bin: '484179'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484180':
+  bin: '484180'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484181':
+  bin: '484181'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484182':
+  bin: '484182'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484183':
+  bin: '484183'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484184':
+  bin: '484184'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'484185':
+  bin: '484185'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484186':
+  bin: '484186'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'484187':
+  bin: '484187'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RS
+    alpha_3: SRB
+    name: Serbia
+'484188':
+  bin: '484188'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484189':
+  bin: '484189'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'484190':
+  bin: '484190'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'484191':
+  bin: '484191'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'484192':
+  bin: '484192'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484193':
+  bin: '484193'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'484194':
+  bin: '484194'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'484195':
+  bin: '484195'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484196':
+  bin: '484196'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: OLD NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'484197':
+  bin: '484197'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KZ
+    alpha_3: KAZ
+    name: Kazakhstan
+'484198':
+  bin: '484198'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'484199':
+  bin: '484199'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil

@@ -1,0 +1,1001 @@
+---
+'401900':
+  bin: '401900'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: BANESCO, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'401901':
+  bin: '401901'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401902':
+  bin: '401902'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401903':
+  bin: '401903'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: KINECTA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401904':
+  bin: '401904'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST INTERSTATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401905':
+  bin: '401905'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: METROPOLITAN CAPITAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401906':
+  bin: '401906'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: METROPOLITAN CAPITAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401907':
+  bin: '401907'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: METROPOLITAN CAPITAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401908':
+  bin: '401908'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ST. HELENS COMMUNITY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401909':
+  bin: '401909'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: RICHLAND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401910':
+  bin: '401910'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401911':
+  bin: '401911'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401912':
+  bin: '401912'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401913':
+  bin: '401913'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401914':
+  bin: '401914'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401915':
+  bin: '401915'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401916':
+  bin: '401916'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: JSCB SLAVIANSKY BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'401917':
+  bin: '401917'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANQUE SOCIETE GENERALE VOSTOK (JSC)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'401918':
+  bin: '401918'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401919':
+  bin: '401919'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: UNITED BANK FOR AFRICA GHANA, LTD.
+  country:
+    alpha_2: GH
+    alpha_3: GHA
+    name: Ghana
+'401920':
+  bin: '401920'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401921':
+  bin: '401921'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401922':
+  bin: '401922'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401923':
+  bin: '401923'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CONNEX C.U., INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401924':
+  bin: '401924'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: COLONIAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401925':
+  bin: '401925'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: MACDILL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401926':
+  bin: '401926'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DOWNEY SAVINGS AND LOAN ASSOCIATION, F.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401927':
+  bin: '401927'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ADVANCE FINANCIAL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401928':
+  bin: '401928'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401929':
+  bin: '401929'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401930':
+  bin: '401930'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401931':
+  bin: '401931'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401932':
+  bin: '401932'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401933':
+  bin: '401933'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401934':
+  bin: '401934'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401935':
+  bin: '401935'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401936':
+  bin: '401936'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401937':
+  bin: '401937'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401938':
+  bin: '401938'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401939':
+  bin: '401939'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CITIZENS BANK AND TRUST CO.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401940':
+  bin: '401940'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNITED NATIONS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401941':
+  bin: '401941'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: UNITED NATIONS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401942':
+  bin: '401942'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401943':
+  bin: '401943'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: DMB COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401944':
+  bin: '401944'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MERCANTILE-SAFE DEPOSIT AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401945':
+  bin: '401945'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401946':
+  bin: '401946'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: POWELL VALLEY NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401947':
+  bin: '401947'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: COMMERCIAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401948':
+  bin: '401948'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WESTFIELD BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401949':
+  bin: '401949'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401950':
+  bin: '401950'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401951':
+  bin: '401951'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST NATIONAL BANK OF OMAHA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401952':
+  bin: '401952'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401953':
+  bin: '401953'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST NATIONAL BANK OF OMAHA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401954':
+  bin: '401954'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST NATIONAL BANK OF OMAHA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401955':
+  bin: '401955'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST NATIONAL BANK OF OMAHA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401956':
+  bin: '401956'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST NATIONAL BANK OF OMAHA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401957':
+  bin: '401957'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF ANN ARBOR
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401958':
+  bin: '401958'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: COLORADO EAST BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401959':
+  bin: '401959'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COLORADO EAST BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401960':
+  bin: '401960'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401961':
+  bin: '401961'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401962':
+  bin: '401962'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: LOS ANGELES FIREMEN'S C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401963':
+  bin: '401963'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: LOS ANGELES FIREMEN'S C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401964':
+  bin: '401964'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FARMERS AND MINERS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401965':
+  bin: '401965'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BUSINESS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401966':
+  bin: '401966'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: COMMERCE BANK OF SOUTHWEST FLORIDA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401967':
+  bin: '401967'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401968':
+  bin: '401968'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: COLUMBIA COUNTY FARMERS NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401969':
+  bin: '401969'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: EMISOR DE TARJETAS BR S.A. DE C.V.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'401970':
+  bin: '401970'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PELICAN STATE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401971':
+  bin: '401971'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BUSEY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401972':
+  bin: '401972'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: AMERICAN NATIONAL BANK OF TEXAS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401973':
+  bin: '401973'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST-KNOX NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401974':
+  bin: '401974'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COLORADO EAST BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401975':
+  bin: '401975'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401976':
+  bin: '401976'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401977':
+  bin: '401977'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401978':
+  bin: '401978'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CUMORAH C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401979':
+  bin: '401979'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF OAK RIDGE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401980':
+  bin: '401980'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MIDDLESEX HEALTHCARE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401981':
+  bin: '401981'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DEPARTMENT STORES NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401982':
+  bin: '401982'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: LA CAPITOL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401983':
+  bin: '401983'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LA CAPITOL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401984':
+  bin: '401984'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LA CAPITOL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401985':
+  bin: '401985'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNITED NATIONS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401986':
+  bin: '401986'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: LEE BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401987':
+  bin: '401987'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST PRIORITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401988':
+  bin: '401988'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST PRIORITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401989':
+  bin: '401989'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: MEMBERS CHOICE COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401990':
+  bin: '401990'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NEW CENTURY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401991':
+  bin: '401991'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: HIGHLANDS UNION BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401992':
+  bin: '401992'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401993':
+  bin: '401993'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF BIRMINGHAM
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401994':
+  bin: '401994'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF BIRMINGHAM
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401995':
+  bin: '401995'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF BIRMINGHAM
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401996':
+  bin: '401996'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: COLORADO C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401997':
+  bin: '401997'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: KNOXVILLE TEACHERS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401998':
+  bin: '401998'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: K. C. POLICE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'401999':
+  bin: '401999'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK OF MICHIGAN
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

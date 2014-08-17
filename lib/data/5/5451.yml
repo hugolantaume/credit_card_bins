@@ -1,0 +1,1001 @@
+---
+'545100':
+  bin: '545100'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: NATIONAL WESTMINSTER BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545101':
+  bin: '545101'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: GAZPROMBANK OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'545102':
+  bin: '545102'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: TURKIYE GARANTI BANKASI A. S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'545103':
+  bin: '545103'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: YAPI VE KREDI BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'545104':
+  bin: '545104'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: EUROCARD AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'545105':
+  bin: '545105'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: DEUTSCHE BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'545106':
+  bin: '545106'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'545107':
+  bin: '545107'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'545108':
+  bin: '545108'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NATWEST
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545109':
+  bin: '545109'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: EUROPAY (SWITZERLAND), S.A.
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'545110':
+  bin: '545110'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NATWEST
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545111':
+  bin: '545111'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: EUROCARD AB
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'545112':
+  bin: '545112'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NATWEST
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545113':
+  bin: '545113'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NATWEST
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545114':
+  bin: '545114'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: SEB KORT DANMARK
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'545115':
+  bin: '545115'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: ZAO RAIFFEISENBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'545116':
+  bin: '545116'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: AMERIPRISE BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'545117':
+  bin: '545117'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: TURKIYE GARANTI BANKASI A. S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'545118':
+  bin: '545118'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: BANCO SANTANDER, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'545119':
+  bin: '545119'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'545120':
+  bin: '545120'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: FINANSBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'545121':
+  bin: '545121'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NATWEST
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545122':
+  bin: '545122'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'545123':
+  bin: '545123'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: HELLENIC BANK PUBLIC CO., LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'545124':
+  bin: '545124'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: TURK EKONOMI BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'545125':
+  bin: '545125'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'545126':
+  bin: '545126'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'545127':
+  bin: '545127'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'545128':
+  bin: '545128'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'545129':
+  bin: '545129'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'545130':
+  bin: '545130'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NATWEST
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545131':
+  bin: '545131'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: DEUTSCHER SPARKASSEN UND GIROVERBAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'545132':
+  bin: '545132'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: EURO KARTENSYSTEME GMBH
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'545133':
+  bin: '545133'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'545134':
+  bin: '545134'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: LEUMICARD, LTD.
+  country:
+    alpha_2: IL
+    alpha_3: ISR
+    name: Israel
+'545135':
+  bin: '545135'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NATWEST
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545136':
+  bin: '545136'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: ISRAEL CREDIT CARDS, LTD.
+  country:
+    alpha_2: IL
+    alpha_3: ISR
+    name: Israel
+'545137':
+  bin: '545137'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: CITIBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'545138':
+  bin: '545138'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: BANK LEUMI LE-ISRAEL B.M.
+  country:
+    alpha_2: IL
+    alpha_3: ISR
+    name: Israel
+'545139':
+  bin: '545139'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: NORDEA BANK DANMARK A/S
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'545140':
+  bin: '545140'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: NATIONAL WESTMINSTER BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545141':
+  bin: '545141'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: BANK OF SCOTLAND PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545142':
+  bin: '545142'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: ROYAL BANK OF SCOTLAND PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545143':
+  bin: '545143'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: ALLIED BANKING CORPORATION
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'545144':
+  bin: '545144'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'545145':
+  bin: '545145'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NATWEST
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545146':
+  bin: '545146'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: EUROPAY LUXEMBOURG S.C.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'545147':
+  bin: '545147'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: COMMERCIAL BANK MASTER-BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'545148':
+  bin: '545148'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: TURK EKONOMI BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'545149':
+  bin: '545149'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NATWEST
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545150':
+  bin: '545150'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: NETWORK INTERNATIONAL LLC
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'545151':
+  bin: '545151'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: JSCB ROSBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'545152':
+  bin: '545152'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'545153':
+  bin: '545153'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: BANCO INTERNACIONAL
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'545154':
+  bin: '545154'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NATWEST
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545155':
+  bin: '545155'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: ALLIED IRISH BANKS PLC
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'545156':
+  bin: '545156'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: AIB GROUP (UK) PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545157':
+  bin: '545157'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: COMMERCIAL BANK MASTER-BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'545158':
+  bin: '545158'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'545159':
+  bin: '545159'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: BANCA SELLA S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'545160':
+  bin: '545160'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: JSC RUSSIAN STANDARD BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'545161':
+  bin: '545161'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: FOKUS BANK ASA
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'545162':
+  bin: '545162'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: DANSKE BANK A/S
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'545163':
+  bin: '545163'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: CLOSED JSB SURGUTNEFTEGASBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'545164':
+  bin: '545164'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: BANK BPH SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'545165':
+  bin: '545165'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: UBS AG
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'545166':
+  bin: '545166'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: UBS AG
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'545167':
+  bin: '545167'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: UBS AG
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'545168':
+  bin: '545168'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: B@NCA 24-7 S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'545169':
+  bin: '545169'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: UBS DEUTSCHLAND AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'545170':
+  bin: '545170'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: UBS (LUXEMBOURG), S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'545171':
+  bin: '545171'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'545172':
+  bin: '545172'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: UBS AG
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545173':
+  bin: '545173'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'545174':
+  bin: '545174'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BLACK
+  issuer: CONSORCIO CREDICARD, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'545175':
+  bin: '545175'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NATWEST
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545176':
+  bin: '545176'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NATWEST
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545177':
+  bin: '545177'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: UBS (ITALIA) S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'545178':
+  bin: '545178'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BLACK
+  issuer: PACIFICARD, S.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'545179':
+  bin: '545179'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: INTERNATIONAL CARD SERVICES BV
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'545180':
+  bin: '545180'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BLACK
+  issuer: ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.), S.A.
+  country:
+    alpha_2: BO
+    alpha_3: BOL
+    name: Bolivia, Plurinational State of
+'545181':
+  bin: '545181'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: B AND N BANK (JSC)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'545182':
+  bin: '545182'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: CJSC COMMERCIAL BANK CITIBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'545183':
+  bin: '545183'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: HSBC BANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'545184':
+  bin: '545184'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: EURO KARTENSYSTEME GMBH
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'545185':
+  bin: '545185'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: NORDEA BANK NORGE ASA
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'545186':
+  bin: '545186'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545187':
+  bin: '545187'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NATWEST
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545188':
+  bin: '545188'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NATWEST
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545189':
+  bin: '545189'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: JSC BALTIC INTERNATIONAL BANK
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'545190':
+  bin: '545190'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: NORDEA BANK AB (PUBL)
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'545191':
+  bin: '545191'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: NATWEST
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'545192':
+  bin: '545192'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BLACK
+  issuer: CONSORCIO CREDICARD, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'545193':
+  bin: '545193'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BLACK
+  issuer: CONSORCIO CREDICARD, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'545194':
+  bin: '545194'
+  brand: MASTERCARD
+  type: ''
+  category: BLACK
+  issuer: CONSORCIO CREDICARD, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'545195':
+  bin: '545195'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BLACK
+  issuer: BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'545196':
+  bin: '545196'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BLACK
+  issuer: CORP BANCA
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'545197':
+  bin: '545197'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: EURO KARTENSYSTEME GMBH
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'545198':
+  bin: '545198'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: HSBC BANK USA, N.A. ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'545199':
+  bin: '545199'
+  brand: MASTERCARD
+  type: CREDIT
+  category: WORLD CARD
+  issuer: PUBLIC JSC UNICREDIT BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine

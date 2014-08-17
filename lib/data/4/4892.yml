@@ -1,0 +1,1001 @@
+---
+'489200':
+  bin: '489200'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF OKLAHOMA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489201':
+  bin: '489201'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: STATE BANK OF SOUTHERN UTAH
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489202':
+  bin: '489202'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNICARD BANCO MULTIPLO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'489203':
+  bin: '489203'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'489204':
+  bin: '489204'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'489205':
+  bin: '489205'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'489206':
+  bin: '489206'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO SANTANDER PUERTO RICO
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'489207':
+  bin: '489207'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO SANTANDER PUERTO RICO
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'489208':
+  bin: '489208'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CHARLOTTE STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489209':
+  bin: '489209'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: LAPORTE COMMUNITY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489210':
+  bin: '489210'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO CITIBANK DE GUATEMALA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'489211':
+  bin: '489211'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO CITIBANK DE GUATEMALA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'489212':
+  bin: '489212'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: SYNOVUS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489213':
+  bin: '489213'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: GREEN DOT
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489214':
+  bin: '489214'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: GREEN DOT
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489215':
+  bin: '489215'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: GREEN DOT
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489216':
+  bin: '489216'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COLUMBUS BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489217':
+  bin: '489217'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GREEN DOT
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489218':
+  bin: '489218'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: GREEN DOT
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489219':
+  bin: '489219'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: COMMERCIAL BANKING COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489220':
+  bin: '489220'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: COMMERCIAL BANKING COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489221':
+  bin: '489221'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: COMMERCIAL BANKING COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489222':
+  bin: '489222'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BANCORP BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489223':
+  bin: '489223'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: COMMERCIAL BANKING COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489224':
+  bin: '489224'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMERCIAL BANKING COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489225':
+  bin: '489225'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: COMMERCIAL BANKING COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489226':
+  bin: '489226'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMERCIAL BANKING COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489227':
+  bin: '489227'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMERCIAL BANKING COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489228':
+  bin: '489228'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMERCIAL BANKING COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489229':
+  bin: '489229'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: COMMERCIAL BANKING COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489230':
+  bin: '489230'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: COMMERCIAL BANKING COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489231':
+  bin: '489231'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COLEMAN COUNTY STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489232':
+  bin: '489232'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO CITIBANK DE GUATEMALA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'489233':
+  bin: '489233'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: GREEN DOT
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489234':
+  bin: '489234'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489235':
+  bin: '489235'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489236':
+  bin: '489236'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MVB BANK, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489237':
+  bin: '489237'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: COMMERCIAL BANKING COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489238':
+  bin: '489238'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: PEN AIR F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489239':
+  bin: '489239'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMERCIAL BANKING COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489240':
+  bin: '489240'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: M BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489241':
+  bin: '489241'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SARASOTA COASTAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489242':
+  bin: '489242'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: LLOYDS BANK (BLSA) LTD.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'489243':
+  bin: '489243'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NORTH COAST C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489244':
+  bin: '489244'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NUEVO BANCO BISEL, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'489245':
+  bin: '489245'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO CREDITO AGRICOLA DE CARTAGO
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'489246':
+  bin: '489246'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489247':
+  bin: '489247'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNITED COMMERCE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489248':
+  bin: '489248'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PROVIDENT BANK AND TRUST OF BELIZE, LTD.
+  country:
+    alpha_2: BZ
+    alpha_3: BLZ
+    name: Belize
+'489249':
+  bin: '489249'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PROVIDENT BANK AND TRUST OF BELIZE, LTD.
+  country:
+    alpha_2: BZ
+    alpha_3: BLZ
+    name: Belize
+'489250':
+  bin: '489250'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489251':
+  bin: '489251'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489252':
+  bin: '489252'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: GREEN DOT
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489253':
+  bin: '489253'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489254':
+  bin: '489254'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489255':
+  bin: '489255'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489256':
+  bin: '489256'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: GREEN DOT
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489257':
+  bin: '489257'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489258':
+  bin: '489258'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489259':
+  bin: '489259'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489260':
+  bin: '489260'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489261':
+  bin: '489261'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FARMERS NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489262':
+  bin: '489262'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489263':
+  bin: '489263'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489264':
+  bin: '489264'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CALIFORNIA BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489265':
+  bin: '489265'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489266':
+  bin: '489266'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489267':
+  bin: '489267'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489268':
+  bin: '489268'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489269':
+  bin: '489269'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489270':
+  bin: '489270'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489271':
+  bin: '489271'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: VIKING BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489272':
+  bin: '489272'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489273':
+  bin: '489273'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489274':
+  bin: '489274'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489275':
+  bin: '489275'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489276':
+  bin: '489276'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489277':
+  bin: '489277'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489278':
+  bin: '489278'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489279':
+  bin: '489279'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489280':
+  bin: '489280'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489281':
+  bin: '489281'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST AND CITIZENS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489282':
+  bin: '489282'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489283':
+  bin: '489283'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489284':
+  bin: '489284'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489285':
+  bin: '489285'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489286':
+  bin: '489286'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: GREEN DOT
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489287':
+  bin: '489287'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489288':
+  bin: '489288'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489289':
+  bin: '489289'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489290':
+  bin: '489290'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489291':
+  bin: '489291'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489292':
+  bin: '489292'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489293':
+  bin: '489293'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489294':
+  bin: '489294'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489295':
+  bin: '489295'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489296':
+  bin: '489296'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489297':
+  bin: '489297'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489298':
+  bin: '489298'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'489299':
+  bin: '489299'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

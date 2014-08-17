@@ -1,0 +1,1001 @@
+---
+'452100':
+  bin: '452100'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452101':
+  bin: '452101'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452102':
+  bin: '452102'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: STANDARD BANK, PASB
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452103':
+  bin: '452103'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452104':
+  bin: '452104'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: THE TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452105':
+  bin: '452105'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: LIBERTY BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452106':
+  bin: '452106'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: NATIONAL BANK OF ARIZONA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452107':
+  bin: '452107'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: AMERICAN TRUST AND SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452108':
+  bin: '452108'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: INDEPENDENT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452109':
+  bin: '452109'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: MIDFIRST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452110':
+  bin: '452110'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: TT
+    alpha_3: TTO
+    name: Trinidad and Tobago
+'452111':
+  bin: '452111'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452112':
+  bin: '452112'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452113':
+  bin: '452113'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452114':
+  bin: '452114'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452115':
+  bin: '452115'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452116':
+  bin: '452116'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452117':
+  bin: '452117'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452118':
+  bin: '452118'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452119':
+  bin: '452119'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452120':
+  bin: '452120'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452121':
+  bin: '452121'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452122':
+  bin: '452122'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452123':
+  bin: '452123'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452124':
+  bin: '452124'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452125':
+  bin: '452125'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452126':
+  bin: '452126'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452127':
+  bin: '452127'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452128':
+  bin: '452128'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452129':
+  bin: '452129'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452130':
+  bin: '452130'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452131':
+  bin: '452131'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452132':
+  bin: '452132'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452133':
+  bin: '452133'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452134':
+  bin: '452134'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'452135':
+  bin: '452135'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452136':
+  bin: '452136'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452137':
+  bin: '452137'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452138':
+  bin: '452138'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452139':
+  bin: '452139'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452140':
+  bin: '452140'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452141':
+  bin: '452141'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: TD CANADA TRUST BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452142':
+  bin: '452142'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: TD CANADA TRUST BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452143':
+  bin: '452143'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: THE TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452144':
+  bin: '452144'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DANVILLE CITY EMPLOYEES F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452145':
+  bin: '452145'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452146':
+  bin: '452146'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: THE TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452147':
+  bin: '452147'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: THE TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452148':
+  bin: '452148'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: THE TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452149':
+  bin: '452149'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: THE TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452150':
+  bin: '452150'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452151':
+  bin: '452151'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: TD CANADA TRUST BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452152':
+  bin: '452152'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452153':
+  bin: '452153'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452154':
+  bin: '452154'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: THE TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452155':
+  bin: '452155'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: THE TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452156':
+  bin: '452156'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: THE TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452157':
+  bin: '452157'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: THE TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452158':
+  bin: '452158'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: TD CANADA TRUST BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452159':
+  bin: '452159'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MWD F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452160':
+  bin: '452160'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: IDAHO STATE UNIVERSITY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452161':
+  bin: '452161'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CENTRAL COAST F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452162':
+  bin: '452162'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ALLIED TRADES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452163':
+  bin: '452163'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MOORE WEST F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452164':
+  bin: '452164'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: U.P.S. EMPLOYEES F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452165':
+  bin: '452165'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: UNITED HEALTH SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452166':
+  bin: '452166'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AEROSPACE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452167':
+  bin: '452167'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SOUTHWEST COLORADO F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452168':
+  bin: '452168'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: THE TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452169':
+  bin: '452169'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PACIFIC TRANSPORTATION F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452170':
+  bin: '452170'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: THE TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452171':
+  bin: '452171'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452172':
+  bin: '452172'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452173':
+  bin: '452173'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452174':
+  bin: '452174'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: THE TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452175':
+  bin: '452175'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: THE TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452176':
+  bin: '452176'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: THE TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452177':
+  bin: '452177'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: THE TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452178':
+  bin: '452178'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: THE TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452179':
+  bin: '452179'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: INDEPENDENT NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452180':
+  bin: '452180'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452181':
+  bin: '452181'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: TD CANADA TRUST BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452182':
+  bin: '452182'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: TD CANADA TRUST BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452183':
+  bin: '452183'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: WESTSTAR C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452184':
+  bin: '452184'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: TD CANADA TRUST BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452185':
+  bin: '452185'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: 121 FINANCIAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452186':
+  bin: '452186'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: 121 FINANCIAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452187':
+  bin: '452187'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: THE TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452188':
+  bin: '452188'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PATELCO C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452189':
+  bin: '452189'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: THE TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452190':
+  bin: '452190'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: VANTAGE WEST C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452191':
+  bin: '452191'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIRST COAST COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452192':
+  bin: '452192'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIRST COAST COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452193':
+  bin: '452193'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: VERMONT F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452194':
+  bin: '452194'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: WESTERN VISTA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452195':
+  bin: '452195'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: HIGHLANDS UNION BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452196':
+  bin: '452196'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452197':
+  bin: '452197'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: SUSQUEHANNA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'452198':
+  bin: '452198'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TORONTO-DOMINION BANK
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'452199':
+  bin: '452199'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: SUSQUEHANNA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

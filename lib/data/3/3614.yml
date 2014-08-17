@@ -1,0 +1,31 @@
+---
+'361411':
+  bin: '361411'
+  brand: DISCOVER
+  type: CREDIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'361480':
+  bin: '361480'
+  brand: DISCOVER
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DK
+    alpha_3: DNK
+    name: Denmark
+'361482':
+  bin: '361482'
+  brand: DISCOVER
+  type: CREDIT
+  category: ''
+  issuer: SEB
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway

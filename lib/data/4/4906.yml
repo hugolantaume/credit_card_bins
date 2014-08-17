@@ -1,0 +1,1001 @@
+---
+'490600':
+  bin: '490600'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SOCIETE TUNISIENNE DE BANQUE
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'490601':
+  bin: '490601'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SOCIETE TUNISIENNE DE BANQUE
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'490602':
+  bin: '490602'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'490603':
+  bin: '490603'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'490604':
+  bin: '490604'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STANDARD FEDERAL BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490605':
+  bin: '490605'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490606':
+  bin: '490606'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: KOOKMIN BANK
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'490607':
+  bin: '490607'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ALLFIRST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490608':
+  bin: '490608'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490609':
+  bin: '490609'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: BARCLAYCARD GERMANY
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'490610':
+  bin: '490610'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: BARCLAYCARD GERMANY
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'490611':
+  bin: '490611'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'490612':
+  bin: '490612'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'490613':
+  bin: '490613'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: BARCLAYCARD GERMANY
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'490614':
+  bin: '490614'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: BARCLAYCARD GERMANY
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'490615':
+  bin: '490615'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SOUTHWEST F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490616':
+  bin: '490616'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SOUTHWEST F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490617':
+  bin: '490617'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMUNITY BANK OF MISSOURI
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490618':
+  bin: '490618'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: INTERBANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490619':
+  bin: '490619'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PORTALLIANCE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490620':
+  bin: '490620'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'490621':
+  bin: '490621'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'490622':
+  bin: '490622'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BC CARD CO.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'490623':
+  bin: '490623'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'490624':
+  bin: '490624'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BC CARD CO.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'490625':
+  bin: '490625'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'490626':
+  bin: '490626'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: OLD LINE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490627':
+  bin: '490627'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'490628':
+  bin: '490628'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: STATE BANK OF HILDRETH
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490629':
+  bin: '490629'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PREMIER VALLEY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490630':
+  bin: '490630'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AAA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490631':
+  bin: '490631'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'490632':
+  bin: '490632'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'490633':
+  bin: '490633'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BC CARD CO.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'490634':
+  bin: '490634'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: 1ST FINANCIAL BANK USA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490635':
+  bin: '490635'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: TOWN NORTH BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490636':
+  bin: '490636'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BC CARD CO.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'490637':
+  bin: '490637'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: BARCLAYCARD GERMANY
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'490638':
+  bin: '490638'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'490639':
+  bin: '490639'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'490640':
+  bin: '490640'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PILGRIM BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490641':
+  bin: '490641'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO CONTINENTAL
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'490642':
+  bin: '490642'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SCOTIABANK INVERLAT, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'490643':
+  bin: '490643'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: MITSUBISHI UFJ NICOS CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490644':
+  bin: '490644'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MITSUBISHI UFJ NICOS CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490645':
+  bin: '490645'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: MITSUBISHI UFJ NICOS CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490646':
+  bin: '490646'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MITSUBISHI UFJ NICOS CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490647':
+  bin: '490647'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490648':
+  bin: '490648'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490649':
+  bin: '490649'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490650':
+  bin: '490650'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: MITSUBISHI UFJ NICOS CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490651':
+  bin: '490651'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MITSUBISHI UFJ NICOS CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490652':
+  bin: '490652'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490653':
+  bin: '490653'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490654':
+  bin: '490654'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490655':
+  bin: '490655'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490656':
+  bin: '490656'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: MITSUBISHI UFJ NICOS CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490657':
+  bin: '490657'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490658':
+  bin: '490658'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490659':
+  bin: '490659'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490660':
+  bin: '490660'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490661':
+  bin: '490661'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490662':
+  bin: '490662'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490663':
+  bin: '490663'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490664':
+  bin: '490664'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490665':
+  bin: '490665'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490666':
+  bin: '490666'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490667':
+  bin: '490667'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490668':
+  bin: '490668'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490669':
+  bin: '490669'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490670':
+  bin: '490670'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490671':
+  bin: '490671'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MITSUBISHI UFJ NICOS CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490672':
+  bin: '490672'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490673':
+  bin: '490673'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490674':
+  bin: '490674'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490675':
+  bin: '490675'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490676':
+  bin: '490676'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490677':
+  bin: '490677'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490678':
+  bin: '490678'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490679':
+  bin: '490679'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490680':
+  bin: '490680'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490681':
+  bin: '490681'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490682':
+  bin: '490682'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490683':
+  bin: '490683'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490684':
+  bin: '490684'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490685':
+  bin: '490685'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490686':
+  bin: '490686'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490687':
+  bin: '490687'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490688':
+  bin: '490688'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490689':
+  bin: '490689'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490690':
+  bin: '490690'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490691':
+  bin: '490691'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490692':
+  bin: '490692'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DC CARD COMPANY, LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'490693':
+  bin: '490693'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'490694':
+  bin: '490694'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CANADIAN IMPERIAL BANK OF COMMERCE
+  country:
+    alpha_2: BS
+    alpha_3: BHS
+    name: Bahamas
+'490695':
+  bin: '490695'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DE CREDITO REAL DE MINAS GERAIS
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'490696':
+  bin: '490696'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'490697':
+  bin: '490697'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: BARCLAYCARD GERMANY
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'490698':
+  bin: '490698'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CITIBANK
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'490699':
+  bin: '490699'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HSBC BANK ARGENTINA, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina

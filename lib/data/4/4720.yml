@@ -1,0 +1,1001 @@
+---
+'472000':
+  bin: '472000'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BUSEY BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472001':
+  bin: '472001'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: SUTTON BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472002':
+  bin: '472002'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CNLBANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472003':
+  bin: '472003'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CNLBANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472004':
+  bin: '472004'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: DIRECTIONS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472005':
+  bin: '472005'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST NATIONAL BANK OF SANTA FE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472006':
+  bin: '472006'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'472007':
+  bin: '472007'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: FIRST-CITIZENS BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472008':
+  bin: '472008'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'472009':
+  bin: '472009'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'472010':
+  bin: '472010'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MERCANTILE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472011':
+  bin: '472011'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MERCANTILE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472012':
+  bin: '472012'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CENTRAL NATIONAL BANK AND TRUST CO., OF ENID
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472013':
+  bin: '472013'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: VIST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472014':
+  bin: '472014'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'472015':
+  bin: '472015'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: AMEGY BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472016':
+  bin: '472016'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CF BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472017':
+  bin: '472017'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CF BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472018':
+  bin: '472018'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CF BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472019':
+  bin: '472019'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'472020':
+  bin: '472020'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472021':
+  bin: '472021'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF LOUISIANA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472022':
+  bin: '472022'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF LOUISIANA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472023':
+  bin: '472023'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472024':
+  bin: '472024'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472025':
+  bin: '472025'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MOUNTAIN WEST BANK OF KALISPELL, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472026':
+  bin: '472026'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: MOUNTAIN WEST BANK OF KALISPELL, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472027':
+  bin: '472027'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MOUNTAIN WEST BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472028':
+  bin: '472028'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: MOUNTAIN WEST BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472029':
+  bin: '472029'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PEOPLES BANK AND TRUST CO.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472030':
+  bin: '472030'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: PEOPLES BANK AND TRUST CO.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472031':
+  bin: '472031'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WINONA NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472032':
+  bin: '472032'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'472033':
+  bin: '472033'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CONTECNICA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'472034':
+  bin: '472034'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CONTECNICA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'472035':
+  bin: '472035'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472036':
+  bin: '472036'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: PALISADES F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472037':
+  bin: '472037'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472038':
+  bin: '472038'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ARKANSAS COUNTY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472039':
+  bin: '472039'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'472040':
+  bin: '472040'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCARD, S.A.
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'472041':
+  bin: '472041'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BBVA BANCO FRANCES, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'472042':
+  bin: '472042'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BBVA BANCO FRANCES, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'472043':
+  bin: '472043'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DAVIVIENDA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'472044':
+  bin: '472044'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO DAVIVIENDA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'472045':
+  bin: '472045'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO UNO, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'472046':
+  bin: '472046'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: KEYBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472047':
+  bin: '472047'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO COMERCIAL DE MACAU, S.A.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'472048':
+  bin: '472048'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO COMERCIAL DE MACAU, S.A.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'472049':
+  bin: '472049'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANCO MERCANTIL DO BRASIL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'472050':
+  bin: '472050'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'472051':
+  bin: '472051'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: UNITED OVERSEAS BANK, LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'472052':
+  bin: '472052'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO UNO, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'472053':
+  bin: '472053'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'472054':
+  bin: '472054'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'472055':
+  bin: '472055'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ATH COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'472056':
+  bin: '472056'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ATH COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'472057':
+  bin: '472057'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO DE COSTA RICA
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'472058':
+  bin: '472058'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO UNO, S.A.
+  country:
+    alpha_2: NI
+    alpha_3: NIC
+    name: Nicaragua
+'472059':
+  bin: '472059'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANKERS' BANK OF THE WEST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'472060':
+  bin: '472060'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'472061':
+  bin: '472061'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'472062':
+  bin: '472062'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'472063':
+  bin: '472063'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'472064':
+  bin: '472064'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'472065':
+  bin: '472065'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ATLANTIC BANK, LTD.
+  country:
+    alpha_2: BZ
+    alpha_3: BLZ
+    name: Belize
+'472066':
+  bin: '472066'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO CITIBANK (PANAMA), S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'472067':
+  bin: '472067'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'472068':
+  bin: '472068'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'472069':
+  bin: '472069'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'472070':
+  bin: '472070'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON CREDIT SERVICE (M) BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'472071':
+  bin: '472071'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE AHORRO Y CREDITO ALTAS CUMBRES, S.A.
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'472072':
+  bin: '472072'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE AHORRO Y CREDITO ALTAS CUMBRES, S.A.
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'472073':
+  bin: '472073'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANK OF NOVA SCOTIA
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'472074':
+  bin: '472074'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SAIGON THUONG TIN COMMERCIAL JSB
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'472075':
+  bin: '472075'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SAIGON THUONG TIN COMMERCIAL JSB
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'472076':
+  bin: '472076'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'472077':
+  bin: '472077'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANK SINOPAC
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'472078':
+  bin: '472078'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: LK
+    alpha_3: LKA
+    name: Sri Lanka
+'472079':
+  bin: '472079'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SUNCORP-METWAY, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'472080':
+  bin: '472080'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AG
+    alpha_3: ATG
+    name: Antigua and Barbuda
+'472081':
+  bin: '472081'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: AG
+    alpha_3: ATG
+    name: Antigua and Barbuda
+'472082':
+  bin: '472082'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GLOBAL BANK OF COMMERCE, LTD.
+  country:
+    alpha_2: AG
+    alpha_3: ATG
+    name: Antigua and Barbuda
+'472083':
+  bin: '472083'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GLOBAL BANK OF COMMERCE, LTD.
+  country:
+    alpha_2: AG
+    alpha_3: ATG
+    name: Antigua and Barbuda
+'472084':
+  bin: '472084'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF AYUDHYA PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'472085':
+  bin: '472085'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF AYUDHYA PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'472086':
+  bin: '472086'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF AYUDHYA PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'472087':
+  bin: '472087'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF AYUDHYA PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'472088':
+  bin: '472088'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF AYUDHYA PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'472089':
+  bin: '472089'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO MERCANTIL DO BRASIL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'472090':
+  bin: '472090'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BBVA BANCO FRANCES, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'472091':
+  bin: '472091'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO CITIBANK (PANAMA), S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'472092':
+  bin: '472092'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF GUAM
+  country:
+    alpha_2: GU
+    alpha_3: GUM
+    name: Guam
+'472093':
+  bin: '472093'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF WESTERN AUSTRALIA, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'472094':
+  bin: '472094'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF WESTERN AUSTRALIA, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'472095':
+  bin: '472095'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF WESTERN AUSTRALIA, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'472096':
+  bin: '472096'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF WESTERN AUSTRALIA, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'472097':
+  bin: '472097'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF WESTERN AUSTRALIA, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'472098':
+  bin: '472098'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF WESTERN AUSTRALIA, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'472099':
+  bin: '472099'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK IOWA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

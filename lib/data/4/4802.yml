@@ -1,0 +1,1001 @@
+---
+'480200':
+  bin: '480200'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: HUTCHINSON C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480201':
+  bin: '480201'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480202':
+  bin: '480202'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: PACIFIC MERCANTILE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480203':
+  bin: '480203'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRST NATIONAL BANK OF OMAHA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480204':
+  bin: '480204'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: GENERAL BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'480205':
+  bin: '480205'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: PROVIDENT C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480206':
+  bin: '480206'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: TOWNEBANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480207':
+  bin: '480207'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480208':
+  bin: '480208'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480209':
+  bin: '480209'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480210':
+  bin: '480210'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480211':
+  bin: '480211'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WACHOVIA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480212':
+  bin: '480212'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NORTHEAST COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480213':
+  bin: '480213'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAPITAL ONE BANK (USA), N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480214':
+  bin: '480214'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO ATLANTICO, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'480215':
+  bin: '480215'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO ATLANTICO, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'480216':
+  bin: '480216'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO NACIONAL ULTRAMARINO, S.A.
+  country:
+    alpha_2: MO
+    alpha_3: MAC
+    name: Macao
+'480217':
+  bin: '480217'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANKER'S BANK OF KANSAS, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480218':
+  bin: '480218'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANKER'S BANK OF KANSAS, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480219':
+  bin: '480219'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: GALENA STATE BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480220':
+  bin: '480220'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: CW
+    alpha_3: CUW
+    name: Curaçao
+'480221':
+  bin: '480221'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO UNO, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'480222':
+  bin: '480222'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRST AMERICAN BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480223':
+  bin: '480223'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: COMMUNITY SHORES BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480224':
+  bin: '480224'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAJA ESPANA DE INVERSIONES C.A. Y M.P. (CAJA ESPANA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'480225':
+  bin: '480225'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: WELLS FARGO BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480226':
+  bin: '480226'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BELCO COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480227':
+  bin: '480227'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BELCO COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480228':
+  bin: '480228'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BELCO COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480229':
+  bin: '480229'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480230':
+  bin: '480230'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: JSCB SLAVIANSKY BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'480231':
+  bin: '480231'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: UNICREDIT BANK D.D.
+  country:
+    alpha_2: BA
+    alpha_3: BIH
+    name: Bosnia and Herzegovina
+'480232':
+  bin: '480232'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK ZENIT
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'480233':
+  bin: '480233'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'480234':
+  bin: '480234'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: RAIFFEISENBANK, A.S.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'480235':
+  bin: '480235'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRST VOLUNTEER BANK OF TENNESSEE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480236':
+  bin: '480236'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: M AND I (MARSHALL AND ILSLEY) BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480237':
+  bin: '480237'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: EASTERN BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480238':
+  bin: '480238'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: U.S. BANK N.A. ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480239':
+  bin: '480239'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: WHITNEY NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480240':
+  bin: '480240'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: SANTANDER UK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'480241':
+  bin: '480241'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: INTERPAY NEDERLAND B.V.
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'480242':
+  bin: '480242'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: U.S. BANK N.A. ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480243':
+  bin: '480243'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: STATE BANK OF BEMENT
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480244':
+  bin: '480244'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: MIDFLORIDA C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480245':
+  bin: '480245'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: HANCOCK BANK OF LOUISIANA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480246':
+  bin: '480246'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: CITITARJETAS DE HONDURAS, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'480247':
+  bin: '480247'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: GUARANTY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480248':
+  bin: '480248'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: UNICREDIT BANK HUNGARY ZRT.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'480249':
+  bin: '480249'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: UNICREDIT BANK HUNGARY ZRT.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'480250':
+  bin: '480250'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'480251':
+  bin: '480251'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANK OF THE OZARKS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480252':
+  bin: '480252'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: TRI CITY NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480253':
+  bin: '480253'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: JSC SB RBS (KAZAKHSTAN)
+  country:
+    alpha_2: KZ
+    alpha_3: KAZ
+    name: Kazakhstan
+'480254':
+  bin: '480254'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: TAIWAN BUSINESS BANK
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'480255':
+  bin: '480255'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: METRO BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480256':
+  bin: '480256'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BNP PARIBAS
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'480257':
+  bin: '480257'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ABN AMRO BANK, N.V.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'480258':
+  bin: '480258'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO AGRARIO DE COLOMBIA S.A. (BANAGRARIO)
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'480259':
+  bin: '480259'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480260':
+  bin: '480260'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIA CARD SERVICES, NATIONAL ASSOCIATION (2)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480261':
+  bin: '480261'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480262':
+  bin: '480262'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIA CARD SERVICES, NATIONAL ASSOCIATION (2)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480263':
+  bin: '480263'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIA CARD SERVICES, NATIONAL ASSOCIATION (2)
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480264':
+  bin: '480264'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANKATLANTIC
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480265':
+  bin: '480265'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480266':
+  bin: '480266'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480267':
+  bin: '480267'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480268':
+  bin: '480268'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480269':
+  bin: '480269'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480270':
+  bin: '480270'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480271':
+  bin: '480271'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480272':
+  bin: '480272'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480273':
+  bin: '480273'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'480274':
+  bin: '480274'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'480275':
+  bin: '480275'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CREDIT AGRICOLE BANK POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'480276':
+  bin: '480276'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: TCM BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480277':
+  bin: '480277'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: PARTNERS TRUST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480278':
+  bin: '480278'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: SEACOAST NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480279':
+  bin: '480279'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: STONEHAMBANK, A CO-OPERATIVE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480280':
+  bin: '480280'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: JACKSONVILLE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480281':
+  bin: '480281'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: M AND I (MARSHALL AND ILSLEY) BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480282':
+  bin: '480282'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: M AND I (MARSHALL AND ILSLEY) BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480283':
+  bin: '480283'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: M AND I (MARSHALL AND ILSLEY) BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480284':
+  bin: '480284'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: M AND I (MARSHALL AND ILSLEY) BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480285':
+  bin: '480285'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: M AND I (MARSHALL AND ILSLEY) BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480286':
+  bin: '480286'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO MERCURIO, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'480287':
+  bin: '480287'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: M AND I (MARSHALL AND ILSLEY) BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480288':
+  bin: '480288'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CARDINAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480289':
+  bin: '480289'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CARDINAL BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480290':
+  bin: '480290'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CARDINAL BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480291':
+  bin: '480291'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAMBODIA MEKONG BANK
+  country:
+    alpha_2: KH
+    alpha_3: KHM
+    name: Cambodia
+'480292':
+  bin: '480292'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CAMBODIA MEKONG BANK
+  country:
+    alpha_2: KH
+    alpha_3: KHM
+    name: Cambodia
+'480293':
+  bin: '480293'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO DE CHILE
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'480294':
+  bin: '480294'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: M AND I (MARSHALL AND ILSLEY) BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480295':
+  bin: '480295'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CITITARJETAS DE HONDURAS, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'480296':
+  bin: '480296'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ING BANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'480297':
+  bin: '480297'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CITITARJETAS DE HONDURAS, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'480298':
+  bin: '480298'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: GLENS FALLS NATIONAL BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'480299':
+  bin: '480299'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CONSECO BANK, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

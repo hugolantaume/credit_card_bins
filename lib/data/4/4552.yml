@@ -1,0 +1,1001 @@
+---
+'455200':
+  bin: '455200'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'455201':
+  bin: '455201'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO GANADERO
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'455202':
+  bin: '455202'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ZARAGOZANO S.A. (BANZANO)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455203':
+  bin: '455203'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO ZARAGOZANO S.A. (BANZANO)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455204':
+  bin: '455204'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MASHREQBANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'455205':
+  bin: '455205'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANK OF AYUDHYA PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'455206':
+  bin: '455206'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CO-OPERATIVE BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'455207':
+  bin: '455207'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SANTANDER UK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'455208':
+  bin: '455208'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HSBC BANK MIDDLE EAST
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'455209':
+  bin: '455209'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ARAB BANK PLC
+  country:
+    alpha_2: MA
+    alpha_3: MAR
+    name: Morocco
+'455210':
+  bin: '455210'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455211':
+  bin: '455211'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: TRANSACCIONES UNIVERSALES, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'455212':
+  bin: '455212'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455213':
+  bin: '455213'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO DE ANDALUCIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455214':
+  bin: '455214'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA DE AHORROS MUNICIPAL DE PAMPLONA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455215':
+  bin: '455215'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455216':
+  bin: '455216'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'455217':
+  bin: '455217'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CAIXABANK S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455218':
+  bin: '455218'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'455219':
+  bin: '455219'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SOCIETE GENERALE MAROCAINE DE BANQUES
+  country:
+    alpha_2: MA
+    alpha_3: MAR
+    name: Morocco
+'455220':
+  bin: '455220'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO NACIONAL DE MEXICO, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'455221':
+  bin: '455221'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO PASTOR, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455222':
+  bin: '455222'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROIG COMMERCIAL BANK
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'455223':
+  bin: '455223'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455224':
+  bin: '455224'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CAIXA DESTALVIS DE MANRESA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455225':
+  bin: '455225'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DE GRANADA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455226':
+  bin: '455226'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO GALLEGO, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455227':
+  bin: '455227'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'455228':
+  bin: '455228'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'455229':
+  bin: '455229'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO COMERCIAL PORTUGUES, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'455230':
+  bin: '455230'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO SANTANDER TOTTA, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'455231':
+  bin: '455231'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: BANCO ESPIRITO SANTO, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'455232':
+  bin: '455232'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: DUNCAN LAWRIE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'455233':
+  bin: '455233'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BILBAO BIZKAIA KUTXA (BBK)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455234':
+  bin: '455234'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: VISA AUSTRIA
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'455235':
+  bin: '455235'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'455236':
+  bin: '455236'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SOCIETE INTERBANK, S.A.
+  country:
+    alpha_2: MA
+    alpha_3: MAR
+    name: Morocco
+'455237':
+  bin: '455237'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SANTANDER CONSUMER BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'455238':
+  bin: '455238'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SISTEMA 4B, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455239':
+  bin: '455239'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CAJA DE AHORROS DE CUENCA Y CIUDAD REAL
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455240':
+  bin: '455240'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF VALLETTA P.L.C
+  country:
+    alpha_2: MT
+    alpha_3: MLT
+    name: Malta
+'455241':
+  bin: '455241'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE
+  country:
+    alpha_2: MA
+    alpha_3: MAR
+    name: Morocco
+'455242':
+  bin: '455242'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: OMAN INTERNATIONAL BANK S.A.O.
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'455243':
+  bin: '455243'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WORKERS SAVINGS AND LOAN BANK
+  country:
+    alpha_2: JM
+    alpha_3: JAM
+    name: Jamaica
+'455244':
+  bin: '455244'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: MASHREQBANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'455245':
+  bin: '455245'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA DE AHORROS Y MONTE DE PIEDAD DE EXTREMADURA (CAJA DE EX
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455246':
+  bin: '455246'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FINCONSUM E.F.C., S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455247':
+  bin: '455247'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FINCONSUM E.F.C., S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455248':
+  bin: '455248'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA DE AHORROS DE GALICIA, VIGO, ORENSE Y PONTEVEDRA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455249':
+  bin: '455249'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORPORATION
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'455250':
+  bin: '455250'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO SANTANDER TOTTA, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'455251':
+  bin: '455251'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCAJA (CAJA DE AHORROS DE VALENCIA, CASTELLON Y ALICANTE)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455252':
+  bin: '455252'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE CASTILLA-LA MANCHA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455253':
+  bin: '455253'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CAJA DE AHORROS Y MONTE DE PIEDAD DE EXTREMADURA (CAJA DE EX
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455254':
+  bin: '455254'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CAJA DE AHORROS DE GALICIA, VIGO, ORENSE Y PONTEVEDRA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455255':
+  bin: '455255'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'455256':
+  bin: '455256'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CREDIT DU MAROC, S.A.
+  country:
+    alpha_2: MA
+    alpha_3: MAR
+    name: Morocco
+'455257':
+  bin: '455257'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ARAB FINANCIAL SERVICES COMPANY
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'455258':
+  bin: '455258'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ALPHA BANK
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'455259':
+  bin: '455259'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA DE ARQUITECTOS
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455260':
+  bin: '455260'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CAJA DE ARQUITECTOS
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455261':
+  bin: '455261'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MONTE DE PIEDAD Y CAJA DE AHORROS DE GUADALAJARA, HUELVA, JE
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455262':
+  bin: '455262'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SKANDINAVISKA ENSKILDA BANKEN AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'455263':
+  bin: '455263'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AIB BANK
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'455264':
+  bin: '455264'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO DE LA PRODUCCION, S.A.
+  country:
+    alpha_2: NI
+    alpha_3: NIC
+    name: Nicaragua
+'455265':
+  bin: '455265'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: TECNICARD, INC.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'455266':
+  bin: '455266'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DEMIRBANK T.A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'455267':
+  bin: '455267'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO DE CASTILLA-LA MANCHA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455268':
+  bin: '455268'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COOPERATIVE BANK
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'455269':
+  bin: '455269'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE LA PRODUCCION, S.A.
+  country:
+    alpha_2: NI
+    alpha_3: NIC
+    name: Nicaragua
+'455270':
+  bin: '455270'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE LA PRODUCCION, S.A.
+  country:
+    alpha_2: NI
+    alpha_3: NIC
+    name: Nicaragua
+'455271':
+  bin: '455271'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF EAST ASIA, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'455272':
+  bin: '455272'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK OF EAST ASIA, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'455273':
+  bin: '455273'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF CYPRUS (LONDON), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'455274':
+  bin: '455274'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: COLONYA - CAIXA DE POLLENSA (CAJA DE AHORROS DE POLLENCA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455275':
+  bin: '455275'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA (DUPLICATED BID SEE 10021435)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455276':
+  bin: '455276'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455277':
+  bin: '455277'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ARAB FINANCIAL SERVICES COMPANY
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'455278':
+  bin: '455278'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COOPERATIVE BANK
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'455279':
+  bin: '455279'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: DUNCAN LAWRIE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'455280':
+  bin: '455280'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: DUNCAN LAWRIE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'455281':
+  bin: '455281'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DUNCAN LAWRIE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'455282':
+  bin: '455282'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CREDIT DU MAROC, S.A.
+  country:
+    alpha_2: MA
+    alpha_3: MAR
+    name: Morocco
+'455283':
+  bin: '455283'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT ANDORRA
+  country:
+    alpha_2: AD
+    alpha_3: AND
+    name: Andorra
+'455284':
+  bin: '455284'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE AMERICA CENTRAL
+  country:
+    alpha_2: NI
+    alpha_3: NIC
+    name: Nicaragua
+'455285':
+  bin: '455285'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO DE AMERICA CENTRAL
+  country:
+    alpha_2: NI
+    alpha_3: NIC
+    name: Nicaragua
+'455286':
+  bin: '455286'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ALTAE BANCO, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455287':
+  bin: '455287'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF AYUDHYA PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'455288':
+  bin: '455288'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SISTEMA 4B, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455289':
+  bin: '455289'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO DE FOMENTO, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455290':
+  bin: '455290'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO ESPIRITO SANTO, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'455291':
+  bin: '455291'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DEL ESTADO, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'455292':
+  bin: '455292'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO INTERNACIONAL DE CREDITO, SARL
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'455293':
+  bin: '455293'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF AYUDHYA PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'455294':
+  bin: '455294'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CREDIT IMMOBILIER ET HOTELIER
+  country:
+    alpha_2: MA
+    alpha_3: MAR
+    name: Morocco
+'455295':
+  bin: '455295'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: OVERSEAS UNION BANK, LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'455296':
+  bin: '455296'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK OF AYUDHYA PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'455297':
+  bin: '455297'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'455298':
+  bin: '455298'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COOPERATIVE BANK
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'455299':
+  bin: '455299'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MBNA EUROPE BANK, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom

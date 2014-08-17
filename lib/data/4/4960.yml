@@ -1,0 +1,1001 @@
+---
+'496000':
+  bin: '496000'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: EMPORIKI BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496001':
+  bin: '496001'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ALTA ALLIANCE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'496002':
+  bin: '496002'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ALTA ALLIANCE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'496003':
+  bin: '496003'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ALTA ALLIANCE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'496004':
+  bin: '496004'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BANCORP BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'496005':
+  bin: '496005'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'496006':
+  bin: '496006'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'496007':
+  bin: '496007'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'496008':
+  bin: '496008'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'496009':
+  bin: '496009'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'496010':
+  bin: '496010'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'496011':
+  bin: '496011'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANKERS' BANK OF THE WEST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'496012':
+  bin: '496012'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496013':
+  bin: '496013'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496014':
+  bin: '496014'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'496015':
+  bin: '496015'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496016':
+  bin: '496016'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496017':
+  bin: '496017'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496018':
+  bin: '496018'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO DE COMERCIO
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'496019':
+  bin: '496019'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HSBC BANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'496020':
+  bin: '496020'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496021':
+  bin: '496021'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: DIAMOND BANK, LTD.
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'496022':
+  bin: '496022'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DIAMOND BANK, LTD.
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'496023':
+  bin: '496023'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: DIAMOND BANK, LTD.
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'496024':
+  bin: '496024'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DIAMOND BANK, LTD.
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'496025':
+  bin: '496025'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496026':
+  bin: '496026'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: DIAMOND BANK, LTD.
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'496027':
+  bin: '496027'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496028':
+  bin: '496028'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496029':
+  bin: '496029'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496030':
+  bin: '496030'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496031':
+  bin: '496031'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'496032':
+  bin: '496032'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'496033':
+  bin: '496033'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'496034':
+  bin: '496034'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'496035':
+  bin: '496035'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496036':
+  bin: '496036'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'496037':
+  bin: '496037'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: AG
+    alpha_3: ATG
+    name: Antigua and Barbuda
+'496038':
+  bin: '496038'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: AG
+    alpha_3: ATG
+    name: Antigua and Barbuda
+'496039':
+  bin: '496039'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: AG
+    alpha_3: ATG
+    name: Antigua and Barbuda
+'496040':
+  bin: '496040'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496041':
+  bin: '496041'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496042':
+  bin: '496042'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ZM
+    alpha_3: ZMB
+    name: Zambia
+'496043':
+  bin: '496043'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: INVESTRUST BANK PLC
+  country:
+    alpha_2: ZM
+    alpha_3: ZMB
+    name: Zambia
+'496044':
+  bin: '496044'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496045':
+  bin: '496045'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496046':
+  bin: '496046'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496047':
+  bin: '496047'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496048':
+  bin: '496048'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'496049':
+  bin: '496049'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'496050':
+  bin: '496050'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496051':
+  bin: '496051'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496052':
+  bin: '496052'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'496053':
+  bin: '496053'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496054':
+  bin: '496054'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496055':
+  bin: '496055'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496056':
+  bin: '496056'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496057':
+  bin: '496057'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496058':
+  bin: '496058'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496059':
+  bin: '496059'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496060':
+  bin: '496060'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496061':
+  bin: '496061'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: EMPORIKI BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496062':
+  bin: '496062'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496063':
+  bin: '496063'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496064':
+  bin: '496064'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496065':
+  bin: '496065'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496066':
+  bin: '496066'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496067':
+  bin: '496067'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496068':
+  bin: '496068'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496069':
+  bin: '496069'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496070':
+  bin: '496070'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496071':
+  bin: '496071'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496072':
+  bin: '496072'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496073':
+  bin: '496073'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'496074':
+  bin: '496074'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE OCCIDENTE, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'496075':
+  bin: '496075'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'496076':
+  bin: '496076'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO DE OCCIDENTE, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'496077':
+  bin: '496077'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO DE OCCIDENTE, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'496078':
+  bin: '496078'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO DE OCCIDENTE, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'496079':
+  bin: '496079'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO AV VILLAS
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'496080':
+  bin: '496080'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO AV VILLAS
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'496081':
+  bin: '496081'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO AV VILLAS
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'496082':
+  bin: '496082'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: BANCO BDI, S.A.
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'496083':
+  bin: '496083'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO DE BOGOTA
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'496084':
+  bin: '496084'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'496085':
+  bin: '496085'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'496086':
+  bin: '496086'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'496087':
+  bin: '496087'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'496088':
+  bin: '496088'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'496089':
+  bin: '496089'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496090':
+  bin: '496090'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: EMPORIKI BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496091':
+  bin: '496091'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: EMPORIKI BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496092':
+  bin: '496092'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: EMPORIKI BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496093':
+  bin: '496093'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496094':
+  bin: '496094'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: EMPORIKI BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496095':
+  bin: '496095'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: COMMERCIAL BANK OF GREECE
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496096':
+  bin: '496096'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: EMPORIKI BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496097':
+  bin: '496097'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: EMPORIKI BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496098':
+  bin: '496098'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: EMPORIKI BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'496099':
+  bin: '496099'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: EMPORIKI BANK OF GREECE, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece

@@ -1,0 +1,1001 @@
+---
+'417200':
+  bin: '417200'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'417201':
+  bin: '417201'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417202':
+  bin: '417202'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417203':
+  bin: '417203'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417204':
+  bin: '417204'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PARISH NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'417205':
+  bin: '417205'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIVEPOINT F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'417206':
+  bin: '417206'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: AMARILLO NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'417207':
+  bin: '417207'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: TD BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'417208':
+  bin: '417208'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: TD BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'417209':
+  bin: '417209'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: CENTRAL BANK AND TRUST CO.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'417210':
+  bin: '417210'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'417211':
+  bin: '417211'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: KAPITAL BANK JSB
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'417212':
+  bin: '417212'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: KAPITAL BANK JSB
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'417213':
+  bin: '417213'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: EMPORIKI BANK - ROMANIA, S.A.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'417214':
+  bin: '417214'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: EMPORIKI BANK - ROMANIA, S.A.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'417215':
+  bin: '417215'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ARAB FINANCIAL SERVICES COMPANY
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'417216':
+  bin: '417216'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ARAB FINANCIAL SERVICES COMPANY
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'417217':
+  bin: '417217'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417218':
+  bin: '417218'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: TECHNIKABANK OJSC
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'417219':
+  bin: '417219'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DEMIR KYRGYZ INTERNATIONAL BANK
+  country:
+    alpha_2: KG
+    alpha_3: KGZ
+    name: Kyrgyzstan
+'417220':
+  bin: '417220'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: KG
+    alpha_3: KGZ
+    name: Kyrgyzstan
+'417221':
+  bin: '417221'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: DEMIR KYRGYZ INTERNATIONAL BANK
+  country:
+    alpha_2: KG
+    alpha_3: KGZ
+    name: Kyrgyzstan
+'417222':
+  bin: '417222'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417223':
+  bin: '417223'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANK ZACHODNI WBK, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'417224':
+  bin: '417224'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417225':
+  bin: '417225'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TATFONDBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'417226':
+  bin: '417226'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: TATFONDBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'417227':
+  bin: '417227'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: TATFONDBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'417228':
+  bin: '417228'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ATABANK COMMERCIAL BANK
+  country:
+    alpha_2: AZ
+    alpha_3: AZE
+    name: Azerbaijan
+'417229':
+  bin: '417229'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'417230':
+  bin: '417230'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIR
+  country:
+    alpha_2: CI
+    alpha_3: CIV
+    name: Côte d'Ivoire
+'417231':
+  bin: '417231'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417232':
+  bin: '417232'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: PJSC UKRSIBBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'417233':
+  bin: '417233'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417234':
+  bin: '417234'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417235':
+  bin: '417235'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417236':
+  bin: '417236'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417237':
+  bin: '417237'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417238':
+  bin: '417238'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: RAIFFEISENBANK AUSTRIA D.D.
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'417239':
+  bin: '417239'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: RAIFFEISENBANK AUSTRIA D.D.
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'417240':
+  bin: '417240'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANQUE DES MASCAREIGNES
+  country:
+    alpha_2: MU
+    alpha_3: MUS
+    name: Mauritius
+'417241':
+  bin: '417241'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417242':
+  bin: '417242'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA DE AHORROS DE MURCIA (CAJA MURCIA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'417243':
+  bin: '417243'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CAJA DE AHORROS DE MURCIA (CAJA MURCIA)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'417244':
+  bin: '417244'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BANCORP BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'417245':
+  bin: '417245'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: OMAN ARAB BANK, SAOC
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'417246':
+  bin: '417246'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: STANDARD BANK OF SOUTH AFRICA
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'417247':
+  bin: '417247'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: STANDARD BANK OF SOUTH AFRICA
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'417248':
+  bin: '417248'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417249':
+  bin: '417249'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANQUE TOGOLAISE POUR LE COMMERCE ET L'INDUSTRIE
+  country:
+    alpha_2: TG
+    alpha_3: TGO
+    name: Togo
+'417250':
+  bin: '417250'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JSC RUSSIAN STANDARD BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'417251':
+  bin: '417251'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: JSC RUSSIAN STANDARD BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'417252':
+  bin: '417252'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: JSC RUSSIAN STANDARD BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'417253':
+  bin: '417253'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: JSC RUSSIAN STANDARD BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'417254':
+  bin: '417254'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JSC RUSSIAN STANDARD BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'417255':
+  bin: '417255'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417256':
+  bin: '417256'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COMMERCIAL BANK GRAN
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'417257':
+  bin: '417257'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: UNICREDIT S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'417258':
+  bin: '417258'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FINECOBANK S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'417259':
+  bin: '417259'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FINECOBANK S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'417260':
+  bin: '417260'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: DZ BANK POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'417261':
+  bin: '417261'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: DZ BANK POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'417262':
+  bin: '417262'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: DZ BANK POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'417263':
+  bin: '417263'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417264':
+  bin: '417264'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'417265':
+  bin: '417265'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'417266':
+  bin: '417266'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'417267':
+  bin: '417267'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'417268':
+  bin: '417268'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'417269':
+  bin: '417269'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'417270':
+  bin: '417270'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'417271':
+  bin: '417271'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'417272':
+  bin: '417272'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'417273':
+  bin: '417273'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417274':
+  bin: '417274'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ING BANK, N.V.
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'417275':
+  bin: '417275'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: BANK OF COMMERCE AND DEVELOPMENT (LJSC)
+  country:
+    alpha_2: LY
+    alpha_3: LBY
+    name: Libya
+'417276':
+  bin: '417276'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANK OF COMMERCE AND DEVELOPMENT (LJSC)
+  country:
+    alpha_2: LY
+    alpha_3: LBY
+    name: Libya
+'417277':
+  bin: '417277'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF COMMERCE AND DEVELOPMENT (LJSC)
+  country:
+    alpha_2: LY
+    alpha_3: LBY
+    name: Libya
+'417278':
+  bin: '417278'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'417279':
+  bin: '417279'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MERIDIAN BANK AD NOVI SAD
+  country:
+    alpha_2: RS
+    alpha_3: SRB
+    name: Serbia
+'417280':
+  bin: '417280'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANK HANDLOWY W WARSZAWIE, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'417281':
+  bin: '417281'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK HANDLOWY W WARSZAWIE, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'417282':
+  bin: '417282'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANK HANDLOWY W WARSZAWIE, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'417283':
+  bin: '417283'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PJSC UKRSOTSBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'417284':
+  bin: '417284'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: PJSC UKRSOTSBANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'417285':
+  bin: '417285'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MASHREQBANK
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'417286':
+  bin: '417286'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: MASHREQBANK
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'417287':
+  bin: '417287'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: DEXIA BANKA SLOVENSKO, A.S.
+  country:
+    alpha_2: SK
+    alpha_3: SVK
+    name: Slovakia
+'417288':
+  bin: '417288'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417289':
+  bin: '417289'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417290':
+  bin: '417290'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: STANDARD BANK OF SOUTH AFRICA
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'417291':
+  bin: '417291'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JSC RUSSIAN STANDARD BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'417292':
+  bin: '417292'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'417293':
+  bin: '417293'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'417294':
+  bin: '417294'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: ''
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'417295':
+  bin: '417295'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417296':
+  bin: '417296'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417297':
+  bin: '417297'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417298':
+  bin: '417298'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria
+'417299':
+  bin: '417299'
+  brand: VISA
+  type: ''
+  category: GOLD
+  issuer: CREDIT POPULAIRE D'ALGERIE
+  country:
+    alpha_2: DZ
+    alpha_3: DZA
+    name: Algeria

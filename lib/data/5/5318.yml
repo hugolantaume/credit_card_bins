@@ -1,0 +1,1001 @@
+---
+'531800':
+  bin: '531800'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: STANDARD BANK OF SOUTH AFRICA, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'531801':
+  bin: '531801'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: QATAR NATIONAL BANK
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'531802':
+  bin: '531802'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531803':
+  bin: '531803'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: SOCIETE MONETIQUE-TUNISIE
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'531804':
+  bin: '531804'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: ICICI BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'531805':
+  bin: '531805'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'531806':
+  bin: '531806'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CSCBANK S.A.L.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'531807':
+  bin: '531807'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: OTP BANK PLC
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'531808':
+  bin: '531808'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CREDOMATIC DEL ISTMO, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'531809':
+  bin: '531809'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CJSC COMMERCIAL BANK CITIBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531810':
+  bin: '531810'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: PT. BANK INTERNASIONAL INDONESIA
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'531811':
+  bin: '531811'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: AMAN BANK FOR COMMERCE AND INVESTMENT (ABCI)
+  country:
+    alpha_2: LY
+    alpha_3: LBY
+    name: Libya
+'531812':
+  bin: '531812'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CSCBANK S.A.L.
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'531813':
+  bin: '531813'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BANQUE TUNISO KOWEITIENNE
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'531814':
+  bin: '531814'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: ERSTE BANK HUNGARY ZRT.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'531815':
+  bin: '531815'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531816':
+  bin: '531816'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531817':
+  bin: '531817'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: HUNGARIAN VOLKSBANK, LTD.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'531818':
+  bin: '531818'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: AGOS DUCATO S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'531819':
+  bin: '531819'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: AGOS DUCATO S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'531820':
+  bin: '531820'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: ROYAL BANK OF SCOTLAND, N.V.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'531821':
+  bin: '531821'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: BANKIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'531822':
+  bin: '531822'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: CAJA DE AHORROS Y MONTE DE PIEDAD DE MADRID
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'531823':
+  bin: '531823'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: MASTERCAJAS, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'531824':
+  bin: '531824'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CSCBANK S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'531825':
+  bin: '531825'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531826':
+  bin: '531826'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: SECURITY BANK CORPORATION
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'531827':
+  bin: '531827'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531828':
+  bin: '531828'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'531829':
+  bin: '531829'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531830':
+  bin: '531830'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CSCBANK S.A.L.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'531831':
+  bin: '531831'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: HDFC BANK, LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'531832':
+  bin: '531832'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: BANCO DE ORO UNIBANK, INC.
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'531833':
+  bin: '531833'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: CASSA CENTRALE RAIFFEISEN DELL'ALTO ADIGE
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'531834':
+  bin: '531834'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: STATE BANK OF MAURITIUS, LTD.
+  country:
+    alpha_2: MU
+    alpha_3: MUS
+    name: Mauritius
+'531835':
+  bin: '531835'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: NETWORK INTERNATIONAL LLC
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'531836':
+  bin: '531836'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531837':
+  bin: '531837'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: R RAPHAEL AND SONS PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'531838':
+  bin: '531838'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: HANASK CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'531839':
+  bin: '531839'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: UNICREDIT S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'531840':
+  bin: '531840'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531841':
+  bin: '531841'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531842':
+  bin: '531842'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531843':
+  bin: '531843'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531844':
+  bin: '531844'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531845':
+  bin: '531845'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531846':
+  bin: '531846'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531847':
+  bin: '531847'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531848':
+  bin: '531848'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531849':
+  bin: '531849'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531850':
+  bin: '531850'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531851':
+  bin: '531851'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANK OF BEIJING CO., LTD.
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'531852':
+  bin: '531852'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531853':
+  bin: '531853'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: MDM BANK OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531854':
+  bin: '531854'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531855':
+  bin: '531855'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531856':
+  bin: '531856'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531857':
+  bin: '531857'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: PT. BANK NEGARA INDONESIA (PERSERO) TBK.
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'531858':
+  bin: '531858'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531859':
+  bin: '531859'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531860':
+  bin: '531860'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: SAINT PETERSBURG INDUSTRIAL JSB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531861':
+  bin: '531861'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: PT. ANZ PANIN BANK
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'531862':
+  bin: '531862'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANCO CONTINENTAL, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'531863':
+  bin: '531863'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531864':
+  bin: '531864'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531865':
+  bin: '531865'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531866':
+  bin: '531866'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531867':
+  bin: '531867'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANCO SABADELL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'531868':
+  bin: '531868'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: BANCO HSBC (COSTA RICA), S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'531869':
+  bin: '531869'
+  brand: MASTERCARD
+  type: CREDIT
+  category: GOLD
+  issuer: ''
+  country:
+    alpha_2: CD
+    alpha_3: COD
+    name: Congo, The Democratic Republic of the
+'531870':
+  bin: '531870'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: SHAZAM, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531871':
+  bin: '531871'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531872':
+  bin: '531872'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531873':
+  bin: '531873'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531874':
+  bin: '531874'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531875':
+  bin: '531875'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531876':
+  bin: '531876'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: STAR PROCESSING, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531877':
+  bin: '531877'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531878':
+  bin: '531878'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531879':
+  bin: '531879'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531880':
+  bin: '531880'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: NORTH COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531881':
+  bin: '531881'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531882':
+  bin: '531882'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: BANCO HSBC (COSTA RICA), S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'531883':
+  bin: '531883'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'531884':
+  bin: '531884'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531885':
+  bin: '531885'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531886':
+  bin: '531886'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531887':
+  bin: '531887'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531888':
+  bin: '531888'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531889':
+  bin: '531889'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531890':
+  bin: '531890'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: LANSING AUTOMAKERS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531891':
+  bin: '531891'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531892':
+  bin: '531892'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531893':
+  bin: '531893'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531894':
+  bin: '531894'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531895':
+  bin: '531895'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: STAR PROCESSING, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531896':
+  bin: '531896'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531897':
+  bin: '531897'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531898':
+  bin: '531898'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531899':
+  bin: '531899'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: ICBA BANCARD, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

@@ -1,0 +1,1001 @@
+---
+'531200':
+  bin: '531200'
+  brand: MASTERCARD
+  type: DEBIT
+  category: NEW WORLD
+  issuer: CAPITAL ONE (EUROPE) PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'531201':
+  bin: '531201'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531202':
+  bin: '531202'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531203':
+  bin: '531203'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531204':
+  bin: '531204'
+  brand: MASTERCARD
+  type: CREDIT
+  category: NEW WORLD
+  issuer: RAIFFEISEN BANK POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'531205':
+  bin: '531205'
+  brand: MASTERCARD
+  type: CREDIT
+  category: NEW WORLD
+  issuer: BARCLAYS BANK LIMITED LIABILITY COMPANY
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531206':
+  bin: '531206'
+  brand: MASTERCARD
+  type: CREDIT
+  category: NEW WORLD
+  issuer: RAIFFEISEN BANK POLSKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'531207':
+  bin: '531207'
+  brand: MASTERCARD
+  type: CREDIT
+  category: NEW WORLD
+  issuer: OJSC BANK URALSIB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531208':
+  bin: '531208'
+  brand: MASTERCARD
+  type: CREDIT
+  category: NEW WORLD
+  issuer: EUROPAY BELGIUM S.C.R.L.
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'531209':
+  bin: '531209'
+  brand: MASTERCARD
+  type: CREDIT
+  category: NEW WORLD
+  issuer: BCC CORPORATE, N.V.
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'531210':
+  bin: '531210'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: SECURITY BANK CORPORATION
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'531211':
+  bin: '531211'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PK
+    alpha_3: PAK
+    name: Pakistan
+'531212':
+  bin: '531212'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: PUBLIC JSC SEB BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'531213':
+  bin: '531213'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: INTERCONTINENTAL BANK PLC
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'531214':
+  bin: '531214'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'531215':
+  bin: '531215'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531216':
+  bin: '531216'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: BANCO INTERNACIONAL
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'531217':
+  bin: '531217'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531218':
+  bin: '531218'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: UNITED OVERSEAS BANK, LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'531219':
+  bin: '531219'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'531220':
+  bin: '531220'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: JOINT STOCK WEST-SIBERIAN COMMERCIAL BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531221':
+  bin: '531221'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: UNIVERSAL FINANCING SERVICES
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'531222':
+  bin: '531222'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: JSCB ROSBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531223':
+  bin: '531223'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: EUROCARD AB
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'531224':
+  bin: '531224'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: ''
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'531225':
+  bin: '531225'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: CITIBANK CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'531226':
+  bin: '531226'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531227':
+  bin: '531227'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531228':
+  bin: '531228'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: BANCO DE ORO UNIBANK, INC.
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'531229':
+  bin: '531229'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: CITIBANK, N.A., PHILIPPINES
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'531230':
+  bin: '531230'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531231':
+  bin: '531231'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531232':
+  bin: '531232'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531233':
+  bin: '531233'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531234':
+  bin: '531234'
+  brand: MASTERCARD
+  type: CREDIT
+  category: NEW WORLD
+  issuer: COMMERCIAL BANK MASTER-BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531235':
+  bin: '531235'
+  brand: MASTERCARD
+  type: CREDIT
+  category: NEW WORLD
+  issuer: BANK PRZEMYSLOWO-HANDLOWY PBK, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'531236':
+  bin: '531236'
+  brand: MASTERCARD
+  type: CREDIT
+  category: NEW WORLD
+  issuer: UNICREDIT BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531237':
+  bin: '531237'
+  brand: MASTERCARD
+  type: CREDIT
+  category: NEW WORLD
+  issuer: COMMERCIAL INNOVATION BANK ALFA-BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531238':
+  bin: '531238'
+  brand: MASTERCARD
+  type: CREDIT
+  category: NEW WORLD
+  issuer: BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'531239':
+  bin: '531239'
+  brand: MASTERCARD
+  type: CREDIT
+  category: NEW WORLD
+  issuer: CITIBANK INTERNATIONAL PLC
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'531240':
+  bin: '531240'
+  brand: MASTERCARD
+  type: CREDIT
+  category: ''
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531241':
+  bin: '531241'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: CONSORCIO CREDICARD, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'531242':
+  bin: '531242'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: SISTEMA 4B, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'531243':
+  bin: '531243'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'531244':
+  bin: '531244'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'531245':
+  bin: '531245'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: CITIBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'531246':
+  bin: '531246'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'531247':
+  bin: '531247'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: UNICREDIT S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'531248':
+  bin: '531248'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: ISTITUTO CENTRALE DELLE BANCHE DI CREDITO COOPERATIVO
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'531249':
+  bin: '531249'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: ITAU UNIBANCO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'531250':
+  bin: '531250'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531251':
+  bin: '531251'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531252':
+  bin: '531252'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531253':
+  bin: '531253'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531254':
+  bin: '531254'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531255':
+  bin: '531255'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531256':
+  bin: '531256'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531257':
+  bin: '531257'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531258':
+  bin: '531258'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531259':
+  bin: '531259'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531260':
+  bin: '531260'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531261':
+  bin: '531261'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531262':
+  bin: '531262'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531263':
+  bin: '531263'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531264':
+  bin: '531264'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531265':
+  bin: '531265'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531266':
+  bin: '531266'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531267':
+  bin: '531267'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531268':
+  bin: '531268'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531269':
+  bin: '531269'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: ASSOCIATED BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531270':
+  bin: '531270'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ASSOCIATED BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531271':
+  bin: '531271'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: ASSOCIATED BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531272':
+  bin: '531272'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531273':
+  bin: '531273'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531274':
+  bin: '531274'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: EASTERN BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531275':
+  bin: '531275'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531276':
+  bin: '531276'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531277':
+  bin: '531277'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531278':
+  bin: '531278'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531279':
+  bin: '531279'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PLATINUM
+  issuer: BLOM BANK S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'531280':
+  bin: '531280'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'531281':
+  bin: '531281'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'531282':
+  bin: '531282'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'531283':
+  bin: '531283'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'531284':
+  bin: '531284'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'531285':
+  bin: '531285'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'531286':
+  bin: '531286'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'531287':
+  bin: '531287'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'531288':
+  bin: '531288'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'531289':
+  bin: '531289'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: AEON CREDIT SERVICE CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'531290':
+  bin: '531290'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'531291':
+  bin: '531291'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: JACCS CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'531292':
+  bin: '531292'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: JACCS CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'531293':
+  bin: '531293'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: JACCS CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'531294':
+  bin: '531294'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'531295':
+  bin: '531295'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531296':
+  bin: '531296'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531297':
+  bin: '531297'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531298':
+  bin: '531298'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'531299':
+  bin: '531299'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NORWEST BANK IOWA N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

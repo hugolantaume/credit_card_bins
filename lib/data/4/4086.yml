@@ -1,0 +1,1001 @@
+---
+'408600':
+  bin: '408600'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: MUTUAL FEDERAL SAVINGS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408601':
+  bin: '408601'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: JAX F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408602':
+  bin: '408602'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: EVANGELICAL CHRISTIAN C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408603':
+  bin: '408603'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SEASONS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408604':
+  bin: '408604'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: COMMERCIAL BANK OF SYRIA
+  country:
+    alpha_2: SY
+    alpha_3: SYR
+    name: Syrian Arab Republic
+'408605':
+  bin: '408605'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408606':
+  bin: '408606'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408607':
+  bin: '408607'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408608':
+  bin: '408608'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408609':
+  bin: '408609'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST PRIVATE BANK OF TEXAS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408610':
+  bin: '408610'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408611':
+  bin: '408611'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408612':
+  bin: '408612'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408613':
+  bin: '408613'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408614':
+  bin: '408614'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408615':
+  bin: '408615'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: STATE FARM BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408616':
+  bin: '408616'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408617':
+  bin: '408617'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408618':
+  bin: '408618'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408619':
+  bin: '408619'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408620':
+  bin: '408620'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BELLCO C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408621':
+  bin: '408621'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SUPERIOR IRON RANGE COMMUNITY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408622':
+  bin: '408622'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408623':
+  bin: '408623'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408624':
+  bin: '408624'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408625':
+  bin: '408625'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: DENIZBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'408626':
+  bin: '408626'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408627':
+  bin: '408627'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: STATE FARM BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408628':
+  bin: '408628'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408629':
+  bin: '408629'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408630':
+  bin: '408630'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408631':
+  bin: '408631'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408632':
+  bin: '408632'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: TOWN NORTH BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408633':
+  bin: '408633'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408634':
+  bin: '408634'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: COUNTRY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408635':
+  bin: '408635'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: SIMMONS FIRST NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408636':
+  bin: '408636'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408637':
+  bin: '408637'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: J.S.C. F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408638':
+  bin: '408638'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408639':
+  bin: '408639'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: PALMETTO CITIZENS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408640':
+  bin: '408640'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANKERS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408641':
+  bin: '408641'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408642':
+  bin: '408642'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FINANCIAL PLUS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408643':
+  bin: '408643'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408644':
+  bin: '408644'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408645':
+  bin: '408645'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408646':
+  bin: '408646'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: SIMMONS FIRST NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408647':
+  bin: '408647'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408648':
+  bin: '408648'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408649':
+  bin: '408649'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: VALLEY FEDERAL CREDIT UNION OF MONTANA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408650':
+  bin: '408650'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408651':
+  bin: '408651'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408652':
+  bin: '408652'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408653':
+  bin: '408653'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408654':
+  bin: '408654'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408655':
+  bin: '408655'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FINANCIAL PLUS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408656':
+  bin: '408656'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408657':
+  bin: '408657'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: JSC URALPRIVATBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'408658':
+  bin: '408658'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CALIFORNIA PACIFIC F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408659':
+  bin: '408659'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AMERICAN C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408660':
+  bin: '408660'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: RHODE ISLAND C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408661':
+  bin: '408661'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408662':
+  bin: '408662'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: COMSTAR F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408663':
+  bin: '408663'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408664':
+  bin: '408664'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408665':
+  bin: '408665'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408666':
+  bin: '408666'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408667':
+  bin: '408667'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: STATE FARM BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408668':
+  bin: '408668'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO PASTOR, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'408669':
+  bin: '408669'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408670':
+  bin: '408670'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408671':
+  bin: '408671'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408672':
+  bin: '408672'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408673':
+  bin: '408673'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408674':
+  bin: '408674'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408675':
+  bin: '408675'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408676':
+  bin: '408676'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408677':
+  bin: '408677'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408678':
+  bin: '408678'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408679':
+  bin: '408679'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408680':
+  bin: '408680'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ASCEND F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408681':
+  bin: '408681'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408682':
+  bin: '408682'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SEVEN SEVENTEEN CREDIT UNION, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408683':
+  bin: '408683'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIRST COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408684':
+  bin: '408684'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408685':
+  bin: '408685'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ASHEVILLE POSTAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408686':
+  bin: '408686'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408687':
+  bin: '408687'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: NEIGHBORS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408688':
+  bin: '408688'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408689':
+  bin: '408689'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PIEDMONT ADVANTAGE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408690':
+  bin: '408690'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408691':
+  bin: '408691'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: UNIVERSITY OF VIRGINIA COMMUNITY CREDIT UNION, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408692':
+  bin: '408692'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ALASKA USA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408693':
+  bin: '408693'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408694':
+  bin: '408694'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408695':
+  bin: '408695'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408696':
+  bin: '408696'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408697':
+  bin: '408697'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408698':
+  bin: '408698'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NSF F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'408699':
+  bin: '408699'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: TELCOMM C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

@@ -1,0 +1,1001 @@
+---
+'423700':
+  bin: '423700'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO BRADESCO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'423701':
+  bin: '423701'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'423702':
+  bin: '423702'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAJA RURAL DE NAVARRA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'423703':
+  bin: '423703'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CORPORATE AMERICA FAMILY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423704':
+  bin: '423704'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ROCK VALLEY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423705':
+  bin: '423705'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: 1ST MIDAMERICA C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423706':
+  bin: '423706'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423707':
+  bin: '423707'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423708':
+  bin: '423708'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423709':
+  bin: '423709'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: EARTHMOVER C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423710':
+  bin: '423710'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HSBC BANK ARGENTINA, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'423711':
+  bin: '423711'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ARMOUR KANKAKEE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423712':
+  bin: '423712'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423713':
+  bin: '423713'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ILLINOIS CENTRAL CICERO C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423714':
+  bin: '423714'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423715':
+  bin: '423715'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO DE ANDALUCIA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'423716':
+  bin: '423716'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423717':
+  bin: '423717'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO CAM S.A.U
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'423718':
+  bin: '423718'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FREEDOM FINANCIAL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423719':
+  bin: '423719'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CJSC ALFA-BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'423720':
+  bin: '423720'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PRIMETRUST FINANCIAL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423721':
+  bin: '423721'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ITT EMPLOYEES (FORT WAYNE DIVISION) F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423722':
+  bin: '423722'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: N AND W F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423723':
+  bin: '423723'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: 'PUBLIC SERVICE #3 C.U.'
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423724':
+  bin: '423724'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423725':
+  bin: '423725'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK ZACHODNI WBK, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'423726':
+  bin: '423726'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VIGO COUNTY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423727':
+  bin: '423727'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CENTRA C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423728':
+  bin: '423728'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ALLIANCE COMMUNITY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423729':
+  bin: '423729'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: O.S.U. F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423730':
+  bin: '423730'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ANIMAS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423731':
+  bin: '423731'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COLUMBIA COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423732':
+  bin: '423732'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HUACHUCA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423733':
+  bin: '423733'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423734':
+  bin: '423734'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MUNSEETOWN COMMUNITY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423735':
+  bin: '423735'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'423736':
+  bin: '423736'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO POPULAR ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'423737':
+  bin: '423737'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HIGH PLAINS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423738':
+  bin: '423738'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423739':
+  bin: '423739'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CB PROMINVESTRASCHET, LTD.
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'423740':
+  bin: '423740'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: CB PROMINVESTRASCHET, LTD.
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'423741':
+  bin: '423741'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CB PROMINVESTRASCHET, LTD.
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'423742':
+  bin: '423742'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CB PROMINVESTRASCHET, LTD.
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'423743':
+  bin: '423743'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WEBER STATE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423744':
+  bin: '423744'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NEW HAMPSHIRE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423745':
+  bin: '423745'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HANSCOM F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423746':
+  bin: '423746'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423747':
+  bin: '423747'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423748':
+  bin: '423748'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SERVICES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423749':
+  bin: '423749'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: C.U. 1
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423750':
+  bin: '423750'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423751':
+  bin: '423751'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIT UNION 1
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423752':
+  bin: '423752'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: U.S. EMPLOYEES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423753':
+  bin: '423753'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NORTHWEST COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423754':
+  bin: '423754'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: GREAT LAKES C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423755':
+  bin: '423755'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423756':
+  bin: '423756'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423757':
+  bin: '423757'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LAND OF LINCOLN C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423758':
+  bin: '423758'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: WINNEBAGO COUNTY SCHOOLS C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423759':
+  bin: '423759'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: AXA BANK EUROPE, S.A.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'423760':
+  bin: '423760'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423761':
+  bin: '423761'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423762':
+  bin: '423762'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423763':
+  bin: '423763'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423764':
+  bin: '423764'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423765':
+  bin: '423765'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423766':
+  bin: '423766'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BANCO BRADESCO USA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423767':
+  bin: '423767'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423768':
+  bin: '423768'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423769':
+  bin: '423769'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ALLIANCE AND LEICESTER INTERNATIONAL
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'423770':
+  bin: '423770'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: METROPOLITAN C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423771':
+  bin: '423771'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: BANCO DEL PACIFICO, S.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'423772':
+  bin: '423772'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423773':
+  bin: '423773'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423774':
+  bin: '423774'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BUFFALO METROPOLITAN F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423775':
+  bin: '423775'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423776':
+  bin: '423776'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: OLEAN AREA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423777':
+  bin: '423777'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HEARTLAND BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423778':
+  bin: '423778'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: HEARTLAND BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423779':
+  bin: '423779'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423780':
+  bin: '423780'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423781':
+  bin: '423781'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: POWER-TECH F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423782':
+  bin: '423782'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ELECTRA CENTRAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423783':
+  bin: '423783'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423784':
+  bin: '423784'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423785':
+  bin: '423785'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423786':
+  bin: '423786'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423787':
+  bin: '423787'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CONSOLIDATED F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423788':
+  bin: '423788'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SIDNEY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423789':
+  bin: '423789'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MEMBERS AMERICA C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423790':
+  bin: '423790'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423791':
+  bin: '423791'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SIKORSKY FINANCIAL CREDIT UNION, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423792':
+  bin: '423792'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423793':
+  bin: '423793'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423794':
+  bin: '423794'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: MACDILL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423795':
+  bin: '423795'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: WRIGHT PATMAN CONGRESSIONAL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423796':
+  bin: '423796'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: MICHIGAN STATE UNIVERSITY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423797':
+  bin: '423797'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: EMPIRE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423798':
+  bin: '423798'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CLEARVIEW F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'423799':
+  bin: '423799'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JSC BANK OF GEORGIA
+  country:
+    alpha_2: GE
+    alpha_3: GEO
+    name: Georgia

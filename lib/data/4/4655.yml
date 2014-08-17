@@ -1,0 +1,1001 @@
+---
+'465500':
+  bin: '465500'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: GATEWAY BANK OF PENNSYLVANIA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465501':
+  bin: '465501'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AMERICAN NATIONAL BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465502':
+  bin: '465502'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: REGIONS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465503':
+  bin: '465503'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SUNSHINE STATE COMMUNITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465504':
+  bin: '465504'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SPARTANBURG REGIONAL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465505':
+  bin: '465505'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ICBA BANCARD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465506':
+  bin: '465506'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF ESSEX
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465507':
+  bin: '465507'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MARKET USA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465508':
+  bin: '465508'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PRESIDENTIAL BANK, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465509':
+  bin: '465509'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PEE DEE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465510':
+  bin: '465510'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NATIONAL BANK OF GEORGIA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465511':
+  bin: '465511'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MERCHANTS AND SOUTHERN BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465512':
+  bin: '465512'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK OF WAMEGO
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465513':
+  bin: '465513'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF TENNESSEE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465514':
+  bin: '465514'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465515':
+  bin: '465515'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GREENVILLE GAS TURBINE EMPLOYEES FEDERALCREDIT UNION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465516':
+  bin: '465516'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'465517':
+  bin: '465517'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'465518':
+  bin: '465518'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'465519':
+  bin: '465519'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'465520':
+  bin: '465520'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'465521':
+  bin: '465521'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: KDB CAPITAL CORPORATION
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'465522':
+  bin: '465522'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: KDB CAPITAL CORPORATION
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'465523':
+  bin: '465523'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: KDB CAPITAL CORPORATION
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'465524':
+  bin: '465524'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T
+  issuer: KDB CAPITAL CORPORATION
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'465525':
+  bin: '465525'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465526':
+  bin: '465526'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: WESTPAC BANK SAMOA, LTD.
+  country:
+    alpha_2: WS
+    alpha_3: WSM
+    name: Samoa
+'465527':
+  bin: '465527'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: OCBC BANK (MALAYSIA) BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'465528':
+  bin: '465528'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: OCBC BANK (MALAYSIA) BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'465529':
+  bin: '465529'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FORT WORTH NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465530':
+  bin: '465530'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: COMMUNITY NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465531':
+  bin: '465531'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NEW CENTURY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465532':
+  bin: '465532'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ALASKA USA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465533':
+  bin: '465533'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ALASKA USA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465534':
+  bin: '465534'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ALASKA USA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465535':
+  bin: '465535'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465536':
+  bin: '465536'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: FIRST NATIONAL BANK OF HOLDREGE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465537':
+  bin: '465537'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: MADISON COUNTY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465538':
+  bin: '465538'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: RHB BANK BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'465539':
+  bin: '465539'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: SUMA (YONKERS) F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465540':
+  bin: '465540'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: WESTPAC BANK SAMOA, LTD.
+  country:
+    alpha_2: WS
+    alpha_3: WSM
+    name: Samoa
+'465541':
+  bin: '465541'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF KIRIBATI, LTD.
+  country:
+    alpha_2: KI
+    alpha_3: KIR
+    name: Kiribati
+'465542':
+  bin: '465542'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: DORAL BANK
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'465543':
+  bin: '465543'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'465544':
+  bin: '465544'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CITIBANK ROMANIA, S.A.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'465545':
+  bin: '465545'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'465546':
+  bin: '465546'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465547':
+  bin: '465547'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JEFFERSON BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465548':
+  bin: '465548'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465549':
+  bin: '465549'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCA SELLA HOLDING S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'465550':
+  bin: '465550'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: LYONS NATIONAL BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465551':
+  bin: '465551'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465552':
+  bin: '465552'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO BILBAO VIZCAYA ARGENTARIA BRASIL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'465553':
+  bin: '465553'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465554':
+  bin: '465554'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CBH - COMPAGNIE BANCAIRE HELVETIQUE, S.A.
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'465555':
+  bin: '465555'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CBH - COMPAGNIE BANCAIRE HELVETIQUE, S.A.
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'465556':
+  bin: '465556'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'465557':
+  bin: '465557'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANK ZACHODNI WBK, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'465558':
+  bin: '465558'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GETIN BANK, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'465559':
+  bin: '465559'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'465560':
+  bin: '465560'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ZAGREBACKA BANKA BH D.D.
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'465561':
+  bin: '465561'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BLOM BANK S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'465562':
+  bin: '465562'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO POPULAR DOMINICANO
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'465563':
+  bin: '465563'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465564':
+  bin: '465564'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO NACIONAL DE COSTA RICA
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'465565':
+  bin: '465565'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465566':
+  bin: '465566'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANQUE MISR
+  country:
+    alpha_2: EG
+    alpha_3: EGY
+    name: Egypt
+'465567':
+  bin: '465567'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465568':
+  bin: '465568'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CBH - COMPAGNIE BANCAIRE HELVETIQUE, S.A.
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'465569':
+  bin: '465569'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CBH - COMPAGNIE BANCAIRE HELVETIQUE, S.A.
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'465570':
+  bin: '465570'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CBH - COMPAGNIE BANCAIRE HELVETIQUE, S.A.
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'465571':
+  bin: '465571'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CBH - COMPAGNIE BANCAIRE HELVETIQUE, S.A.
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'465572':
+  bin: '465572'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: UNO-E BANK, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'465573':
+  bin: '465573'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: PT BANK UNIVERS.A.L.
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'465574':
+  bin: '465574'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: DENIZBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'465575':
+  bin: '465575'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: IMAGE BANK - JSCB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'465576':
+  bin: '465576'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: IMAGE BANK - JSCB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'465577':
+  bin: '465577'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CONSORCIO DE TARJETAS DOMINICANAS S.A. (CARDNET)
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'465578':
+  bin: '465578'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ZAO RAIFFEISENBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'465579':
+  bin: '465579'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465580':
+  bin: '465580'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465581':
+  bin: '465581'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465582':
+  bin: '465582'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465583':
+  bin: '465583'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: KOREA EXCHANGE BANK
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'465584':
+  bin: '465584'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'465585':
+  bin: '465585'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: SOCIETE GENERALE - SPLITSKA BANKA D.D.
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'465586':
+  bin: '465586'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: LLOYDS TSB BANK PLC, SUCURSAL EN ESPANA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'465587':
+  bin: '465587'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465588':
+  bin: '465588'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465589':
+  bin: '465589'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465590':
+  bin: '465590'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: TESCO PERSONAL FINANCE PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'465591':
+  bin: '465591'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: LLOYDS TSB BANK, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'465592':
+  bin: '465592'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANISTMO COLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'465593':
+  bin: '465593'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LLOYDS TSB BANK, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'465594':
+  bin: '465594'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: LLOYDS TSB BANK, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'465595':
+  bin: '465595'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: DEUTSCHE POSTBANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'465596':
+  bin: '465596'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: DEUTSCHE POSTBANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'465597':
+  bin: '465597'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465598':
+  bin: '465598'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'465599':
+  bin: '465599'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

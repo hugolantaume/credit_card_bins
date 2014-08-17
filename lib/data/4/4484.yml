@@ -1,0 +1,861 @@
+---
+'448400':
+  bin: '448400'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: CITIBANK INTERNATIONAL PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'448401':
+  bin: '448401'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: DEUTSCHE BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'448402':
+  bin: '448402'
+  brand: VISA
+  type: DEBIT
+  category: PURCHASING
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'448403':
+  bin: '448403'
+  brand: VISA
+  type: DEBIT
+  category: PURCHASING
+  issuer: BANCO HSBC COLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'448404':
+  bin: '448404'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'448405':
+  bin: '448405'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: ROYAL BANK OF SCOTLAND PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'448406':
+  bin: '448406'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: SANTANDER DIREKT BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'448407':
+  bin: '448407'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: LANDESBANK BERLIN GIROZENTRALE
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'448408':
+  bin: '448408'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: BANCO SANTANDER COLOMBIA, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'448409':
+  bin: '448409'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'448410':
+  bin: '448410'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: AMERICAN STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'448412':
+  bin: '448412'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BNP PARIBAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'448413':
+  bin: '448413'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: BNP PARIBAS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'448414':
+  bin: '448414'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: NATIXIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'448415':
+  bin: '448415'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: NATEXIS BANQUES POPULAIRES
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'448416':
+  bin: '448416'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: HSBC FRANCE
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'448417':
+  bin: '448417'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: HSBC FRANCE
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'448418':
+  bin: '448418'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: VISA BELGIUM
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'448419':
+  bin: '448419'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BB AND T FINANCIAL, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'448421':
+  bin: '448421'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANK OF NOVA SCOTIA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'448424':
+  bin: '448424'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'448426':
+  bin: '448426'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: CREDIT LYONNAIS
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'448427':
+  bin: '448427'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANGKOK BANK PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'448428':
+  bin: '448428'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: VISA NORGE A/S
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'448429':
+  bin: '448429'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'448432':
+  bin: '448432'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: DRESDNER BANK AG
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'448433':
+  bin: '448433'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: UBS AG (UNION BANK OF SWITZERLAND)
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'448434':
+  bin: '448434'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: TOPCARD SERVICE, S.A.
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'448435':
+  bin: '448435'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: PUBLIC BANK BERHAD
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'448436':
+  bin: '448436'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: CARTASI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'448437':
+  bin: '448437'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: CARTASI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'448438':
+  bin: '448438'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: CARTASI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'448439':
+  bin: '448439'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: CARTASI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'448441':
+  bin: '448441'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: FLEET NATIONAL BANK
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'448442':
+  bin: '448442'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: CITITARJETAS DE COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'448443':
+  bin: '448443'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO CITICARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'448444':
+  bin: '448444'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: LANDESBANK BERLIN GIROZENTRALE
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'448445':
+  bin: '448445'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: LLOYDS TSB BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'448446':
+  bin: '448446'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: BANCO SAFRA, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'448447':
+  bin: '448447'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: AVAL CARD, S.A. DE C.V.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'448448':
+  bin: '448448'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: CITIBANK INTERNATIONAL PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'448449':
+  bin: '448449'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'448450':
+  bin: '448450'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: RESONA CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'448451':
+  bin: '448451'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: SUMITOMO MITSUI CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'448452':
+  bin: '448452'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'448454':
+  bin: '448454'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO CITIBANK DE GUATEMALA, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'448458':
+  bin: '448458'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO DE ORO UNIBANK, INC.
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'448459':
+  bin: '448459'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO SANTANDER RIO, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'448460':
+  bin: '448460'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: AMERICAN STATE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'448461':
+  bin: '448461'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'448462':
+  bin: '448462'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BB AND T FINANCIAL, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'448463':
+  bin: '448463'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: ROYAL BANK OF SCOTLAND PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'448464':
+  bin: '448464'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'448465':
+  bin: '448465'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: ABSA GROUP, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'448466':
+  bin: '448466'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'448467':
+  bin: '448467'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO POPULAR NORTH AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'448469':
+  bin: '448469'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'448470':
+  bin: '448470'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: VISA AUSTRIA
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'448471':
+  bin: '448471'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: NORDEA BANK NORGE ASA HK
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'448472':
+  bin: '448472'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: TURKIYE GARANTI BANKASI A. S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'448473':
+  bin: '448473'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO UNO, S.A.
+  country:
+    alpha_2: NI
+    alpha_3: NIC
+    name: Nicaragua
+'448474':
+  bin: '448474'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BB AND T FINANCIAL, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'448475':
+  bin: '448475'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: BB BANKCARD CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'448476':
+  bin: '448476'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'448477':
+  bin: '448477'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: NORDEA BANK AB
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'448478':
+  bin: '448478'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO DE LA PROVINCIA DE BUENOS AIRES
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'448479':
+  bin: '448479'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO DE LA NACION ARGENTINA
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'448480':
+  bin: '448480'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO DE CHILE
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'448481':
+  bin: '448481'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO PRIVADO DE INVERSIONES, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'448482':
+  bin: '448482'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'448483':
+  bin: '448483'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BB AND T FINANCIAL, F.S.B.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'448484':
+  bin: '448484'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: NUEVO BANCO BISEL, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'448485':
+  bin: '448485'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: LA FEDERATION DES CAISSES DESJARDINS DU QUEBEC
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'448486':
+  bin: '448486'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'448487':
+  bin: '448487'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: HSBC BANK ARGENTINA, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'448488':
+  bin: '448488'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: CITIBANK SINGAPORE, LTD.
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'448489':
+  bin: '448489'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'448490':
+  bin: '448490'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: CITITARJETAS DE HONDURAS, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'448491':
+  bin: '448491'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: INTRUST BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'448492':
+  bin: '448492'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: CITIBANK KOREA, INC.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'448493':
+  bin: '448493'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BANCO DE GALICIA Y BUENOS AIRES, S.A.
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'448494':
+  bin: '448494'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: HYUNDAICARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'448495':
+  bin: '448495'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: BCC CORPORATE, N.V.
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'448496':
+  bin: '448496'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: BANK CARD COMPANY
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'448497':
+  bin: '448497'
+  brand: VISA
+  type: ''
+  category: PURCHASING
+  issuer: BANK CARD COMPANY
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'448499':
+  bin: '448499'
+  brand: VISA
+  type: CREDIT
+  category: PURCHASING
+  issuer: FIRST NATIONAL BANK OF OMAHA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

@@ -1,0 +1,1001 @@
+---
+'424300':
+  bin: '424300'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'424301':
+  bin: '424301'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'424302':
+  bin: '424302'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: EL CREDITO HIPOTECARIO NACIONAL DE GUATEMALA
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'424303':
+  bin: '424303'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: EL CREDITO HIPOTECARIO NACIONAL DE GUATEMALA
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'424304':
+  bin: '424304'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'424305':
+  bin: '424305'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO ABN AMRO REAL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'424306':
+  bin: '424306'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO SUDAMERIS BRASIL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'424307':
+  bin: '424307'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: LANSING COMMUNITY C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'424308':
+  bin: '424308'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIRSTBANK PUERTO RICO
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'424309':
+  bin: '424309'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PROCREDIT BANK, INC.
+  country:
+    alpha_2: MK
+    alpha_3: MKD
+    name: Macedonia, Republic of
+'424310':
+  bin: '424310'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANK OF COMMERCE AND DEVELOPMENT (LJSC)
+  country:
+    alpha_2: LY
+    alpha_3: LBY
+    name: Libya
+'424311':
+  bin: '424311'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: DASHEN BANK S.C.
+  country:
+    alpha_2: ET
+    alpha_3: ETH
+    name: Ethiopia
+'424312':
+  bin: '424312'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: DASHEN BANK S.C.
+  country:
+    alpha_2: ET
+    alpha_3: ETH
+    name: Ethiopia
+'424313':
+  bin: '424313'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: KENYA COMMERCIAL BANK, LTD.
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'424314':
+  bin: '424314'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: KENYA COMMERCIAL BANK, LTD.
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'424315':
+  bin: '424315'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: KENYA COMMERCIAL BANK, LTD.
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'424316':
+  bin: '424316'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: KENYA COMMERCIAL BANK, LTD.
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'424317':
+  bin: '424317'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NATIONAL BANK OF GREECE S.A. BELGRADE
+  country:
+    alpha_2: RS
+    alpha_3: SRB
+    name: Serbia
+'424318':
+  bin: '424318'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: RENNIES BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'424319':
+  bin: '424319'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANC POST, S.A.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'424320':
+  bin: '424320'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANC POST, S.A.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'424321':
+  bin: '424321'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANC POST, S.A.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'424322':
+  bin: '424322'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'424323':
+  bin: '424323'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'424324':
+  bin: '424324'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SISTEMA 4B, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'424325':
+  bin: '424325'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: SLAVONSKA BANKA D.D. OSIJEK
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'424326':
+  bin: '424326'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PIRAEUS BANK BULGARIA A.D.
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'424327':
+  bin: '424327'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TELLER, A.S.
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'424328':
+  bin: '424328'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CARTASI S.P.A.
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy
+'424329':
+  bin: '424329'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: COVENTRY BUILDING SOCIETY
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'424330':
+  bin: '424330'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: EURO 6000, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'424331':
+  bin: '424331'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST INVESTMENT BANK
+  country:
+    alpha_2: AL
+    alpha_3: ALB
+    name: Albania
+'424332':
+  bin: '424332'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIRST INVESTMENT BANK
+  country:
+    alpha_2: AL
+    alpha_3: ALB
+    name: Albania
+'424333':
+  bin: '424333'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRST INVESTMENT BANK
+  country:
+    alpha_2: AL
+    alpha_3: ALB
+    name: Albania
+'424334':
+  bin: '424334'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: FIRST INVESTMENT BANK
+  country:
+    alpha_2: AL
+    alpha_3: ALB
+    name: Albania
+'424335':
+  bin: '424335'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST INVESTMENT BANK
+  country:
+    alpha_2: AL
+    alpha_3: ALB
+    name: Albania
+'424336':
+  bin: '424336'
+  brand: VISA
+  type: CREDIT
+  category: ELECTRON
+  issuer: GE MONEY BANK, A.S.
+  country:
+    alpha_2: CZ
+    alpha_3: CZE
+    name: Czech Republic
+'424337':
+  bin: '424337'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF KUWAIT AND THE MIDDLE EAST, KSC
+  country:
+    alpha_2: KW
+    alpha_3: KWT
+    name: Kuwait
+'424338':
+  bin: '424338'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'424339':
+  bin: '424339'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SKANDIABANKEN
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'424340':
+  bin: '424340'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: VISA SWEDEN ASSOCIATION
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'424341':
+  bin: '424341'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'424342':
+  bin: '424342'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JSCB CAPITAL
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'424343':
+  bin: '424343'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: EMIRATES NBD BANK (P.J.S.C.)
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'424344':
+  bin: '424344'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PROCREDIT BANK, INC.
+  country:
+    alpha_2: MK
+    alpha_3: MKD
+    name: Macedonia, Republic of
+'424345':
+  bin: '424345'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: PROCREDIT BANK, INC.
+  country:
+    alpha_2: MK
+    alpha_3: MKD
+    name: Macedonia, Republic of
+'424346':
+  bin: '424346'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: PROCREDIT BANK, INC.
+  country:
+    alpha_2: MK
+    alpha_3: MKD
+    name: Macedonia, Republic of
+'424347':
+  bin: '424347'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: STANBIC BANK ZIMBABWE, LTD.
+  country:
+    alpha_2: ZW
+    alpha_3: ZWE
+    name: Zimbabwe
+'424348':
+  bin: '424348'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: STANBIC BANK ZIMBABWE, LTD.
+  country:
+    alpha_2: ZW
+    alpha_3: ZWE
+    name: Zimbabwe
+'424349':
+  bin: '424349'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CREDIT-DNEPR JSB
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'424350':
+  bin: '424350'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: PROCREDIT BANK, INC.
+  country:
+    alpha_2: MK
+    alpha_3: MKD
+    name: Macedonia, Republic of
+'424351':
+  bin: '424351'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'424352':
+  bin: '424352'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JSCB SOYUZ
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'424353':
+  bin: '424353'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCA MORA, S.A.
+  country:
+    alpha_2: AD
+    alpha_3: AND
+    name: Andorra
+'424354':
+  bin: '424354'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCA MORA, S.A.
+  country:
+    alpha_2: AD
+    alpha_3: AND
+    name: Andorra
+'424355':
+  bin: '424355'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'424356':
+  bin: '424356'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'424357':
+  bin: '424357'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'424358':
+  bin: '424358'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: VISA AUSTRIA
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'424359':
+  bin: '424359'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST DATA RESOURCES (UK) (FDR)
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'424360':
+  bin: '424360'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: DENIZBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'424361':
+  bin: '424361'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: DENIZBANK, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'424362':
+  bin: '424362'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: JSB RUSINVESTCLUB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'424363':
+  bin: '424363'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA
+  country:
+    alpha_2: GN
+    alpha_3: GIN
+    name: Guinea
+'424364':
+  bin: '424364'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'424365':
+  bin: '424365'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: RAIFFEISENBANK AUSTRIA D.D.
+  country:
+    alpha_2: HR
+    alpha_3: HRV
+    name: Croatia
+'424366':
+  bin: '424366'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'424367':
+  bin: '424367'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: VALUCARD NIGERIA PLC
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'424368':
+  bin: '424368'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'424369':
+  bin: '424369'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANQUE INVIK, S.A.
+  country:
+    alpha_2: LU
+    alpha_3: LUX
+    name: Luxembourg
+'424370':
+  bin: '424370'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JSCB ELECTRONIKA OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'424371':
+  bin: '424371'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: JSCB ELECTRONIKA OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'424372':
+  bin: '424372'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: JSCB ELECTRONIKA OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'424373':
+  bin: '424373'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SAMPO PANKKI OYJ
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'424374':
+  bin: '424374'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SAMPO PANKKI OYJ
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'424375':
+  bin: '424375'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'424376':
+  bin: '424376'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'424377':
+  bin: '424377'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OCHRONY SRODOWISKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'424378':
+  bin: '424378'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANK OCHRONY SRODOWISKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'424379':
+  bin: '424379'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANK OCHRONY SRODOWISKA, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'424380':
+  bin: '424380'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'424381':
+  bin: '424381'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'424382':
+  bin: '424382'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CEC BANK, S.A.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'424383':
+  bin: '424383'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: CEC BANK, S.A.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'424384':
+  bin: '424384'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ECOPROMBANK JSCB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'424385':
+  bin: '424385'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ECOPROMBANK JSCB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'424386':
+  bin: '424386'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ECOPROMBANK JSCB
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'424387':
+  bin: '424387'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'424388':
+  bin: '424388'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'424389':
+  bin: '424389'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'424390':
+  bin: '424390'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'424391':
+  bin: '424391'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LUOTTOKUNTA
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'424392':
+  bin: '424392'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: LUOTTOKUNTA
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'424393':
+  bin: '424393'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AKTIA SAASTOPANKII OY
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'424394':
+  bin: '424394'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LUOTTOKUNTA
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'424395':
+  bin: '424395'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: LUOTTOKUNTA
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'424396':
+  bin: '424396'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AKTIA SAASTOPANKII OY
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'424397':
+  bin: '424397'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: LUOTTOKUNTA
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'424398':
+  bin: '424398'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: LUOTTOKUNTA
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'424399':
+  bin: '424399'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: AKTIA SAASTOPANKII OY
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland

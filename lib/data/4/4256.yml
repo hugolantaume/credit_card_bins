@@ -1,0 +1,1001 @@
+---
+'425600':
+  bin: '425600'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425601':
+  bin: '425601'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ING BANK, N.V.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'425602':
+  bin: '425602'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ING BANK, N.V.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'425603':
+  bin: '425603'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ING BANK, N.V.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'425604':
+  bin: '425604'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ING BANK, N.V.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'425605':
+  bin: '425605'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ING BANK, N.V.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'425606':
+  bin: '425606'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ING BANK, N.V.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'425607':
+  bin: '425607'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: URALTRANSBANK OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425608':
+  bin: '425608'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: URALTRANSBANK OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425609':
+  bin: '425609'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: URALTRANSBANK OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425610':
+  bin: '425610'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'425611':
+  bin: '425611'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425612':
+  bin: '425612'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425613':
+  bin: '425613'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425614':
+  bin: '425614'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425615':
+  bin: '425615'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425616':
+  bin: '425616'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425617':
+  bin: '425617'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425618':
+  bin: '425618'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425619':
+  bin: '425619'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425620':
+  bin: '425620'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425621':
+  bin: '425621'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425622':
+  bin: '425622'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425623':
+  bin: '425623'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425624':
+  bin: '425624'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425625':
+  bin: '425625'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425626':
+  bin: '425626'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425627':
+  bin: '425627'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425628':
+  bin: '425628'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425629':
+  bin: '425629'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425630':
+  bin: '425630'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425631':
+  bin: '425631'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425632':
+  bin: '425632'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425633':
+  bin: '425633'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425634':
+  bin: '425634'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425635':
+  bin: '425635'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425636':
+  bin: '425636'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425637':
+  bin: '425637'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425638':
+  bin: '425638'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425639':
+  bin: '425639'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425640':
+  bin: '425640'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425641':
+  bin: '425641'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425642':
+  bin: '425642'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425643':
+  bin: '425643'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425644':
+  bin: '425644'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425645':
+  bin: '425645'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425646':
+  bin: '425646'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425647':
+  bin: '425647'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425648':
+  bin: '425648'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425649':
+  bin: '425649'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425650':
+  bin: '425650'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425651':
+  bin: '425651'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425652':
+  bin: '425652'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425653':
+  bin: '425653'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425654':
+  bin: '425654'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425655':
+  bin: '425655'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: ''
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'425656':
+  bin: '425656'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: JSC BANK OF KHANTY-MANSIYSK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425657':
+  bin: '425657'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425658':
+  bin: '425658'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ROSPROMBANK CB ROSSIYSKY PROMYISHLENNY BANK ROSPROMBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425659':
+  bin: '425659'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MKB BANK RT.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'425660':
+  bin: '425660'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425661':
+  bin: '425661'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: VISA SWEDEN ASSOCIATION
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'425662':
+  bin: '425662'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425663':
+  bin: '425663'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425664':
+  bin: '425664'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425665':
+  bin: '425665'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425666':
+  bin: '425666'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425667':
+  bin: '425667'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: ''
+  country:
+    alpha_2: NI
+    alpha_3: NIC
+    name: Nicaragua
+'425668':
+  bin: '425668'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BIDVEST BANK, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'425669':
+  bin: '425669'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: AKBANK T.A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'425670':
+  bin: '425670'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425671':
+  bin: '425671'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425672':
+  bin: '425672'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425673':
+  bin: '425673'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: ''
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'425674':
+  bin: '425674'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425675':
+  bin: '425675'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425676':
+  bin: '425676'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425677':
+  bin: '425677'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: ''
+  country:
+    alpha_2: UY
+    alpha_3: URY
+    name: Uruguay
+'425678':
+  bin: '425678'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: ''
+  country:
+    alpha_2: PY
+    alpha_3: PRY
+    name: Paraguay
+'425679':
+  bin: '425679'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425680':
+  bin: '425680'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: JSC BTA BANK
+  country:
+    alpha_2: KZ
+    alpha_3: KAZ
+    name: Kazakhstan
+'425681':
+  bin: '425681'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BLOM BANK S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'425682':
+  bin: '425682'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425683':
+  bin: '425683'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: DJ
+    alpha_3: DJI
+    name: Djibouti
+'425684':
+  bin: '425684'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425685':
+  bin: '425685'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425686':
+  bin: '425686'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425687':
+  bin: '425687'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: HOUSING BANK FOR TRADE AND FINANCE
+  country:
+    alpha_2: JO
+    alpha_3: JOR
+    name: Jordan
+'425688':
+  bin: '425688'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: CAIXA ECONOMICA DE CABO VERDE
+  country:
+    alpha_2: CV
+    alpha_3: CPV
+    name: Cape Verde
+'425689':
+  bin: '425689'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425690':
+  bin: '425690'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JSCB FORA BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425691':
+  bin: '425691'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: JSCB FORA BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425692':
+  bin: '425692'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: JSCB FORA BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425693':
+  bin: '425693'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: INTERNATIONAL BANK OF TRADE COOPERATION (IBTC-BANK OJSC)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425694':
+  bin: '425694'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: INTERNATIONAL BANK OF TRADE COOPERATION (IBTC-BANK OJSC)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425695':
+  bin: '425695'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: INTERNATIONAL BANK OF TRADE COOPERATION (IBTC-BANK OJSC)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425696':
+  bin: '425696'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: INTERNATIONAL BANK OF TRADE COOPERATION (IBTC-BANK OJSC)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'425697':
+  bin: '425697'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425698':
+  bin: '425698'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'425699':
+  bin: '425699'
+  brand: VISA
+  type: DEBIT
+  category: CHECK CARD
+  issuer: ''
+  country:
+    alpha_2: KZ
+    alpha_3: KAZ
+    name: Kazakhstan

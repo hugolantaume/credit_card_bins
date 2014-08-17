@@ -1,0 +1,1001 @@
+---
+'555000':
+  bin: '555000'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: BANK OF MONTREAL
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'555001':
+  bin: '555001'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: NATIONAL AUSTRALIA BANK, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'555002':
+  bin: '555002'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NATIONAL WESTMINSTER BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'555003':
+  bin: '555003'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: WESTPAC BANKING CORPORATION
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'555004':
+  bin: '555004'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: HSBC BANK MIDDLE EAST
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'555005':
+  bin: '555005'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: COMMONWEALTH BANK OF AUSTRALIA
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'555006':
+  bin: '555006'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: NATIONAL BANK OF CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'555007':
+  bin: '555007'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE
+  issuer: HSBC BANK MIDDLE EAST
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'555008':
+  bin: '555008'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: BANK OF MONTREAL
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555009':
+  bin: '555009'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: EUROCARD AB
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'555010':
+  bin: '555010'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: ''
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'555011':
+  bin: '555011'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: ''
+  country:
+    alpha_2: PK
+    alpha_3: PAK
+    name: Pakistan
+'555012':
+  bin: '555012'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555013':
+  bin: '555013'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: HSBC BANK MIDDLE EAST
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'555014':
+  bin: '555014'
+  brand: MASTERCARD
+  type: CREDIT
+  category: STANDARD
+  issuer: EUROCARD AB
+  country:
+    alpha_2: 'NO'
+    alpha_3: NOR
+    name: Norway
+'555015':
+  bin: '555015'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: CITIBANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'555016':
+  bin: '555016'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: BORGUN H.F.
+  country:
+    alpha_2: IS
+    alpha_3: ISL
+    name: Iceland
+'555017':
+  bin: '555017'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore
+'555018':
+  bin: '555018'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: CITIBANK
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'555019':
+  bin: '555019'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: CITIGROUP PTY, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia
+'555020':
+  bin: '555020'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: DAH SING BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'555021':
+  bin: '555021'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: CITIBANK, N.A., PHILIPPINES
+  country:
+    alpha_2: PH
+    alpha_3: PHL
+    name: Philippines
+'555022':
+  bin: '555022'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555023':
+  bin: '555023'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: SAMSUNG CARD CO.
+  country:
+    alpha_2: KP
+    alpha_3: PRK
+    name: Korea, Democratic People's Republic of
+'555024':
+  bin: '555024'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: CITIBANK N.A., THAILAND
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'555025':
+  bin: '555025'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: STANDARD BANK OF SOUTH AFRICA, LTD.
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'555026':
+  bin: '555026'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555027':
+  bin: '555027'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: CITIBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555028':
+  bin: '555028'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'555029':
+  bin: '555029'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: E. SUN COMMERCIAL BANK CO., LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'555030':
+  bin: '555030'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: CHINFON COMMERCIAL BANK
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'555031':
+  bin: '555031'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555032':
+  bin: '555032'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555033':
+  bin: '555033'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: TAIPEI FUBON COMMERCIAL BANK CO., LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'555034':
+  bin: '555034'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: CITIBANK, N.A. SOUTH AFRICA
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'555035':
+  bin: '555035'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: CITIBANK
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'555036':
+  bin: '555036'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: CITIBANK, N.A. SOUTH AFRICA
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'555037':
+  bin: '555037'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'555038':
+  bin: '555038'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555039':
+  bin: '555039'
+  brand: MASTERCARD
+  type: CREDIT
+  category: BUSINESS
+  issuer: BOC CREDIT CARD (INTERNATIONAL), LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'555040':
+  bin: '555040'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: BANCO BRADESCO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'555041':
+  bin: '555041'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: HSBC BANK MIDDLE EAST
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'555042':
+  bin: '555042'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: DAH SING BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'555043':
+  bin: '555043'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: SEB KORT AB (HELSINKI BRANCH)
+  country:
+    alpha_2: FI
+    alpha_3: FIN
+    name: Finland
+'555044':
+  bin: '555044'
+  brand: MASTERCARD
+  type: CREDIT
+  category: PLATINUM
+  issuer: FIRST GULF BANK PJSC
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'555045':
+  bin: '555045'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: CITIBANK INTERNATIONAL PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'555046':
+  bin: '555046'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555047':
+  bin: '555047'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555048':
+  bin: '555048'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555049':
+  bin: '555049'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555050':
+  bin: '555050'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555051':
+  bin: '555051'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: WRIGHT EXPRESS FINANCIAL SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555052':
+  bin: '555052'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555053':
+  bin: '555053'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'555054':
+  bin: '555054'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555055':
+  bin: '555055'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: WRIGHT EXPRESS FINANCIAL SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555056':
+  bin: '555056'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: PR
+    alpha_3: PRI
+    name: Puerto Rico
+'555057':
+  bin: '555057'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'555058':
+  bin: '555058'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'555059':
+  bin: '555059'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555060':
+  bin: '555060'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: CITIBANK NIGERIA, LTD.
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'555061':
+  bin: '555061'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: CITIBANK NIGERIA, LTD.
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'555062':
+  bin: '555062'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: CITIBANK NIGERIA, LTD.
+  country:
+    alpha_2: NG
+    alpha_3: NGA
+    name: Nigeria
+'555063':
+  bin: '555063'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: CITIBANK NA KENYA
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'555064':
+  bin: '555064'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'555065':
+  bin: '555065'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: CITIBANK NA KENYA
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'555066':
+  bin: '555066'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555067':
+  bin: '555067'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555068':
+  bin: '555068'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555069':
+  bin: '555069'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555070':
+  bin: '555070'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555071':
+  bin: '555071'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: WRIGHT EXPRESS FINANCIAL SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555072':
+  bin: '555072'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: WRIGHT EXPRESS FINANCIAL SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555073':
+  bin: '555073'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: WRIGHT EXPRESS FINANCIAL SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555074':
+  bin: '555074'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555075':
+  bin: '555075'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: WRIGHT EXPRESS FINANCIAL SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555076':
+  bin: '555076'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: WRIGHT EXPRESS FINANCIAL SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555077':
+  bin: '555077'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'555078':
+  bin: '555078'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: BC CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'555079':
+  bin: '555079'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: JSCB ROSBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'555080':
+  bin: '555080'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555081':
+  bin: '555081'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: WRIGHT EXPRESS FINANCIAL SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555082':
+  bin: '555082'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555083':
+  bin: '555083'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: WRIGHT EXPRESS FINANCIAL SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555084':
+  bin: '555084'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: WRIGHT EXPRESS FINANCIAL SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555085':
+  bin: '555085'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555086':
+  bin: '555086'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555087':
+  bin: '555087'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'555088':
+  bin: '555088'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555089':
+  bin: '555089'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: WRIGHT EXPRESS FINANCIAL SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555090':
+  bin: '555090'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: WRIGHT EXPRESS FINANCIAL SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555091':
+  bin: '555091'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: WRIGHT EXPRESS FINANCIAL SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555092':
+  bin: '555092'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: WRIGHT EXPRESS FINANCIAL SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555093':
+  bin: '555093'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: WRIGHT EXPRESS FINANCIAL SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555094':
+  bin: '555094'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: WRIGHT EXPRESS FINANCIAL SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555095':
+  bin: '555095'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: WRIGHT EXPRESS FINANCIAL SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555096':
+  bin: '555096'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: WRIGHT EXPRESS FINANCIAL SERVICES CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'555097':
+  bin: '555097'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'555098':
+  bin: '555098'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'555099':
+  bin: '555099'
+  brand: MASTERCARD
+  type: CREDIT
+  category: CORPORATE PURCHASING
+  issuer: ''
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada

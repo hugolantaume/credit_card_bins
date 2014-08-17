@@ -1,0 +1,1001 @@
+---
+'476200':
+  bin: '476200'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476201':
+  bin: '476201'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: U.S. BANK N.A. ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476202':
+  bin: '476202'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'476203':
+  bin: '476203'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'476204':
+  bin: '476204'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'476205':
+  bin: '476205'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: TRANSACCIONES UNIVERSALES, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'476206':
+  bin: '476206'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: JSCB PROMSVYAZBANK (CJSC)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'476207':
+  bin: '476207'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: JSCB PROMSVYAZBANK (CJSC)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'476208':
+  bin: '476208'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: JSCB PROMSVYAZBANK (CJSC)
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'476209':
+  bin: '476209'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: INTRUST BANK NATIONAL ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476210':
+  bin: '476210'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'476211':
+  bin: '476211'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'476212':
+  bin: '476212'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: GOVERNOR AND COMPANY OF THE BANK OF IRELAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476213':
+  bin: '476213'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: RBTT BANK CARIBBEAN, LTD.
+  country:
+    alpha_2: VC
+    alpha_3: VCT
+    name: Saint Vincent and the Grenadines
+'476214':
+  bin: '476214'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: RBTT BANK CARIBBEAN, LTD.
+  country:
+    alpha_2: AG
+    alpha_3: ATG
+    name: Antigua and Barbuda
+'476215':
+  bin: '476215'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: PK
+    alpha_3: PAK
+    name: Pakistan
+'476216':
+  bin: '476216'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476217':
+  bin: '476217'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476218':
+  bin: '476218'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476219':
+  bin: '476219'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476220':
+  bin: '476220'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476221':
+  bin: '476221'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476222':
+  bin: '476222'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476223':
+  bin: '476223'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476224':
+  bin: '476224'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476225':
+  bin: '476225'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476226':
+  bin: '476226'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476227':
+  bin: '476227'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476228':
+  bin: '476228'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476229':
+  bin: '476229'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476230':
+  bin: '476230'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476231':
+  bin: '476231'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476232':
+  bin: '476232'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476233':
+  bin: '476233'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476234':
+  bin: '476234'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476235':
+  bin: '476235'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476236':
+  bin: '476236'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476237':
+  bin: '476237'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ROYAL BANK OF SCOTLAND INTERNATIONAL, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476238':
+  bin: '476238'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476239':
+  bin: '476239'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476240':
+  bin: '476240'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476241':
+  bin: '476241'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476242':
+  bin: '476242'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476243':
+  bin: '476243'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476244':
+  bin: '476244'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476245':
+  bin: '476245'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476246':
+  bin: '476246'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476247':
+  bin: '476247'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476248':
+  bin: '476248'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476249':
+  bin: '476249'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476250':
+  bin: '476250'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476251':
+  bin: '476251'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476252':
+  bin: '476252'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476253':
+  bin: '476253'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476254':
+  bin: '476254'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476255':
+  bin: '476255'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476256':
+  bin: '476256'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476257':
+  bin: '476257'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476258':
+  bin: '476258'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476259':
+  bin: '476259'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476260':
+  bin: '476260'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476261':
+  bin: '476261'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476262':
+  bin: '476262'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476263':
+  bin: '476263'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476264':
+  bin: '476264'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476265':
+  bin: '476265'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476266':
+  bin: '476266'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476267':
+  bin: '476267'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476268':
+  bin: '476268'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476269':
+  bin: '476269'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ROYAL BANK OF SCOTLAND
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'476270':
+  bin: '476270'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476271':
+  bin: '476271'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476272':
+  bin: '476272'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476273':
+  bin: '476273'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476274':
+  bin: '476274'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476275':
+  bin: '476275'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476276':
+  bin: '476276'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476277':
+  bin: '476277'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'476278':
+  bin: '476278'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476279':
+  bin: '476279'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'476280':
+  bin: '476280'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'476281':
+  bin: '476281'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'476282':
+  bin: '476282'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476283':
+  bin: '476283'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KZ
+    alpha_3: KAZ
+    name: Kazakhstan
+'476284':
+  bin: '476284'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KZ
+    alpha_3: KAZ
+    name: Kazakhstan
+'476285':
+  bin: '476285'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476286':
+  bin: '476286'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476287':
+  bin: '476287'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476288':
+  bin: '476288'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476289':
+  bin: '476289'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476290':
+  bin: '476290'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476291':
+  bin: '476291'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476292':
+  bin: '476292'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476293':
+  bin: '476293'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476294':
+  bin: '476294'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476295':
+  bin: '476295'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BW
+    alpha_3: BWA
+    name: Botswana
+'476296':
+  bin: '476296'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'476297':
+  bin: '476297'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'476298':
+  bin: '476298'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'476299':
+  bin: '476299'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

@@ -1,0 +1,1001 @@
+---
+'515000':
+  bin: '515000'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515001':
+  bin: '515001'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515002':
+  bin: '515002'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515003':
+  bin: '515003'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: BANCORP BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515004':
+  bin: '515004'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: HERRING BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515005':
+  bin: '515005'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: HERRING BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515006':
+  bin: '515006'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515007':
+  bin: '515007'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515008':
+  bin: '515008'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515009':
+  bin: '515009'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515010':
+  bin: '515010'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515011':
+  bin: '515011'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515012':
+  bin: '515012'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515013':
+  bin: '515013'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515014':
+  bin: '515014'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515015':
+  bin: '515015'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515016':
+  bin: '515016'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: STAR PROCESSING, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515017':
+  bin: '515017'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NEW MILLENNIUM BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515018':
+  bin: '515018'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: BANCORP BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515019':
+  bin: '515019'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: KEYBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515020':
+  bin: '515020'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515021':
+  bin: '515021'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515022':
+  bin: '515022'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515023':
+  bin: '515023'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: MN
+    alpha_3: MNG
+    name: Mongolia
+'515024':
+  bin: '515024'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: CU COOPERATIVE SYSTEMS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515025':
+  bin: '515025'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515026':
+  bin: '515026'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515027':
+  bin: '515027'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515028':
+  bin: '515028'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515029':
+  bin: '515029'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: COMPUTER SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515030':
+  bin: '515030'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: NYCE PAYMENTS NETWORK, LLC
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515031':
+  bin: '515031'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: COMPUTER SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515032':
+  bin: '515032'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: COMPUTER SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515033':
+  bin: '515033'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: JACK HENRY AND ASSOCIATES
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515034':
+  bin: '515034'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515035':
+  bin: '515035'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515036':
+  bin: '515036'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515037':
+  bin: '515037'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515038':
+  bin: '515038'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: PULSE NETWORK LLC
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515039':
+  bin: '515039'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515040':
+  bin: '515040'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: BANCORP BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515041':
+  bin: '515041'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515042':
+  bin: '515042'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515043':
+  bin: '515043'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: STAR PROCESSING, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515044':
+  bin: '515044'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515045':
+  bin: '515045'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: STAR PROCESSING, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515046':
+  bin: '515046'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515047':
+  bin: '515047'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515048':
+  bin: '515048'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: PULSE EFT ASSOCIATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515049':
+  bin: '515049'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515050':
+  bin: '515050'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: CU COOPERATIVE SYSTEMS
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515051':
+  bin: '515051'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FISERV SOLUTIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515052':
+  bin: '515052'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: COMPUTER SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515053':
+  bin: '515053'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515054':
+  bin: '515054'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515055':
+  bin: '515055'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: STAR PROCESSING, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515056':
+  bin: '515056'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIDELITY INFORMATION SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515057':
+  bin: '515057'
+  brand: MASTERCARD
+  type: DEBIT
+  category: OTHER
+  issuer: TRANSPORTATION ALLIANCE BANK, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515058':
+  bin: '515058'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: DATA CENTER INCORPORATED
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515059':
+  bin: '515059'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: PULSE NETWORK LLC
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515060':
+  bin: '515060'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515061':
+  bin: '515061'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515062':
+  bin: '515062'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515063':
+  bin: '515063'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515064':
+  bin: '515064'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515065':
+  bin: '515065'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515066':
+  bin: '515066'
+  brand: MASTERCARD
+  type: DEBIT
+  category: OTHER
+  issuer: PULSE NETWORK LLC
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515067':
+  bin: '515067'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515068':
+  bin: '515068'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515069':
+  bin: '515069'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515070':
+  bin: '515070'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515071':
+  bin: '515071'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515072':
+  bin: '515072'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515073':
+  bin: '515073'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515074':
+  bin: '515074'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515075':
+  bin: '515075'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515076':
+  bin: '515076'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515077':
+  bin: '515077'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515078':
+  bin: '515078'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: SUNTRUST BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515079':
+  bin: '515079'
+  brand: MASTERCARD
+  type: DEBIT
+  category: OTHER
+  issuer: PULSE NETWORK LLC
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515080':
+  bin: '515080'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: COMERICA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515081':
+  bin: '515081'
+  brand: MASTERCARD
+  type: DEBIT
+  category: OTHER
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515082':
+  bin: '515082'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: NEW MILLENNIUM BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515083':
+  bin: '515083'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: BENEFIT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515084':
+  bin: '515084'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: UNIVERSAL SAVINGS BANK, F.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515085':
+  bin: '515085'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515086':
+  bin: '515086'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515087':
+  bin: '515087'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: OPTUMHEALTH BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515088':
+  bin: '515088'
+  brand: MASTERCARD
+  type: DEBIT
+  category: OTHER
+  issuer: HERRING BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515089':
+  bin: '515089'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515090':
+  bin: '515090'
+  brand: MASTERCARD
+  type: DEBIT
+  category: PREPAID
+  issuer: COMERICA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515091':
+  bin: '515091'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: COMERICA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515092':
+  bin: '515092'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515093':
+  bin: '515093'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515094':
+  bin: '515094'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515095':
+  bin: '515095'
+  brand: MASTERCARD
+  type: DEBIT
+  category: STANDARD
+  issuer: METABANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515096':
+  bin: '515096'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: M AND I (MARSHALL AND ILSLEY) BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515097':
+  bin: '515097'
+  brand: MASTERCARD
+  type: DEBIT
+  category: OTHER
+  issuer: BRANNEN BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515098':
+  bin: '515098'
+  brand: MASTERCARD
+  type: DEBIT
+  category: OTHER
+  issuer: U.S. BANK NATIONAL ASSOCIATION, ND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'515099':
+  bin: '515099'
+  brand: MASTERCARD
+  type: ''
+  category: ''
+  issuer: PEOPLES BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

@@ -1,0 +1,1001 @@
+---
+'490900':
+  bin: '490900'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'490901':
+  bin: '490901'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: HONGKONG AND SHANGHAI BANKING CORP., LTD.
+  country:
+    alpha_2: TW
+    alpha_3: TWN
+    name: Taiwan
+'490902':
+  bin: '490902'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITIBANK INTERNATIONAL
+  country:
+    alpha_2: CN
+    alpha_3: CHN
+    name: China
+'490903':
+  bin: '490903'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANKMUSCAT LTD. (S.A.O.G.)
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'490904':
+  bin: '490904'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490905':
+  bin: '490905'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANKMUSCAT LTD. (S.A.O.G.)
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'490906':
+  bin: '490906'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CITIBANK SPAIN
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490907':
+  bin: '490907'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANKMUSCAT LTD. (S.A.O.G.)
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'490908':
+  bin: '490908'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CITIBANK SPAIN
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490909':
+  bin: '490909'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CITIBANK SPAIN
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490910':
+  bin: '490910'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CITIBANK SPAIN
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490911':
+  bin: '490911'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PROFINANCE F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490912':
+  bin: '490912'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SOUTHWEST F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490913':
+  bin: '490913'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490914':
+  bin: '490914'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490915':
+  bin: '490915'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CAPITAL ONE BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490916':
+  bin: '490916'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF RINGGOLD
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490917':
+  bin: '490917'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: RIYAD BANK
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'490918':
+  bin: '490918'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK OF SCOTLAND PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490919':
+  bin: '490919'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490920':
+  bin: '490920'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ASSOCIATED CARD SERVICES BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490921':
+  bin: '490921'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: OMAN INTERNATIONAL BANK S.A.O.
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'490922':
+  bin: '490922'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490923':
+  bin: '490923'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CITIBANK SPAIN
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490924':
+  bin: '490924'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CITIBANK SPAIN
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490925':
+  bin: '490925'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490926':
+  bin: '490926'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PIRAEUS BANK, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'490927':
+  bin: '490927'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PIRAEUS BANK, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'490928':
+  bin: '490928'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: SPC C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490929':
+  bin: '490929'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: VISA SWEDEN ASSOCIATION
+  country:
+    alpha_2: SE
+    alpha_3: SWE
+    name: Sweden
+'490930':
+  bin: '490930'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CITIBANK
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'490931':
+  bin: '490931'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'490932':
+  bin: '490932'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'490933':
+  bin: '490933'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CITIBANK
+  country:
+    alpha_2: BE
+    alpha_3: BEL
+    name: Belgium
+'490934':
+  bin: '490934'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CITIBANK SPAIN
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490935':
+  bin: '490935'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: UBS AG (UNION BANK OF SWITZERLAND)
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'490936':
+  bin: '490936'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: UBS AG (UNION BANK OF SWITZERLAND)
+  country:
+    alpha_2: CH
+    alpha_3: CHE
+    name: Switzerland
+'490937':
+  bin: '490937'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: MERIWEST C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490938':
+  bin: '490938'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: IRISH NATIONWIDE BUILDING SOCIETY
+  country:
+    alpha_2: IE
+    alpha_3: IRL
+    name: Ireland
+'490939':
+  bin: '490939'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CITIBANK SPAIN
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490940':
+  bin: '490940'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CITIBANK SPAIN
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490941':
+  bin: '490941'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CAIXA D'ESTALVIS UNIO DE CAIXES DE MANLLEU, SABADELL Y TERRA
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490942':
+  bin: '490942'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CAJA RURAL DEL SUR
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490943':
+  bin: '490943'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CITIBANK ESPANA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490944':
+  bin: '490944'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: IPAR KUTXA RURAL
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490945':
+  bin: '490945'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490946':
+  bin: '490946'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NATWEST
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490947':
+  bin: '490947'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ABN AMRO BANK, N.V.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'490948':
+  bin: '490948'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: ABN AMRO BANK, N.V.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'490949':
+  bin: '490949'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490950':
+  bin: '490950'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CITIBANK SPAIN
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490951':
+  bin: '490951'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANQUE LIBANO-FRANCAISE S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'490952':
+  bin: '490952'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANQUE LIBANO-FRANCAISE S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'490953':
+  bin: '490953'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: BANQUE LIBANO-FRANCAISE S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'490954':
+  bin: '490954'
+  brand: VISA
+  type: DEBIT
+  category: INFINITE
+  issuer: BANQUE LIBANO-FRANCAISE S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'490955':
+  bin: '490955'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANQUE LIBANO-FRANCAISE S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'490956':
+  bin: '490956'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANQUE LIBANO-FRANCAISE S.A.L.
+  country:
+    alpha_2: LB
+    alpha_3: LBN
+    name: Lebanon
+'490957':
+  bin: '490957'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ROSPROMBANK CB ROSSIYSKY PROMYISHLENNY BANK ROSPROMBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'490958':
+  bin: '490958'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CITIBANK SPAIN
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490959':
+  bin: '490959'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CITIBANK SPAIN
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490960':
+  bin: '490960'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: STANDARD CHARTERED (JERSEY), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490961':
+  bin: '490961'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: STANDARD CHARTERED (JERSEY), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490962':
+  bin: '490962'
+  brand: VISA
+  type: DEBIT
+  category: PREMIER
+  issuer: STANDARD CHARTERED (JERSEY), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490963':
+  bin: '490963'
+  brand: VISA
+  type: DEBIT
+  category: PLATINUM
+  issuer: STANDARD CHARTERED (JERSEY), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490964':
+  bin: '490964'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: LLOYDS TSB OFFSHORE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490965':
+  bin: '490965'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: STANDARD CHARTERED GRINDLAYS (OFFSHORE), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490966':
+  bin: '490966'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490967':
+  bin: '490967'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: STANDARD CHARTERED GRINDLAYS (OFFSHORE), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490968':
+  bin: '490968'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: STANDARD CHARTERED BANK
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490969':
+  bin: '490969'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NORTHERN ROCK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490970':
+  bin: '490970'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: STANDARD CHARTERED GRINDLAYS (OFFSHORE), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490971':
+  bin: '490971'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: STANDARD CHARTERED GRINDLAYS (OFFSHORE), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490972':
+  bin: '490972'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: STANDARD CHARTERED GRINDLAYS (OFFSHORE), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490973':
+  bin: '490973'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: STANDARD CHARTERED GRINDLAYS (OFFSHORE), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490974':
+  bin: '490974'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: INVESTEC BANK (UK), LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490975':
+  bin: '490975'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ARBUTHNOT LATHAM AND CO, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490976':
+  bin: '490976'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: NATIONAL BANK OF KUWAIT (INTERNATIONAL) PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490977':
+  bin: '490977'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: LLOYDS TSB OFFSHORE, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490978':
+  bin: '490978'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: STANDARD BANK ISLE OF MAN, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490979':
+  bin: '490979'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: STANDARD BANK ISLE OF MAN, LTD.
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'490980':
+  bin: '490980'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: AL RAJHI BANKING AND INVESTMENT CORP.
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'490981':
+  bin: '490981'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: QATAR NATIONAL BANK, S. A. Q.
+  country:
+    alpha_2: QA
+    alpha_3: QAT
+    name: Qatar
+'490982':
+  bin: '490982'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: OTP BANK NYRT.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'490983':
+  bin: '490983'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: YAPI VE KREDI BANKASI, A.S.
+  country:
+    alpha_2: TR
+    alpha_3: TUR
+    name: Turkey
+'490984':
+  bin: '490984'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: OMEGA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490985':
+  bin: '490985'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BARCLAYS BANK PLC
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'490986':
+  bin: '490986'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: NATIONAL BANK TRUST OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'490987':
+  bin: '490987'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'490988':
+  bin: '490988'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: FIRST MUTUAL CREDIT BANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'490989':
+  bin: '490989'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANKMUSCAT LTD. (S.A.O.G.)
+  country:
+    alpha_2: OM
+    alpha_3: OMN
+    name: Oman
+'490990':
+  bin: '490990'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CITIBANK SPAIN
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490991':
+  bin: '490991'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CITIBANK ESPANA, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490992':
+  bin: '490992'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CITIBANK SPAIN
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490993':
+  bin: '490993'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: MARFIN POPULAR BANK PUBLIC CO., LTD.
+  country:
+    alpha_2: CY
+    alpha_3: CYP
+    name: Cyprus
+'490994':
+  bin: '490994'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO ESPANOL DE CREDITO S.A. (BANESTO)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490995':
+  bin: '490995'
+  brand: VISA
+  type: CREDIT
+  category: CORPORATE T&E
+  issuer: BANCO ESPANOL DE CREDITO S.A. (BANESTO)
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490996':
+  bin: '490996'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CITIBANK SPAIN
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490997':
+  bin: '490997'
+  brand: VISA
+  type: CREDIT
+  category: ''
+  issuer: CITIBANK SPAIN
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'490998':
+  bin: '490998'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: ''
+  country:
+    alpha_2: TN
+    alpha_3: TUN
+    name: Tunisia
+'490999':
+  bin: '490999'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: SOCIETE GENERALE DE BANQUES AU CAMEROUN
+  country:
+    alpha_2: CM
+    alpha_3: CMR
+    name: Cameroon

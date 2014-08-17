@@ -1,0 +1,111 @@
+---
+'564100':
+  bin: '564100'
+  brand: MAESTRO
+  type: DEBIT
+  category: STANDARD
+  issuer: ABBEY NATIONAL BANK PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'564102':
+  bin: '564102'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: NORWICH AND PETERBOROUGH BUILDING SOCIETY
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'564104':
+  bin: '564104'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: NATIONWIDE BUILDING SOCIETY
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'564116':
+  bin: '564116'
+  brand: MAESTRO
+  type: ''
+  category: ''
+  issuer: NEWCASTLE BUILDING SOCIETY
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'564120':
+  bin: '564120'
+  brand: MAESTRO
+  type: DEBIT
+  category: ATM CARD
+  issuer: NATIONWIDE BUILDING SOCIETY
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'564141':
+  bin: '564141'
+  brand: MAESTRO
+  type: DEBIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'564158':
+  bin: '564158'
+  brand: MAESTRO
+  type: DEBIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'564159':
+  bin: '564159'
+  brand: MAESTRO
+  type: DEBIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'564160':
+  bin: '564160'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: MY
+    alpha_3: MYS
+    name: Malaysia
+'564182':
+  bin: '564182'
+  brand: SWITCH/MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: HALIFAX PLC
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom
+'564192':
+  bin: '564192'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: NATIONWIDE BUILDING SOCIETY
+  country:
+    alpha_2: GB
+    alpha_3: GBR
+    name: United Kingdom

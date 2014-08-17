@@ -1,0 +1,1001 @@
+---
+'493100':
+  bin: '493100'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'493101':
+  bin: '493101'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO BRADESCO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'493102':
+  bin: '493102'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO BRADESCO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'493103':
+  bin: '493103'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO BRADESCO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'493104':
+  bin: '493104'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'493105':
+  bin: '493105'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITI- AMERICAN AIRLINES
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'493106':
+  bin: '493106'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITI- AMERICAN AIRLINES
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'493107':
+  bin: '493107'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493108':
+  bin: '493108'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITI- AMERICAN AIRLINES
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'493109':
+  bin: '493109'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: CAPITAL ONE BANK (USA), N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493110':
+  bin: '493110'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE BOGOTA
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'493111':
+  bin: '493111'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO DE BOGOTA
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'493112':
+  bin: '493112'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: KRUNGTHAI CARD PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'493113':
+  bin: '493113'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: KRUNGTHAI CARD PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'493114':
+  bin: '493114'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MULTI CREDIT BANK, INC.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'493115':
+  bin: '493115'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FRESNO COUNTY F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493116':
+  bin: '493116'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'493117':
+  bin: '493117'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITI- AMERICAN AIRLINES
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'493118':
+  bin: '493118'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO INDUSTRIAL, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'493119':
+  bin: '493119'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: SCOTIABANK PERU S.A.A.
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'493120':
+  bin: '493120'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: AEON THANA SINSAP (THAILAND) PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'493121':
+  bin: '493121'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANCA CREMI
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493122':
+  bin: '493122'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BANCO GENERAL, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'493123':
+  bin: '493123'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO GENERAL, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'493124':
+  bin: '493124'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO GENERAL, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'493125':
+  bin: '493125'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: NEIGHBORHOOD C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493126':
+  bin: '493126'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PRIMER BANCO DEL ISTMO, S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'493127':
+  bin: '493127'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO AMAZONAS, S.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'493128':
+  bin: '493128'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANCO AMAZONAS, S.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'493129':
+  bin: '493129'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO AMAZONAS, S.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'493130':
+  bin: '493130'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493131':
+  bin: '493131'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO G AND T CONTINENTAL, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'493132':
+  bin: '493132'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO G AND T CONTINENTAL, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'493133':
+  bin: '493133'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANCO BRADESCO CARTOES, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'493134':
+  bin: '493134'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: PARK STERLING BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493135':
+  bin: '493135'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO SANTANDER S.A. INST. DE BANCA MULTIPLE GRUPO FINANCIERO SANTANDER
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'493136':
+  bin: '493136'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO SANTANDER S.A. INST. DE BANCA MULTIPLE GRUPO FINANCIERO SANTANDER
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'493137':
+  bin: '493137'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITIBANK
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'493138':
+  bin: '493138'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CITIBANK
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'493139':
+  bin: '493139'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CITIBANK
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'493140':
+  bin: '493140'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO INTERFIN, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'493141':
+  bin: '493141'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: SCOTIABANK DE COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'493142':
+  bin: '493142'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SCOTIABANK DE COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'493143':
+  bin: '493143'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SCOTIABANK DE COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'493144':
+  bin: '493144'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ATH COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'493145':
+  bin: '493145'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493146':
+  bin: '493146'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493147':
+  bin: '493147'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493148':
+  bin: '493148'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493149':
+  bin: '493149'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493150':
+  bin: '493150'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493151':
+  bin: '493151'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: SAINT KITTS AND NEVIS-ANGUILLA NATIONAL BANK, LTD.
+  country:
+    alpha_2: KN
+    alpha_3: KNA
+    name: Saint Kitts and Nevis
+'493152':
+  bin: '493152'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HORICON BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493153':
+  bin: '493153'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493154':
+  bin: '493154'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITI- AMERICAN AIRLINES
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'493155':
+  bin: '493155'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITI- AMERICAN AIRLINES
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'493156':
+  bin: '493156'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITI- AMERICAN AIRLINES
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'493157':
+  bin: '493157'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'493158':
+  bin: '493158'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'493159':
+  bin: '493159'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493160':
+  bin: '493160'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BBVA BANCOMER, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'493161':
+  bin: '493161'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BBVA BANCOMER, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'493162':
+  bin: '493162'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BBVA BANCOMER, S.A.
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'493163':
+  bin: '493163'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITI- AMERICAN AIRLINES
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'493164':
+  bin: '493164'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'493165':
+  bin: '493165'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'493166':
+  bin: '493166'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'493167':
+  bin: '493167'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: U.S. BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493168':
+  bin: '493168'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493169':
+  bin: '493169'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493170':
+  bin: '493170'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493171':
+  bin: '493171'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493172':
+  bin: '493172'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'493173':
+  bin: '493173'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP
+  country:
+    alpha_2: MX
+    alpha_3: MEX
+    name: Mexico
+'493174':
+  bin: '493174'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: HONDA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493175':
+  bin: '493175'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: HONDA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493176':
+  bin: '493176'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANCO DEL AUSTRO, S.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'493177':
+  bin: '493177'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: BARCLAYS BANK DELAWARE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493178':
+  bin: '493178'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BARCLAYS BANK DELAWARE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493179':
+  bin: '493179'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANCO NACIONAL DE COMERCIO INTERIOR
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493180':
+  bin: '493180'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ANTIGUA COMMERCIAL BANK
+  country:
+    alpha_2: AG
+    alpha_3: ATG
+    name: Antigua and Barbuda
+'493181':
+  bin: '493181'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NATIONAL COMMERCIAL BANK OF DOMINICA
+  country:
+    alpha_2: DM
+    alpha_3: DMA
+    name: Dominica
+'493182':
+  bin: '493182'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CONAVI BANCO COMERCIAL Y DE AHORROS, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'493183':
+  bin: '493183'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CONAVI BANCO COMERCIAL Y DE AHORROS, S.A.
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'493184':
+  bin: '493184'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF ANTIGUA
+  country:
+    alpha_2: AG
+    alpha_3: ATG
+    name: Antigua and Barbuda
+'493185':
+  bin: '493185'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: CITI- AMERICAN AIRLINES
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'493186':
+  bin: '493186'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'493187':
+  bin: '493187'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FILANBANCO
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493188':
+  bin: '493188'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493189':
+  bin: '493189'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CITITARJETAS DE COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'493190':
+  bin: '493190'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITITARJETAS DE COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'493191':
+  bin: '493191'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AVAL CARD (COSTA RICA), S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica
+'493192':
+  bin: '493192'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CITITARJETAS DE HONDURAS, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'493193':
+  bin: '493193'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CITITARJETAS DE HONDURAS, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'493194':
+  bin: '493194'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: AVAL CARD, S.A. DE C.V.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'493195':
+  bin: '493195'
+  brand: VISA
+  type: CREDIT
+  category: INFINITE
+  issuer: HANG SENG BANK, LTD.
+  country:
+    alpha_2: HK
+    alpha_3: HKG
+    name: Hong Kong
+'493196':
+  bin: '493196'
+  brand: VISA
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493197':
+  bin: '493197'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF AMERICA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'493198':
+  bin: '493198'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO BHD, S.A., BANCO MZLTIPLE
+  country:
+    alpha_2: DO
+    alpha_3: DOM
+    name: Dominican Republic
+'493199':
+  bin: '493199'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CITITARJETAS DE COSTA RICA, S.A.
+  country:
+    alpha_2: CR
+    alpha_3: CRI
+    name: Costa Rica

@@ -1,0 +1,1001 @@
+---
+'426200':
+  bin: '426200'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426201':
+  bin: '426201'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: NATIONAL BANK TRUST OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'426202':
+  bin: '426202'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CHASE BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426203':
+  bin: '426203'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: KEYBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426204':
+  bin: '426204'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: BANCO COOPERATIVO ESPANOL, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'426205':
+  bin: '426205'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: DIXON BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426206':
+  bin: '426206'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426207':
+  bin: '426207'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: GROW FINANCIAL F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426208':
+  bin: '426208'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426209':
+  bin: '426209'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426210':
+  bin: '426210'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO CITIBANK DE EL SALVADOR, S.A.
+  country:
+    alpha_2: SV
+    alpha_3: SLV
+    name: El Salvador
+'426211':
+  bin: '426211'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426212':
+  bin: '426212'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426213':
+  bin: '426213'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426214':
+  bin: '426214'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ITS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426215':
+  bin: '426215'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BS
+    alpha_3: BHS
+    name: Bahamas
+'426216':
+  bin: '426216'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIDELITY BANK (BAHAMAS), LTD.
+  country:
+    alpha_2: BS
+    alpha_3: BHS
+    name: Bahamas
+'426217':
+  bin: '426217'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: FIRST UNION DIRECT BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426218':
+  bin: '426218'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CALIFORNIA BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426219':
+  bin: '426219'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426220':
+  bin: '426220'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426221':
+  bin: '426221'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'426222':
+  bin: '426222'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ''
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'426223':
+  bin: '426223'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CITIBANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426224':
+  bin: '426224'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426225':
+  bin: '426225'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426226':
+  bin: '426226'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: MBNA AMERICA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426227':
+  bin: '426227'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ARAB FINANCIAL SERVICES COMPANY
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'426228':
+  bin: '426228'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ARAB FINANCIAL SERVICES COMPANY
+  country:
+    alpha_2: BH
+    alpha_3: BHR
+    name: Bahrain
+'426229':
+  bin: '426229'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MID STATE BANK AND TRUST COMPANY
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426230':
+  bin: '426230'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426231':
+  bin: '426231'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426232':
+  bin: '426232'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: MBNA AMERICA BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426233':
+  bin: '426233'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: KINECTA F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426234':
+  bin: '426234'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: MONTEREY COUNTY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426235':
+  bin: '426235'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANCA TRANSILVANIA, S.A.
+  country:
+    alpha_2: RO
+    alpha_3: ROU
+    name: Romania
+'426236':
+  bin: '426236'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SYNOVUS BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426237':
+  bin: '426237'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BOKF, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426238':
+  bin: '426238'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426239':
+  bin: '426239'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426240':
+  bin: '426240'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: NATIONAL CITY BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426241':
+  bin: '426241'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: INDIAN OVERSEAS BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'426242':
+  bin: '426242'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: INDIAN OVERSEAS BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India
+'426243':
+  bin: '426243'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: FIA CARD SERVICES, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426244':
+  bin: '426244'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: CHITTENDEN BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426245':
+  bin: '426245'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: CHASE BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426246':
+  bin: '426246'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: CHASE BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426247':
+  bin: '426247'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: INVESTORS FIDUCIARY TRUST CO.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426248':
+  bin: '426248'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426249':
+  bin: '426249'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: WELLS FARGO BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426250':
+  bin: '426250'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426251':
+  bin: '426251'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: FIRST USA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426252':
+  bin: '426252'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426253':
+  bin: '426253'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: FIRST USA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426254':
+  bin: '426254'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: PT. BANK PERMATA TBK
+  country:
+    alpha_2: ID
+    alpha_3: IDN
+    name: Indonesia
+'426255':
+  bin: '426255'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426256':
+  bin: '426256'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: E-CENTRAL C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426257':
+  bin: '426257'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PIEDMONT ADVANTAGE C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426258':
+  bin: '426258'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426259':
+  bin: '426259'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426260':
+  bin: '426260'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426261':
+  bin: '426261'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: FIRST USA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426262':
+  bin: '426262'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIRST USA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426263':
+  bin: '426263'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426264':
+  bin: '426264'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ENVISION C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426265':
+  bin: '426265'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: FIRST USA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426266':
+  bin: '426266'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: BANK ONE, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426267':
+  bin: '426267'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: FIRST USA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426268':
+  bin: '426268'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426269':
+  bin: '426269'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426270':
+  bin: '426270'
+  brand: VISA
+  type: DEBIT
+  category: BUSINESS
+  issuer: FIRST USA BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426271':
+  bin: '426271'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'426272':
+  bin: '426272'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIFTH THIRD BANK
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426273':
+  bin: '426273'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: JPMORGAN CHASE BANK, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426274':
+  bin: '426274'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: VOLKSBANK HUNGARY PRIVATE, LTD.
+  country:
+    alpha_2: HU
+    alpha_3: HUN
+    name: Hungary
+'426275':
+  bin: '426275'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: VISIONS F.C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426276':
+  bin: '426276'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANKERS BANK CARD SERVICES, INC.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426277':
+  bin: '426277'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CHASE BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426278':
+  bin: '426278'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426279':
+  bin: '426279'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: GE CAPITAL CONSUMER CARD CO.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426280':
+  bin: '426280'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426281':
+  bin: '426281'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANK OF AMERICA
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426282':
+  bin: '426282'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426283':
+  bin: '426283'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426284':
+  bin: '426284'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BANKFINANCIAL
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426285':
+  bin: '426285'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426286':
+  bin: '426286'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: AMALGAMATED BANKS OF SOUTH AFRICA LTD. (ABSA BANK LTD.)
+  country:
+    alpha_2: ZA
+    alpha_3: ZAF
+    name: South Africa
+'426287':
+  bin: '426287'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: TARJETAS CUSCATLAN, S.A.
+  country:
+    alpha_2: GT
+    alpha_3: GTM
+    name: Guatemala
+'426288':
+  bin: '426288'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: CITIBANK - COLOMBIA
+  country:
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
+'426289':
+  bin: '426289'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: SWEDBANK, A.S.
+  country:
+    alpha_2: LV
+    alpha_3: LVA
+    name: Latvia
+'426290':
+  bin: '426290'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CHASE BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426291':
+  bin: '426291'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: BANK OF THE EASTERN SHORE
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426292':
+  bin: '426292'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: CITIZENS BANK OF RHODE ISLAND
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426293':
+  bin: '426293'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: BB BANKCARD CORPORATION
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426294':
+  bin: '426294'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: WELLS FARGO BANK NEVADA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426295':
+  bin: '426295'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CHASE BANK USA, N.A.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426296':
+  bin: '426296'
+  brand: VISA
+  type: DEBIT
+  category: GOLD PREMIUM
+  issuer: FIRST NATIONAL BANK AND TRUST
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'426297':
+  bin: '426297'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FIDELITY BANK (CAYMAN), LTD.
+  country:
+    alpha_2: KY
+    alpha_3: CYM
+    name: Cayman Islands
+'426298':
+  bin: '426298'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: FIDELITY BANK (CAYMAN), LTD.
+  country:
+    alpha_2: KY
+    alpha_3: CYM
+    name: Cayman Islands
+'426299':
+  bin: '426299'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PROVIDENT C.U.
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

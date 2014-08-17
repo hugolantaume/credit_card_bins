@@ -1,0 +1,1001 @@
+---
+'422000':
+  bin: '422000'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: SUMISHIN LIFE CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'422001':
+  bin: '422001'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SUMISHIN LIFE CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'422002':
+  bin: '422002'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SUMISHIN LIFE CARD CO., LTD.
+  country:
+    alpha_2: JP
+    alpha_3: JPN
+    name: Japan
+'422003':
+  bin: '422003'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: HSBC BANK BRASIL S.A. - BANCO MULTIPLO
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422004':
+  bin: '422004'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422005':
+  bin: '422005'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422006':
+  bin: '422006'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: FINANCEIRA ITAU CBD S.A. CREDITO FINANCIAMENTO E INVESTIMENT
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422007':
+  bin: '422007'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO ITAUCARD, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422008':
+  bin: '422008'
+  brand: VISA
+  type: CREDIT
+  category: BUSINESS
+  issuer: ITAU BANCO DE INVESTIMENTO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422009':
+  bin: '422009'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422010':
+  bin: '422010'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.
+  country:
+    alpha_2: HN
+    alpha_3: HND
+    name: Honduras
+'422011':
+  bin: '422011'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO IBI S.A. BANCO MULTIPLO
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422012':
+  bin: '422012'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO IBI S.A. BANCO MULTIPLO
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422013':
+  bin: '422013'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO IBI S.A. BANCO MULTIPLO
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422014':
+  bin: '422014'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BRE BANK SPOLKA AKCYJNA
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'422015':
+  bin: '422015'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: SHINHAN CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'422016':
+  bin: '422016'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SHINHAN CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'422017':
+  bin: '422017'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422018':
+  bin: '422018'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: SHINHAN CARD CO., LTD.
+  country:
+    alpha_2: KR
+    alpha_3: KOR
+    name: Korea, Republic of
+'422019':
+  bin: '422019'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO DE MACHALA, S.A.
+  country:
+    alpha_2: EC
+    alpha_3: ECU
+    name: Ecuador
+'422020':
+  bin: '422020'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ANDORRA BANC AGRICOL REIG, S.A.
+  country:
+    alpha_2: AD
+    alpha_3: AND
+    name: Andorra
+'422021':
+  bin: '422021'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422022':
+  bin: '422022'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422023':
+  bin: '422023'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDIARE S.A. CREDITO FINANCIAMENTO E INVESTIMENTO
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422024':
+  bin: '422024'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BPN BRASIL BANCO MULTIPLO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422025':
+  bin: '422025'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO MERCANTIL DO BRASIL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422026':
+  bin: '422026'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422027':
+  bin: '422027'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422028':
+  bin: '422028'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422029':
+  bin: '422029'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PJSC RODOVID BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'422030':
+  bin: '422030'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: PJSC RODOVID BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'422031':
+  bin: '422031'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: PJSC RODOVID BANK
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: Ukraine
+'422032':
+  bin: '422032'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NETWORK INTERNATIONAL LLC
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'422033':
+  bin: '422033'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: NETWORK INTERNATIONAL LLC
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'422034':
+  bin: '422034'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: NETWORK INTERNATIONAL LLC
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'422035':
+  bin: '422035'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: NETWORK INTERNATIONAL LLC
+  country:
+    alpha_2: AE
+    alpha_3: ARE
+    name: United Arab Emirates
+'422036':
+  bin: '422036'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422037':
+  bin: '422037'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO MERCANTIL DO BRASIL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422038':
+  bin: '422038'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO DE CREDITO E INVERSIONES
+  country:
+    alpha_2: CL
+    alpha_3: CHL
+    name: Chile
+'422039':
+  bin: '422039'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO SOFITASA, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'422040':
+  bin: '422040'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANK BPH, S.A.
+  country:
+    alpha_2: PL
+    alpha_3: POL
+    name: Poland
+'422041':
+  bin: '422041'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO MAIS, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'422042':
+  bin: '422042'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422043':
+  bin: '422043'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: ECOBANK GHANA, LTD.
+  country:
+    alpha_2: GH
+    alpha_3: GHA
+    name: Ghana
+'422044':
+  bin: '422044'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO NACIONAL DE CREDITO, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'422045':
+  bin: '422045'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: BANCO NACIONAL DE CREDITO, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'422046':
+  bin: '422046'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO NACIONAL DE CREDITO, C.A.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'422047':
+  bin: '422047'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO ABN AMRO REAL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422048':
+  bin: '422048'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO ABN AMRO REAL, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422049':
+  bin: '422049'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422050':
+  bin: '422050'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of
+'422051':
+  bin: '422051'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: AR
+    alpha_3: ARG
+    name: Argentina
+'422052':
+  bin: '422052'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CREDISCOTIA FINANCIERA, S.A.
+  country:
+    alpha_2: PE
+    alpha_3: PER
+    name: Peru
+'422053':
+  bin: '422053'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO BRADESCO, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422054':
+  bin: '422054'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422055':
+  bin: '422055'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422056':
+  bin: '422056'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: GULF BANK K.S.C.
+  country:
+    alpha_2: KW
+    alpha_3: KWT
+    name: Kuwait
+'422057':
+  bin: '422057'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: PIRAEUS BANK, S.A.
+  country:
+    alpha_2: GR
+    alpha_3: GRC
+    name: Greece
+'422058':
+  bin: '422058'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422059':
+  bin: '422059'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422060':
+  bin: '422060'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: ING BANK
+  country:
+    alpha_2: NL
+    alpha_3: NLD
+    name: Netherlands
+'422061':
+  bin: '422061'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANCO SANTANDER, S.A.
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422062':
+  bin: '422062'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: AUSTROBANK OVERSEAS (PANAMA), S.A.
+  country:
+    alpha_2: PA
+    alpha_3: PAN
+    name: Panama
+'422063':
+  bin: '422063'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422064':
+  bin: '422064'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422065':
+  bin: '422065'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: DIAMOND TRUST BANK KENYA, LTD.
+  country:
+    alpha_2: KE
+    alpha_3: KEN
+    name: Kenya
+'422066':
+  bin: '422066'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422067':
+  bin: '422067'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422068':
+  bin: '422068'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422069':
+  bin: '422069'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422070':
+  bin: '422070'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: BANK ALFALAH, LTD.
+  country:
+    alpha_2: PK
+    alpha_3: PAK
+    name: Pakistan
+'422071':
+  bin: '422071'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: GOLOMT BANK OF MONGOLIA
+  country:
+    alpha_2: MN
+    alpha_3: MNG
+    name: Mongolia
+'422072':
+  bin: '422072'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AEON THANA SINSAP (THAILAND) PUBLIC CO., LTD.
+  country:
+    alpha_2: TH
+    alpha_3: THA
+    name: Thailand
+'422073':
+  bin: '422073'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AB DNB NORD BANKAS
+  country:
+    alpha_2: LT
+    alpha_3: LTU
+    name: Lithuania
+'422074':
+  bin: '422074'
+  brand: VISA
+  type: DEBIT
+  category: ELECTRON
+  issuer: AB DNB NORD BANKAS
+  country:
+    alpha_2: LT
+    alpha_3: LTU
+    name: Lithuania
+'422075':
+  bin: '422075'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: VIETNAM TECHNOLOGICAL AND COMMERCIAL JSB
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'422076':
+  bin: '422076'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: VIETNAM TECHNOLOGICAL AND COMMERCIAL JSB
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'422077':
+  bin: '422077'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: AIK BANKA AD NIS
+  country:
+    alpha_2: RS
+    alpha_3: SRB
+    name: Serbia
+'422078':
+  bin: '422078'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: AIK BANKA AD NIS
+  country:
+    alpha_2: RS
+    alpha_3: SRB
+    name: Serbia
+'422079':
+  bin: '422079'
+  brand: VISA
+  type: DEBIT
+  category: PREPAID
+  issuer: BANQUE LAURENTIENNE DU CANADA
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'422080':
+  bin: '422080'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: BANCO ESPIRITO SANTO, S.A.
+  country:
+    alpha_2: PT
+    alpha_3: PRT
+    name: Portugal
+'422081':
+  bin: '422081'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: COMMERCIAL BANK EXPOBANK
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'422082':
+  bin: '422082'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: CENTRAL COOPERATIVE BANK PLC
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'422083':
+  bin: '422083'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: CENTRAL COOPERATIVE BANK PLC
+  country:
+    alpha_2: BG
+    alpha_3: BGR
+    name: Bulgaria
+'422084':
+  bin: '422084'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: EURO 6000, S.A.
+  country:
+    alpha_2: ES
+    alpha_3: ESP
+    name: Spain
+'422085':
+  bin: '422085'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: SEB VILNIAUS BANKAS AB
+  country:
+    alpha_2: LT
+    alpha_3: LTU
+    name: Lithuania
+'422086':
+  bin: '422086'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422087':
+  bin: '422087'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
+'422088':
+  bin: '422088'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: MERCANTILE BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'422089':
+  bin: '422089'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MERCANTILE BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'422090':
+  bin: '422090'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: MERCANTILE BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'422091':
+  bin: '422091'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: MERCANTILE BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'422092':
+  bin: '422092'
+  brand: VISA
+  type: CREDIT
+  category: GOLD PREMIUM
+  issuer: MERCANTILE BANK, LTD.
+  country:
+    alpha_2: BD
+    alpha_3: BGD
+    name: Bangladesh
+'422093':
+  bin: '422093'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG
+  country:
+    alpha_2: AT
+    alpha_3: AUT
+    name: Austria
+'422094':
+  bin: '422094'
+  brand: VISA
+  type: DEBIT
+  category: CLASSIC
+  issuer: VIETNAM EXPORT IMPORT COMMERCIAL JSB
+  country:
+    alpha_2: VN
+    alpha_3: VNM
+    name: Viet Nam
+'422095':
+  bin: '422095'
+  brand: VISA
+  type: ''
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'422096':
+  bin: '422096'
+  brand: VISA
+  type: CREDIT
+  category: CLASSIC
+  issuer: ICICI BANK EURASIA LLC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'422097':
+  bin: '422097'
+  brand: VISA
+  type: CREDIT
+  category: PREMIER
+  issuer: ICICI BANK EURASIA LLC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'422098':
+  bin: '422098'
+  brand: VISA
+  type: CREDIT
+  category: PLATINUM
+  issuer: MDM BANK OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
+'422099':
+  bin: '422099'
+  brand: VISA
+  type: CREDIT
+  category: SIGNATURE
+  issuer: MERCANTIL, C.A., BANCO UNIVERS.A.L.
+  country:
+    alpha_2: VE
+    alpha_3: VEN
+    name: Venezuela, Bolivarian Republic of

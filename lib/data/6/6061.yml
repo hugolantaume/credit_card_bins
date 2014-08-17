@@ -1,0 +1,71 @@
+---
+'606101':
+  bin: '606101'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'606106':
+  bin: '606106'
+  brand: MAESTRO
+  type: DEBIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'606122':
+  bin: '606122'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'606144':
+  bin: '606144'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: DE
+    alpha_3: DEU
+    name: Germany
+'606163':
+  bin: '606163'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'606172':
+  bin: '606172'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: CLUB SOBEYS
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'606179':
+  bin: '606179'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: COMMONWEALTH FINANCE SOLUTIONS, LTD.
+  country:
+    alpha_2: AU
+    alpha_3: AUS
+    name: Australia

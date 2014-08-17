@@ -1,0 +1,21 @@
+---
+'593211':
+  bin: '593211'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'593220':
+  bin: '593220'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: TALLINNA PANK
+  country:
+    alpha_2: EE
+    alpha_3: EST
+    name: Estonia
