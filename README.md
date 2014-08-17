@@ -2,8 +2,6 @@
 
 [![Build Status](https://secure.travis-ci.org/hugolantaume/credit_card_bins.png?branch=master)](http://travis-ci.org/hugolantaume/credit_card_bins)
 
-The first 6 digits of a credit card number are known as the Issuer Identification Number (IIN), previously known as Bank Identification Number (BIN). These identify the institution that issued the card to the card holder.
-
 The Issuer Identification Number (IIN), previously known as Bank Identification Number (BIN) is the first six numbers of a credit card. These identify the institution that issued the card to the card holder and provide useful information about the card that can help make your payments flow smarter.
 
 ## Installation
