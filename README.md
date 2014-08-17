@@ -1,6 +1,7 @@
 # CreditCardBins - A Credit Card IIN/BIN lookup Ruby gem.
 
 [![Build Status](https://secure.travis-ci.org/hugolantaume/credit_card_bins.png?branch=master)](http://travis-ci.org/hugolantaume/credit_card_bins)
+[![Gem Version](https://badge.fury.io/rb/credit_card_bins.svg)](http://badge.fury.io/rb/credit_card_bins)
 [![Coverage Status](https://coveralls.io/repos/hugolantaume/credit_card_bins/badge.png?branch=master)](https://coveralls.io/r/hugolantaume/credit_card_bins?branch=master)
 
 The Issuer Identification Number (IIN), previously known as Bank Identification Number (BIN) is the first six numbers of a credit card. These identify the institution that issued the card to the card holder and provide useful information about the card that can help make your payments flow smarter.
