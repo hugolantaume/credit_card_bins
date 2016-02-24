@@ -132,7 +132,7 @@ describe CreditCardBins do
   end
 
   describe "methods" do
-    
+
     it "include a private_label? query" do
       valid_private_label_bin = CreditCardBin.new("019627")
       expect(valid_private_label_bin.private_label?).to eq(true)
@@ -215,6 +215,13 @@ describe CreditCardBins do
       expect(valid_solo_bin.solo?).to eq(true)
       invalid_solo_bin = CreditCardBin.new("497040")
       expect(invalid_solo_bin.solo?).to eq(false)
+    end
+
+    it "include a diners club? query" do
+      valid_diners_club_bin = CreditCardBin.new("360756")
+      expect(valid_diners_club_bin.diners_club?).to eq(true)
+      valid_diners_club_bin = CreditCardBin.new("497040")
+      expect(valid_diners_club_bin.diners_club?).to eq(false)
     end
 
 
