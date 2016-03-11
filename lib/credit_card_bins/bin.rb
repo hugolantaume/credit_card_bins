@@ -1,7 +1,7 @@
 module CreditCardBins; end
 
 class CreditCardBins::Bin
-  
+
   AttrReaders = [
     :bin,
     :brand,
@@ -97,6 +97,10 @@ class CreditCardBins::Bin
 
   def solo?
     @data["brand"] == "SOLO"
+  end
+
+  def diners_club?
+    @data["brand"] == "DINERS CLUB"
   end
 
   ### Type
