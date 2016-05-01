@@ -113,21 +113,9 @@ describe CreditCardBins do
 
   end
 
-  describe "invalid attributes" do
-
-    it "has a nil :data attribute when the number is empty" do
-      empty_number_bin = CreditCardBin.new("")
-      expect(empty_number_bin.data).to be_nil
-    end
-
-    it "has a nil :data attribute when the number is too short" do
-      too_short_number_bin = CreditCardBin.new("1234")
-      expect(too_short_number_bin.data).to be_nil
-    end
-
-    it "has a nil :data attribute when the number is not found in the database" do
-      not_found_number_bin = CreditCardBin.new("0010000")
-      expect(not_found_number_bin.data).to be_nil
+  context "when bin not found" do
+    it "should raise error NotFound" do
+      expect { CreditCardBin.new("09123") }.to raise_error(NotFound, /Bin \d+ not found/)
     end
   end
 
