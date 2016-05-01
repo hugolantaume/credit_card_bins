@@ -43,22 +43,23 @@ Example using the CreditCardBin Class
 
     number = "378282246310005"
     bin = CreditCardBin.new(number)
-    
+
     bin.bin #"378282"
     bin.brand #"AMERICAN EXPRESS"
     bin.type #"CREDIT"
     bin.category #"SMALL CORPORATE"
     bin.issuer #"AMERICAN EXPRESS COMPANY"
     bin.country #{"alpha_2"=>"US", "alpha_3"=>"USA", "name"=>"United States"}
-    
+
     bin.visa? #false
     bin.amex? #true
     bin.mastercard? #false
-    
+
     bin.debit? #false
     bin.credit? #true
     bin.prepaid? #false
 
+When credicard number is not found, will be throws an exception `NotFound`.
 
 ## Contributing
 
