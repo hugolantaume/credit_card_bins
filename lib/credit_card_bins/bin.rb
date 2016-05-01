@@ -20,9 +20,9 @@ class CreditCardBins::Bin
   attr_reader :data
 
   def initialize(number)
-    @data = YAML.load_file(File.join(File.dirname(__FILE__), '..', 'data', number[0].to_s, number[0..3].to_s + '.yml' ))[number.to_s[0..5]] || nil
+    @data = YAML.load_file(File.join(File.dirname(__FILE__), '..', 'data', number[0].to_s, number[0..3].to_s + '.yml' ))[number.to_s[0..5]]
   rescue
-    @data = nil
+    raise NotFound, "Bin #{number} not found"
   end
 
   def ==(other)
