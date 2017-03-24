@@ -702,13 +702,13 @@
 '426370':
   bin: '426370'
   brand: VISA
-  type: CREDIT
-  category: GOLD PREMIUM
-  issuer: BANCO COMERCIAL PORTUGUES, S.A.
+  type: DEBIT
+  category: PREPAID
+  issuer: PEOPLES TRUST COMPANY
   country:
-    alpha_2: PT
-    alpha_3: PRT
-    name: Portugal
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
 '426371':
   bin: '426371'
   brand: VISA

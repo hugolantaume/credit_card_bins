@@ -472,13 +472,13 @@
 '440847':
   bin: '440847'
   brand: VISA
-  type: CREDIT
-  category: CLASSIC
-  issuer: FIRST USA BANK, N.A.
+  type: DEBIT
+  category: PREPAID
+  issuer: JPMORGAN CHASE BANK N.A.
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
 '440848':
   bin: '440848'
   brand: VISA

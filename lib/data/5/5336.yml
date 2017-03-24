@@ -213,12 +213,12 @@
   bin: '533621'
   brand: MASTERCARD
   type: ''
-  category: ''
+  category: PREPAID
   issuer: ''
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
 '533622':
   bin: '533622'
   brand: MASTERCARD

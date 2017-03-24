@@ -312,13 +312,13 @@
 '531431':
   bin: '531431'
   brand: MASTERCARD
-  type: ''
-  category: ''
-  issuer: FIRST DATA GLOBAL SERVICES
+  type: CREDIT
+  category: PREPAID
+  issuer: ''
   country:
-    alpha_2: GB
-    alpha_3: GBR
-    name: United Kingdom
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
 '531432':
   bin: '531432'
   brand: MASTERCARD
