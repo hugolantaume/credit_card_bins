@@ -132,13 +132,13 @@
 '426113':
   bin: '426113'
   brand: VISA
-  type: ''
+  type: 'DEBIT'
   category: ''
-  issuer: WACHOVIA BANK, N.A.
+  issuer: CJSC ALFA-BANK
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
 '426114':
   bin: '426114'
   brand: VISA

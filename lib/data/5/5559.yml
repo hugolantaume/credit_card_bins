@@ -492,13 +492,13 @@
 '555949':
   bin: '555949'
   brand: MASTERCARD
-  type: CREDIT
-  category: STANDARD
-  issuer: JORDAN AHLI BANK
+  type: DEBIT
+  category: 
+  issuer: CJSC ALFA-BANK
   country:
-    alpha_2: IQ
-    alpha_3: IRQ
-    name: Iraq
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
 '555950':
   bin: '555950'
   brand: MASTERCARD
