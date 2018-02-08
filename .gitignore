@@ -21,3 +21,5 @@ tmp
 *.a
 mkmf.log
 .DS_Store
+.ruby-version
+.ruby-gemset
