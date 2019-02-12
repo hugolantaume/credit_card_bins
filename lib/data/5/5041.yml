@@ -349,6 +349,16 @@
     alpha_2: US
     alpha_3: USA
     name: United States
+'504175':
+  bin: '504175'
+  brand: ELO
+  type: CREDIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: BR
+    alpha_3: BRA
+    name: Brazil
 '504188':
   bin: '504188'
   brand: MAESTRO
