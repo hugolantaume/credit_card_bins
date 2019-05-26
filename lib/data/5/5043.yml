@@ -1,4 +1,14 @@
 ---
+'504300':
+  bin: '504300'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: BANK AL JAZIRA
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '504301':
   bin: '504301'
   brand: MAESTRO

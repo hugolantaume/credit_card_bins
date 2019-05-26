@@ -932,13 +932,13 @@
 '419593':
   bin: '419593'
   brand: VISA
-  type: ''
-  category: ''
-  issuer: ''
+  type: DEBIT
+  category: PLATINUM
+  issuer: GULF INTERNATIONAL BANK
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '419594':
   bin: '419594'
   brand: VISA

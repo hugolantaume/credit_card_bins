@@ -33,12 +33,12 @@
   bin: '589206'
   brand: MAESTRO
   type: DEBIT
-  category: STANDARD
-  issuer: ''
+  category: ''
+  issuer: SAUDI INVESTMENT BANK
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '589210':
   bin: '589210'
   brand: MAESTRO

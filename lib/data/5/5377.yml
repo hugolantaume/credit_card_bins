@@ -672,13 +672,13 @@
 '537767':
   bin: '537767'
   brand: MASTERCARD
-  type: ''
+  type: DEBIT
   category: ''
-  issuer: ''
+  issuer: RIYAD BANK
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '537768':
   bin: '537768'
   brand: MASTERCARD

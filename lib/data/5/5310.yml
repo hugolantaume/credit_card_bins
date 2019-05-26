@@ -952,13 +952,13 @@
 '531095':
   bin: '531095'
   brand: MASTERCARD
-  type: ''
+  type: DEBIT
   category: ''
-  issuer: NORWEST BANK IOWA N.A.
+  issuer:
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '531096':
   bin: '531096'
   brand: MASTERCARD

@@ -312,13 +312,13 @@
 '428331':
   bin: '428331'
   brand: VISA
-  type: ''
+  type: DEBIT
   category: ''
-  issuer: ''
+  issuer: SAUDI BRITISH BANK
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '428332':
   bin: '428332'
   brand: VISA

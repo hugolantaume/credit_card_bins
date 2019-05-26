@@ -942,33 +942,33 @@
 '486094':
   bin: '486094'
   brand: VISA
-  type: ''
+  type: DEBIT
   category: ''
-  issuer: ''
+  issuer: Arab National Bank
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '486095':
   bin: '486095'
   brand: VISA
-  type: ''
+  type: DEBIT
   category: ''
-  issuer: ''
+  issuer: Arab National Bank
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '486096':
   bin: '486096'
   brand: VISA
-  type: ''
+  type: DEBIT
   category: ''
-  issuer: ''
+  issuer: Arab National Bank
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '486097':
   bin: '486097'
   brand: VISA

@@ -9,6 +9,16 @@
     alpha_2: US
     alpha_3: USA
     name: United States
+'604906':
+  bin: '604906'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: NATIONAL BANK OF BAHRAIN
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '604913':
   bin: '604913'
   brand: MAESTRO

@@ -329,6 +329,16 @@
     alpha_2: US
     alpha_3: USA
     name: United States
+'508160':
+  bin: '508160'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ''
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '508161':
   bin: '508161'
   brand: MAESTRO

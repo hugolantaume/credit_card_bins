@@ -62,13 +62,13 @@
 '530906':
   bin: '530906'
   brand: MASTERCARD
-  type: ''
+  type: DEBIT
   category: ''
-  issuer: TRAVELERS BANK AND TRUST, F.S.B.
+  issuer:
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '530907':
   bin: '530907'
   brand: MASTERCARD
