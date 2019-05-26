@@ -943,8 +943,8 @@
   bin: '486094'
   brand: VISA
   type: DEBIT
-  category: ''
-  issuer: Arab National Bank
+  category: GOLD
+  issuer: ARAB NATIONAL BANK
   country:
     alpha_2: SA
     alpha_3: SAU
@@ -954,7 +954,7 @@
   brand: VISA
   type: DEBIT
   category: ''
-  issuer: Arab National Bank
+  issuer: ARAB NATIONAL BANK
   country:
     alpha_2: SA
     alpha_3: SAU
@@ -964,7 +964,7 @@
   brand: VISA
   type: DEBIT
   category: ''
-  issuer: Arab National Bank
+  issuer: ARAB NATIONAL BANK
   country:
     alpha_2: SA
     alpha_3: SAU
