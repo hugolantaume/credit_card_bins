@@ -152,9 +152,9 @@
 '529415':
   bin: '529415'
   brand: MASTERCARD
-  type: ''
+  type: DEBIT
   category: ''
-  issuer: ''
+  issuer: NATIONAL COMMERCIAL BANK
   country:
     alpha_2: SA
     alpha_3: SAU
