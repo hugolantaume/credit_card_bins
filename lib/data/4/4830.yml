@@ -102,33 +102,33 @@
 '483010':
   bin: '483010'
   brand: VISA
-  type: ''
+  type: DEBIT
   category: ''
-  issuer: ''
+  issuer: SAUDI INVESTMENT BANK
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '483011':
   bin: '483011'
   brand: VISA
-  type: ''
+  type: DEBIT
   category: ''
-  issuer: ''
+  issuer: SAUDI INVESTMENT BANK
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '483012':
   bin: '483012'
   brand: VISA
-  type: ''
+  type: DEBIT
   category: ''
-  issuer: ''
+  issuer: SAUDI INVESTMENT BANK
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '483013':
   bin: '483013'
   brand: VISA

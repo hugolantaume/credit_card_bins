@@ -802,13 +802,13 @@
 '554180':
   bin: '554180'
   brand: MASTERCARD
-  type: ''
+  type: DEBIT
   category: ''
-  issuer: ''
+  issuer: NATIONAL COMMERCIAL BANK
   country:
-    alpha_2: ES
-    alpha_3: ESP
-    name: Spain
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '554181':
   bin: '554181'
   brand: MASTERCARD

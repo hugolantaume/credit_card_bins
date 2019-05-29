@@ -132,13 +132,13 @@
 '532013':
   bin: '532013'
   brand: MASTERCARD
-  type: ''
+  type: DEBIT
   category: ''
   issuer: ''
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '532014':
   bin: '532014'
   brand: MASTERCARD

@@ -152,13 +152,13 @@
 '529415':
   bin: '529415'
   brand: MASTERCARD
-  type: ''
+  type: DEBIT
   category: ''
-  issuer: ''
+  issuer: NATIONAL COMMERCIAL BANK
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '529416':
   bin: '529416'
   brand: MASTERCARD

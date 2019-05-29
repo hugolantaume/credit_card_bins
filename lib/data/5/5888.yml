@@ -199,26 +199,66 @@
     alpha_2: TR
     alpha_3: TUR
     name: Turkey
+'588845':
+  bin: '588845'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ALBANK ALSAUDI ALFRANSI
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'588846':
+  bin: '588846'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: ALBANK ALAWWAL
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'588847':
+  bin: '588847'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: AL RAJHI BANKING AND INVESTMENT CORP.
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
+'588848':
+  bin: '588848'
+  brand: MAESTRO
+  type: DEBIT
+  category: ''
+  issuer: Arab National Bank
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '588849':
   bin: '588849'
   brand: MAESTRO
   type: DEBIT
-  category: STANDARD
-  issuer: ''
+  category:
+  issuer: RIYAD BANK
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabi
 '588850':
   bin: '588850'
   brand: MAESTRO
   type: DEBIT
   category: STANDARD
-  issuer: ''
+  issuer: NATIONAL COMMERCIAL BANK
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '588851':
   bin: '588851'
   brand: MAESTRO

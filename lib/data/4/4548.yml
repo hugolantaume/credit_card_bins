@@ -72,13 +72,13 @@
 '454807':
   bin: '454807'
   brand: VISA
-  type: ''
+  type: PLATINUM
   category: ''
-  issuer: ''
+  issuer: ALINMA BANK
   country:
-    alpha_2: CA
-    alpha_3: CAN
-    name: Canada
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '454808':
   bin: '454808'
   brand: VISA

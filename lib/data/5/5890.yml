@@ -29,6 +29,16 @@
     alpha_2: TR
     alpha_3: TUR
     name: Turkey
+'589005':
+  bin: '589005'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer:
+  country:
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '589006':
   bin: '589006'
   brand: MAESTRO

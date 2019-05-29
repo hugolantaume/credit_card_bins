@@ -572,13 +572,13 @@
 '543357':
   bin: '543357'
   brand: MASTERCARD
-  type: ''
+  type: DEBIT
   category: ''
-  issuer: ABN AMRO BANK, N.V.
+  issuer: ALINMA BANK
   country:
-    alpha_2: CW
-    alpha_3: CUW
-    name: Curaçao
+    alpha_2: SA
+    alpha_3: SAU
+    name: Saudi Arabia
 '543358':
   bin: '543358'
   brand: MASTERCARD
